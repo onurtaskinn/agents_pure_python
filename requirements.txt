@@ -1,0 +1,13 @@
+requests
+python-dotenv
+openai
+pydantic
+
+jupyter
+ipykernel
+
+
+instructor
+anthropic
+
+streamlit
