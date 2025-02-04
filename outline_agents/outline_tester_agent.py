@@ -4,7 +4,8 @@ import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from system_messages import outline_tester_system_message
+from openai import OpenAI
+from prompts import outline_tester_system_message
 
 load_dotenv()
 
@@ -23,8 +24,8 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
         return TestResultOutline(validation_feedback=result_of_test , tested_outline=previous_outline)
     
 
-    anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
-    client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
+    openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    client = instructor.from_openai(client=openai_client, mode=instructor.Mode.JSON)
 
     previous_outline_text = '\n'.join(
         f"{i+1}. {slide.slide_title}\n   Focus: {slide.slide_focus}"
@@ -40,7 +41,8 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
     )
 
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20240620",
+        # model="o3-mini-2025-01-31",
+        model = "o1-2024-12-17",
         messages=[
             {
                 "role": "system",
@@ -52,8 +54,6 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
             }
         ],
         response_model=ValidationAndFeedback,
-        temperature=0.7,
-        max_tokens=8192,
         top_p=1,
     )
 

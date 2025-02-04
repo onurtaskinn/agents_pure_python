@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from system_messages import initial_outline_generator_system_message
+from prompts import initial_outline_generator_system_message
 
 load_dotenv()
 

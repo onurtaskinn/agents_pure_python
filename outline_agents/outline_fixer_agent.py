@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from system_messages import outline_fixer_system_message
+from prompts import outline_fixer_system_message
 
 load_dotenv()
 
