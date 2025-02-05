@@ -1,0 +1,380 @@
+{
+   "timestamp": "20250205021023",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Ege'nin g\u00fczellikleri",
+            "slide_count": 3
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve alt\u0131n kumsallar\u0131 benzersiz bir manzara sunar.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin Zengin Miras\u0131: Ge\u00e7mi\u015ften Gelece\u011fe",
+                  "slide_focus": "Antik kentlerden yerel mutfa\u011fa, Ege b\u00f6lgesi binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi bug\u00fcne ta\u015f\u0131maktad\u0131r.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "Your outline lacks a dedicated conclusion slide, which is a critical requirement and causes the outline to fail. Ensure you include a closing slide to summarize key insights and provide a clear ending. Overall, the topic progression and focus statements are coherent, but the missing conclusion lowers both structure and overall quality.",
+               "score": 60
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve alt\u0131n kumsallar\u0131 benzersiz bir manzara sunar.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin Zengin Miras\u0131: Ge\u00e7mi\u015ften Gelece\u011fe",
+                     "slide_focus": "Antik kentlerden yerel mutfa\u011fa, Ege b\u00f6lgesi binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi bug\u00fcne ta\u015f\u0131maktad\u0131r.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_1",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve alt\u0131n kumsallar\u0131 benzersiz bir manzara sunar.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin Zengin Miras\u0131: Ge\u00e7mi\u015ften Gelece\u011fe",
+                  "slide_focus": "Antik kentlerden yerel mutfa\u011fa, Ege b\u00f6lgesi binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi bug\u00fcne ta\u015f\u0131maktad\u0131r.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                  "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                  "slide_number": 4
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_1",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "There are 4 slides in the previous outline, but the user has requested 3 slides. Therefore remove 1 slides",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve alt\u0131n kumsallar\u0131 benzersiz bir manzara sunar.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin Zengin Miras\u0131: Ge\u00e7mi\u015ften Gelece\u011fe",
+                     "slide_focus": "Antik kentlerden yerel mutfa\u011fa, Ege b\u00f6lgesi binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi bug\u00fcne ta\u015f\u0131maktad\u0131r.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                     "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                     "slide_number": 4
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_2",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                  "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_2",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "The outline is missing a clear conclusion slide, which is a critical requirement. Please add a slide summing up the main points and providing a final takeaway or call to action to ensure your presentation has a strong finish.",
+               "score": 65
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                     "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_3",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                  "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "Ege'nin e\u015fsiz g\u00fczellikleri sizi bekliyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in harekete ge\u00e7in ve unutulmaz an\u0131lar biriktirin.",
+                  "slide_number": 4
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_3",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "There are 4 slides in the previous outline, but the user has requested 3 slides. Therefore remove 1 slides",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Ke\u015ffedilmeyi Bekleyen Bir Cennet",
+                     "slide_focus": "Ege'nin e\u015fsiz do\u011fas\u0131, zengin tarihi ve k\u00fclt\u00fcrel miras\u0131, ziyaret\u00e7ilere unutulmaz deneyimler sunar ve ke\u015ffedilmeyi bekler.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "Ege'nin e\u015fsiz g\u00fczellikleri sizi bekliyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in harekete ge\u00e7in ve unutulmaz an\u0131lar biriktirin.",
+                     "slide_number": 4
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_4",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "Ege'nin e\u015fsiz g\u00fczellikleri ve zengin miras\u0131 sizi bekliyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in harekete ge\u00e7in ve unutulmaz an\u0131lar biriktirin.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_4",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Harika bir giri\u015f ve sonu\u00e7 sunulmu\u015f, slaytlar tek ana konsepte odaklan\u0131yor ve net bir ak\u0131\u015f sa\u011flan\u0131yor. \u0130\u00e7erik olduk\u00e7a k\u0131sa olsa da odak noktalar\u0131 belirgin ve te\u015fvik edici. Zengin \u00f6rnekler (turkuaz koylar, antik kentler) dikkat \u00e7ekiyor ve sunumun s\u00fcresi de y\u00f6netilebilir g\u00f6r\u00fcn\u00fcyor. Genel olarak g\u00fc\u00e7l\u00fc bir iskelet sunuyor.",
+               "score": 90
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "Ege'nin e\u015fsiz g\u00fczellikleri ve zengin miras\u0131 sizi bekliyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in harekete ge\u00e7in ve unutulmaz an\u0131lar biriktirin.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h1>Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz</h1><ul><li>Do\u011fan\u0131n Zenginli\u011fi</li><li>K\u00fclt\u00fcrel Miras</li><li>E\u015fsiz Bir Co\u011frafi G\u00fczellik</li></ul>",
+            "slide_voiceover_text": "Sevgili konuklar, Ege b\u00f6lgesi T\u00fcrkiye'nin en nadide hazinelerinden biridir. Burada do\u011fal g\u00fczellikler ve binlerce y\u0131ll\u0131k k\u00fclt\u00fcrel miras i\u00e7 i\u00e7e ge\u00e7mi\u015f, benzersiz bir co\u011frafya ile kar\u015f\u0131n\u0131zday\u0131z. Her k\u00f6\u015fesi ayr\u0131 bir hikaye, her manzaras\u0131 ayr\u0131 bir \u015fiir olan bu topraklar, size unutulmaz bir yolculuk vadediyor.",
+            "slide_image_prompt": "A breathtaking panoramic landscape of the Aegean region at golden hour, showcasing a harmonious blend of azure blue coastline, lush green olive groves, ancient stone ruins in the distance, and traditional Turkish architecture. The scene should capture the region's natural beauty and cultural richness with a soft, warm lighting that highlights the landscape's depth and texture. Use a realistic painting style with vibrant yet natural colors that evoke a sense of wonder and discovery."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The content demonstrates excellent coherence and quality. The onscreen text, voiceover, and image prompt are well-aligned, presenting a clear and engaging introduction to the Aegean region. The slide effectively balances concise onscreen text with a more detailed voiceover, providing a comprehensive overview. The image prompt is particularly strong, vividly describing a scene that encapsulates the region's natural beauty and cultural richness. To further enhance the content, consider adding a brief mention of specific locations or attractions in the voiceover to provide more concrete examples of the region's appeal. Additionally, the onscreen text could potentially include a fourth bullet point to match the 'unutulmaz bir yolculuk' (unforgettable journey) mentioned in the voiceover, tying the visual elements more closely to the spoken content.",
+            "score": 98
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras</h2><ul><li>Turkuaz Koylar: Do\u011fan\u0131n Muhte\u015fem Paleti</li><li>Zeytin Bah\u00e7eleri: Bereket ve Tarih</li><li>Antik Kentler: Binlerce Y\u0131ll\u0131k K\u00fclt\u00fcrel Miras</li></ul>",
+            "slide_voiceover_text": "Ege b\u00f6lgesi, do\u011fan\u0131n ve tarihin muhte\u015fem bir senfonisini sunar. Turkuaz renkleriyle b\u00fcy\u00fcleyen koylar, binlerce y\u0131ll\u0131k zeytin a\u011fa\u00e7lar\u0131yla s\u00fcsl\u00fc tepeler ve katmanlar halinde birikmi\u015f antik kentler, bu b\u00f6lgenin e\u015fsiz g\u00fczelli\u011fini ve zengin miras\u0131n\u0131 yans\u0131t\u0131r. Her k\u00f6\u015fesi bir hikaye, her manzaras\u0131 bir resim gibidir Ege'nin.",
+            "slide_image_prompt": "A panoramic landscape of the Aegean region showcasing a breathtaking view with turquoise blue sea coves in the foreground, rolling hills covered in ancient olive groves in the midground, and historic ruins of an ancient Greek or Roman city in the background. Use a warm, golden-hour lighting that highlights the rich colors and textures. Painterly style with soft edges and rich, saturated colors that capture the magical essence of the Aegean landscape. Detailed and realistic, but with an artistic, slightly impressionistic feel that emphasizes the natural beauty and historical depth of the region."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly, presenting a clear and engaging message about the Aegean region's natural beauty and rich heritage. The content is well-structured, with the onscreen text providing concise bullet points that are expanded upon in the voiceover. The image prompt is highly detailed and relevant, capturing the essence of the described scenery. To further enhance the content, consider adding a brief mention of a specific ancient city or landmark in the voiceover to provide a concrete example of the region's historical significance.",
+            "score": 98
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin</h2><ul><li>Benzersiz Do\u011fal G\u00fczellikler</li><li>Zengin K\u00fclt\u00fcrel Miras</li><li>Ke\u015ffedilmeyi Bekleyen Bir Cennet</li><li>Harekete Ge\u00e7, An\u0131lar\u0131n\u0131 Biriktir!</li></ul>",
+            "slide_voiceover_text": "Sevgili gezginler, Ege b\u00f6lgesi size e\u015fsiz bir yolculuk vadediyor. Tarih, do\u011fa ve k\u00fclt\u00fcr\u00fcn muhte\u015fem bir sentezi olan bu b\u00f6lge, her k\u00f6\u015fesinde ke\u015ffedilecek harika s\u00fcrprizlerle dolu. Antik kentlerden turkuaz koylar\u0131na, zeytinliklerden tarihi yollara kadar, Ege sizi unutulmaz bir maceraya davet ediyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in \u015fimdi harekete ge\u00e7in ve hayat\u0131n\u0131z\u0131n en g\u00fczel an\u0131lar\u0131n\u0131 biriktirin!",
+            "slide_image_prompt": "A breathtaking panoramic landscape of the Aegean region at golden hour, showcasing a blend of azure sea, ancient ruins, olive groves, and rolling hills. The scene should capture the magical essence of the region with warm, inviting colors. Use a photorealistic style with rich, saturated colors that highlight the natural beauty and cultural richness of the Aegean. Include a winding path in the foreground suggesting exploration and adventure, with soft, dramatic lighting that creates a sense of wonder and invitation."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent, demonstrating strong coherence between onscreen text, voiceover, and image prompt. The message is clear and compelling, inviting viewers to explore the Aegean region. The onscreen text is concise and well-structured, while the voiceover provides more detailed information, creating a good balance. The image prompt effectively complements the textual content, promising a visually stunning representation of the Aegean's beauty. To further enhance the content, consider adding a specific call-to-action in the onscreen text, such as 'Plan Your Aegean Adventure Today!' This would reinforce the invitation to take action mentioned in the voiceover.",
+            "score": 98
+         }
+      }
+   ],
+   "final_outline": {
+      "presentation_title": "Ege'nin G\u00fczellikleri: Bir Cennet Ke\u015ffi",
+      "slide_outlines": [
+         {
+            "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+            "slide_focus": "Ege b\u00f6lgesi, T\u00fcrkiye'nin en \u00e7ekici do\u011fal g\u00fczellikleri ve zengin k\u00fclt\u00fcrel miras\u0131na sahip b\u00f6lgelerinden biridir.",
+            "slide_number": 1
+         },
+         {
+            "slide_title": "E\u015fsiz Do\u011fal G\u00fczellikler ve Zengin Miras",
+            "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7l\u0131 tepeleri ve antik kentleri, binlerce y\u0131ll\u0131k bir k\u00fclt\u00fcrel zenginli\u011fi yans\u0131t\u0131r.",
+            "slide_number": 2
+         },
+         {
+            "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcs\u00fcn\u00fc Ke\u015ffedin",
+            "slide_focus": "Ege'nin e\u015fsiz g\u00fczellikleri ve zengin miras\u0131 sizi bekliyor. Bu cennet k\u00f6\u015fesini ke\u015ffetmek i\u00e7in harekete ge\u00e7in ve unutulmaz an\u0131lar biriktirin.",
+            "slide_number": 3
+         }
+      ]
+   },
+   "final_content_slide_1": {
+      "is_valid": true,
+      "feedback": "The content demonstrates excellent coherence and quality. The onscreen text, voiceover, and image prompt are well-aligned, presenting a clear and engaging introduction to the Aegean region. The slide effectively balances concise onscreen text with a more detailed voiceover, providing a comprehensive overview. The image prompt is particularly strong, vividly describing a scene that encapsulates the region's natural beauty and cultural richness. To further enhance the content, consider adding a brief mention of specific locations or attractions in the voiceover to provide more concrete examples of the region's appeal. Additionally, the onscreen text could potentially include a fourth bullet point to match the 'unutulmaz bir yolculuk' (unforgettable journey) mentioned in the voiceover, tying the visual elements more closely to the spoken content.",
+      "score": 98
+   },
+   "final_content_slide_2": {
+      "is_valid": true,
+      "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly, presenting a clear and engaging message about the Aegean region's natural beauty and rich heritage. The content is well-structured, with the onscreen text providing concise bullet points that are expanded upon in the voiceover. The image prompt is highly detailed and relevant, capturing the essence of the described scenery. To further enhance the content, consider adding a brief mention of a specific ancient city or landmark in the voiceover to provide a concrete example of the region's historical significance.",
+      "score": 98
+   },
+   "final_content_slide_3": {
+      "is_valid": true,
+      "feedback": "The slide content is excellent, demonstrating strong coherence between onscreen text, voiceover, and image prompt. The message is clear and compelling, inviting viewers to explore the Aegean region. The onscreen text is concise and well-structured, while the voiceover provides more detailed information, creating a good balance. The image prompt effectively complements the textual content, promising a visually stunning representation of the Aegean's beauty. To further enhance the content, consider adding a specific call-to-action in the onscreen text, such as 'Plan Your Aegean Adventure Today!' This would reinforce the invitation to take action mentioned in the voiceover.",
+      "score": 98
+   }
+}

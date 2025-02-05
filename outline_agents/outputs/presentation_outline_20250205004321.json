@@ -1,0 +1,100 @@
+{
+   "timestamp": "20250205004321",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Ege'nin g\u00fczellikleri",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin \u0130ncisi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                  "slide_focus": "Ege b\u00f6lgesi, tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir."
+               },
+               {
+                  "slide_title": "Antik Zamanlar\u0131n \u0130zinde: Efes ve Bergama",
+                  "slide_focus": "Ege'nin antik kentleri, binlerce y\u0131ll\u0131k tarihi canl\u0131 tutarak ziyaret\u00e7ileri b\u00fcy\u00fclemektedir."
+               },
+               {
+                  "slide_title": "Masmavi Koylar ve Alt\u0131n Kumlu Plajlar",
+                  "slide_focus": "Ege'nin e\u015fsiz k\u0131y\u0131 \u015feridi, turkuaz sular\u0131 ve muhte\u015fem plajlar\u0131yla d\u00fcnyaca \u00fcnl\u00fcd\u00fcr."
+               },
+               {
+                  "slide_title": "Lezzet Yolculu\u011fu: Ege Mutfa\u011f\u0131",
+                  "slide_focus": "Zeytinya\u011fl\u0131 yemekler, taze deniz \u00fcr\u00fcnleri ve otlar, Ege mutfa\u011f\u0131n\u0131 benzersiz k\u0131lmaktad\u0131r."
+               },
+               {
+                  "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin",
+                  "slide_focus": "Ege, tarih, do\u011fa ve k\u00fclt\u00fcr\u00fcn harmanland\u0131\u011f\u0131 e\u015fsiz bir deneyim sunarak her ziyaret\u00e7iyi b\u00fcy\u00fclemektedir."
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Bu sunum, giri\u015fin (Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz) ve toparlay\u0131c\u0131 biti\u015fin (Ege'nin G\u00fczelliklerini Ke\u015ffedin) net \u015fekilde verildi\u011fi, her slaytta tek bir odak konusu bulundu\u011fu, i\u00e7eriklerin tekrars\u0131z ve mant\u0131kl\u0131 ak\u0131\u015f i\u00e7inde sunuldu\u011fu g\u00fc\u00e7l\u00fc bir yap\u0131ya sahip. Antik kentler, plajlar ve mutfak gibi temalar\u0131n s\u0131ra d\u0131\u015f\u0131 \u00f6rneklerle anlat\u0131lmas\u0131; sunuma ilgi \u00e7ekici ve dengeli bir i\u00e7erik kat\u0131yor. Zaman planlamas\u0131 ve izleyiciye uygunluk da iyi g\u00f6z\u00fck\u00fcyor. Genel olarak olduk\u00e7a ba\u015far\u0131l\u0131 bir taslak.",
+               "score": 93
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin \u0130ncisi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+                     "slide_focus": "Ege b\u00f6lgesi, tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir."
+                  },
+                  {
+                     "slide_title": "Antik Zamanlar\u0131n \u0130zinde: Efes ve Bergama",
+                     "slide_focus": "Ege'nin antik kentleri, binlerce y\u0131ll\u0131k tarihi canl\u0131 tutarak ziyaret\u00e7ileri b\u00fcy\u00fclemektedir."
+                  },
+                  {
+                     "slide_title": "Masmavi Koylar ve Alt\u0131n Kumlu Plajlar",
+                     "slide_focus": "Ege'nin e\u015fsiz k\u0131y\u0131 \u015feridi, turkuaz sular\u0131 ve muhte\u015fem plajlar\u0131yla d\u00fcnyaca \u00fcnl\u00fcd\u00fcr."
+                  },
+                  {
+                     "slide_title": "Lezzet Yolculu\u011fu: Ege Mutfa\u011f\u0131",
+                     "slide_focus": "Zeytinya\u011fl\u0131 yemekler, taze deniz \u00fcr\u00fcnleri ve otlar, Ege mutfa\u011f\u0131n\u0131 benzersiz k\u0131lmaktad\u0131r."
+                  },
+                  {
+                     "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin",
+                     "slide_focus": "Ege, tarih, do\u011fa ve k\u00fclt\u00fcr\u00fcn harmanland\u0131\u011f\u0131 e\u015fsiz bir deneyim sunarak her ziyaret\u00e7iyi b\u00fcy\u00fclemektedir."
+                  }
+               ]
+            }
+         }
+      }
+   ],
+   "final_outline": {
+      "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin \u0130ncisi",
+      "slide_outlines": [
+         {
+            "slide_title": "Ege'nin B\u00fcy\u00fcleyici D\u00fcnyas\u0131na Ho\u015f Geldiniz",
+            "slide_focus": "Ege b\u00f6lgesi, tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir."
+         },
+         {
+            "slide_title": "Antik Zamanlar\u0131n \u0130zinde: Efes ve Bergama",
+            "slide_focus": "Ege'nin antik kentleri, binlerce y\u0131ll\u0131k tarihi canl\u0131 tutarak ziyaret\u00e7ileri b\u00fcy\u00fclemektedir."
+         },
+         {
+            "slide_title": "Masmavi Koylar ve Alt\u0131n Kumlu Plajlar",
+            "slide_focus": "Ege'nin e\u015fsiz k\u0131y\u0131 \u015feridi, turkuaz sular\u0131 ve muhte\u015fem plajlar\u0131yla d\u00fcnyaca \u00fcnl\u00fcd\u00fcr."
+         },
+         {
+            "slide_title": "Lezzet Yolculu\u011fu: Ege Mutfa\u011f\u0131",
+            "slide_focus": "Zeytinya\u011fl\u0131 yemekler, taze deniz \u00fcr\u00fcnleri ve otlar, Ege mutfa\u011f\u0131n\u0131 benzersiz k\u0131lmaktad\u0131r."
+         },
+         {
+            "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin",
+            "slide_focus": "Ege, tarih, do\u011fa ve k\u00fclt\u00fcr\u00fcn harmanland\u0131\u011f\u0131 e\u015fsiz bir deneyim sunarak her ziyaret\u00e7iyi b\u00fcy\u00fclemektedir."
+         }
+      ]
+   }
+}

@@ -1,0 +1,100 @@
+{
+   "timestamp": "20250204195426",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Ege'nin g\u00fczellikleri",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin Cennet K\u00f6\u015fesi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: Tarih ve Do\u011fan\u0131n Bulu\u015fma Noktas\u0131",
+                  "slide_focus": "Ege B\u00f6lgesi, antik medeniyetlerin izleri ve e\u015fsiz do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici b\u00f6lgelerinden biridir."
+               },
+               {
+                  "slide_title": "Antik Kentler: Ge\u00e7mi\u015fin \u0130hti\u015fam\u0131na Yolculuk",
+                  "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer."
+               },
+               {
+                  "slide_title": "Turkuaz Koylar ve Alt\u0131n Kumlu Plajlar",
+                  "slide_focus": "Ege'nin berrak sular\u0131 ve muhte\u015fem plajlar\u0131, ziyaret\u00e7ilere unutulmaz bir deniz tatili deneyimi sunar."
+               },
+               {
+                  "slide_title": "Lezzetli Ege Mutfa\u011f\u0131: Zeytinya\u011fl\u0131lar ve Deniz \u00dcr\u00fcnleri",
+                  "slide_focus": "Ege mutfa\u011f\u0131, taze sebzeler, zeytinya\u011f\u0131 ve deniz \u00fcr\u00fcnleriyle sa\u011fl\u0131kl\u0131 ve lezzetli bir gastronomi deneyimi vadeder."
+               },
+               {
+                  "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin: Unutulmaz An\u0131lar Sizi Bekliyor",
+                  "slide_focus": "Ege'nin tarihi, do\u011fas\u0131, plajlar\u0131 ve mutfa\u011f\u0131yla benzersiz bir tatil deneyimi ya\u015fay\u0131n ve unutulmaz an\u0131larla d\u00f6n\u00fcn."
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Excellent structure with a clear introduction (Slide 1) and conclusion (Slide 5). Each slide focuses on a single, well-defined concept, providing a logical progression from history and nature to cuisine, concluding with a call to action. Content is balanced, engaging, and includes specific examples like Efes and Bergama. The outline is practical, likely manageable within typical presentation timeframes, and is appropriately targeted. Overall, it successfully meets all expected criteria.",
+               "score": 94
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin Cennet K\u00f6\u015fesi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: Tarih ve Do\u011fan\u0131n Bulu\u015fma Noktas\u0131",
+                     "slide_focus": "Ege B\u00f6lgesi, antik medeniyetlerin izleri ve e\u015fsiz do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici b\u00f6lgelerinden biridir."
+                  },
+                  {
+                     "slide_title": "Antik Kentler: Ge\u00e7mi\u015fin \u0130hti\u015fam\u0131na Yolculuk",
+                     "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer."
+                  },
+                  {
+                     "slide_title": "Turkuaz Koylar ve Alt\u0131n Kumlu Plajlar",
+                     "slide_focus": "Ege'nin berrak sular\u0131 ve muhte\u015fem plajlar\u0131, ziyaret\u00e7ilere unutulmaz bir deniz tatili deneyimi sunar."
+                  },
+                  {
+                     "slide_title": "Lezzetli Ege Mutfa\u011f\u0131: Zeytinya\u011fl\u0131lar ve Deniz \u00dcr\u00fcnleri",
+                     "slide_focus": "Ege mutfa\u011f\u0131, taze sebzeler, zeytinya\u011f\u0131 ve deniz \u00fcr\u00fcnleriyle sa\u011fl\u0131kl\u0131 ve lezzetli bir gastronomi deneyimi vadeder."
+                  },
+                  {
+                     "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin: Unutulmaz An\u0131lar Sizi Bekliyor",
+                     "slide_focus": "Ege'nin tarihi, do\u011fas\u0131, plajlar\u0131 ve mutfa\u011f\u0131yla benzersiz bir tatil deneyimi ya\u015fay\u0131n ve unutulmaz an\u0131larla d\u00f6n\u00fcn."
+                  }
+               ]
+            }
+         }
+      }
+   ],
+   "final_outline": {
+      "presentation_title": "Ege'nin G\u00fczellikleri: T\u00fcrkiye'nin Cennet K\u00f6\u015fesi",
+      "slide_outlines": [
+         {
+            "slide_title": "Ege B\u00f6lgesi: Tarih ve Do\u011fan\u0131n Bulu\u015fma Noktas\u0131",
+            "slide_focus": "Ege B\u00f6lgesi, antik medeniyetlerin izleri ve e\u015fsiz do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici b\u00f6lgelerinden biridir."
+         },
+         {
+            "slide_title": "Antik Kentler: Ge\u00e7mi\u015fin \u0130hti\u015fam\u0131na Yolculuk",
+            "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer."
+         },
+         {
+            "slide_title": "Turkuaz Koylar ve Alt\u0131n Kumlu Plajlar",
+            "slide_focus": "Ege'nin berrak sular\u0131 ve muhte\u015fem plajlar\u0131, ziyaret\u00e7ilere unutulmaz bir deniz tatili deneyimi sunar."
+         },
+         {
+            "slide_title": "Lezzetli Ege Mutfa\u011f\u0131: Zeytinya\u011fl\u0131lar ve Deniz \u00dcr\u00fcnleri",
+            "slide_focus": "Ege mutfa\u011f\u0131, taze sebzeler, zeytinya\u011f\u0131 ve deniz \u00fcr\u00fcnleriyle sa\u011fl\u0131kl\u0131 ve lezzetli bir gastronomi deneyimi vadeder."
+         },
+         {
+            "slide_title": "Ege'nin G\u00fczelliklerini Ke\u015ffedin: Unutulmaz An\u0131lar Sizi Bekliyor",
+            "slide_focus": "Ege'nin tarihi, do\u011fas\u0131, plajlar\u0131 ve mutfa\u011f\u0131yla benzersiz bir tatil deneyimi ya\u015fay\u0131n ve unutulmaz an\u0131larla d\u00f6n\u00fcn."
+         }
+      ]
+   }
+}

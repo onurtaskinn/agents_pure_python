@@ -1,0 +1,3 @@
+o1 / o3 mini
+
+async/ fastapi

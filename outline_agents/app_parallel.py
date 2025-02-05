@@ -1,4 +1,4 @@
-import streamlit as st
+from concurrent.futures import ThreadPoolExecutor
 from topic_count_agent import call_topic_count_agent
 from outline_initial_generator_agent import call_outline_initial_generator_agent
 from outline_tester_agent import call_outline_tester_agent
@@ -7,6 +7,48 @@ from content_initial_generator_agent import call_content_initial_generator_agent
 from content_tester_agent import call_content_tester_agent
 from content_fixer_agent import call_content_fixer_agent
 import json
+import streamlit as st
+
+
+def process_slide_content(presentation_title, slide_outline, slide_index):
+    """Process single slide content generation with error handling"""
+    result = {
+        'index': slide_index,
+        'steps': [],
+        'final_content': None,
+        'iterations': 0
+    }
+    
+    try:
+        # Initial content
+        initial_content = call_content_initial_generator_agent(presentation_title, slide_outline)
+        result['steps'].append(('initial', initial_content, None))
+        
+        # Test content
+        test_result = call_content_tester_agent(presentation_title, slide_outline, initial_content)
+        result['steps'].append(('test', initial_content, test_result))
+        
+        # Fixing loop
+        iteration = 1
+        current_content = initial_content
+        while not test_result.is_valid and iteration <= 5:  # Max 5 iterations
+            fixed_content = call_content_fixer_agent(presentation_title, slide_outline, current_content, test_result)
+            test_result = call_content_tester_agent(presentation_title, slide_outline, fixed_content)
+            
+            result['steps'].append(('fix', fixed_content, test_result))
+            current_content = fixed_content
+            iteration += 1
+            
+            if test_result.is_valid:
+                break
+                
+        result['final_content'] = current_content
+        result['iterations'] = iteration
+        
+    except Exception as e:
+        result['error'] = str(e)
+        
+    return result
 
 st.set_page_config(page_title="Presentation Generator", layout="wide")
 st.title("AI Presentation Generation Pipeline")
@@ -67,64 +109,51 @@ if st.button("Generate Presentation"):
                 
                 outline_fix_iteration += 1
 
+# In your main generation block after outline validation:
     st.success("🎉 Outline validation passed! Starting content generation...")
     presentation_title = tester_result.tested_outline.presentation_title
     st.header(f"Presentation: {presentation_title}")
-    
-    for idx, slide_outline in enumerate(tester_result.tested_outline.slide_outlines):
-        # Changed from expander to container with border
-        slide_container = st.container(border=True)
-        with slide_container:
-            st.subheader(f"🚩 Slide {idx+1}: {slide_outline.slide_title}")
-            
-            # Initial content generation
-            with st.status(f"📄 Generating content for Slide {idx+1}...") as status:
-                initial_content = call_content_initial_generator_agent(presentation_title, slide_outline)
-                st.write("### Initial Content")
-                st.json(initial_content.model_dump())
-                status.update(label="Initial content generated", state="complete")
-            
-            # Content testing
-            with st.status(f"🧪 Testing content for Slide {idx+1}...") as status:
-                content_test_result = call_content_tester_agent(presentation_title, slide_outline, initial_content)
-                st.write("### Content Test Results")
-                st.json(content_test_result.model_dump())
-                
-                if content_test_result.is_valid:
-                    status.update(label="Content validation passed!", state="complete")
-                else:
-                    status.update(label="Content needs fixes!", state="error")
-                    st.error(f"Validation Failed: {content_test_result.feedback}")
 
-            # Content fixing loop
-            if not content_test_result.is_valid:
-                content_fix_iteration = 1
-                previous_content = initial_content
-                while not content_test_result.is_valid:
-                    with st.status(f"🔧 Fixing content - Iteration {content_fix_iteration}...") as status:
-                        st.write(f"### Fixing Round {content_fix_iteration}")
-                        fixed_content = call_content_fixer_agent(
-                            presentation_title, slide_outline, previous_content, content_test_result
-                        )
-                        content_test_result = call_content_tester_agent(
-                            presentation_title, slide_outline, fixed_content
-                        )
-                        
-                        st.write("**Fixed Content:**")
-                        st.json(fixed_content.model_dump())
-                        st.write("**Test Results:**")
-                        st.json(content_test_result.model_dump())
-                        
-                        if content_test_result.is_valid:
-                            status.update(label=f"Content fixed in {content_fix_iteration} iterations!", state="complete")
-                        else:
-                            st.error(f"Validation Failed: {content_test_result.feedback}")
-                            status.update(label=f"Re-testing after fix {content_fix_iteration}", state="error")
-                        
-                        previous_content = fixed_content
-                        content_fix_iteration += 1
+    with ThreadPoolExecutor() as executor:
+        # Submit all slides for processing
+        futures = []
+        for idx, slide_outline in enumerate(tester_result.tested_outline.slide_outlines):
+            futures.append(executor.submit(
+                process_slide_content,
+                presentation_title,
+                slide_outline,
+                idx
+            ))
+        
+        # Create progress bar
+        progress_bar = st.progress(0)
+        slides_processed = 0
+        total_slides = len(futures)
+        
+        # Display results as they complete
+        for future in futures:
+            result = future.result()
+            slides_processed += 1
+            progress_bar.progress(slides_processed / total_slides)
             
-            st.success(f"✅ Slide {idx+1} content finalized!")
+            # Display slide results
+            with st.container(border=True):
+                st.subheader(f"🚩 Slide {result['index']+1}: {tester_result.tested_outline.slide_outlines[result['index']].slide_title}")
+                
+                for step_type, content, test_result in result['steps']:
+                    with st.expander(f"{'🔄' if step_type == 'fix' else '📄'} {step_type.capitalize()} Content", expanded=True):
+                        st.json(content.model_dump())
+                        if test_result:
+                            st.write("**Test Results:**")
+                            st.json(test_result.model_dump())
+                            if not test_result.is_valid:
+                                st.error(f"Validation Failed: {test_result.feedback}")
+                
+                if result.get('error'):
+                    st.error(f"Processing failed: {result['error']}")
+                else:
+                    st.success(f"✅ Final content after {result['iterations']} iterations")
+                    st.json(result['final_content'].model_dump())
 
     st.balloons()
     st.success("🎉 Presentation generation completed successfully!")

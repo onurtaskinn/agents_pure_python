@@ -8,6 +8,9 @@ class TopicCount(BaseModel):
 class SlideOutline(BaseModel):
     slide_title:str = Field(description="Title of the slide")
     slide_focus:str = Field(description="Core information or message to be conveyed with this particular slide")
+    slide_number:int = Field(description="The number of the slide in the presentation")
+
+
 
 class PresentationOutline(BaseModel):
     presentation_title:str = Field(description="Title of the presentation")
@@ -23,10 +26,25 @@ class TestResultOutline(BaseModel):
     tested_outline:PresentationOutline = Field(description="The tested outline")
 
 
+
+
+
 class SlideContent(BaseModel):
     slide_onscreen_text:str = Field(description="The textual content with HTML markup that is shown on the slide")
     slide_voiceover_text:str = Field(description="The text for the voiceover of this particular slide")
     slide_image_prompt:str = Field(description="A detailed prompt text to generate an image for this particular slide. This is always in English regardless of the language of the presentation")
+
+class ValidationAndFeedbackContent(BaseModel):
+    is_valid:bool = Field(description="Whether the content is valid or not")
+    feedback:str = Field(description="Feedback on the content")
+    score:int = Field(description="The score of the content")
+
+class TestResultContent(BaseModel):
+    validation_feedback:ValidationAndFeedbackContent = Field(description="The result of the test")
+    tested_content:SlideContent = Field(description="The tested content")
+
+
+
 
 
 class SlideSavingTemplate(BaseModel):

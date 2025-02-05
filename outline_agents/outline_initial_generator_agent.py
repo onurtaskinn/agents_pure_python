@@ -6,12 +6,12 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import initial_outline_generator_system_message
+from prompts import outline_initial_generator_system_message
 
 load_dotenv()
 
 
-def call_initial_outline_generator_agent(topic_count: TopicCount) -> PresentationOutline:
+def call_outline_initial_generator_agent(topic_count: TopicCount) -> PresentationOutline:
     """Function to call the initial outline generator agent"""
 
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
@@ -23,7 +23,7 @@ def call_initial_outline_generator_agent(topic_count: TopicCount) -> Presentatio
         messages=[
             {
                 "role": "system",
-                "content": initial_outline_generator_system_message
+                "content": outline_initial_generator_system_message
             },
             {
                 "role": "user",
