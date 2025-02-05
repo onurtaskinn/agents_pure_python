@@ -1,0 +1,272 @@
+{
+    "timestamp": "20250205040044",
+    "process_steps": [
+        {
+            "step": "topic_count",
+            "data": {
+                "presentation_topic": "Ege'nin güzellikleri",
+                "slide_count": 5
+            }
+        },
+        {
+            "step": "initial_outline",
+            "data": {
+                "presentation_title": "Ege'nin Güzellikleri: Türkiye'nin İncisi",
+                "slide_outlines": [
+                    {
+                        "slide_title": "Ege Bölgesi: Tarih ve Doğanın Buluşma Noktası",
+                        "slide_focus": "Ege Bölgesi, antik medeniyetlerin izleri ve eşsiz doğal güzellikleriyle Türkiye'nin en çekici bölgelerinden biridir.",
+                        "slide_number": 1
+                    },
+                    {
+                        "slide_title": "Ege'nin Muhteşem Kıyıları",
+                        "slide_focus": "Ege'nin turkuaz suları ve altın kumlu plajları, dünyanın en güzel sahillerini oluşturur.",
+                        "slide_number": 2
+                    },
+                    {
+                        "slide_title": "Antik Kentler: Geçmişe Yolculuk",
+                        "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini gözler önüne serer.",
+                        "slide_number": 3
+                    },
+                    {
+                        "slide_title": "Ege Mutfağı: Lezzetin Doruk Noktası",
+                        "slide_focus": "Zeytinyağlı yemekler, taze deniz ürünleri ve otlar, Ege mutfağını Türkiye'nin en sağlıklı ve lezzetli mutfağı yapar.",
+                        "slide_number": 4
+                    },
+                    {
+                        "slide_title": "Ege'nin Büyüsü: Keşfedilmeyi Bekleyen Hazine",
+                        "slide_focus": "Ege Bölgesi, tarihi, doğası, kültürü ve mutfağıyla ziyaretçilerine unutulmaz deneyimler sunar ve keşfedilmeyi bekler.",
+                        "slide_number": 5
+                    }
+                ]
+            }
+        },
+        {
+            "step": "tester_result",
+            "data": {
+                "validation_feedback": {
+                    "is_valid": true,
+                    "feedback": "Sunum taslağı genel olarak iyi yapılandırılmıştır. İlk ve son slayt, giriş ve sonuç işlevlerini yerine getirerek net bir başlangıç ve kapanış sunmaktadır. Her slayt tek bir ana konuya odaklanmaktadır, ayrıca örnekler (Efes, Bergama, Troya) net şekilde kullanılmıştır. Yapıyı biraz daha güçlendirmek için giriş ve sonuca dair başlıkları daha göze çarpan biçimde eklemek veya dinleyici etkileşimi için kısa bir etkileşim segmentini belirtmek yararlı olabilir.",
+                    "score": 88
+                },
+                "tested_outline": {
+                    "presentation_title": "Ege'nin Güzellikleri: Türkiye'nin İncisi",
+                    "slide_outlines": [
+                        {
+                            "slide_title": "Ege Bölgesi: Tarih ve Doğanın Buluşma Noktası",
+                            "slide_focus": "Ege Bölgesi, antik medeniyetlerin izleri ve eşsiz doğal güzellikleriyle Türkiye'nin en çekici bölgelerinden biridir.",
+                            "slide_number": 1
+                        },
+                        {
+                            "slide_title": "Ege'nin Muhteşem Kıyıları",
+                            "slide_focus": "Ege'nin turkuaz suları ve altın kumlu plajları, dünyanın en güzel sahillerini oluşturur.",
+                            "slide_number": 2
+                        },
+                        {
+                            "slide_title": "Antik Kentler: Geçmişe Yolculuk",
+                            "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini gözler önüne serer.",
+                            "slide_number": 3
+                        },
+                        {
+                            "slide_title": "Ege Mutfağı: Lezzetin Doruk Noktası",
+                            "slide_focus": "Zeytinyağlı yemekler, taze deniz ürünleri ve otlar, Ege mutfağını Türkiye'nin en sağlıklı ve lezzetli mutfağı yapar.",
+                            "slide_number": 4
+                        },
+                        {
+                            "slide_title": "Ege'nin Büyüsü: Keşfedilmeyi Bekleyen Hazine",
+                            "slide_focus": "Ege Bölgesi, tarihi, doğası, kültürü ve mutfağıyla ziyaretçilerine unutulmaz deneyimler sunar ve keşfedilmeyi bekler.",
+                            "slide_number": 5
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "step": "initial_content_slide_1",
+            "data": {
+                "slide_onscreen_text": "<h2>Ege Bölgesi: Tarih ve Doğanın Buluşma Noktası</h2><ul><li>Antik Uygarlıkların Mirası</li><li>Eşsiz Doğal Güzellikler</li><li>Türkiye'nin Kültürel Hazinesi</li></ul>",
+                "slide_voiceover_text": "Ege Bölgesi, Türkiye'nin en büyüleyici bölgelerinden biridir. Burada tarih ve doğa muhteşem bir uyum içinde buluşur. Binlerce yıllık medeniyetlerin izlerini taşıyan antik kentler, zeytin ağaçlarıyla kaplı tepeler ve turkuaz Ege denizinin muhteşem kıyıları, bölgenin benzersiz karakterini oluşturur. Her köşesi ayrı bir hikaye, ayrı bir güzellik barındırır.",
+                "slide_image_prompt": "A panoramic landscape of the Aegean Region showcasing ancient Greek ruins in the foreground (like Ephesus), with olive groves and rolling hills in the mid-ground, and the turquoise Aegean Sea in the background. Use a warm, golden-hour lighting that highlights the rich historical and natural textures. Soft watercolor-like painting style with realistic details, emphasizing the harmonious blend of historical heritage and natural beauty. Soft focus on distant elements to create depth and mystique."
+            },
+            "slide": 1
+        },
+        {
+            "step": "tester_content_slide_1",
+            "data": {
+                "is_valid": true,
+                "feedback": "The content is excellent and well-aligned across all elements. The onscreen text, voiceover, and image prompt work together harmoniously to convey the key message about the Aegean Region's blend of history and natural beauty. The onscreen text provides a clear structure, the voiceover elaborates with rich details, and the image prompt perfectly captures the essence of the region. Minor suggestion: Consider adding a brief mention of a specific ancient city (e.g., Ephesus) in the voiceover to directly link with the image prompt.",
+                "score": 100
+            },
+            "slide": 1
+        },
+        {
+            "step": "initial_content_slide_2",
+            "data": {
+                "slide_onscreen_text": "Ege'nin Muhteşem Kıyıları: Doğanın Eşsiz Güzelliği",
+                "slide_voiceover_text": "Türkiye'nin batısındaki Ege kıyıları, turkuaz mavisi sularıyla ve altın kumlu kumsallarıyla dünyanın en etkileyici sahil şeritlerinden biridir. Bu benzersiz kıyılar, doğal güzelliğin ve tarihi mirasın kusursuz bir sentezini sunmaktadır. Her koy, her körfez ayrı bir masaldır - mavinin ve yeşilin muhteşem buluşma noktaları.",
+                "slide_image_prompt": "A breathtaking panoramic landscape of an Aegean coastline, featuring crystal-clear turquoise waters, golden sandy beaches, and rocky coastal formations. In the foreground, show a pristine beach with smooth golden sand, transitioning into brilliant blue-green waters. Include some traditional Mediterranean vegetation like olive trees and rocky outcrops. Use a realistic photographic style with vibrant, saturated colors that capture the natural beauty and warm sunlight of the region. The image should have a wide, sweeping perspective that showcases the magnificent coastal landscape, emphasizing depth and natural beauty."
+            },
+            "slide": 2
+        },
+        {
+            "step": "tester_content_slide_2",
+            "data": {
+                "is_valid": true,
+                "feedback": "The content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly to convey the beauty of the Aegean coastline. The voiceover provides rich, descriptive details that complement the concise onscreen text. The image prompt is highly specific and aligns well with the textual content, promising a visually stunning representation of the Aegean coast. The language is consistent and professional throughout. To achieve absolute perfection, consider adding one or two specific examples of famous Aegean beaches or coastal towns in the voiceover to provide more concrete reference points for the audience.",
+                "score": 100
+            },
+            "slide": 2
+        },
+        {
+            "step": "initial_content_slide_3",
+            "data": {
+                "slide_onscreen_text": "<h2>Antik Kentler: Geçmişe Yolculuk</h2><ul><li>Efes: Roma İmparatorluğu'nun Parlak Merkezi</li><li>Bergama: Helen Uygarlığının Mirası</li><li>Troya: Destanların Yaşadığı Kent</li></ul>",
+                "slide_voiceover_text": "Ege bölgesi, insanlık tarihinin en önemli medeniyetlerine ev sahipliği yapmıştır. Efes, Roma döneminin görkemli bir metropolü olarak dünya tarihinde önemli bir yere sahiptir. Bergama, Helen kültürünün zenginliğini ve bilimsel birikimini yansıtan muhteşem bir antik kenttir. Troya ise efsanevi savaşların ve destanların yaşadığı, arkeolojik önemi büyük bir yerleşimdir. Bu kentler, sadece taştan ve topraktan ibaret değil; insanlığın ortak hafızasını ve kültürel mirasını temsil etmektedirler.",
+                "slide_image_prompt": "A panoramic landscape view of three ancient archaeological sites side by side - Ephesus with its grand Roman theater and library, Pergamon with its acropolis and steep hillside structures, and Troy with its historic excavation sites. The scene should be bathed in warm, golden late afternoon light, highlighting the archaeological ruins against a backdrop of rolling Aegean landscape. Use a realistic, detailed painting style that captures the historical depth and architectural complexity of these sites. Include subtle details like ancient columns, stone walls, and the natural terrain surrounding these historic locations."
+            },
+            "slide": 3
+        },
+        {
+            "step": "tester_content_slide_3",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is exceptionally well-crafted and coherent. The onscreen text, voiceover, and image prompt are perfectly aligned, delivering a clear and engaging message about the ancient cities of the Aegean region. The content is informative, logically structured, and maintains an appropriate level of detail. The multimedia design shows an excellent balance between onscreen and voiceover text, with concise bullet points on screen and a comprehensive explanation in the voiceover. The image prompt is highly detailed and relevant, enhancing the overall presentation. The technical quality is impeccable, with correct HTML markup and consistent, professional language throughout. To maintain this high standard, consider adding a brief transition sentence in the voiceover to connect the individual cities more smoothly.",
+                "score": 100
+            },
+            "slide": 3
+        },
+        {
+            "step": "initial_content_slide_4",
+            "data": {
+                "slide_onscreen_text": "Ege Mutfağı: <strong>Sağlık ve Lezzette Zirve</strong>\n• Zeytinyağlı Yemekler\n• Taze Deniz Ürünleri\n• Doğal Otlar ve Bitkiler",
+                "slide_voiceover_text": "Ege mutfağı, Türkiye'nin en sağlıklı ve zengin lezzet kültürüne sahip mutfaklarından biridir. Zeytinyağlı yemeklerin hafifliği, taze deniz ürünlerinin zenginliği ve bölgeye özgü otların benzersiz aromaları, bu mutfağı adeta bir sağlık ve lezzet şölenine dönüştürür. Her tabak, Ege'nin doğal bereketini ve binlerce yıllık kültürel birikimini yansıtır.",
+                "slide_image_prompt": "A vibrant and appetizing culinary scene showcasing Aegean cuisine. Foreground features a rustic wooden table with colorful dishes including olive oil-based meals, fresh seafood, and local herbs. Soft natural light illuminates the scene, with blurred Aegean landscape in the background showing olive groves and azure sea. Photorealistic style with warm, inviting color palette emphasizing greens, blues, and earthy tones. High-resolution food photography style with sharp details and natural lighting."
+            },
+            "slide": 4
+        },
+        {
+            "step": "tester_content_slide_4",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and concise, with appropriate detail. The multimedia design shows a good balance between onscreen and voiceover text. The image prompt is specific and relevant, enhancing the overall presentation. There are no critical issues or technical errors. To make it absolutely perfect, consider adding a brief mention of a specific Aegean dish in the voiceover to provide a concrete example of the cuisine's uniqueness.",
+                "score": 100
+            },
+            "slide": 4
+        },
+        {
+            "step": "initial_content_slide_5",
+            "data": {
+                "slide_onscreen_text": "<h2>Ege'nin Büyüsü: Keşfedilmeyi Bekleyen Hazine</h2><ul><li>Zengin Tarih</li><li>Muhteşem Doğa</li><li>Renkli Kültür</li><li>Enfes Mutfak</li></ul>",
+                "slide_voiceover_text": "Ege Bölgesi, Türkiye'nin en büyüleyici destinasyonlarından biridir. Antik çağlardan günümüze uzanan zengin tarihi, benzersiz doğal güzellikleri, renkli kültürü ve enfes mutfağıyla ziyaretçilerine unutulmaz bir yolculuk vadeder. Her köşesi bir keşif, her anı bir macera olan bu bölge, adeta saklı bir hazine gibi keşfedilmeyi bekliyor.",
+                "slide_image_prompt": "A panoramic landscape of the Aegean region showing a harmonious blend of ancient ruins, olive groves, turquoise coastline, and traditional stone houses. Use a warm, golden-hour lighting that highlights the region's natural beauty. The image should have a soft, painterly style with rich, warm colors that capture the magical essence of the Aegean. Include elements that represent history, nature, culture, and culinary traditions in a single, sweeping vista."
+            },
+            "slide": 5
+        },
+        {
+            "step": "tester_content_slide_5",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly, delivering a clear and engaging message about the Aegean region's appeal. The content effectively highlights the four main aspects (history, nature, culture, and cuisine) consistently across all elements. The voiceover expands on the bullet points, providing more detail without being redundant. The image prompt is particularly well-crafted, capturing the essence of the region and incorporating all mentioned aspects. To further enhance the content, consider adding a brief statistic or interesting fact about the Aegean region to make the information more compelling.",
+                "score": 100
+            },
+            "slide": 5
+        }
+    ],
+    "final_outline": {
+        "presentation_title": "Ege'nin Güzellikleri: Türkiye'nin İncisi",
+        "slide_outlines": [
+            {
+                "slide_title": "Ege Bölgesi: Tarih ve Doğanın Buluşma Noktası",
+                "slide_focus": "Ege Bölgesi, antik medeniyetlerin izleri ve eşsiz doğal güzellikleriyle Türkiye'nin en çekici bölgelerinden biridir.",
+                "slide_number": 1
+            },
+            {
+                "slide_title": "Ege'nin Muhteşem Kıyıları",
+                "slide_focus": "Ege'nin turkuaz suları ve altın kumlu plajları, dünyanın en güzel sahillerini oluşturur.",
+                "slide_number": 2
+            },
+            {
+                "slide_title": "Antik Kentler: Geçmişe Yolculuk",
+                "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini gözler önüne serer.",
+                "slide_number": 3
+            },
+            {
+                "slide_title": "Ege Mutfağı: Lezzetin Doruk Noktası",
+                "slide_focus": "Zeytinyağlı yemekler, taze deniz ürünleri ve otlar, Ege mutfağını Türkiye'nin en sağlıklı ve lezzetli mutfağı yapar.",
+                "slide_number": 4
+            },
+            {
+                "slide_title": "Ege'nin Büyüsü: Keşfedilmeyi Bekleyen Hazine",
+                "slide_focus": "Ege Bölgesi, tarihi, doğası, kültürü ve mutfağıyla ziyaretçilerine unutulmaz deneyimler sunar ve keşfedilmeyi bekler.",
+                "slide_number": 5
+            }
+        ]
+    },
+    "final_contents": {
+        "slide_1": {
+            "content": {
+                "slide_onscreen_text": "<h2>Ege Bölgesi: Tarih ve Doğanın Buluşma Noktası</h2><ul><li>Antik Uygarlıkların Mirası</li><li>Eşsiz Doğal Güzellikler</li><li>Türkiye'nin Kültürel Hazinesi</li></ul>",
+                "slide_voiceover_text": "Ege Bölgesi, Türkiye'nin en büyüleyici bölgelerinden biridir. Burada tarih ve doğa muhteşem bir uyum içinde buluşur. Binlerce yıllık medeniyetlerin izlerini taşıyan antik kentler, zeytin ağaçlarıyla kaplı tepeler ve turkuaz Ege denizinin muhteşem kıyıları, bölgenin benzersiz karakterini oluşturur. Her köşesi ayrı bir hikaye, ayrı bir güzellik barındırır.",
+                "slide_image_prompt": "A panoramic landscape of the Aegean Region showcasing ancient Greek ruins in the foreground (like Ephesus), with olive groves and rolling hills in the mid-ground, and the turquoise Aegean Sea in the background. Use a warm, golden-hour lighting that highlights the rich historical and natural textures. Soft watercolor-like painting style with realistic details, emphasizing the harmonious blend of historical heritage and natural beauty. Soft focus on distant elements to create depth and mystique."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The content is excellent and well-aligned across all elements. The onscreen text, voiceover, and image prompt work together harmoniously to convey the key message about the Aegean Region's blend of history and natural beauty. The onscreen text provides a clear structure, the voiceover elaborates with rich details, and the image prompt perfectly captures the essence of the region. Minor suggestion: Consider adding a brief mention of a specific ancient city (e.g., Ephesus) in the voiceover to directly link with the image prompt.",
+                "score": 100
+            }
+        },
+        "slide_2": {
+            "content": {
+                "slide_onscreen_text": "Ege'nin Muhteşem Kıyıları: Doğanın Eşsiz Güzelliği",
+                "slide_voiceover_text": "Türkiye'nin batısındaki Ege kıyıları, turkuaz mavisi sularıyla ve altın kumlu kumsallarıyla dünyanın en etkileyici sahil şeritlerinden biridir. Bu benzersiz kıyılar, doğal güzelliğin ve tarihi mirasın kusursuz bir sentezini sunmaktadır. Her koy, her körfez ayrı bir masaldır - mavinin ve yeşilin muhteşem buluşma noktaları.",
+                "slide_image_prompt": "A breathtaking panoramic landscape of an Aegean coastline, featuring crystal-clear turquoise waters, golden sandy beaches, and rocky coastal formations. In the foreground, show a pristine beach with smooth golden sand, transitioning into brilliant blue-green waters. Include some traditional Mediterranean vegetation like olive trees and rocky outcrops. Use a realistic photographic style with vibrant, saturated colors that capture the natural beauty and warm sunlight of the region. The image should have a wide, sweeping perspective that showcases the magnificent coastal landscape, emphasizing depth and natural beauty."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly to convey the beauty of the Aegean coastline. The voiceover provides rich, descriptive details that complement the concise onscreen text. The image prompt is highly specific and aligns well with the textual content, promising a visually stunning representation of the Aegean coast. The language is consistent and professional throughout. To achieve absolute perfection, consider adding one or two specific examples of famous Aegean beaches or coastal towns in the voiceover to provide more concrete reference points for the audience.",
+                "score": 100
+            }
+        },
+        "slide_3": {
+            "content": {
+                "slide_onscreen_text": "<h2>Antik Kentler: Geçmişe Yolculuk</h2><ul><li>Efes: Roma İmparatorluğu'nun Parlak Merkezi</li><li>Bergama: Helen Uygarlığının Mirası</li><li>Troya: Destanların Yaşadığı Kent</li></ul>",
+                "slide_voiceover_text": "Ege bölgesi, insanlık tarihinin en önemli medeniyetlerine ev sahipliği yapmıştır. Efes, Roma döneminin görkemli bir metropolü olarak dünya tarihinde önemli bir yere sahiptir. Bergama, Helen kültürünün zenginliğini ve bilimsel birikimini yansıtan muhteşem bir antik kenttir. Troya ise efsanevi savaşların ve destanların yaşadığı, arkeolojik önemi büyük bir yerleşimdir. Bu kentler, sadece taştan ve topraktan ibaret değil; insanlığın ortak hafızasını ve kültürel mirasını temsil etmektedirler.",
+                "slide_image_prompt": "A panoramic landscape view of three ancient archaeological sites side by side - Ephesus with its grand Roman theater and library, Pergamon with its acropolis and steep hillside structures, and Troy with its historic excavation sites. The scene should be bathed in warm, golden late afternoon light, highlighting the archaeological ruins against a backdrop of rolling Aegean landscape. Use a realistic, detailed painting style that captures the historical depth and architectural complexity of these sites. Include subtle details like ancient columns, stone walls, and the natural terrain surrounding these historic locations."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is exceptionally well-crafted and coherent. The onscreen text, voiceover, and image prompt are perfectly aligned, delivering a clear and engaging message about the ancient cities of the Aegean region. The content is informative, logically structured, and maintains an appropriate level of detail. The multimedia design shows an excellent balance between onscreen and voiceover text, with concise bullet points on screen and a comprehensive explanation in the voiceover. The image prompt is highly detailed and relevant, enhancing the overall presentation. The technical quality is impeccable, with correct HTML markup and consistent, professional language throughout. To maintain this high standard, consider adding a brief transition sentence in the voiceover to connect the individual cities more smoothly.",
+                "score": 100
+            }
+        },
+        "slide_4": {
+            "content": {
+                "slide_onscreen_text": "Ege Mutfağı: <strong>Sağlık ve Lezzette Zirve</strong>\n• Zeytinyağlı Yemekler\n• Taze Deniz Ürünleri\n• Doğal Otlar ve Bitkiler",
+                "slide_voiceover_text": "Ege mutfağı, Türkiye'nin en sağlıklı ve zengin lezzet kültürüne sahip mutfaklarından biridir. Zeytinyağlı yemeklerin hafifliği, taze deniz ürünlerinin zenginliği ve bölgeye özgü otların benzersiz aromaları, bu mutfağı adeta bir sağlık ve lezzet şölenine dönüştürür. Her tabak, Ege'nin doğal bereketini ve binlerce yıllık kültürel birikimini yansıtır.",
+                "slide_image_prompt": "A vibrant and appetizing culinary scene showcasing Aegean cuisine. Foreground features a rustic wooden table with colorful dishes including olive oil-based meals, fresh seafood, and local herbs. Soft natural light illuminates the scene, with blurred Aegean landscape in the background showing olive groves and azure sea. Photorealistic style with warm, inviting color palette emphasizing greens, blues, and earthy tones. High-resolution food photography style with sharp details and natural lighting."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and concise, with appropriate detail. The multimedia design shows a good balance between onscreen and voiceover text. The image prompt is specific and relevant, enhancing the overall presentation. There are no critical issues or technical errors. To make it absolutely perfect, consider adding a brief mention of a specific Aegean dish in the voiceover to provide a concrete example of the cuisine's uniqueness.",
+                "score": 100
+            }
+        },
+        "slide_5": {
+            "content": {
+                "slide_onscreen_text": "<h2>Ege'nin Büyüsü: Keşfedilmeyi Bekleyen Hazine</h2><ul><li>Zengin Tarih</li><li>Muhteşem Doğa</li><li>Renkli Kültür</li><li>Enfes Mutfak</li></ul>",
+                "slide_voiceover_text": "Ege Bölgesi, Türkiye'nin en büyüleyici destinasyonlarından biridir. Antik çağlardan günümüze uzanan zengin tarihi, benzersiz doğal güzellikleri, renkli kültürü ve enfes mutfağıyla ziyaretçilerine unutulmaz bir yolculuk vadeder. Her köşesi bir keşif, her anı bir macera olan bu bölge, adeta saklı bir hazine gibi keşfedilmeyi bekliyor.",
+                "slide_image_prompt": "A panoramic landscape of the Aegean region showing a harmonious blend of ancient ruins, olive groves, turquoise coastline, and traditional stone houses. Use a warm, golden-hour lighting that highlights the region's natural beauty. The image should have a soft, painterly style with rich, warm colors that capture the magical essence of the Aegean. Include elements that represent history, nature, culture, and culinary traditions in a single, sweeping vista."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly, delivering a clear and engaging message about the Aegean region's appeal. The content effectively highlights the four main aspects (history, nature, culture, and cuisine) consistently across all elements. The voiceover expands on the bullet points, providing more detail without being redundant. The image prompt is particularly well-crafted, capturing the essence of the region and incorporating all mentioned aspects. To further enhance the content, consider adding a brief statistic or interesting fact about the Aegean region to make the information more compelling.",
+                "score": 100
+            }
+        }
+    }
+}

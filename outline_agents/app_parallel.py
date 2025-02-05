@@ -9,6 +9,26 @@ from content_fixer_agent import call_content_fixer_agent
 import json
 import streamlit as st
 
+import datetime
+import json
+from typing import Dict, Any
+
+def create_log_structure() -> Dict[str, Any]:
+    """Initialize the log structure with timestamp"""
+    return {
+        "timestamp": datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
+        "process_steps": [],
+        "final_outline": None,
+        "final_contents": {}
+    }
+
+def add_log_step(log_data: Dict[str, Any], step_type: str, data: Any, slide_index: int = None):
+    """Add a step to the log with consistent formatting"""
+    step = {"step": step_type, "data": data}
+    if slide_index is not None:
+        step["slide"] = slide_index + 1  # Show 1-based index in logs
+    log_data["process_steps"].append(step)
+
 
 def process_slide_content(presentation_title, slide_outline, slide_index):
     """Process single slide content generation with error handling"""
@@ -59,12 +79,14 @@ user_prompt = st.text_input("Enter your presentation request:",
 
 if st.button("Generate Presentation"):
     # Initialize session state
+    log_data = create_log_structure()
     st.session_state.current_slide = 0
     
     # Topic count section
     with st.status("🔍 Analyzing presentation topic...", expanded=True) as status:
         st.write("### Step 1: Determining Topic and Slide Count")
         topic_count = call_topic_count_agent(user_prompt)
+        add_log_step(log_data, "topic_count", topic_count.model_dump())
         st.json(topic_count.model_dump())
         status.update(label="Topic analysis complete!", state="complete")
     
@@ -72,6 +94,7 @@ if st.button("Generate Presentation"):
     with st.status("📝 Creating initial outline...", expanded=True) as status:
         st.write("### Step 2: Generating Initial Outline")
         initial_outline = call_outline_initial_generator_agent(topic_count)
+        add_log_step(log_data, "initial_outline", initial_outline.model_dump())
         st.json(initial_outline.model_dump())
         status.update(label="Initial outline generated!", state="complete")
     
@@ -79,6 +102,7 @@ if st.button("Generate Presentation"):
     with st.status("🧪 Testing initial outline...", expanded=True) as status:
         st.write("### Step 3: Testing Presentation Outline")
         tester_result = call_outline_tester_agent(topic_count, initial_outline)
+        add_log_step(log_data, "tester_result", tester_result.model_dump())
         st.json(tester_result.model_dump())
         
         if tester_result.validation_feedback.is_valid:
@@ -95,6 +119,11 @@ if st.button("Generate Presentation"):
                 st.write(f"### Fixing Round {outline_fix_iteration}")
                 fixed_result = call_outline_fixer_agent(tester_result)
                 tester_result = call_outline_tester_agent(topic_count, fixed_result)
+
+                add_log_step(log_data, "outline_fix_attempt", {
+                    "fixed_outline": fixed_result.model_dump(),
+                    "test_result": tester_result.model_dump()
+                })                
                 
                 st.write("**Fixed Outline:**")
                 st.json(fixed_result.model_dump())
@@ -111,6 +140,7 @@ if st.button("Generate Presentation"):
 
 # In your main generation block after outline validation:
     st.success("🎉 Outline validation passed! Starting content generation...")
+    log_data["final_outline"] = tester_result.tested_outline.model_dump()
     presentation_title = tester_result.tested_outline.presentation_title
     st.header(f"Presentation: {presentation_title}")
 
@@ -134,6 +164,7 @@ if st.button("Generate Presentation"):
         for future in futures:
             result = future.result()
             slides_processed += 1
+            slide_idx = result['index']
             progress_bar.progress(slides_processed / total_slides)
             
             # Display slide results
@@ -141,6 +172,17 @@ if st.button("Generate Presentation"):
                 st.subheader(f"🚩 Slide {result['index']+1}: {tester_result.tested_outline.slide_outlines[result['index']].slide_title}")
                 
                 for step_type, content, test_result in result['steps']:
+                    if step_type == 'initial':
+                        add_log_step(log_data, f"initial_content_slide_{slide_idx+1}", 
+                                content.model_dump(), slide_idx)
+                    elif step_type == 'test':
+                        add_log_step(log_data, f"tester_content_slide_{slide_idx+1}", 
+                                test_result.model_dump(), slide_idx)
+                    elif step_type == 'fix':
+                        add_log_step(log_data, f"fix_content_slide_{slide_idx+1}_iter{result['iterations']}", 
+                                {"content": content.model_dump(), "test_result": test_result.model_dump()}, 
+                                slide_idx)
+
                     with st.expander(f"{'🔄' if step_type == 'fix' else '📄'} {step_type.capitalize()} Content", expanded=True):
                         st.json(content.model_dump())
                         if test_result:
@@ -150,10 +192,22 @@ if st.button("Generate Presentation"):
                                 st.error(f"Validation Failed: {test_result.feedback}")
                 
                 if result.get('error'):
+                    log_data["final_contents"][f"slide_{slide_idx+1}"] = {
+                        "error": result['error']
+                    }                    
                     st.error(f"Processing failed: {result['error']}")
                 else:
+                    log_data["final_contents"][f"slide_{slide_idx+1}"] = {
+                        "content": result['final_content'].model_dump(),
+                        "iterations": result['iterations'],
+                        "validation": result['steps'][-1][2].model_dump() if result['steps'] else None
+                    }                    
                     st.success(f"✅ Final content after {result['iterations']} iterations")
                     st.json(result['final_content'].model_dump())
 
     st.balloons()
     st.success("🎉 Presentation generation completed successfully!")
+
+    filename = f"./outputs/presentation_log_{log_data['timestamp']}.json"
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(log_data, f, indent=4, ensure_ascii=False)
