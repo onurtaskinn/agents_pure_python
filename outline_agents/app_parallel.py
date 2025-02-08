@@ -75,7 +75,7 @@ st.title("AI Presentation Generation Pipeline")
 
 # User input
 user_prompt = st.text_input("Enter your presentation request:", 
-                          "Bana Ege'nin güzellikleri ile ilgili 5 slaytlık Türkçe bir sunum hazırla.")
+                          "Create a presentation on the impact of AI on the future of work. There will be 5 slides.")
 
 if st.button("Generate Presentation"):
     # Initialize session state

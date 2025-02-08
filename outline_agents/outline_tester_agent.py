@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
 from openai import OpenAI
-from prompts import outline_tester_system_message
+from prompts import outline_tester_system_message, outline_tester_user_message
 
 load_dotenv()
 
@@ -32,14 +32,6 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
         for i, slide in enumerate(previous_outline.slide_outlines)
     )
 
-    user_message = (
-        f'''
-        This is the topic of the presentation given by the user: {topic_count.presentation_topic}.
-        This is the previous presentation title: {previous_outline.presentation_title} 
-        This is the outline generated previously: {previous_outline_text}
-        '''
-    )
-
     AI_Response = client.chat.completions.create(
         # model="o3-mini-2025-01-31",
         model = "o1-2024-12-17",
@@ -50,7 +42,9 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
             },
             {
                 "role": "user",
-                "content": user_message
+                "content": outline_tester_user_message.format(presentation_topic=topic_count.presentation_topic,
+                                                                presentation_title=previous_outline.presentation_title,
+                                                                previous_outline_text=previous_outline_text)
             }
         ],
         response_model=ValidationAndFeedback,

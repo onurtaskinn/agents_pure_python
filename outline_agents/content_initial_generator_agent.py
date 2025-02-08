@@ -25,7 +25,9 @@ def call_content_initial_generator_agent( presentation_title : str, slide_outlin
             },
             {
                 "role": "user",
-                "content": content_initial_generator_user_message.format(presentation_title = presentation_title, slide_title = slide_outline.slide_title, slide_focus = slide_outline.slide_focus)
+                "content": content_initial_generator_user_message.format(presentation_title = presentation_title,
+                                                                          slide_title = slide_outline.slide_title, 
+                                                                          slide_focus = slide_outline.slide_focus)
             }
         ],
         response_model=SlideContent,

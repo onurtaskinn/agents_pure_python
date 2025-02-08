@@ -1,0 +1,1036 @@
+{
+    "timestamp": "20250205172559",
+    "process_steps": [
+        {
+            "step": "topic_count",
+            "data": {
+                "presentation_topic": "Agentic AI kullanım alanları",
+                "slide_count": 15
+            }
+        },
+        {
+            "step": "initial_outline",
+            "data": {
+                "presentation_title": "Agentic AI Kullanım Alanları: Geleceği Şekillendiren Teknoloji",
+                "slide_outlines": [
+                    {
+                        "slide_title": "Agentic AI: Geleceğin Teknolojisi",
+                        "slide_focus": "Agentic AI, işletmeleri ve günlük yaşamı dönüştüren yeni nesil yapay zeka teknolojisidir.",
+                        "slide_number": 1
+                    },
+                    {
+                        "slide_title": "Agentic AI Nedir?",
+                        "slide_focus": "Agentic AI, kendi başına karar verebilen, öğrenebilen ve eyleme geçebilen akıllı yazılım ajanlarıdır.",
+                        "slide_number": 2
+                    },
+                    {
+                        "slide_title": "Agentic AI'nin Temel Özellikleri",
+                        "slide_focus": "Otonom karar verme, öğrenme yeteneği ve çevreyle etkileşim, Agentic AI'nin ayırt edici özellikleridir.",
+                        "slide_number": 3
+                    },
+                    {
+                        "slide_title": "Sağlık Sektöründe Agentic AI",
+                        "slide_focus": "Agentic AI, kişiselleştirilmiş tedavi planları oluşturarak ve hastalık teşhisinde yardımcı olarak sağlık hizmetlerini iyileştirir.",
+                        "slide_number": 4
+                    },
+                    {
+                        "slide_title": "Finans ve Bankacılıkta Agentic AI",
+                        "slide_focus": "Agentic AI, risk değerlendirmesi, dolandırıcılık tespiti ve otomatik ticaret stratejileri ile finans sektörünü dönüştürür.",
+                        "slide_number": 5
+                    },
+                    {
+                        "slide_title": "Eğitimde Agentic AI Uygulamaları",
+                        "slide_focus": "Kişiselleştirilmiş öğrenme deneyimleri ve akıllı öğretmen asistanları, Agentic AI'nin eğitimde kullanım alanlarıdır.",
+                        "slide_number": 6
+                    },
+                    {
+                        "slide_title": "Üretim ve Endüstride Agentic AI",
+                        "slide_focus": "Agentic AI, akıllı fabrikalar, öngörücü bakım ve tedarik zinciri optimizasyonu ile üretim verimliliğini artırır.",
+                        "slide_number": 7
+                    },
+                    {
+                        "slide_title": "Müşteri Hizmetlerinde Agentic AI",
+                        "slide_focus": "Akıllı chatbotlar ve sanal asistanlar, Agentic AI'nin müşteri deneyimini geliştirmedeki rolünü gösterir.",
+                        "slide_number": 8
+                    },
+                    {
+                        "slide_title": "Agentic AI ve Akıllı Şehirler",
+                        "slide_focus": "Trafik yönetimi, enerji verimliliği ve güvenlik sistemleri, Agentic AI'nin akıllı şehirlerdeki uygulamalarıdır.",
+                        "slide_number": 9
+                    },
+                    {
+                        "slide_title": "E-ticaret ve Perakendede Agentic AI",
+                        "slide_focus": "Kişiselleştirilmiş ürün önerileri ve dinamik fiyatlandırma, Agentic AI'nin e-ticaretteki kullanım alanlarıdır.",
+                        "slide_number": 10
+                    },
+                    {
+                        "slide_title": "Agentic AI ve Otonom Araçlar",
+                        "slide_focus": "Otonom araçlar, Agentic AI'nin gerçek zamanlı karar verme ve çevre algılama yeteneklerini sergiler.",
+                        "slide_number": 11
+                    },
+                    {
+                        "slide_title": "Siber Güvenlikte Agentic AI",
+                        "slide_focus": "Agentic AI, tehditleri öngörerek ve hızlı yanıt vererek siber güvenliği güçlendirir.",
+                        "slide_number": 12
+                    },
+                    {
+                        "slide_title": "Agentic AI'nin Etik Boyutları",
+                        "slide_focus": "Agentic AI'nin yaygınlaşması, veri gizliliği, iş gücü değişimi ve karar verme şeffaflığı gibi etik sorunları beraberinde getirir.",
+                        "slide_number": 13
+                    },
+                    {
+                        "slide_title": "Agentic AI'nin Geleceği",
+                        "slide_focus": "Daha gelişmiş öğrenme algoritmaları ve artan hesaplama gücü, Agentic AI'nin potansiyelini genişletecektir.",
+                        "slide_number": 14
+                    },
+                    {
+                        "slide_title": "Sonuç: Agentic AI ile Dönüşen Dünya",
+                        "slide_focus": "Agentic AI, çeşitli sektörlerde devrim yaratarak daha akıllı, verimli ve kişiselleştirilmiş bir geleceğe öncülük ediyor.",
+                        "slide_number": 15
+                    }
+                ]
+            }
+        },
+        {
+            "step": "tester_result",
+            "data": {
+                "validation_feedback": {
+                    "is_valid": true,
+                    "feedback": "This outline has a clear introduction and conclusion, logical progression from definition to applications, and a single focus per slide. It provides specific examples in each application area, maintaining audience engagement. The distribution of content is balanced, and time management appears feasible with 15 well-structured slides. Overall, it successfully meets the evaluation criteria.",
+                    "score": 95
+                },
+                "tested_outline": {
+                    "presentation_title": "Agentic AI Kullanım Alanları: Geleceği Şekillendiren Teknoloji",
+                    "slide_outlines": [
+                        {
+                            "slide_title": "Agentic AI: Geleceğin Teknolojisi",
+                            "slide_focus": "Agentic AI, işletmeleri ve günlük yaşamı dönüştüren yeni nesil yapay zeka teknolojisidir.",
+                            "slide_number": 1
+                        },
+                        {
+                            "slide_title": "Agentic AI Nedir?",
+                            "slide_focus": "Agentic AI, kendi başına karar verebilen, öğrenebilen ve eyleme geçebilen akıllı yazılım ajanlarıdır.",
+                            "slide_number": 2
+                        },
+                        {
+                            "slide_title": "Agentic AI'nin Temel Özellikleri",
+                            "slide_focus": "Otonom karar verme, öğrenme yeteneği ve çevreyle etkileşim, Agentic AI'nin ayırt edici özellikleridir.",
+                            "slide_number": 3
+                        },
+                        {
+                            "slide_title": "Sağlık Sektöründe Agentic AI",
+                            "slide_focus": "Agentic AI, kişiselleştirilmiş tedavi planları oluşturarak ve hastalık teşhisinde yardımcı olarak sağlık hizmetlerini iyileştirir.",
+                            "slide_number": 4
+                        },
+                        {
+                            "slide_title": "Finans ve Bankacılıkta Agentic AI",
+                            "slide_focus": "Agentic AI, risk değerlendirmesi, dolandırıcılık tespiti ve otomatik ticaret stratejileri ile finans sektörünü dönüştürür.",
+                            "slide_number": 5
+                        },
+                        {
+                            "slide_title": "Eğitimde Agentic AI Uygulamaları",
+                            "slide_focus": "Kişiselleştirilmiş öğrenme deneyimleri ve akıllı öğretmen asistanları, Agentic AI'nin eğitimde kullanım alanlarıdır.",
+                            "slide_number": 6
+                        },
+                        {
+                            "slide_title": "Üretim ve Endüstride Agentic AI",
+                            "slide_focus": "Agentic AI, akıllı fabrikalar, öngörücü bakım ve tedarik zinciri optimizasyonu ile üretim verimliliğini artırır.",
+                            "slide_number": 7
+                        },
+                        {
+                            "slide_title": "Müşteri Hizmetlerinde Agentic AI",
+                            "slide_focus": "Akıllı chatbotlar ve sanal asistanlar, Agentic AI'nin müşteri deneyimini geliştirmedeki rolünü gösterir.",
+                            "slide_number": 8
+                        },
+                        {
+                            "slide_title": "Agentic AI ve Akıllı Şehirler",
+                            "slide_focus": "Trafik yönetimi, enerji verimliliği ve güvenlik sistemleri, Agentic AI'nin akıllı şehirlerdeki uygulamalarıdır.",
+                            "slide_number": 9
+                        },
+                        {
+                            "slide_title": "E-ticaret ve Perakendede Agentic AI",
+                            "slide_focus": "Kişiselleştirilmiş ürün önerileri ve dinamik fiyatlandırma, Agentic AI'nin e-ticaretteki kullanım alanlarıdır.",
+                            "slide_number": 10
+                        },
+                        {
+                            "slide_title": "Agentic AI ve Otonom Araçlar",
+                            "slide_focus": "Otonom araçlar, Agentic AI'nin gerçek zamanlı karar verme ve çevre algılama yeteneklerini sergiler.",
+                            "slide_number": 11
+                        },
+                        {
+                            "slide_title": "Siber Güvenlikte Agentic AI",
+                            "slide_focus": "Agentic AI, tehditleri öngörerek ve hızlı yanıt vererek siber güvenliği güçlendirir.",
+                            "slide_number": 12
+                        },
+                        {
+                            "slide_title": "Agentic AI'nin Etik Boyutları",
+                            "slide_focus": "Agentic AI'nin yaygınlaşması, veri gizliliği, iş gücü değişimi ve karar verme şeffaflığı gibi etik sorunları beraberinde getirir.",
+                            "slide_number": 13
+                        },
+                        {
+                            "slide_title": "Agentic AI'nin Geleceği",
+                            "slide_focus": "Daha gelişmiş öğrenme algoritmaları ve artan hesaplama gücü, Agentic AI'nin potansiyelini genişletecektir.",
+                            "slide_number": 14
+                        },
+                        {
+                            "slide_title": "Sonuç: Agentic AI ile Dönüşen Dünya",
+                            "slide_focus": "Agentic AI, çeşitli sektörlerde devrim yaratarak daha akıllı, verimli ve kişiselleştirilmiş bir geleceğe öncülük ediyor.",
+                            "slide_number": 15
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "step": "initial_content_slide_1",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI: Geleceğin Teknolojisi</h2><ul><li>Özerk Karar Alma</li><li>Dinamik Problem Çözme</li><li>İş ve Yaşam Transformasyonu</li></ul>",
+                "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak, kendi kendine düşünebilen, bağımsız karar verebilen ve karmaşık problemleri çözebilen bir teknolojidir. İşletmelerde verimliliği artırırken, günlük yaşamda da insan deneyimini zenginleştirmektedir.",
+                "slide_image_prompt": "A futuristic, high-tech visualization showing an advanced AI brain network with glowing neural connections, surrounded by holographic business and life scenes demonstrating autonomous decision-making. Use a sleek, modern design with a blue and white color palette, emphasizing intelligence and potential. Digital art style with sharp, clean lines and a sense of dynamic movement."
+            },
+            "slide": 1
+        },
+        {
+            "step": "tester_content_slide_1",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could better reflect the specific points mentioned in the onscreen text.\n- Consider adding brief explanations of 'Özerk Karar Alma', 'Dinamik Problem Çözme', and 'İş ve Yaşam Transformasyonu' in the voiceover.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is relevant and enhances the content well.\n- Consider adding a brief transition or introduction in the voiceover to connect the slide title with the listed points.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific, but could benefit from mentioning the listed points to ensure visual representation.\n- Ensure consistency in language use between the slide title and content (e.g., 'Agentic AI' vs 'yapay zeka').\n\nOverall, the content is strong but needs minor refinements to achieve full marks.",
+                "score": 90
+            },
+            "slide": 1
+        },
+        {
+            "step": "fix_content_slide_1_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Agentic AI: Geleceğin Teknolojisi</h2><ul><li>Özerk Karar Alma</li><li>Dinamik Problem Çözme</li><li>İş ve Yaşam Transformasyonu</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak, kendi kendine düşünebilen ve bağımsız hareket edebilen bir teknolojidir. Bu teknoloji üç temel özelliğiyle öne çıkıyor: Özerk Karar Alma yeteneği ile insan müdahalesi olmadan kararlar alabilir. Dinamik Problem Çözme becerisiyle karmaşık sorunlara hızlı ve etkili çözümler üretir. Son olarak, İş ve Yaşam Transformasyonu sağlayarak işletmelerde verimliliği artırırken, günlük yaşamda da insan deneyimini zenginleştirmektedir. Agentic AI, geleceğin teknolojisi olarak hayatımızı dönüştürmeye devam edecek.",
+                    "slide_image_prompt": "A futuristic, high-tech visualization showing an advanced AI brain network with glowing neural connections, surrounded by holographic scenes demonstrating: 1) Autonomous decision-making (representing 'Özerk Karar Alma'), 2) Complex problem-solving scenarios (for 'Dinamik Problem Çözme'), and 3) Business efficiency and enhanced daily life experiences (illustrating 'İş ve Yaşam Transformasyonu'). Use a sleek, modern design with a blue and white color palette, emphasizing intelligence and potential. Digital art style with sharp, clean lines and a sense of dynamic movement."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points about Agentic AI. The content is clear, concise, and logically structured. The voiceover provides detailed explanations that complement the onscreen bullet points. The image prompt is highly relevant and creatively illustrates the main concepts. To further enhance the slide, consider adding a brief definition of Agentic AI in the onscreen text to provide immediate context for viewers.",
+                    "score": 100
+                }
+            },
+            "slide": 1
+        },
+        {
+            "step": "initial_content_slide_2",
+            "data": {
+                "slide_onscreen_text": "<h1>Agentic AI Nedir?</h1><ul><li>Kendi Kendine Karar Veren Akıllı Sistemler</li><li>Özerk Öğrenme ve Eylem Yeteneği</li><li>Dinamik Problem Çözme Gücü</li></ul>",
+                "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak, kendi başına karar verebilen, sürekli öğrenen ve proaktif bir şekilde eyleme geçebilen gelişmiş yazılım ajanlarıdır. Bu sistemler, sadece verilen komutları yerine getirmekle kalmaz, aynı zamanda karmaşık problemleri analiz edebilir, bağımsız stratejiler geliştirebilir ve hedeflerine ulaşmak için kendi eylem planlarını oluşturabilirler.",
+                "slide_image_prompt": "A futuristic, high-tech visualization of an intelligent AI system with multiple interconnected neural network nodes, showing autonomous decision-making. The image should have a deep blue and electric white color scheme, with holographic-like representations of decision trees and adaptive learning pathways. Include subtle robotic or digital elements that suggest intelligence and autonomy. Use a clean, modern digital art style with a sense of depth and complexity, symbolizing the advanced cognitive capabilities of Agentic AI."
+            },
+            "slide": 2
+        },
+        {
+            "step": "tester_content_slide_2",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the concept of Agentic AI. The onscreen text provides clear, concise bullet points that summarize the key aspects of Agentic AI. The voiceover expands on these points, offering a comprehensive explanation that adds depth to the visual elements. The image prompt describes a visually striking and relevant representation that will enhance the audience's understanding of the topic. The content maintains a professional tone and uses consistent language throughout. There are no critical issues, and all components are present and well-executed.",
+                "score": 100
+            },
+            "slide": 2
+        },
+        {
+            "step": "initial_content_slide_3",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Temel Özellikleri</h2><ul><li>Otonom Karar Verme</li><li>Dinamik Öğrenme Yeteneği</li><li>Çevreyle Etkileşim Becerisi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak üç temel özelliğiyle öne çıkmaktadır. Birincisi, tamamen otonom karar verme yeteneği - bu, yapay zekanın kendi başına stratejik kararlar alabilmesi demektir. İkincisi, dinamik öğrenme yeteneği - sürekli olarak deneyimlerinden öğrenip kendini geliştirebilmesi. Üçüncüsü ise çevreyle etkileşim becerisi - yani dış dünyayı algılayıp ona uyum sağlayabilmesi.",
+                "slide_image_prompt": "A futuristic, high-tech visualization showing an intelligent AI system with multiple interconnected neural networks. The image should depict three distinct but linked sections representing autonomous decision-making, dynamic learning, and environmental interaction. Use a sleek, modern design with a color palette of blues, whites, and subtle electric accents. Include holographic-like elements showing data flow and intelligent connections. The style should be clean, technological, and forward-looking, emphasizing the advanced nature of Agentic AI."
+            },
+            "slide": 3
+        },
+        {
+            "step": "tester_content_slide_3",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good.\n   - The message is clear, but the voiceover could be more concise.\n   - The level of detail is appropriate, but the logical flow could be enhanced.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - Onscreen text is concise and well-structured.\n   - The voiceover is complete but could be more focused.\n   - The image prompt is relevant and enhances the content.\n\n3. Technical Quality (27/30):\n   - HTML markup is used correctly.\n   - The image prompt is clear and specific.\n   - Language is consistent, but there's a minor discrepancy in terminology ('Dinamik Öğrenme Yeteneği' vs 'öğrenme yeteneği').\n   - The tone is professional.\n\nSuggestions for improvement:\n1. Align the terminology in the slide focus with the onscreen text (e.g., use 'Dinamik Öğrenme Yeteneği' consistently).\n2. Streamline the voiceover text to match the conciseness of the onscreen points.\n3. Consider adding a brief introduction or conclusion to the voiceover to improve the logical flow.\n4. Ensure the image prompt explicitly mentions the three features listed in the onscreen text for perfect alignment.",
+                "score": 90
+            },
+            "slide": 3
+        },
+        {
+            "step": "fix_content_slide_3_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Agentic AI'nin Temel Özellikleri</h2><ul><li>Otonom Karar Verme</li><li>Dinamik Öğrenme Yeteneği</li><li>Çevreyle Etkileşim Becerisi</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, üç temel özelliğiyle geleneksel yapay zeka sistemlerinden ayrılır. İlk olarak, otonom karar verme yeteneği sayesinde kendi başına stratejik kararlar alabilir. İkinci olarak, dinamik öğrenme yeteneği ile sürekli deneyimlerinden öğrenir ve kendini geliştirir. Son olarak, çevreyle etkileşim becerisi sayesinde dış dünyayı algılar ve ona uyum sağlar. Bu özellikler, Agentic AI'yi geleceğin teknolojisi haline getiriyor.",
+                    "slide_image_prompt": "A futuristic, high-tech visualization showing an intelligent AI system with three distinct but interconnected sections. Each section should clearly represent one of the three key features: 1) Autonomous Decision-Making, 2) Dynamic Learning Ability, and 3) Environmental Interaction. Use a sleek, modern design with a color palette of blues, whites, and subtle electric accents. Include holographic-like elements showing data flow between the three sections. The style should be clean, technological, and forward-looking, emphasizing the advanced nature of Agentic AI and its three core features."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key features of Agentic AI. The content is clear, concise, and logically structured. The voiceover provides additional context and explanation, enhancing the onscreen text. The image prompt is detailed and relevant, perfectly complementing the textual content. There are no critical issues, and the content meets all evaluation criteria at a high level. To achieve absolute perfection, consider adding a brief transition sentence in the voiceover to connect the list of features with their impact on making Agentic AI the technology of the future.",
+                    "score": 100
+                }
+            },
+            "slide": 3
+        },
+        {
+            "step": "initial_content_slide_4",
+            "data": {
+                "slide_onscreen_text": "<h2>Sağlık Sektöründe Agentic AI</h2><ul><li>Kişiselleştirilmiş Tedavi Planları</li><li>Hastalık Teşhisinde Yapay Zeka Desteği</li><li>Sağlık Hizmetlerinde Devrim</li></ul>",
+                "slide_voiceover_text": "Agentic AI, sağlık sektöründe devrim yaratacak potansiyele sahip bir teknoloji. Hastaya özel tedavi planları oluşturarak ve hastalıkların erken teşhisinde yardımcı olarak geleneksel sağlık hizmetlerini dönüştürüyor. Yapay zeka, tıbbi verileri hızlı ve hassas bir şekilde analiz ederek doktorların daha doğru kararlar almasına destek oluyor.",
+                "slide_image_prompt": "A futuristic medical visualization showing an AI-powered holographic interface displaying personalized patient health data, with a human doctor and an advanced AI system working collaboratively. Use a clean, high-tech medical aesthetic with soft blue and white color palette, emphasizing technology and human care. Include subtle digital elements like data streams and medical icons to represent AI's analytical capabilities. Render in a photorealistic style with a modern, optimistic feel."
+            },
+            "slide": 4
+        },
+        {
+            "step": "tester_content_slide_4",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and aligns with the slide focus. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned.\n- The message is clear, but the voiceover could be more specific about how AI creates personalized treatment plans.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The onscreen text is concise and effective.\n- The voiceover provides additional context, but could be more detailed on specific AI applications.\n- The image prompt is relevant and enhances the content.\n\n3. Technical Quality (28/30):\n- HTML markup is correct.\n- The image prompt is clear and specific.\n- Language is consistent, but the voiceover could use more technical terms to match the professional tone of the topic.\n\nTo improve:\n- Add more specific examples of how AI creates personalized treatment plans in the voiceover.\n- Include a brief mention of potential challenges or ethical considerations in AI healthcare applications.\n- Enhance the voiceover with more technical language to better match the professional nature of the topic.",
+                "score": 91
+            },
+            "slide": 4
+        },
+        {
+            "step": "fix_content_slide_4_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Sağlık Sektöründe Agentic AI</h2><ul><li>Kişiselleştirilmiş Tedavi Planları</li><li>Hastalık Teşhisinde Yapay Zeka Desteği</li><li>Sağlık Hizmetlerinde İnovasyon ve Etik</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, sağlık sektöründe devrim yaratacak potansiyele sahip bir teknolojidir. Genetik profilleri, yaşam tarzı faktörlerini ve tıbbi geçmişi analiz ederek hastaya özel tedavi planları oluşturur. Örneğin, kanser tedavisinde tümör genomunu inceleyerek en etkili ilaç kombinasyonlarını önerir. Hastalıkların erken teşhisinde, makine öğrenimi algoritmaları, radyolojik görüntüleri ve laboratuvar sonuçlarını hızlı ve hassas bir şekilde analiz ederek doktorların daha doğru kararlar almasına destek olur. Bu gelişmeler, sağlık hizmetlerini dönüştürürken, hasta verilerinin gizliliği ve AI kararlarının şeffaflığı gibi etik konuların da dikkatle ele alınması gerekmektedir.",
+                    "slide_image_prompt": "A futuristic medical visualization showing an AI-powered holographic interface displaying personalized patient health data, including genetic profiles, lifestyle factors, and medical history. A human doctor and an advanced AI system are working collaboratively, with the AI highlighting potential treatment options and early disease markers. Use a clean, high-tech medical aesthetic with soft blue and white color palette, emphasizing both technological innovation and ethical considerations. Include subtle digital elements like data encryption symbols and transparency indicators alongside medical icons to represent AI's capabilities and responsible use. Render in a photorealistic style with a modern, optimistic yet thoughtful feel."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about Agentic AI in healthcare. The content is comprehensive, covering personalized treatment plans, disease diagnosis, and ethical considerations. The voiceover provides detailed examples and explanations, while the onscreen text summarizes key points effectively. The image prompt is highly specific and relevant, enhancing the overall presentation. To further improve, consider adding a brief mention of potential challenges or limitations of Agentic AI in healthcare to provide a balanced perspective.",
+                    "score": 100
+                }
+            },
+            "slide": 4
+        },
+        {
+            "step": "initial_content_slide_5",
+            "data": {
+                "slide_onscreen_text": "Finans Sektöründe Agentic AI:\n• Risk Değerlendirmesi\n• Dolandırıcılık Tespiti\n• Otomatik Ticaret Stratejileri",
+                "slide_voiceover_text": "Agentic AI, finans dünyasını radikal bir şekilde dönüştürüyor. Geleneksel sistemlerin ötesine geçerek, risk analizinden dolandırıcılık tespitine kadar karmaşık finansal süreçleri akıllıca yönetebiliyor. Yapay zeka, insan karar alma mekanizmalarını destekleyerek ve optimize ederek sektöre devrim niteliğinde çözümler getiriyor.",
+                "slide_image_prompt": "A futuristic financial control room with holographic AI interfaces displaying complex financial data, risk matrices, and trading algorithms. Show humanoid AI robots collaborating with human financial experts. Use a sleek, high-tech blue and silver color palette, with glowing data visualizations. Cyberpunk-inspired digital art style, emphasizing intelligence and technological advancement in finance."
+            },
+            "slide": 5
+        },
+        {
+            "step": "tester_content_slide_5",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and aligned with the slide focus, but there are areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and convey a clear message about Agentic AI in finance.\n- The voiceover could be more specific about how AI manages complex financial processes.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The image prompt is detailed and relevant, enhancing the overall message.\n- Consider adding a brief mention of AI robots in the voiceover to better align with the image prompt.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct.\n- The image prompt is clear and specific.\n- Consider using more technical terms in the voiceover to match the professional tone of the onscreen text.\n\nTo improve:\n- Add specific examples of how AI manages financial processes in the voiceover.\n- Include a brief mention of AI-human collaboration in the voiceover to better match the image prompt.\n- Use more technical language in the voiceover to maintain a consistent professional tone throughout.",
+                "score": 91
+            },
+            "slide": 5
+        },
+        {
+            "step": "fix_content_slide_5_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "Finans Sektöründe Agentic AI:<br>• Risk Değerlendirmesi<br>• Dolandırıcılık Tespiti<br>• Otomatik Ticaret Stratejileri",
+                    "slide_voiceover_text": "Agentic AI, finans dünyasını radikal bir şekilde dönüştürüyor. Geleneksel sistemlerin ötesine geçerek, karmaşık finansal süreçleri akıllıca yönetiyor. Örneğin, makine öğrenimi algoritmaları kullanarak kredi risk skorlamasını optimize ediyor, anomali tespiti ile dolandırıcılık vakalarını gerçek zamanlı olarak belirliyor ve yüksek frekanslı ticaret stratejilerini milisaniyeler içinde uygulayabiliyor. Bu AI sistemleri, insan finans uzmanlarıyla işbirliği yaparak, büyük veri analitiği ve prediktif modelleme gibi tekniklerle karar alma mekanizmalarını güçlendiriyor. Sonuç olarak, Agentic AI, finans sektörüne daha hızlı, daha doğru ve daha verimli çözümler sunarak devrim niteliğinde bir dönüşüm getiriyor.",
+                    "slide_image_prompt": "A futuristic financial control room with holographic AI interfaces displaying complex financial data, risk matrices, and trading algorithms. Show humanoid AI robots collaborating with human financial experts, analyzing real-time market data and making trading decisions together. Use a sleek, high-tech blue and silver color palette, with glowing data visualizations. Cyberpunk-inspired digital art style, emphasizing intelligence and technological advancement in finance. Include visual representations of machine learning algorithms and predictive models in the background."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about the use of Agentic AI in finance and banking. The content is detailed, informative, and flows logically. The multimedia design balances onscreen text conciseness with comprehensive voiceover explanation. The image prompt is highly specific and relevant, enhancing the overall presentation. The language is consistent and professional throughout. To achieve absolute perfection, consider adding a brief mention of cybersecurity in the voiceover, as it's a crucial aspect of AI in finance.",
+                    "score": 100
+                }
+            },
+            "slide": 5
+        },
+        {
+            "step": "initial_content_slide_6",
+            "data": {
+                "slide_onscreen_text": "<h2>Eğitimde Agentic AI: Öğrenmeyi Dönüştüren Teknoloji</h2><ul><li>🧠 Kişiselleştirilmiş Öğrenme Deneyimleri</li><li>🤖 Akıllı Öğretmen Asistanları</li></ul>",
+                "slide_voiceover_text": "Agentic AI, eğitim sektöründe devrim yaratacak iki temel uygulama alanıyla öne çıkıyor. Birincisi, her öğrencinin benzersiz öğrenme stiline ve hızına uyarlanmış kişiselleştirilmiş öğrenme deneyimleri. İkincisi ise öğretmenlere destek veren ve eğitim süreçlerini optimize eden akıllı öğretmen asistanları. Bu teknolojiler, eğitimde bireyselleştirilmiş ve daha etkili bir yaklaşımın önünü açıyor.",
+                "slide_image_prompt": "A futuristic classroom scene showing an AI-powered learning environment. On one side, holographic personalized learning interfaces adapt to individual students' learning styles. On the other side, an intelligent AI assistant helps a teacher with lesson planning and student performance analysis. Use a clean, modern illustration style with soft blue and white color palette, emphasizing technology and human-AI collaboration in education. Include diverse students and a friendly, approachable AI interface."
+            },
+            "slide": 6
+        },
+        {
+            "step": "tester_content_slide_6",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points about Agentic AI applications in education. The content is clear, concise, and logically structured. The onscreen text uses appropriate HTML markup and emojis to enhance visual appeal. The voiceover provides more detailed information, complementing the onscreen text well. The image prompt is specific and relevant, visualizing the concepts discussed. To further improve, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a balanced perspective.",
+                "score": 100
+            },
+            "slide": 6
+        },
+        {
+            "step": "initial_content_slide_7",
+            "data": {
+                "slide_onscreen_text": "<h2>Üretim ve Endüstride Agentic AI</h2><ul><li>Akıllı Fabrika Optimizasyonu</li><li>Öngörücü Bakım Sistemleri</li><li>Tedarik Zinciri Yönetimi</li><li>Verimlilik Artışı %40'a Kadar</li></ul>",
+                "slide_voiceover_text": "Agentic AI, üretim sektöründe devrim yaratıyor. Geleneksel üretim süreçlerini akıllı, otonom sistemlerle dönüştürerek, fabrikaların performansını ve verimliliğini dramatik bir şekilde artırıyor. Makine öğrenimi ve gerçek zamanlı veri analizi sayesinde, üretim hatalarını önceden tahmin edebiliyor, bakım maliyetlerini düşürüyor ve tedarik zincirini optimize ediyor.",
+                "slide_image_prompt": "A futuristic smart factory interior with robotic arms, AI-powered control screens, and holographic data visualizations. The scene should show interconnected machines working seamlessly, with blue and white color tones suggesting advanced technology. Include transparent digital overlays showing real-time performance metrics and predictive maintenance alerts. Render in a photorealistic style with a clean, high-tech aesthetic that emphasizes efficiency and innovation."
+            },
+            "slide": 7
+        },
+        {
+            "step": "tester_content_slide_7",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could mention the specific percentage of productivity increase (40%) listed in the onscreen text.\n- The message is clear, but the voiceover could be more tightly aligned with the bullet points.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The voiceover provides good context, but could be more specific to match the bullet points.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n- The HTML markup is correctly used.\n- The image prompt is clear and specific.\n- Language consistency is maintained.\n- The tone is professional.\n\nTo improve:\n- Align the voiceover more closely with the onscreen bullet points.\n- Include the specific productivity increase percentage in the voiceover.\n- Consider adding a brief mention of how Agentic AI specifically contributes to each bullet point in the voiceover.",
+                "score": 92
+            },
+            "slide": 7
+        },
+        {
+            "step": "fix_content_slide_7_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Üretim ve Endüstride Agentic AI</h2><ul><li>Akıllı Fabrika Optimizasyonu</li><li>Öngörücü Bakım Sistemleri</li><li>Tedarik Zinciri Yönetimi</li><li>Verimlilik Artışı %40'a Kadar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, üretim sektöründe devrim yaratıyor. Akıllı fabrika optimizasyonunda, Agentic AI, üretim süreçlerini otonom sistemlerle dönüştürüyor. Öngörücü bakım sistemlerinde, makine öğrenimi ve gerçek zamanlı veri analizi sayesinde, arızaları önceden tahmin ediyor ve bakım maliyetlerini düşürüyor. Tedarik zinciri yönetiminde, AI destekli algoritmalar, stok ve lojistik süreçlerini optimize ediyor. Bu yenilikçi uygulamalar sayesinde, üretim verimliliğinde %40'a varan artışlar gözlemleniyor.",
+                    "slide_image_prompt": "A futuristic smart factory interior with robotic arms, AI-powered control screens, and holographic data visualizations. The scene should show interconnected machines working seamlessly, with blue and white color tones suggesting advanced technology. Include transparent digital overlays showing real-time performance metrics and predictive maintenance alerts. Render in a photorealistic style with a clean, high-tech aesthetic that emphasizes efficiency and innovation. Add visual elements representing supply chain optimization and a prominent '40% productivity increase' indicator."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about Agentic AI in manufacturing and industry. The content is detailed, logically structured, and maintains a professional tone throughout. The multimedia design effectively balances onscreen text with a comprehensive voiceover. The image prompt is specific and relevant, enhancing the overall presentation. To further improve, consider adding a brief mention of potential challenges or limitations of Agentic AI in manufacturing to provide a balanced perspective.",
+                    "score": 100
+                }
+            },
+            "slide": 7
+        },
+        {
+            "step": "initial_content_slide_8",
+            "data": {
+                "slide_onscreen_text": "<h2>Müşteri Hizmetlerinde Agentic AI</h2><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li></ul>",
+                "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor. Geleneksel destek modellerinin ötesine geçerek, yapay zeka destekli sistemler müşterilere daha hızlı, daha akıllı ve daha kişisel bir deneyim sunuyor. Akıllı chatbot'lar ve sanal asistanlar, anlık çözümler üretebilen, öğrenen ve uyarlanan sistemler olarak müşteri memnuniyetini artırıyor.",
+                "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional customer service vs AI-powered support. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices representing advanced customer service technology."
+            },
+            "slide": 8
+        },
+        {
+            "step": "tester_content_slide_8",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and aligned with the slide focus, but there are areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and convey a clear message about Agentic AI in customer service.\n- The voiceover could be more specific about how chatbots and virtual assistants improve customer satisfaction.\n\n2. Multimedia Design (25/30):\n- The onscreen text is concise and well-structured.\n- The voiceover provides additional context, but could be more detailed about specific benefits.\n- The image prompt is relevant and enhances the content, but could include more specific elements related to chatbots and virtual assistants.\n\n3. Technical Quality (28/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific, but could benefit from mentioning chatbots and virtual assistants explicitly.\n- Language is consistent and professional throughout.\n\nTo improve:\n- Add more specific examples of how chatbots and virtual assistants solve problems in the voiceover.\n- Include visual elements specifically representing chatbots and virtual assistants in the image prompt.\n- Consider adding a brief mention of potential challenges or limitations of Agentic AI in customer service for a more balanced presentation.",
+                "score": 88
+            },
+            "slide": 8
+        },
+        {
+            "step": "fix_content_slide_8_iter6",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Müşteri Hizmetlerinde Agentic AI</h2><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor. Geleneksel destek modellerinin ötesine geçerek, yapay zeka destekli sistemler müşterilere daha hızlı, daha akıllı ve daha kişisel bir deneyim sunuyor. Akıllı chatbot'lar, karmaşık sorguları anlayarak anında yanıt verebiliyor ve müşteri geçmişine dayalı kişiselleştirilmiş öneriler sunabiliyor. Sanal asistanlar ise, çok adımlı problem çözme yetenekleriyle öne çıkıyor; örneğin, bir ürün iadesini başlatıp tamamlayabilir veya karmaşık teknik sorunları adım adım çözebilir. Bu sistemler, öğrenme ve uyarlanma yetenekleriyle müşteri memnuniyetini önemli ölçüde artırıyor. Ancak, veri gizliliği endişeleri ve bazı karmaşık durumların insan müdahalesi gerektirmesi gibi potansiyel zorluklar da göz önünde bulundurulmalıdır.",
+                    "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional customer service vs AI-powered support. On the AI side, prominently display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices representing advanced customer service technology. Show customers interacting with chatbots on mobile devices and virtual assistants on computer screens, with satisfied expressions."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n   - The onscreen text, voiceover, and image prompt are generally well-aligned.\n   - The message is clear, but the voiceover could be more tightly structured to match the onscreen bullet points.\n   - Consider reorganizing the voiceover to explicitly address each bullet point in order.\n\n2. Multimedia Design (28/30):\n   - Good balance between onscreen and voiceover text.\n   - Onscreen text is concise and well-organized.\n   - The image prompt is detailed and relevant.\n   - Consider adding a brief mention of 'Potansiyel Zorluklar ve Sınırlamalar' in the voiceover to fully align with the onscreen text.\n\n3. Technical Quality (27/30):\n   - HTML markup is correct.\n   - Image prompt is clear and specific.\n   - Language is consistent and professional.\n   - Minor improvement: Consider using more technical terms in the voiceover to match the sophistication of the topic.\n\nOverall, the content is of high quality but needs minor adjustments to achieve full marks.",
+                    "score": 90
+                }
+            },
+            "slide": 8
+        },
+        {
+            "step": "fix_content_slide_8_iter6",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Müşteri Hizmetlerinde Agentic AI</h2><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor. Geleneksel destek modellerinin ötesine geçerek, yapay zeka destekli sistemler müşterilere daha hızlı, daha akıllı ve daha kişisel bir deneyim sunuyor. İlk olarak, akıllı chatbot'lar, doğal dil işleme ve makine öğrenimi algoritmalarını kullanarak karmaşık sorguları anlıyor, anında yanıt veriyor ve müşteri geçmişine dayalı kişiselleştirilmiş öneriler sunuyor. İkinci olarak, sanal asistanlar, çok adımlı problem çözme yetenekleriyle öne çıkıyor; örneğin, bir ürün iadesini başlatıp tamamlayabilir veya karmaşık teknik sorunları adım adım çözebilir. Üçüncü olarak, bu AI sistemleri, sürekli öğrenme ve uyarlanma yetenekleriyle müşteri memnuniyetini önemli ölçüde artırıyor ve müşteri deneyimini dönüştürüyor. Son olarak, potansiyel zorluklar ve sınırlamalar da göz önünde bulundurulmalıdır; örneğin, veri gizliliği endişeleri, etik AI kullanımı ve bazı karmaşık durumların hala insan müdahalesi gerektirmesi gibi konular dikkatle ele alınmalıdır.",
+                    "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional customer service vs AI-powered support. On the AI side, prominently display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices representing advanced customer service technology. Show customers interacting with chatbots on mobile devices and virtual assistants on computer screens, with satisfied expressions. Add a small section showing a human supervisor overseeing AI operations, representing the balance between AI and human involvement in customer service."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and informative, but there are areas for improvement to achieve full marks:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could better mirror the structure of the onscreen text.\n   - The message is clear, but the voiceover could be more concise to match the slide's focus.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - The onscreen text is concise and well-structured.\n   - The voiceover is comprehensive but could be more focused.\n   - The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (28/30):\n   - The HTML markup is correct, but consider using <h1> for the main title instead of <h2>.\n   - The image prompt is clear and specific.\n   - Language consistency is maintained throughout.\n   - The tone is professional, but the voiceover could be more concise for better impact.\n\nTo improve:\n- Align the voiceover more closely with the onscreen text structure.\n- Condense the voiceover slightly to focus more on the key points.\n- Consider using <h1> for the main slide title in the HTML markup.\n- Ensure the voiceover addresses all points listed in the onscreen text, including potential challenges and limitations, more explicitly.",
+                    "score": 91
+                }
+            },
+            "slide": 8
+        },
+        {
+            "step": "fix_content_slide_8_iter6",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h1>Müşteri Hizmetlerinde Agentic AI</h1><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor. Akıllı chatbot'lar, doğal dil işleme ve makine öğrenimi sayesinde karmaşık sorguları anlayıp, anında kişiselleştirilmiş yanıtlar sunuyor. Sanal asistanlar, çok adımlı problem çözme yetenekleriyle öne çıkıyor; örneğin ürün iadesi veya karmaşık teknik sorunları çözebiliyorlar. Bu AI sistemleri, sürekli öğrenme ve uyarlanma özellikleriyle müşteri deneyimini dönüştürüyor. Ancak, veri gizliliği, etik AI kullanımı ve bazı durumların hala insan müdahalesi gerektirmesi gibi potansiyel zorluklar ve sınırlamalar da dikkate alınmalıdır.",
+                    "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional customer service vs AI-powered support. On the AI side, display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices. Show customers interacting with chatbots on mobile devices and virtual assistants on computer screens, with satisfied expressions. Add a small section showing a human supervisor overseeing AI operations, representing the balance between AI and human involvement in customer service. Include visual elements representing data privacy and ethical AI use challenges."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is generally well-structured and informative, but there are areas for improvement to achieve full marks:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could better mirror the structure of the onscreen text.\n   - The message is clear, but the voiceover could be more concise.\n   - The level of detail is appropriate, but the logical flow could be improved by matching the voiceover more closely to the onscreen text structure.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - Onscreen text is concise and well-structured.\n   - The voiceover is complete but could be more tightly aligned with the onscreen text.\n   - The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (27/30):\n   - HTML markup is correctly used.\n   - The image prompt is clear and specific, but could include more details on the 'potential challenges and limitations' mentioned in the onscreen text.\n   - Language is consistent, but the voiceover could use more transition words to improve flow.\n   - The tone is professional throughout.\n\nTo improve:\n- Restructure the voiceover to more closely follow the bullet points in the onscreen text.\n- Add more specific examples in the voiceover for each bullet point.\n- Include more details about challenges and limitations in both the voiceover and image prompt.\n- Use transition words in the voiceover to improve flow between ideas.",
+                    "score": 90
+                }
+            },
+            "slide": 8
+        },
+        {
+            "step": "fix_content_slide_8_iter6",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h1>Müşteri Hizmetlerinde Agentic AI</h1><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor. İlk olarak, akıllı chatbot'lar, doğal dil işleme ve makine öğrenimi sayesinde karmaşık sorguları anlayıp, anında kişiselleştirilmiş yanıtlar sunuyor. Örneğin, bir müşterinin sipariş durumu hakkındaki sorusunu hızlıca yanıtlayabilirler. İkinci olarak, sanal asistanlar, çok adımlı problem çözme yetenekleriyle öne çıkıyor. Bunlar, ürün iadesi veya karmaşık teknik sorunları adım adım çözebilir. Üçüncü olarak, bu AI sistemleri, sürekli öğrenme ve uyarlanma özellikleriyle müşteri deneyimini dönüştürüyor. Müşteri tercihlerini öğrenerek, her etkileşimi kişiselleştiriyorlar. Son olarak, bu teknolojinin potansiyel zorlukları ve sınırlamaları da var. Örneğin, veri gizliliği endişeleri, etik AI kullanımı sorunları ve bazı karmaşık durumların hala insan müdahalesi gerektirmesi gibi konular dikkatle ele alınmalıdır.",
+                    "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional customer service vs AI-powered support. On the AI side, display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices. Show customers interacting with chatbots on mobile devices and virtual assistants on computer screens, with satisfied expressions. Add a small section showing a human supervisor overseeing AI operations, representing the balance between AI and human involvement in customer service. Include visual elements representing data privacy concerns (e.g., a lock icon over data), ethical AI use challenges (e.g., a scale balancing AI and ethics), and a complex scenario where human intervention is needed (e.g., a puzzled AI face with a human stepping in to help)."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and informative, but there are areas for improvement to achieve full marks:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more tightly aligned with the bullet points.\n- The message is clear, but the voiceover could be more concise.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is detailed and relevant, enhancing the content effectively.\n- Consider reducing the length of the voiceover slightly for better balance.\n\n3. Technical Quality (29/30):\n- HTML markup is correct.\n- The image prompt is clear and specific.\n- Language is consistent and professional.\n- Minor improvement: Consider adding more specific examples in the voiceover for each bullet point.\n\nTo improve:\n1. Tighten the alignment between onscreen text and voiceover by structuring the voiceover more closely around the bullet points.\n2. Slightly reduce the voiceover length for better balance with onscreen text.\n3. Include more specific examples in the voiceover for each main point to enhance understanding.\n4. Consider adding a brief mention of how Agentic AI differs from traditional AI in customer service for added depth.",
+                    "score": 92
+                }
+            },
+            "slide": 8
+        },
+        {
+            "step": "fix_content_slide_8_iter6",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h1>Müşteri Hizmetlerinde Agentic AI</h1><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor, geleneksel AI'dan farklı olarak proaktif ve özerk çözümler sunuyor. İlk olarak, akıllı chatbot'lar anlık, kişiselleştirilmiş destek sağlıyor. Örneğin, bir e-ticaret platformunda sipariş durumu sorgularını anında yanıtlayabilirler. İkinci olarak, sanal asistanlar karmaşık sorunları çözüyor. Mesela, bir telekomünikasyon şirketinde ağ bağlantı sorunlarını adım adım giderebilirler. Üçüncüsü, bu sistemler müşteri deneyimini sürekli öğrenme ve uyarlanma ile dönüştürüyor. Bir bankanın mobil uygulamasında, kullanıcı alışkanlıklarına göre özelleştirilmiş finansal öneriler sunabilirler. Son olarak, veri gizliliği, etik kullanım ve insan müdahalesi gerektiren durumlar gibi zorluklar dikkatle ele alınmalıdır.",
+                    "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional AI vs Agentic AI-powered support. On the Agentic AI side, display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar demonstrating proactive problem-solving. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices. Show customers interacting with chatbots on mobile devices (e.g., checking order status) and virtual assistants on computer screens (e.g., resolving network issues), with satisfied expressions. Add a small section showing a human supervisor overseeing AI operations, representing the balance between AI and human involvement. Include visual elements representing data privacy (e.g., a lock icon over data), ethical AI use (e.g., a scale balancing AI and ethics), and a complex scenario where human intervention is needed (e.g., a puzzled AI face with a human stepping in to help)."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is generally good, but the voiceover could be more tightly aligned with the bullet points.\n   - The message is clear, but the voiceover could be more concise to match the onscreen text better.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - The onscreen text is concise and well-structured.\n   - The voiceover is comprehensive but could be more focused.\n   - The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct.\n   - The image prompt is clear and specific.\n   - Language consistency is maintained.\n   - The tone is professional.\n\nSuggestions for improvement:\n1. Tighten the alignment between the voiceover and the onscreen bullet points.\n2. Consider adding brief examples to the onscreen text to match the detailed examples in the voiceover.\n3. Streamline the voiceover slightly to focus more directly on the four main points listed in the onscreen text.\n4. Consider adding a brief mention of the potential challenges and limitations in the image prompt to fully align with the onscreen text and voiceover.",
+                    "score": 92
+                }
+            },
+            "slide": 8
+        },
+        {
+            "step": "initial_content_slide_9",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI ve Akıllı Şehirler</h2><ul><li>Trafik Yönetimi: Akıllı Trafik Kontrol Sistemleri</li><li>Enerji Verimliliği: Optimize Altyapı Çözümleri</li><li>Güvenlik Sistemleri: Proaktif Risk Yönetimi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, modern şehirlerin altyapısını ve yaşam kalitesini dönüştüren devrimci bir teknoloji olarak karşımıza çıkıyor. Trafik yönetiminden enerji verimliliğine ve güvenlik sistemlerine kadar, yapay zeka destekli çözümler şehirlerimizi daha akıllı, daha verimli ve daha güvenli hale getiriyor. Özellikle otonom karar verme yeteneği sayesinde, Agentic AI şehir yönetiminde gerçek zamanlı ve proaktif çözümler sunuyor.",
+                "slide_image_prompt": "A futuristic cityscape with interconnected digital networks, showing smart traffic lights, energy-efficient buildings, and AI-powered security systems. Use a blue and green color palette to represent technology and sustainability. Visualize data streams and holographic interfaces connecting different urban systems. Render in a clean, modern digital illustration style with a slightly isometric perspective to show depth and connectivity."
+            },
+            "slide": 9
+        },
+        {
+            "step": "tester_content_slide_9",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is well-structured and aligns with the slide focus, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are generally well-aligned.\n- The message is clear, but the voiceover could be more specific about how Agentic AI is used in each area (trafik, enerji, güvenlik).\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-organized.\n- Voiceover provides additional context, but could be more detailed on specific AI applications.\n- Image prompt is relevant and enhances the content.\n\n3. Technical Quality (27/30):\n- HTML markup is correctly used.\n- Image prompt is clear and specific, but could include more AI-specific elements.\n- Language is consistent, but the mix of Turkish and English terms (e.g., 'Agentic AI' vs. Turkish text) might be confusing for some audiences.\n\nTo improve:\n1. Add more specific examples of Agentic AI applications in the voiceover for each area (traffic, energy, security).\n2. Consider using all Turkish terms for consistency, or provide translations.\n3. Enhance the image prompt to include more visible AI elements, such as robots or AI interfaces managing city systems.",
+                "score": 90
+            },
+            "slide": 9
+        },
+        {
+            "step": "fix_content_slide_9_iter2",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Yapay Zeka Ajanları ve Akıllı Şehirler</h2><ul><li>Trafik Yönetimi: Akıllı Trafik Kontrol Sistemleri</li><li>Enerji Verimliliği: Optimize Altyapı Çözümleri</li><li>Güvenlik Sistemleri: Proaktif Risk Yönetimi</li></ul>",
+                    "slide_voiceover_text": "Yapay zeka ajanları, modern şehirlerin altyapısını ve yaşam kalitesini dönüştüren devrimci bir teknoloji olarak karşımıza çıkıyor. Trafik yönetiminde, yapay zeka ajanları gerçek zamanlı veri analizi yaparak trafik akışını optimize ediyor ve sinyalizasyon sistemlerini dinamik olarak ayarlıyor. Enerji verimliliğinde, bu ajanlar binaların enerji tüketimini izleyerek ve hava durumuna göre ayarlayarak kaynak kullanımını minimize ediyor. Güvenlik sistemlerinde ise, yapay zeka ajanları kamera görüntülerini analiz ederek potansiyel tehditleri önceden tespit ediyor ve acil durum ekiplerini yönlendiriyor. Bu otonom karar verme yeteneği sayesinde, yapay zeka ajanları şehir yönetiminde gerçek zamanlı ve proaktif çözümler sunuyor.",
+                    "slide_image_prompt": "A futuristic cityscape with interconnected digital networks, showing smart traffic lights, energy-efficient buildings, and AI-powered security systems. Include visible AI elements such as holographic AI interfaces managing traffic flow, robotic maintenance units optimizing energy usage in buildings, and AI-driven security drones patrolling the city. Use a blue and green color palette to represent technology and sustainability. Visualize data streams connecting different urban systems. Render in a clean, modern digital illustration style with a slightly isometric perspective to show depth and connectivity. Add Turkish labels for key elements (e.g., 'Akıllı Trafik Sistemi', 'Enerji Optimizasyonu', 'Güvenlik Dronları') to reinforce the localized context."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively communicate the key points about Agentic AI in smart cities. The content covers the three main areas mentioned in the slide focus: traffic management, energy efficiency, and security systems. The voiceover provides detailed explanations that expand on the bullet points, offering a comprehensive understanding of how AI agents transform urban infrastructure. The image prompt is particularly strong, providing a vivid visualization that reinforces the concepts discussed. The inclusion of Turkish labels in the image prompt is a thoughtful touch that enhances localization. To achieve absolute perfection, consider adding a brief mention of potential challenges or ethical considerations in implementing AI in urban environments to provide a balanced perspective.",
+                    "score": 100
+                }
+            },
+            "slide": 9
+        },
+        {
+            "step": "initial_content_slide_10",
+            "data": {
+                "slide_onscreen_text": "<h2>E-ticaret ve Perakendede Agentic AI</h2><ul><li>Kişiselleştirilmiş Ürün Önerileri</li><li>Dinamik Fiyatlandırma Stratejileri</li><li>Müşteri Deneyimini Optimize Etme</li></ul>",
+                "slide_voiceover_text": "Agentic AI, e-ticaret sektöründe devrim yaratıyor. Gelişmiş yapay zeka algoritmaları sayesinde, müşterilere tamamen kişiselleştirilmiş alışveriş deneyimleri sunuyoruz. Dinamik fiyatlandırma ve akıllı ürün önerileri ile hem müşteri memnuniyetini artırıyor hem de işletmelerin rekabet gücünü yükseltiyoruz.",
+                "slide_image_prompt": "A futuristic e-commerce interface showcasing personalized product recommendations. Split screen design with an AI-powered digital assistant on one side and a dynamic, adaptive shopping cart on the other. Use a modern, sleek tech-inspired visual style with holographic elements, soft blue and white color palette, and subtle digital network connections. Highlight intelligent algorithms and personalization through visual metaphors like interconnected nodes or smart recommendation pathways. Photorealistic rendering with a clean, minimalist design that emphasizes technological innovation in retail."
+            },
+            "slide": 10
+        },
+        {
+            "step": "tester_content_slide_10",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover doesn't explicitly mention 'Müşteri Deneyimini Optimize Etme' which is listed in the onscreen text.\n- The message is clear, but could be more tightly focused on the specific uses mentioned in the Slide Focus.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-structured.\n- Voiceover provides additional context, but could be more specific about dynamic pricing.\n- Image prompt is relevant and enhances the content.\n\n3. Technical Quality (27/30):\n- HTML markup is correct, but could benefit from additional styling for better visual hierarchy.\n- Image prompt is clear and specific, but could include elements that more directly represent dynamic pricing.\n- Language is consistent, but the voiceover could use more formal language in places.\n\nTo improve:\n- Align the voiceover more closely with the onscreen text points.\n- Include more specific examples of how Agentic AI is used in dynamic pricing.\n- Consider adding brief explanations for each bullet point in the onscreen text.\n- Enhance the image prompt to include visual elements representing dynamic pricing strategies.",
+                "score": 90
+            },
+            "slide": 10
+        },
+        {
+            "step": "fix_content_slide_10_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>E-ticaret ve Perakendede Agentic AI</h2><ul><li>Kişiselleştirilmiş Ürün Önerileri: Müşteri tercihlerine göre akıllı seçimler</li><li>Dinamik Fiyatlandırma Stratejileri: Talep ve rekabete göre otomatik ayarlama</li><li>Müşteri Deneyimini Optimize Etme: Yapay zeka destekli kişiselleştirme</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, e-ticaret sektöründe çığır açıyor. Gelişmiş yapay zeka algoritmaları sayesinde, müşterilere üç temel alanda yenilik sunuyoruz. Birincisi, kişiselleştirilmiş ürün önerileri ile her müşteriye özel alışveriş deneyimi yaratıyoruz. İkinci olarak, dinamik fiyatlandırma stratejileri uyguluyoruz; bu, pazar koşullarına ve talebe göre fiyatları gerçek zamanlı olarak optimize ediyor. Son olarak, müşteri deneyimini yapay zeka ile optimize ederek, her etkileşimi kişiselleştiriyor ve iyileştiriyoruz. Bu yenilikçi yaklaşımlarla hem müşteri memnuniyetini artırıyor hem de işletmelerin rekabet gücünü yükseltiyoruz.",
+                    "slide_image_prompt": "A futuristic e-commerce interface showcasing personalized product recommendations and dynamic pricing. Split screen design with an AI-powered digital assistant on one side and a dynamic, adaptive shopping cart on the other. The shopping cart displays real-time price adjustments with small graphs indicating price fluctuations. Use a modern, sleek tech-inspired visual style with holographic elements, soft blue and white color palette, and subtle digital network connections. Highlight intelligent algorithms and personalization through visual metaphors like interconnected nodes or smart recommendation pathways. Include a customer satisfaction meter that visibly improves as the AI optimizes the experience. Photorealistic rendering with a clean, minimalist design that emphasizes technological innovation in retail."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and aligns closely with the slide focus, but there are areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are generally well-aligned.\n- The message is clear, but the voiceover could be more concise to match the onscreen text better.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The image prompt is detailed and relevant, enhancing the overall presentation.\n- Consider adding a brief mention of the visual elements described in the image prompt to the voiceover for better integration.\n\n3. Technical Quality (27/30):\n- HTML markup is correctly used.\n- The language is consistent and professional.\n- The image prompt is clear and specific, but consider adding a brief description of the customer satisfaction meter in the onscreen text or voiceover.\n\nTo improve:\n- Streamline the voiceover text to more closely match the bullet points on screen.\n- Add a brief mention of the visual elements (e.g., the customer satisfaction meter) in the voiceover or onscreen text.\n- Consider adding a fourth bullet point on the slide to cover all aspects mentioned in the voiceover, such as 'Rekabet Gücünü Artırma: AI ile işletme performansını yükseltme'.",
+                    "score": 90
+                }
+            },
+            "slide": 10
+        },
+        {
+            "step": "fix_content_slide_10_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>E-ticaret ve Perakendede Agentic AI</h2><ul><li>Kişiselleştirilmiş Ürün Önerileri: Müşteri tercihlerine göre akıllı seçimler</li><li>Dinamik Fiyatlandırma Stratejileri: Talep ve rekabete göre otomatik ayarlama</li><li>Müşteri Deneyimini Optimize Etme: Yapay zeka destekli kişiselleştirme</li><li>Rekabet Gücünü Artırma: AI ile işletme performansını yükseltme</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, e-ticaret sektöründe çığır açıyor. Gelişmiş yapay zeka algoritmaları sayesinde, müşterilere dört temel alanda yenilik sunuyoruz. Birincisi, kişiselleştirilmiş ürün önerileri ile her müşteriye özel alışveriş deneyimi yaratıyoruz. İkincisi, dinamik fiyatlandırma stratejileri ile pazar koşullarına göre fiyatları gerçek zamanlı optimize ediyoruz. Üçüncüsü, müşteri deneyimini yapay zeka ile kişiselleştiriyor ve iyileştiriyoruz. Son olarak, işletmelerin rekabet gücünü AI ile yükseltiyoruz. Ekranda gördüğünüz gibi, müşteri memnuniyeti ölçeri bu yenilikçi yaklaşımlarla sürekli artıyor, hem müşteri sadakatini hem de işletme performansını güçlendiriyoruz.",
+                    "slide_image_prompt": "A futuristic e-commerce interface showcasing personalized product recommendations and dynamic pricing. Split screen design with an AI-powered digital assistant on one side and a dynamic, adaptive shopping cart on the other. The shopping cart displays real-time price adjustments with small graphs indicating price fluctuations. Use a modern, sleek tech-inspired visual style with holographic elements, soft blue and white color palette, and subtle digital network connections. Highlight intelligent algorithms and personalization through visual metaphors like interconnected nodes or smart recommendation pathways. Include a prominent customer satisfaction meter that visibly improves as the AI optimizes the experience. Add visual elements representing increased business performance and competitiveness, such as rising charts or a podium with the AI-powered business at the top. Photorealistic rendering with a clean, minimalist design that emphasizes technological innovation in retail."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is generally well-structured and aligns with the slide focus. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n   - The onscreen text and voiceover are well-aligned, but the voiceover mentions a 'customer satisfaction meter' that isn't explicitly listed in the onscreen text.\n   - The image prompt could be more specific about showing the four main areas mentioned in the onscreen text.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - The image prompt is detailed but could be more tightly connected to the specific points in the onscreen text.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct.\n   - The language is consistent and professional.\n   - The image prompt is clear but could be more specific in relating to the four main points.\n\nTo improve:\n1. Add a bullet point in the onscreen text about the customer satisfaction meter mentioned in the voiceover.\n2. Refine the image prompt to explicitly showcase the four main areas listed in the onscreen text.\n3. Ensure the image prompt includes visual representations of all key points mentioned in both onscreen and voiceover text.",
+                    "score": 92
+                }
+            },
+            "slide": 10
+        },
+        {
+            "step": "fix_content_slide_10_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>E-ticaret ve Perakendede Agentic AI</h2><ul><li>Kişiselleştirilmiş Ürün Önerileri: Müşteri tercihlerine göre akıllı seçimler</li><li>Dinamik Fiyatlandırma Stratejileri: Talep ve rekabete göre otomatik ayarlama</li><li>Müşteri Deneyimini Optimize Etme: Yapay zeka destekli kişiselleştirme</li><li>Rekabet Gücünü Artırma: AI ile işletme performansını yükseltme</li><li>Müşteri Memnuniyeti Ölçeri: AI yenilikleri ile sürekli artan memnuniyet</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, e-ticaret sektöründe çığır açıyor. Gelişmiş yapay zeka algoritmaları sayesinde, müşterilere beş temel alanda yenilik sunuyoruz. Birincisi, kişiselleştirilmiş ürün önerileri ile her müşteriye özel alışveriş deneyimi yaratıyoruz. İkincisi, dinamik fiyatlandırma stratejileri ile pazar koşullarına göre fiyatları gerçek zamanlı optimize ediyoruz. Üçüncüsü, müşteri deneyimini yapay zeka ile kişiselleştiriyor ve iyileştiriyoruz. Dördüncüsü, işletmelerin rekabet gücünü AI ile yükseltiyoruz. Son olarak, ekranda gördüğünüz gibi, müşteri memnuniyeti ölçeri bu yenilikçi yaklaşımlarla sürekli artıyor. Böylece hem müşteri sadakatini hem de işletme performansını güçlendiriyoruz.",
+                    "slide_image_prompt": "Create a futuristic e-commerce interface split into five distinct sections, each representing one of the key areas of Agentic AI in e-commerce. Section 1: Show personalized product recommendations with smart selection arrows. Section 2: Display dynamic pricing with real-time price adjustments and small graphs. Section 3: Illustrate customer experience optimization with an AI-powered digital assistant. Section 4: Represent increased competitiveness with rising performance charts. Section 5: Feature a prominent customer satisfaction meter visibly improving. Use a modern, sleek tech-inspired visual style with holographic elements, soft blue and white color palette, and subtle digital network connections. Include visual metaphors like interconnected nodes or smart recommendation pathways. Ensure a clean, minimalist design that emphasizes technological innovation in retail, with all five sections clearly labeled and visually distinct."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content demonstrates excellent coherence and quality. The onscreen text, voiceover, and image prompt are well-aligned and effectively communicate the key points about Agentic AI in e-commerce. The content is clear, detailed, and logically structured. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points and a comprehensive narration. The image prompt is highly specific and relevant, enhancing the overall message. However, to achieve absolute perfection, consider slightly expanding on the 'Müşteri Memnuniyeti Ölçeri' point in the voiceover to match the detail level of other points.",
+                    "score": 100
+                }
+            },
+            "slide": 10
+        },
+        {
+            "step": "initial_content_slide_11",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI: Otonom Araçların Beyni</h2><ul><li>Gerçek Zamanlı Çevre Algılama</li><li>Dinamik Karar Verme Mekanizmaları</li><li>Güvenli ve Akıllı Sürüş</li></ul>",
+                "slide_voiceover_text": "Agentic AI, otonom araçların en kritik teknolojik bileşenidir. Araçların çevresini anlama, algılama ve milisaniyeler içinde güvenli kararlar alma yeteneğini sağlar. Bu yapay zeka sistemleri, sürekli akan sensör verilerini işleyerek, potansiyel riskleri önceden tahmin edebilir ve anında tepki verebilir.",
+                "slide_image_prompt": "A futuristic autonomous vehicle driving on a smart highway, with visible AI neural network visualizations around the car, showing real-time sensor data and decision-making processes. The scene should have a high-tech, blue-toned color palette, with holographic interfaces displaying environmental data. Render in a photorealistic digital illustration style, emphasizing technological sophistication and intelligent mobility."
+            },
+            "slide": 11
+        },
+        {
+            "step": "tester_content_slide_11",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the message about Agentic AI in autonomous vehicles. The content demonstrates a clear focus on real-time decision-making and environmental perception capabilities of Agentic AI in autonomous vehicles. The onscreen text is concise and highlights key points, while the voiceover provides more detailed explanations. The image prompt is highly relevant and enhances the overall message with its futuristic and technologically sophisticated visualization. To further improve, consider adding a brief mention of specific examples or real-world applications of Agentic AI in autonomous vehicles in the voiceover to make the content even more engaging and relatable.",
+                "score": 100
+            },
+            "slide": 11
+        },
+        {
+            "step": "initial_content_slide_12",
+            "data": {
+                "slide_onscreen_text": "<h2>Siber Güvenlikte Agentic AI</h2><ul><li>Proaktif Tehdit Tespiti</li><li>Anlık Savunma Mekanizmaları</li><li>Dinamik Risk Yönetimi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, siber güvenlik alanında devrim yaratmaktadır. Geleneksel güvenlik sistemlerinden farklı olarak, bu akıllı sistemler tehditleri önceden tahmin edebilir, gerçek zamanlı olarak analiz edebilir ve hızla karşılık verebilir. Yapay zeka destekli güvenlik mekanizmaları, siber saldırıları sadece engellemekle kalmaz, aynı zamanda proaktif bir savunma stratejisi geliştirir.",
+                "slide_image_prompt": "A futuristic cybersecurity operations center with holographic AI interfaces, showing dynamic threat detection and real-time defense mechanisms. Visualize a central circular screen with interconnected digital networks, AI algorithms analyzing data streams, and protective digital shields emerging. Use a high-tech, blue and silver color palette with glowing digital elements, representing advanced technological defense. Cyberpunk-inspired digital art style with sharp, clean lines and a sense of intelligent, proactive protection."
+            },
+            "slide": 12
+        },
+        {
+            "step": "tester_content_slide_12",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide focus. The content effectively communicates the role of Agentic AI in cybersecurity, highlighting proactive threat detection, real-time defense mechanisms, and dynamic risk management. The onscreen text is concise and clear, while the voiceover provides more detailed information. The image prompt is highly specific and relevant, enhancing the overall message. The technical quality is high, with correct HTML markup and consistent language use. To make it even better, consider adding a brief example or statistic in the voiceover to further illustrate the impact of Agentic AI in cybersecurity.",
+                "score": 100
+            },
+            "slide": 12
+        },
+        {
+            "step": "initial_content_slide_13",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Etik Boyutları</h2><ul><li>Veri Gizliliği Riskleri</li><li>İş Gücü Dönüşümü</li><li>Karar Verme Şeffaflığı</li><li>Etik Sınırları Belirleme</li></ul>",
+                "slide_voiceover_text": "Agentic AI'nin hızla gelişen teknolojisi, beraberinde önemli etik zorluklar getirmektedir. Veri gizliliği, iş piyasasındaki dönüşüm ve algoritmaların şeffaflığı gibi konular, bu teknolojinin toplumsal etkilerini derinden şekillendirmektedir. Etik sınırları net bir şekilde belirlemek ve insan değerlerini korumak, geleceğin yapay zeka uygulamaları için kritik öneme sahiptir.",
+                "slide_image_prompt": "A split-screen digital illustration showing the ethical dilemmas of Agentic AI. On one side, a humanoid AI figure with transparent, glowing circuits representing technological advancement. On the other side, human silhouettes representing workforce and privacy concerns. The image should use a cool color palette of blues and grays, with subtle ethical balance symbolism like scales or interconnected human-AI elements. Minimalist, futuristic design with a professional and thought-provoking visual style."
+            },
+            "slide": 13
+        },
+        {
+            "step": "tester_content_slide_13",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is overall well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The slide focus, onscreen text, and voiceover align well.\n- The message is clear, but the voiceover could be more tightly connected to the bullet points.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The image prompt is relevant and enhances the content.\n- Consider adding brief explanations to each bullet point for better clarity.\n\n3. Technical Quality (28/30):\n- HTML markup is correct.\n- The image prompt is clear and specific.\n- Language is consistent, but the voiceover could be more concise.\n\nTo improve:\n- Align the voiceover more closely with the bullet points.\n- Add brief explanations to each bullet point in the onscreen text.\n- Tighten the language in the voiceover for more impact.\n- Consider mentioning 'Etik Sınırları Belirleme' in the voiceover explicitly.",
+                "score": 91
+            },
+            "slide": 13
+        },
+        {
+            "step": "fix_content_slide_13_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Agentic AI'nin Etik Boyutları</h2><ul><li>Veri Gizliliği Riskleri: Kişisel bilgilerin korunması</li><li>İş Gücü Dönüşümü: Yeni beceriler ve adaptasyon</li><li>Karar Verme Şeffaflığı: Algoritmaların açıklanabilirliği</li><li>Etik Sınırları Belirleme: İnsan değerlerini koruma</li></ul>",
+                    "slide_voiceover_text": "Agentic AI'nin hızla gelişen teknolojisi, önemli etik zorlukları beraberinde getiriyor. Veri gizliliği riskleri, kişisel bilgilerin korunmasını ön plana çıkarıyor. İş gücü dönüşümü, yeni beceriler ve adaptasyon ihtiyacını doğuruyor. Karar verme süreçlerinde şeffaflık, algoritmaların açıklanabilirliğini gerektiriyor. Son olarak, etik sınırları belirlemek ve insan değerlerini korumak, Agentic AI'nin geleceği için kritik öneme sahip. Bu etik boyutlar, teknolojinin toplumsal etkilerini derinden şekillendiriyor.",
+                    "slide_image_prompt": "A split-screen digital illustration showing the ethical dilemmas of Agentic AI. On one side, a humanoid AI figure with transparent, glowing circuits representing technological advancement. On the other side, four distinct human silhouettes, each representing one of the ethical dimensions: data privacy, workforce transformation, decision-making transparency, and ethical boundaries. Use a cool color palette of blues and grays. Include subtle ethical balance symbolism like scales or a maze connecting human-AI elements. The design should be minimalist, futuristic, and professional, conveying a thought-provoking visual style."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is generally well-structured and aligns with the slide focus. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message.\n- The voiceover could benefit from a more explicit connection to the bullet points on screen.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The image prompt is detailed and relevant, enhancing the overall message.\n\n3. Technical Quality (29/30):\n- HTML markup is correctly used.\n- The language is consistent and professional.\n- The image prompt is clear and specific.\n\nTo improve:\n- Add brief transitions in the voiceover to explicitly introduce each bullet point.\n- Consider adding a brief conclusion or call-to-action in the voiceover to reinforce the importance of addressing these ethical dimensions.\n- Ensure the image prompt includes visual elements that clearly represent each ethical dimension for better alignment with the onscreen text.",
+                    "score": 92
+                }
+            },
+            "slide": 13
+        },
+        {
+            "step": "fix_content_slide_13_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Agentic AI'nin Etik Boyutları</h2><ul><li>Veri Gizliliği Riskleri: Kişisel bilgilerin korunması</li><li>İş Gücü Dönüşümü: Yeni beceriler ve adaptasyon</li><li>Karar Verme Şeffaflığı: Algoritmaların açıklanabilirliği</li><li>Etik Sınırları Belirleme: İnsan değerlerini koruma</li></ul>",
+                    "slide_voiceover_text": "Agentic AI'nin hızla gelişen teknolojisi, önemli etik zorlukları beraberinde getiriyor. İlk olarak, veri gizliliği riskleri, kişisel bilgilerin korunmasını ön plana çıkarıyor. İkinci olarak, iş gücü dönüşümü, yeni beceriler ve adaptasyon ihtiyacını doğuruyor. Üçüncü boyut olan karar verme süreçlerinde şeffaflık, algoritmaların açıklanabilirliğini gerektiriyor. Son olarak, etik sınırları belirlemek ve insan değerlerini korumak, Agentic AI'nin geleceği için kritik öneme sahip. Bu etik boyutlar, teknolojinin toplumsal etkilerini derinden şekillendiriyor. Gelecekte sorumlu AI gelişimi için, bu etik zorlukları ele almak ve çözüm üretmek hepimizin görevi olmalıdır.",
+                    "slide_image_prompt": "A split-screen digital illustration showing the ethical dilemmas of Agentic AI. On one side, a humanoid AI figure with transparent, glowing circuits representing technological advancement. On the other side, four distinct human silhouettes, each clearly representing one of the ethical dimensions: 1) A figure shielding personal data, symbolizing data privacy, 2) A figure transforming into a new shape, representing workforce transformation, 3) A figure holding a transparent cube with visible algorithms, illustrating decision-making transparency, and 4) A figure balancing on a tightrope between AI and human values, depicting ethical boundaries. Use a cool color palette of blues and grays. Include subtle ethical balance symbolism like scales connecting the human-AI elements. The design should be minimalist, futuristic, and professional, conveying a thought-provoking visual style that clearly aligns with each bullet point on the slide."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is strong.\n- The message is clear and well-delivered.\n- The flow of information is logical.\n- Consider adding brief examples or statistics to enhance the level of detail.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- Onscreen text is concise and well-organized.\n- The voiceover provides more depth and context.\n- The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (27/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific.\n- Language consistency is maintained throughout.\n- To improve, consider adding more technical terms related to AI ethics in the voiceover.\n\nOverall, the content is of high quality but could be enhanced with minor additions to achieve a perfect score.",
+                    "score": 90
+                }
+            },
+            "slide": 13
+        },
+        {
+            "step": "fix_content_slide_13_iter4",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Agentic AI'nin Etik Boyutları</h2><ul><li>Veri Gizliliği Riskleri: Kişisel bilgilerin korunması</li><li>İş Gücü Dönüşümü: Yeni beceriler ve adaptasyon</li><li>Karar Verme Şeffaflığı: Algoritmaların açıklanabilirliği</li><li>Etik Sınırları Belirleme: İnsan değerlerini koruma</li></ul>",
+                    "slide_voiceover_text": "Agentic AI'nin hızla gelişen teknolojisi, önemli etik zorlukları beraberinde getiriyor. İlk olarak, veri gizliliği riskleri, kişisel bilgilerin korunmasını ön plana çıkarıyor. Örneğin, 2021'de yapılan bir araştırmaya göre, AI kullanıcılarının %68'i veri güvenliği konusunda endişe duyuyor. İkinci olarak, iş gücü dönüşümü, yeni beceriler ve adaptasyon ihtiyacını doğuruyor. Dünya Ekonomik Forumu'nun tahminlerine göre, 2025 yılına kadar 85 milyon iş AI tarafından değiştirilecek. Üçüncü boyut olan karar verme süreçlerinde şeffaflık, algoritmaların açıklanabilirliğini gerektiriyor. Bu noktada, 'explainable AI' ve 'algorithmic transparency' gibi kavramlar önem kazanıyor. Son olarak, etik sınırları belirlemek ve insan değerlerini korumak, Agentic AI'nin geleceği için kritik öneme sahip. Bu bağlamda, 'AI alignment' ve 'value alignment' konuları ön plana çıkıyor. Bu etik boyutlar, teknolojinin toplumsal etkilerini derinden şekillendiriyor. Gelecekte sorumlu AI gelişimi için, bu etik zorlukları ele almak ve çözüm üretmek hepimizin görevi olmalıdır.",
+                    "slide_image_prompt": "A split-screen digital illustration showing the ethical dilemmas of Agentic AI. On one side, a humanoid AI figure with transparent, glowing circuits representing technological advancement. On the other side, four distinct human silhouettes, each clearly representing one of the ethical dimensions: 1) A figure shielding personal data, symbolizing data privacy, with a percentage (68%) hovering nearby, 2) A figure transforming into a new shape, representing workforce transformation, with the number '85 million' subtly integrated, 3) A figure holding a transparent cube with visible algorithms, illustrating decision-making transparency, with the terms 'explainable AI' and 'algorithmic transparency' floating around it, 4) A figure balancing on a tightrope between AI and human values, depicting ethical boundaries, with 'AI alignment' and 'value alignment' written on either side of the rope. Use a cool color palette of blues and grays. Include subtle ethical balance symbolism like scales connecting the human-AI elements. The design should be minimalist, futuristic, and professional, conveying a thought-provoking visual style that clearly aligns with each bullet point on the slide."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherently present the ethical dimensions of Agentic AI. The content is informative, engaging, and professionally presented. The voiceover provides detailed explanations and relevant statistics, enhancing the bullet points on the slide. The image prompt is particularly strong, offering a visually compelling representation of the ethical issues discussed. The use of specific terms like 'explainable AI' and 'AI alignment' in both the voiceover and image prompt demonstrates a deep understanding of the subject matter. The only minor suggestion would be to consider adding a brief mention of these specific terms in the onscreen text for complete alignment across all elements.",
+                    "score": 100
+                }
+            },
+            "slide": 13
+        },
+        {
+            "step": "initial_content_slide_14",
+            "data": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Geleceği: Sınırsız Potansiyel</h2><ul><li>Gelişmiş Öğrenme Algoritmaları</li><li>Artan Hesaplama Gücü</li><li>Genişleyen Yapay Zeka Sınırları</li></ul>",
+                "slide_voiceover_text": "Agentic AI'nin geleceği, teknolojinin sürekli gelişen doğasında saklı. Daha sofistike öğrenme algoritmaları ve hızla artan hesaplama gücü, yapay zeka sistemlerinin yeteneklerini radikal bir şekilde genişletecek. Bu gelişmeler, AI'nın problem çözme, uyum sağlama ve özerk karar verme kapasitesini önümüzdeki yıllarda dramatik bir şekilde artıracaktır.",
+                "slide_image_prompt": "A futuristic digital landscape showing an evolving artificial intelligence network. Visualize interconnected neural network nodes transforming and expanding, with glowing blue and white circuit-like connections. Represent the growth and potential of AI through a dynamic, progressive visual metaphor. Use a high-tech, clean aesthetic with a sense of depth and movement. Incorporate subtle technological elements that suggest continuous learning and expansion. Cyberpunk-inspired digital art style with a professional, forward-looking color palette."
+            },
+            "slide": 14
+        },
+        {
+            "step": "tester_content_slide_14",
+            "data": {
+                "is_valid": true,
+                "feedback": "The slide content is coherent and well-structured. The onscreen text, voiceover, and image prompt align well with the slide focus. The onscreen text provides a clear, concise overview, while the voiceover expands on these points effectively. The image prompt is detailed and relevant, enhancing the overall message. To further improve, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a more balanced perspective.",
+                "score": 100
+            },
+            "slide": 14
+        },
+        {
+            "step": "initial_content_slide_15",
+            "data": {
+                "slide_onscreen_text": "<h2>Sonuç: Agentic AI ile Dönüşen Dünya</h2><ul><li>Sektörlerde Devrimsel Değişim</li><li>Akıllı ve Verimli Çözümler</li><li>Geleceğin Kişiselleştirilmiş Teknolojisi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, günümüz teknolojik manzarasını tamamen dönüştürüyor. Sağlık, eğitim, iş dünyası ve günlük yaşamın her alanında devrimsel bir değişim yaratarak, daha zeki, daha verimli ve daha kişiselleştirilmiş bir geleceğe doğru ilerliyoruz. Bu teknoloji, sadece mevcut süreçleri iyileştirmekle kalmıyor, aynı zamanda insan potansiyelini genişleten tamamen yeni iş modelleri ve çözümler sunuyor.",
+                "slide_image_prompt": "A futuristic landscape showing multiple interconnected digital networks transforming into human-like AI agents, representing different sectors like healthcare, education, and business. The scene should blend technological elements with human silhouettes, using a vibrant yet professional color palette of blues, whites, and soft metallic tones. The image should convey a sense of transformation, intelligence, and potential, with holographic interfaces and smooth, flowing digital connections. Render in a clean, modern digital illustration style that suggests innovation and hope."
+            },
+            "slide": 15
+        },
+        {
+            "step": "tester_content_slide_15",
+            "data": {
+                "is_valid": false,
+                "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and convey a clear message.\n- The voiceover could benefit from a more explicit connection to the bullet points on screen.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The image prompt is detailed and relevant, enhancing the overall message.\n- Consider adding a brief mention of specific examples in the onscreen text to reinforce the voiceover content.\n\n3. Technical Quality (28/30):\n- HTML markup is correctly used.\n- The language is consistent and professional.\n- The image prompt could be more specific about the placement of elements representing different sectors.\n\nTo improve:\n- Add 1-2 specific examples to the onscreen bullet points.\n- Refine the voiceover to explicitly mention the bullet points.\n- Enhance the image prompt with more specific placement details for sector representations.",
+                "score": 91
+            },
+            "slide": 15
+        },
+        {
+            "step": "fix_content_slide_15_iter3",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Sonuç: Agentic AI ile Dönüşen Dünya</h2><ul><li>Sektörlerde Devrimsel Değişim (Sağlık: Kişiselleştirilmiş Tedavi)</li><li>Akıllı ve Verimli Çözümler (Eğitim: Adaptif Öğrenme Platformları)</li><li>Geleceğin Kişiselleştirilmiş Teknolojisi (İş Dünyası: Otomatik Karar Destek Sistemleri)</li></ul>",
+                    "slide_voiceover_text": "Agentic AI, günümüz teknolojik manzarasını tamamen dönüştürüyor. Sağlık, eğitim, iş dünyası ve günlük yaşamın her alanında devrimsel bir değişim yaratıyoruz. Öncelikle, sektörlerde devrimsel değişime tanık oluyoruz. Örneğin, sağlıkta kişiselleştirilmiş tedavi planları oluşturuluyor. İkinci olarak, akıllı ve verimli çözümler sunuyoruz. Eğitimde, adaptif öğrenme platformları her öğrencinin ihtiyacına göre şekilleniyor. Son olarak, geleceğin kişiselleştirilmiş teknolojisini geliştiriyoruz. İş dünyasında, otomatik karar destek sistemleri şirketlerin verimliliğini artırıyor. Bu teknoloji, sadece mevcut süreçleri iyileştirmekle kalmıyor, aynı zamanda insan potansiyelini genişleten tamamen yeni iş modelleri ve çözümler sunarak daha zeki, daha verimli ve daha kişiselleştirilmiş bir geleceğe doğru ilerlememizi sağlıyor.",
+                    "slide_image_prompt": "A futuristic landscape showing multiple interconnected digital networks transforming into human-like AI agents, representing different sectors. In the foreground left, depict a healthcare section with a holographic patient and AI-driven medical devices. On the right, showcase an education area with virtual classrooms and adaptive learning interfaces. In the center background, illustrate a business sector with AI-powered decision-making systems and data visualization. Use a vibrant yet professional color palette of blues, whites, and soft metallic tones. The image should convey a sense of transformation, intelligence, and potential, with holographic interfaces and smooth, flowing digital connections linking all sectors. Render in a clean, modern digital illustration style that suggests innovation and hope."
+                },
+                "test_result": {
+                    "is_valid": false,
+                    "feedback": "The content is well-structured and aligns with the slide's focus, but there are areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more concise.\n- The message is clear, but the voiceover provides more detail than necessary for a conclusion slide.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is slightly off. The voiceover is too detailed for a conclusion slide.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The language is consistent and professional.\n\nRecommendations:\n- Shorten the voiceover text to match the conciseness of the onscreen text.\n- Consider adding a brief call-to-action or future outlook in the onscreen text.\n- Ensure the image clearly represents the transformation aspect mentioned in the content.",
+                    "score": 92
+                }
+            },
+            "slide": 15
+        },
+        {
+            "step": "fix_content_slide_15_iter3",
+            "data": {
+                "content": {
+                    "slide_onscreen_text": "<h2>Sonuç: Agentic AI ile Dönüşen Dünya</h2><ul><li>Sektörlerde Devrimsel Değişim</li><li>Akıllı ve Verimli Çözümler</li><li>Geleceğin Kişiselleştirilmiş Teknolojisi</li></ul><p>Gelecek İçin Hazır Olun: AI ile Dönüşümü Benimseyin!</p>",
+                    "slide_voiceover_text": "Agentic AI, günümüz teknolojik manzarasını dönüştürüyor. Sağlıkta kişiselleştirilmiş tedaviler, eğitimde adaptif öğrenme platformları ve iş dünyasında otomatik karar destek sistemleri ile sektörlerde devrimsel değişim yaratıyoruz. Bu akıllı ve verimli çözümler, geleceğin kişiselleştirilmiş teknolojisinin temelini oluşturuyor. Agentic AI, mevcut süreçleri iyileştirmenin ötesinde, insan potansiyelini genişleten yeni iş modelleri sunuyor. Daha zeki, verimli ve kişiselleştirilmiş bir geleceğe doğru ilerliyoruz. Sizleri bu dönüşümü benimsemeye ve geleceğe hazır olmaya davet ediyoruz.",
+                    "slide_image_prompt": "A dynamic, futuristic landscape showcasing the transformation of multiple sectors through Agentic AI. In the center, depict a large, glowing AI agent icon morphing into various sector representations. On the left, illustrate a healthcare section with AI-driven medical holograms. On the right, show an education area with adaptive learning interfaces. In the foreground, display a business sector with AI-powered decision-making systems. Use a vibrant color palette of blues, whites, and soft metallic tones. Include flowing digital connections linking all sectors, symbolizing seamless integration. Add a 'Future Ready' banner or hologram in the top right corner. Render in a clean, modern digital illustration style that conveys innovation, transformation, and potential."
+                },
+                "test_result": {
+                    "is_valid": true,
+                    "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about the transformative impact of Agentic AI across various sectors. The content effectively summarizes the key points of Agentic AI's influence on creating a smarter, more efficient, and personalized future. The onscreen text is concise and highlights the main points, while the voiceover provides more detailed information. The image prompt is highly relevant and enhances the overall message with its vivid description of a futuristic landscape showcasing AI's impact on different sectors. The technical quality is high, with proper HTML markup and consistent language use. The professional tone is maintained throughout. To achieve absolute perfection, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a more balanced perspective.",
+                    "score": 100
+                }
+            },
+            "slide": 15
+        }
+    ],
+    "final_outline": {
+        "presentation_title": "Agentic AI Kullanım Alanları: Geleceği Şekillendiren Teknoloji",
+        "slide_outlines": [
+            {
+                "slide_title": "Agentic AI: Geleceğin Teknolojisi",
+                "slide_focus": "Agentic AI, işletmeleri ve günlük yaşamı dönüştüren yeni nesil yapay zeka teknolojisidir.",
+                "slide_number": 1
+            },
+            {
+                "slide_title": "Agentic AI Nedir?",
+                "slide_focus": "Agentic AI, kendi başına karar verebilen, öğrenebilen ve eyleme geçebilen akıllı yazılım ajanlarıdır.",
+                "slide_number": 2
+            },
+            {
+                "slide_title": "Agentic AI'nin Temel Özellikleri",
+                "slide_focus": "Otonom karar verme, öğrenme yeteneği ve çevreyle etkileşim, Agentic AI'nin ayırt edici özellikleridir.",
+                "slide_number": 3
+            },
+            {
+                "slide_title": "Sağlık Sektöründe Agentic AI",
+                "slide_focus": "Agentic AI, kişiselleştirilmiş tedavi planları oluşturarak ve hastalık teşhisinde yardımcı olarak sağlık hizmetlerini iyileştirir.",
+                "slide_number": 4
+            },
+            {
+                "slide_title": "Finans ve Bankacılıkta Agentic AI",
+                "slide_focus": "Agentic AI, risk değerlendirmesi, dolandırıcılık tespiti ve otomatik ticaret stratejileri ile finans sektörünü dönüştürür.",
+                "slide_number": 5
+            },
+            {
+                "slide_title": "Eğitimde Agentic AI Uygulamaları",
+                "slide_focus": "Kişiselleştirilmiş öğrenme deneyimleri ve akıllı öğretmen asistanları, Agentic AI'nin eğitimde kullanım alanlarıdır.",
+                "slide_number": 6
+            },
+            {
+                "slide_title": "Üretim ve Endüstride Agentic AI",
+                "slide_focus": "Agentic AI, akıllı fabrikalar, öngörücü bakım ve tedarik zinciri optimizasyonu ile üretim verimliliğini artırır.",
+                "slide_number": 7
+            },
+            {
+                "slide_title": "Müşteri Hizmetlerinde Agentic AI",
+                "slide_focus": "Akıllı chatbotlar ve sanal asistanlar, Agentic AI'nin müşteri deneyimini geliştirmedeki rolünü gösterir.",
+                "slide_number": 8
+            },
+            {
+                "slide_title": "Agentic AI ve Akıllı Şehirler",
+                "slide_focus": "Trafik yönetimi, enerji verimliliği ve güvenlik sistemleri, Agentic AI'nin akıllı şehirlerdeki uygulamalarıdır.",
+                "slide_number": 9
+            },
+            {
+                "slide_title": "E-ticaret ve Perakendede Agentic AI",
+                "slide_focus": "Kişiselleştirilmiş ürün önerileri ve dinamik fiyatlandırma, Agentic AI'nin e-ticaretteki kullanım alanlarıdır.",
+                "slide_number": 10
+            },
+            {
+                "slide_title": "Agentic AI ve Otonom Araçlar",
+                "slide_focus": "Otonom araçlar, Agentic AI'nin gerçek zamanlı karar verme ve çevre algılama yeteneklerini sergiler.",
+                "slide_number": 11
+            },
+            {
+                "slide_title": "Siber Güvenlikte Agentic AI",
+                "slide_focus": "Agentic AI, tehditleri öngörerek ve hızlı yanıt vererek siber güvenliği güçlendirir.",
+                "slide_number": 12
+            },
+            {
+                "slide_title": "Agentic AI'nin Etik Boyutları",
+                "slide_focus": "Agentic AI'nin yaygınlaşması, veri gizliliği, iş gücü değişimi ve karar verme şeffaflığı gibi etik sorunları beraberinde getirir.",
+                "slide_number": 13
+            },
+            {
+                "slide_title": "Agentic AI'nin Geleceği",
+                "slide_focus": "Daha gelişmiş öğrenme algoritmaları ve artan hesaplama gücü, Agentic AI'nin potansiyelini genişletecektir.",
+                "slide_number": 14
+            },
+            {
+                "slide_title": "Sonuç: Agentic AI ile Dönüşen Dünya",
+                "slide_focus": "Agentic AI, çeşitli sektörlerde devrim yaratarak daha akıllı, verimli ve kişiselleştirilmiş bir geleceğe öncülük ediyor.",
+                "slide_number": 15
+            }
+        ]
+    },
+    "final_contents": {
+        "slide_1": {
+            "content": {
+                "slide_onscreen_text": "<h2>Agentic AI: Geleceğin Teknolojisi</h2><ul><li>Özerk Karar Alma</li><li>Dinamik Problem Çözme</li><li>İş ve Yaşam Transformasyonu</li></ul>",
+                "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak, kendi kendine düşünebilen ve bağımsız hareket edebilen bir teknolojidir. Bu teknoloji üç temel özelliğiyle öne çıkıyor: Özerk Karar Alma yeteneği ile insan müdahalesi olmadan kararlar alabilir. Dinamik Problem Çözme becerisiyle karmaşık sorunlara hızlı ve etkili çözümler üretir. Son olarak, İş ve Yaşam Transformasyonu sağlayarak işletmelerde verimliliği artırırken, günlük yaşamda da insan deneyimini zenginleştirmektedir. Agentic AI, geleceğin teknolojisi olarak hayatımızı dönüştürmeye devam edecek.",
+                "slide_image_prompt": "A futuristic, high-tech visualization showing an advanced AI brain network with glowing neural connections, surrounded by holographic scenes demonstrating: 1) Autonomous decision-making (representing 'Özerk Karar Alma'), 2) Complex problem-solving scenarios (for 'Dinamik Problem Çözme'), and 3) Business efficiency and enhanced daily life experiences (illustrating 'İş ve Yaşam Transformasyonu'). Use a sleek, modern design with a blue and white color palette, emphasizing intelligence and potential. Digital art style with sharp, clean lines and a sense of dynamic movement."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points about Agentic AI. The content is clear, concise, and logically structured. The voiceover provides detailed explanations that complement the onscreen bullet points. The image prompt is highly relevant and creatively illustrates the main concepts. To further enhance the slide, consider adding a brief definition of Agentic AI in the onscreen text to provide immediate context for viewers.",
+                "score": 100
+            }
+        },
+        "slide_2": {
+            "content": {
+                "slide_onscreen_text": "<h1>Agentic AI Nedir?</h1><ul><li>Kendi Kendine Karar Veren Akıllı Sistemler</li><li>Özerk Öğrenme ve Eylem Yeteneği</li><li>Dinamik Problem Çözme Gücü</li></ul>",
+                "slide_voiceover_text": "Agentic AI, geleneksel yapay zeka sistemlerinden farklı olarak, kendi başına karar verebilen, sürekli öğrenen ve proaktif bir şekilde eyleme geçebilen gelişmiş yazılım ajanlarıdır. Bu sistemler, sadece verilen komutları yerine getirmekle kalmaz, aynı zamanda karmaşık problemleri analiz edebilir, bağımsız stratejiler geliştirebilir ve hedeflerine ulaşmak için kendi eylem planlarını oluşturabilirler.",
+                "slide_image_prompt": "A futuristic, high-tech visualization of an intelligent AI system with multiple interconnected neural network nodes, showing autonomous decision-making. The image should have a deep blue and electric white color scheme, with holographic-like representations of decision trees and adaptive learning pathways. Include subtle robotic or digital elements that suggest intelligence and autonomy. Use a clean, modern digital art style with a sense of depth and complexity, symbolizing the advanced cognitive capabilities of Agentic AI."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the concept of Agentic AI. The onscreen text provides clear, concise bullet points that summarize the key aspects of Agentic AI. The voiceover expands on these points, offering a comprehensive explanation that adds depth to the visual elements. The image prompt describes a visually striking and relevant representation that will enhance the audience's understanding of the topic. The content maintains a professional tone and uses consistent language throughout. There are no critical issues, and all components are present and well-executed.",
+                "score": 100
+            }
+        },
+        "slide_3": {
+            "content": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Temel Özellikleri</h2><ul><li>Otonom Karar Verme</li><li>Dinamik Öğrenme Yeteneği</li><li>Çevreyle Etkileşim Becerisi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, üç temel özelliğiyle geleneksel yapay zeka sistemlerinden ayrılır. İlk olarak, otonom karar verme yeteneği sayesinde kendi başına stratejik kararlar alabilir. İkinci olarak, dinamik öğrenme yeteneği ile sürekli deneyimlerinden öğrenir ve kendini geliştirir. Son olarak, çevreyle etkileşim becerisi sayesinde dış dünyayı algılar ve ona uyum sağlar. Bu özellikler, Agentic AI'yi geleceğin teknolojisi haline getiriyor.",
+                "slide_image_prompt": "A futuristic, high-tech visualization showing an intelligent AI system with three distinct but interconnected sections. Each section should clearly represent one of the three key features: 1) Autonomous Decision-Making, 2) Dynamic Learning Ability, and 3) Environmental Interaction. Use a sleek, modern design with a color palette of blues, whites, and subtle electric accents. Include holographic-like elements showing data flow between the three sections. The style should be clean, technological, and forward-looking, emphasizing the advanced nature of Agentic AI and its three core features."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key features of Agentic AI. The content is clear, concise, and logically structured. The voiceover provides additional context and explanation, enhancing the onscreen text. The image prompt is detailed and relevant, perfectly complementing the textual content. There are no critical issues, and the content meets all evaluation criteria at a high level. To achieve absolute perfection, consider adding a brief transition sentence in the voiceover to connect the list of features with their impact on making Agentic AI the technology of the future.",
+                "score": 100
+            }
+        },
+        "slide_4": {
+            "content": {
+                "slide_onscreen_text": "<h2>Sağlık Sektöründe Agentic AI</h2><ul><li>Kişiselleştirilmiş Tedavi Planları</li><li>Hastalık Teşhisinde Yapay Zeka Desteği</li><li>Sağlık Hizmetlerinde İnovasyon ve Etik</li></ul>",
+                "slide_voiceover_text": "Agentic AI, sağlık sektöründe devrim yaratacak potansiyele sahip bir teknolojidir. Genetik profilleri, yaşam tarzı faktörlerini ve tıbbi geçmişi analiz ederek hastaya özel tedavi planları oluşturur. Örneğin, kanser tedavisinde tümör genomunu inceleyerek en etkili ilaç kombinasyonlarını önerir. Hastalıkların erken teşhisinde, makine öğrenimi algoritmaları, radyolojik görüntüleri ve laboratuvar sonuçlarını hızlı ve hassas bir şekilde analiz ederek doktorların daha doğru kararlar almasına destek olur. Bu gelişmeler, sağlık hizmetlerini dönüştürürken, hasta verilerinin gizliliği ve AI kararlarının şeffaflığı gibi etik konuların da dikkatle ele alınması gerekmektedir.",
+                "slide_image_prompt": "A futuristic medical visualization showing an AI-powered holographic interface displaying personalized patient health data, including genetic profiles, lifestyle factors, and medical history. A human doctor and an advanced AI system are working collaboratively, with the AI highlighting potential treatment options and early disease markers. Use a clean, high-tech medical aesthetic with soft blue and white color palette, emphasizing both technological innovation and ethical considerations. Include subtle digital elements like data encryption symbols and transparency indicators alongside medical icons to represent AI's capabilities and responsible use. Render in a photorealistic style with a modern, optimistic yet thoughtful feel."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about Agentic AI in healthcare. The content is comprehensive, covering personalized treatment plans, disease diagnosis, and ethical considerations. The voiceover provides detailed examples and explanations, while the onscreen text summarizes key points effectively. The image prompt is highly specific and relevant, enhancing the overall presentation. To further improve, consider adding a brief mention of potential challenges or limitations of Agentic AI in healthcare to provide a balanced perspective.",
+                "score": 100
+            }
+        },
+        "slide_5": {
+            "content": {
+                "slide_onscreen_text": "Finans Sektöründe Agentic AI:<br>• Risk Değerlendirmesi<br>• Dolandırıcılık Tespiti<br>• Otomatik Ticaret Stratejileri",
+                "slide_voiceover_text": "Agentic AI, finans dünyasını radikal bir şekilde dönüştürüyor. Geleneksel sistemlerin ötesine geçerek, karmaşık finansal süreçleri akıllıca yönetiyor. Örneğin, makine öğrenimi algoritmaları kullanarak kredi risk skorlamasını optimize ediyor, anomali tespiti ile dolandırıcılık vakalarını gerçek zamanlı olarak belirliyor ve yüksek frekanslı ticaret stratejilerini milisaniyeler içinde uygulayabiliyor. Bu AI sistemleri, insan finans uzmanlarıyla işbirliği yaparak, büyük veri analitiği ve prediktif modelleme gibi tekniklerle karar alma mekanizmalarını güçlendiriyor. Sonuç olarak, Agentic AI, finans sektörüne daha hızlı, daha doğru ve daha verimli çözümler sunarak devrim niteliğinde bir dönüşüm getiriyor.",
+                "slide_image_prompt": "A futuristic financial control room with holographic AI interfaces displaying complex financial data, risk matrices, and trading algorithms. Show humanoid AI robots collaborating with human financial experts, analyzing real-time market data and making trading decisions together. Use a sleek, high-tech blue and silver color palette, with glowing data visualizations. Cyberpunk-inspired digital art style, emphasizing intelligence and technological advancement in finance. Include visual representations of machine learning algorithms and predictive models in the background."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about the use of Agentic AI in finance and banking. The content is detailed, informative, and flows logically. The multimedia design balances onscreen text conciseness with comprehensive voiceover explanation. The image prompt is highly specific and relevant, enhancing the overall presentation. The language is consistent and professional throughout. To achieve absolute perfection, consider adding a brief mention of cybersecurity in the voiceover, as it's a crucial aspect of AI in finance.",
+                "score": 100
+            }
+        },
+        "slide_6": {
+            "content": {
+                "slide_onscreen_text": "<h2>Eğitimde Agentic AI: Öğrenmeyi Dönüştüren Teknoloji</h2><ul><li>🧠 Kişiselleştirilmiş Öğrenme Deneyimleri</li><li>🤖 Akıllı Öğretmen Asistanları</li></ul>",
+                "slide_voiceover_text": "Agentic AI, eğitim sektöründe devrim yaratacak iki temel uygulama alanıyla öne çıkıyor. Birincisi, her öğrencinin benzersiz öğrenme stiline ve hızına uyarlanmış kişiselleştirilmiş öğrenme deneyimleri. İkincisi ise öğretmenlere destek veren ve eğitim süreçlerini optimize eden akıllı öğretmen asistanları. Bu teknolojiler, eğitimde bireyselleştirilmiş ve daha etkili bir yaklaşımın önünü açıyor.",
+                "slide_image_prompt": "A futuristic classroom scene showing an AI-powered learning environment. On one side, holographic personalized learning interfaces adapt to individual students' learning styles. On the other side, an intelligent AI assistant helps a teacher with lesson planning and student performance analysis. Use a clean, modern illustration style with soft blue and white color palette, emphasizing technology and human-AI collaboration in education. Include diverse students and a friendly, approachable AI interface."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points about Agentic AI applications in education. The content is clear, concise, and logically structured. The onscreen text uses appropriate HTML markup and emojis to enhance visual appeal. The voiceover provides more detailed information, complementing the onscreen text well. The image prompt is specific and relevant, visualizing the concepts discussed. To further improve, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a balanced perspective.",
+                "score": 100
+            }
+        },
+        "slide_7": {
+            "content": {
+                "slide_onscreen_text": "<h2>Üretim ve Endüstride Agentic AI</h2><ul><li>Akıllı Fabrika Optimizasyonu</li><li>Öngörücü Bakım Sistemleri</li><li>Tedarik Zinciri Yönetimi</li><li>Verimlilik Artışı %40'a Kadar</li></ul>",
+                "slide_voiceover_text": "Agentic AI, üretim sektöründe devrim yaratıyor. Akıllı fabrika optimizasyonunda, Agentic AI, üretim süreçlerini otonom sistemlerle dönüştürüyor. Öngörücü bakım sistemlerinde, makine öğrenimi ve gerçek zamanlı veri analizi sayesinde, arızaları önceden tahmin ediyor ve bakım maliyetlerini düşürüyor. Tedarik zinciri yönetiminde, AI destekli algoritmalar, stok ve lojistik süreçlerini optimize ediyor. Bu yenilikçi uygulamalar sayesinde, üretim verimliliğinde %40'a varan artışlar gözlemleniyor.",
+                "slide_image_prompt": "A futuristic smart factory interior with robotic arms, AI-powered control screens, and holographic data visualizations. The scene should show interconnected machines working seamlessly, with blue and white color tones suggesting advanced technology. Include transparent digital overlays showing real-time performance metrics and predictive maintenance alerts. Render in a photorealistic style with a clean, high-tech aesthetic that emphasizes efficiency and innovation. Add visual elements representing supply chain optimization and a prominent '40% productivity increase' indicator."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about Agentic AI in manufacturing and industry. The content is detailed, logically structured, and maintains a professional tone throughout. The multimedia design effectively balances onscreen text with a comprehensive voiceover. The image prompt is specific and relevant, enhancing the overall presentation. To further improve, consider adding a brief mention of potential challenges or limitations of Agentic AI in manufacturing to provide a balanced perspective.",
+                "score": 100
+            }
+        },
+        "slide_8": {
+            "content": {
+                "slide_onscreen_text": "<h1>Müşteri Hizmetlerinde Agentic AI</h1><ul><li>Akıllı Chatbot'lar: Anlık, Kişiselleştirilmiş Destek</li><li>Sanal Asistanlar: Gelişmiş Problem Çözme</li><li>Müşteri Deneyimini Dönüştüren Teknoloji</li><li>Potansiyel Zorluklar ve Sınırlamalar</li></ul>",
+                "slide_voiceover_text": "Agentic AI, müşteri hizmetlerinde devrim yaratıyor, geleneksel AI'dan farklı olarak proaktif ve özerk çözümler sunuyor. İlk olarak, akıllı chatbot'lar anlık, kişiselleştirilmiş destek sağlıyor. Örneğin, bir e-ticaret platformunda sipariş durumu sorgularını anında yanıtlayabilirler. İkinci olarak, sanal asistanlar karmaşık sorunları çözüyor. Mesela, bir telekomünikasyon şirketinde ağ bağlantı sorunlarını adım adım giderebilirler. Üçüncüsü, bu sistemler müşteri deneyimini sürekli öğrenme ve uyarlanma ile dönüştürüyor. Bir bankanın mobil uygulamasında, kullanıcı alışkanlıklarına göre özelleştirilmiş finansal öneriler sunabilirler. Son olarak, veri gizliliği, etik kullanım ve insan müdahalesi gerektiren durumlar gibi zorluklar dikkatle ele alınmalıdır.",
+                "slide_image_prompt": "A futuristic customer service center with holographic AI assistants helping diverse customers. Split screen showing traditional AI vs Agentic AI-powered support. On the Agentic AI side, display a large, sleek chatbot interface with conversation bubbles and a photorealistic virtual assistant avatar demonstrating proactive problem-solving. Use a clean, high-tech blue and white color palette. Realistic 3D rendering with soft lighting, emphasizing technology and human-AI interaction. Include holographic interfaces and smart devices. Show customers interacting with chatbots on mobile devices (e.g., checking order status) and virtual assistants on computer screens (e.g., resolving network issues), with satisfied expressions. Add a small section showing a human supervisor overseeing AI operations, representing the balance between AI and human involvement. Include visual elements representing data privacy (e.g., a lock icon over data), ethical AI use (e.g., a scale balancing AI and ethics), and a complex scenario where human intervention is needed (e.g., a puzzled AI face with a human stepping in to help)."
+            },
+            "iterations": 6,
+            "validation": {
+                "is_valid": false,
+                "feedback": "The content is well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is generally good, but the voiceover could be more tightly aligned with the bullet points.\n   - The message is clear, but the voiceover could be more concise to match the onscreen text better.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - The onscreen text is concise and well-structured.\n   - The voiceover is comprehensive but could be more focused.\n   - The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct.\n   - The image prompt is clear and specific.\n   - Language consistency is maintained.\n   - The tone is professional.\n\nSuggestions for improvement:\n1. Tighten the alignment between the voiceover and the onscreen bullet points.\n2. Consider adding brief examples to the onscreen text to match the detailed examples in the voiceover.\n3. Streamline the voiceover slightly to focus more directly on the four main points listed in the onscreen text.\n4. Consider adding a brief mention of the potential challenges and limitations in the image prompt to fully align with the onscreen text and voiceover.",
+                "score": 92
+            }
+        },
+        "slide_9": {
+            "content": {
+                "slide_onscreen_text": "<h2>Yapay Zeka Ajanları ve Akıllı Şehirler</h2><ul><li>Trafik Yönetimi: Akıllı Trafik Kontrol Sistemleri</li><li>Enerji Verimliliği: Optimize Altyapı Çözümleri</li><li>Güvenlik Sistemleri: Proaktif Risk Yönetimi</li></ul>",
+                "slide_voiceover_text": "Yapay zeka ajanları, modern şehirlerin altyapısını ve yaşam kalitesini dönüştüren devrimci bir teknoloji olarak karşımıza çıkıyor. Trafik yönetiminde, yapay zeka ajanları gerçek zamanlı veri analizi yaparak trafik akışını optimize ediyor ve sinyalizasyon sistemlerini dinamik olarak ayarlıyor. Enerji verimliliğinde, bu ajanlar binaların enerji tüketimini izleyerek ve hava durumuna göre ayarlayarak kaynak kullanımını minimize ediyor. Güvenlik sistemlerinde ise, yapay zeka ajanları kamera görüntülerini analiz ederek potansiyel tehditleri önceden tespit ediyor ve acil durum ekiplerini yönlendiriyor. Bu otonom karar verme yeteneği sayesinde, yapay zeka ajanları şehir yönetiminde gerçek zamanlı ve proaktif çözümler sunuyor.",
+                "slide_image_prompt": "A futuristic cityscape with interconnected digital networks, showing smart traffic lights, energy-efficient buildings, and AI-powered security systems. Include visible AI elements such as holographic AI interfaces managing traffic flow, robotic maintenance units optimizing energy usage in buildings, and AI-driven security drones patrolling the city. Use a blue and green color palette to represent technology and sustainability. Visualize data streams connecting different urban systems. Render in a clean, modern digital illustration style with a slightly isometric perspective to show depth and connectivity. Add Turkish labels for key elements (e.g., 'Akıllı Trafik Sistemi', 'Enerji Optimizasyonu', 'Güvenlik Dronları') to reinforce the localized context."
+            },
+            "iterations": 2,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively communicate the key points about Agentic AI in smart cities. The content covers the three main areas mentioned in the slide focus: traffic management, energy efficiency, and security systems. The voiceover provides detailed explanations that expand on the bullet points, offering a comprehensive understanding of how AI agents transform urban infrastructure. The image prompt is particularly strong, providing a vivid visualization that reinforces the concepts discussed. The inclusion of Turkish labels in the image prompt is a thoughtful touch that enhances localization. To achieve absolute perfection, consider adding a brief mention of potential challenges or ethical considerations in implementing AI in urban environments to provide a balanced perspective.",
+                "score": 100
+            }
+        },
+        "slide_10": {
+            "content": {
+                "slide_onscreen_text": "<h2>E-ticaret ve Perakendede Agentic AI</h2><ul><li>Kişiselleştirilmiş Ürün Önerileri: Müşteri tercihlerine göre akıllı seçimler</li><li>Dinamik Fiyatlandırma Stratejileri: Talep ve rekabete göre otomatik ayarlama</li><li>Müşteri Deneyimini Optimize Etme: Yapay zeka destekli kişiselleştirme</li><li>Rekabet Gücünü Artırma: AI ile işletme performansını yükseltme</li><li>Müşteri Memnuniyeti Ölçeri: AI yenilikleri ile sürekli artan memnuniyet</li></ul>",
+                "slide_voiceover_text": "Agentic AI, e-ticaret sektöründe çığır açıyor. Gelişmiş yapay zeka algoritmaları sayesinde, müşterilere beş temel alanda yenilik sunuyoruz. Birincisi, kişiselleştirilmiş ürün önerileri ile her müşteriye özel alışveriş deneyimi yaratıyoruz. İkincisi, dinamik fiyatlandırma stratejileri ile pazar koşullarına göre fiyatları gerçek zamanlı optimize ediyoruz. Üçüncüsü, müşteri deneyimini yapay zeka ile kişiselleştiriyor ve iyileştiriyoruz. Dördüncüsü, işletmelerin rekabet gücünü AI ile yükseltiyoruz. Son olarak, ekranda gördüğünüz gibi, müşteri memnuniyeti ölçeri bu yenilikçi yaklaşımlarla sürekli artıyor. Böylece hem müşteri sadakatini hem de işletme performansını güçlendiriyoruz.",
+                "slide_image_prompt": "Create a futuristic e-commerce interface split into five distinct sections, each representing one of the key areas of Agentic AI in e-commerce. Section 1: Show personalized product recommendations with smart selection arrows. Section 2: Display dynamic pricing with real-time price adjustments and small graphs. Section 3: Illustrate customer experience optimization with an AI-powered digital assistant. Section 4: Represent increased competitiveness with rising performance charts. Section 5: Feature a prominent customer satisfaction meter visibly improving. Use a modern, sleek tech-inspired visual style with holographic elements, soft blue and white color palette, and subtle digital network connections. Include visual metaphors like interconnected nodes or smart recommendation pathways. Ensure a clean, minimalist design that emphasizes technological innovation in retail, with all five sections clearly labeled and visually distinct."
+            },
+            "iterations": 4,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content demonstrates excellent coherence and quality. The onscreen text, voiceover, and image prompt are well-aligned and effectively communicate the key points about Agentic AI in e-commerce. The content is clear, detailed, and logically structured. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points and a comprehensive narration. The image prompt is highly specific and relevant, enhancing the overall message. However, to achieve absolute perfection, consider slightly expanding on the 'Müşteri Memnuniyeti Ölçeri' point in the voiceover to match the detail level of other points.",
+                "score": 100
+            }
+        },
+        "slide_11": {
+            "content": {
+                "slide_onscreen_text": "<h2>Agentic AI: Otonom Araçların Beyni</h2><ul><li>Gerçek Zamanlı Çevre Algılama</li><li>Dinamik Karar Verme Mekanizmaları</li><li>Güvenli ve Akıllı Sürüş</li></ul>",
+                "slide_voiceover_text": "Agentic AI, otonom araçların en kritik teknolojik bileşenidir. Araçların çevresini anlama, algılama ve milisaniyeler içinde güvenli kararlar alma yeteneğini sağlar. Bu yapay zeka sistemleri, sürekli akan sensör verilerini işleyerek, potansiyel riskleri önceden tahmin edebilir ve anında tepki verebilir.",
+                "slide_image_prompt": "A futuristic autonomous vehicle driving on a smart highway, with visible AI neural network visualizations around the car, showing real-time sensor data and decision-making processes. The scene should have a high-tech, blue-toned color palette, with holographic interfaces displaying environmental data. Render in a photorealistic digital illustration style, emphasizing technological sophistication and intelligent mobility."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the message about Agentic AI in autonomous vehicles. The content demonstrates a clear focus on real-time decision-making and environmental perception capabilities of Agentic AI in autonomous vehicles. The onscreen text is concise and highlights key points, while the voiceover provides more detailed explanations. The image prompt is highly relevant and enhances the overall message with its futuristic and technologically sophisticated visualization. To further improve, consider adding a brief mention of specific examples or real-world applications of Agentic AI in autonomous vehicles in the voiceover to make the content even more engaging and relatable.",
+                "score": 100
+            }
+        },
+        "slide_12": {
+            "content": {
+                "slide_onscreen_text": "<h2>Siber Güvenlikte Agentic AI</h2><ul><li>Proaktif Tehdit Tespiti</li><li>Anlık Savunma Mekanizmaları</li><li>Dinamik Risk Yönetimi</li></ul>",
+                "slide_voiceover_text": "Agentic AI, siber güvenlik alanında devrim yaratmaktadır. Geleneksel güvenlik sistemlerinden farklı olarak, bu akıllı sistemler tehditleri önceden tahmin edebilir, gerçek zamanlı olarak analiz edebilir ve hızla karşılık verebilir. Yapay zeka destekli güvenlik mekanizmaları, siber saldırıları sadece engellemekle kalmaz, aynı zamanda proaktif bir savunma stratejisi geliştirir.",
+                "slide_image_prompt": "A futuristic cybersecurity operations center with holographic AI interfaces, showing dynamic threat detection and real-time defense mechanisms. Visualize a central circular screen with interconnected digital networks, AI algorithms analyzing data streams, and protective digital shields emerging. Use a high-tech, blue and silver color palette with glowing digital elements, representing advanced technological defense. Cyberpunk-inspired digital art style with sharp, clean lines and a sense of intelligent, proactive protection."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide focus. The content effectively communicates the role of Agentic AI in cybersecurity, highlighting proactive threat detection, real-time defense mechanisms, and dynamic risk management. The onscreen text is concise and clear, while the voiceover provides more detailed information. The image prompt is highly specific and relevant, enhancing the overall message. The technical quality is high, with correct HTML markup and consistent language use. To make it even better, consider adding a brief example or statistic in the voiceover to further illustrate the impact of Agentic AI in cybersecurity.",
+                "score": 100
+            }
+        },
+        "slide_13": {
+            "content": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Etik Boyutları</h2><ul><li>Veri Gizliliği Riskleri: Kişisel bilgilerin korunması</li><li>İş Gücü Dönüşümü: Yeni beceriler ve adaptasyon</li><li>Karar Verme Şeffaflığı: Algoritmaların açıklanabilirliği</li><li>Etik Sınırları Belirleme: İnsan değerlerini koruma</li></ul>",
+                "slide_voiceover_text": "Agentic AI'nin hızla gelişen teknolojisi, önemli etik zorlukları beraberinde getiriyor. İlk olarak, veri gizliliği riskleri, kişisel bilgilerin korunmasını ön plana çıkarıyor. Örneğin, 2021'de yapılan bir araştırmaya göre, AI kullanıcılarının %68'i veri güvenliği konusunda endişe duyuyor. İkinci olarak, iş gücü dönüşümü, yeni beceriler ve adaptasyon ihtiyacını doğuruyor. Dünya Ekonomik Forumu'nun tahminlerine göre, 2025 yılına kadar 85 milyon iş AI tarafından değiştirilecek. Üçüncü boyut olan karar verme süreçlerinde şeffaflık, algoritmaların açıklanabilirliğini gerektiriyor. Bu noktada, 'explainable AI' ve 'algorithmic transparency' gibi kavramlar önem kazanıyor. Son olarak, etik sınırları belirlemek ve insan değerlerini korumak, Agentic AI'nin geleceği için kritik öneme sahip. Bu bağlamda, 'AI alignment' ve 'value alignment' konuları ön plana çıkıyor. Bu etik boyutlar, teknolojinin toplumsal etkilerini derinden şekillendiriyor. Gelecekte sorumlu AI gelişimi için, bu etik zorlukları ele almak ve çözüm üretmek hepimizin görevi olmalıdır.",
+                "slide_image_prompt": "A split-screen digital illustration showing the ethical dilemmas of Agentic AI. On one side, a humanoid AI figure with transparent, glowing circuits representing technological advancement. On the other side, four distinct human silhouettes, each clearly representing one of the ethical dimensions: 1) A figure shielding personal data, symbolizing data privacy, with a percentage (68%) hovering nearby, 2) A figure transforming into a new shape, representing workforce transformation, with the number '85 million' subtly integrated, 3) A figure holding a transparent cube with visible algorithms, illustrating decision-making transparency, with the terms 'explainable AI' and 'algorithmic transparency' floating around it, 4) A figure balancing on a tightrope between AI and human values, depicting ethical boundaries, with 'AI alignment' and 'value alignment' written on either side of the rope. Use a cool color palette of blues and grays. Include subtle ethical balance symbolism like scales connecting the human-AI elements. The design should be minimalist, futuristic, and professional, conveying a thought-provoking visual style that clearly aligns with each bullet point on the slide."
+            },
+            "iterations": 4,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherently present the ethical dimensions of Agentic AI. The content is informative, engaging, and professionally presented. The voiceover provides detailed explanations and relevant statistics, enhancing the bullet points on the slide. The image prompt is particularly strong, offering a visually compelling representation of the ethical issues discussed. The use of specific terms like 'explainable AI' and 'AI alignment' in both the voiceover and image prompt demonstrates a deep understanding of the subject matter. The only minor suggestion would be to consider adding a brief mention of these specific terms in the onscreen text for complete alignment across all elements.",
+                "score": 100
+            }
+        },
+        "slide_14": {
+            "content": {
+                "slide_onscreen_text": "<h2>Agentic AI'nin Geleceği: Sınırsız Potansiyel</h2><ul><li>Gelişmiş Öğrenme Algoritmaları</li><li>Artan Hesaplama Gücü</li><li>Genişleyen Yapay Zeka Sınırları</li></ul>",
+                "slide_voiceover_text": "Agentic AI'nin geleceği, teknolojinin sürekli gelişen doğasında saklı. Daha sofistike öğrenme algoritmaları ve hızla artan hesaplama gücü, yapay zeka sistemlerinin yeteneklerini radikal bir şekilde genişletecek. Bu gelişmeler, AI'nın problem çözme, uyum sağlama ve özerk karar verme kapasitesini önümüzdeki yıllarda dramatik bir şekilde artıracaktır.",
+                "slide_image_prompt": "A futuristic digital landscape showing an evolving artificial intelligence network. Visualize interconnected neural network nodes transforming and expanding, with glowing blue and white circuit-like connections. Represent the growth and potential of AI through a dynamic, progressive visual metaphor. Use a high-tech, clean aesthetic with a sense of depth and movement. Incorporate subtle technological elements that suggest continuous learning and expansion. Cyberpunk-inspired digital art style with a professional, forward-looking color palette."
+            },
+            "iterations": 1,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is coherent and well-structured. The onscreen text, voiceover, and image prompt align well with the slide focus. The onscreen text provides a clear, concise overview, while the voiceover expands on these points effectively. The image prompt is detailed and relevant, enhancing the overall message. To further improve, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a more balanced perspective.",
+                "score": 100
+            }
+        },
+        "slide_15": {
+            "content": {
+                "slide_onscreen_text": "<h2>Sonuç: Agentic AI ile Dönüşen Dünya</h2><ul><li>Sektörlerde Devrimsel Değişim</li><li>Akıllı ve Verimli Çözümler</li><li>Geleceğin Kişiselleştirilmiş Teknolojisi</li></ul><p>Gelecek İçin Hazır Olun: AI ile Dönüşümü Benimseyin!</p>",
+                "slide_voiceover_text": "Agentic AI, günümüz teknolojik manzarasını dönüştürüyor. Sağlıkta kişiselleştirilmiş tedaviler, eğitimde adaptif öğrenme platformları ve iş dünyasında otomatik karar destek sistemleri ile sektörlerde devrimsel değişim yaratıyoruz. Bu akıllı ve verimli çözümler, geleceğin kişiselleştirilmiş teknolojisinin temelini oluşturuyor. Agentic AI, mevcut süreçleri iyileştirmenin ötesinde, insan potansiyelini genişleten yeni iş modelleri sunuyor. Daha zeki, verimli ve kişiselleştirilmiş bir geleceğe doğru ilerliyoruz. Sizleri bu dönüşümü benimsemeye ve geleceğe hazır olmaya davet ediyoruz.",
+                "slide_image_prompt": "A dynamic, futuristic landscape showcasing the transformation of multiple sectors through Agentic AI. In the center, depict a large, glowing AI agent icon morphing into various sector representations. On the left, illustrate a healthcare section with AI-driven medical holograms. On the right, show an education area with adaptive learning interfaces. In the foreground, display a business sector with AI-powered decision-making systems. Use a vibrant color palette of blues, whites, and soft metallic tones. Include flowing digital connections linking all sectors, symbolizing seamless integration. Add a 'Future Ready' banner or hologram in the top right corner. Render in a clean, modern digital illustration style that conveys innovation, transformation, and potential."
+            },
+            "iterations": 3,
+            "validation": {
+                "is_valid": true,
+                "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about the transformative impact of Agentic AI across various sectors. The content effectively summarizes the key points of Agentic AI's influence on creating a smarter, more efficient, and personalized future. The onscreen text is concise and highlights the main points, while the voiceover provides more detailed information. The image prompt is highly relevant and enhances the overall message with its vivid description of a futuristic landscape showcasing AI's impact on different sectors. The technical quality is high, with proper HTML markup and consistent language use. The professional tone is maintained throughout. To achieve absolute perfection, consider adding a brief mention of potential challenges or ethical considerations in the voiceover to provide a more balanced perspective.",
+                "score": 100
+            }
+        }
+    }
+}

@@ -1,10 +1,10 @@
 #%%
-from slidedatamodels import PresentationOutline, TopicCount, TestResultOutline, ValidationAndFeedback
+from slidedatamodels import PresentationOutline, TestResultOutline
 import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import outline_fixer_system_message
+from prompts import outline_fixer_system_message, outline_fixer_user_message
 
 load_dotenv()
 
@@ -25,16 +25,6 @@ def call_outline_fixer_agent(test_result_with_outline : TestResultOutline) -> Pr
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
 
-    user_message = (
-        f'''
-        This is the previous presentation title: {previous_outline_title} 
-        This is the outline generated previously: {previous_outline_text}
-        This is the feedback from the validation agent: {feedback}
-        This is the score from the validation agent: {score}
-        I want you to fix the outline accoring to the feedback and score.
-        '''
-    )
-
     AI_Response = client.chat.completions.create(
         model="claude-3-5-sonnet-20240620",
         messages=[
@@ -44,7 +34,10 @@ def call_outline_fixer_agent(test_result_with_outline : TestResultOutline) -> Pr
             },
             {
                 "role": "user",
-                "content": user_message
+                "content": outline_fixer_user_message.format(previous_outline_title=previous_outline_title,
+                                                              previous_outline_text=previous_outline_text,
+                                                              feedback=feedback,
+                                                              score=score)
             }
         ],
         response_model=PresentationOutline,

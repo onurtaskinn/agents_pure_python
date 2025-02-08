@@ -9,5 +9,6 @@ ipykernel
 
 instructor
 anthropic
+fal-client
 
 streamlit

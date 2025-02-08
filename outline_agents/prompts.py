@@ -24,6 +24,14 @@ outline_initial_generator_system_message = (
     '''
     )
 
+outline_initial_generator_user_message = (
+    '''
+    I want to create a presentation on {presentation_topic}. There will be {slide_count} slides.
+    '''
+    )
+
+
+
 outline_tester_system_message = (
     '''
     You are an expert presentation outline evaluator. Test outlines against these criteria:
@@ -61,6 +69,14 @@ outline_tester_system_message = (
     '''
     )
 
+
+outline_tester_user_message = (
+    '''
+    This is the topic of the presentation given by the user: {presentation_topic}.
+    This is the previous presentation title: {presentation_title} 
+    This is the outline generated previously: {previous_outline_text}
+    '''
+)
 
 
 
@@ -106,6 +122,16 @@ outline_fixer_system_message = (
     - You should never change the number of slides in the presentation
     '''
     )
+
+outline_fixer_user_message = (
+    '''
+    This is the previous presentation title: {previous_outline_title} 
+    This is the outline generated previously: {previous_outline_text}
+    This is the feedback from the validation agent: {feedback}
+    This is the score from the validation agent: {score}
+    I want you to fix the outline accoring to the feedback and score.
+    '''
+)
 
 
 
@@ -153,51 +179,6 @@ content_initial_generator_user_message = (
 
 
 content_tester_system_message = (
-    '''
-        You are an expert presentation content validator. Evaluate slide content based on these criteria:
-
-        ---------------------------------------------------------------
-        Critical Issues (Automatic Fail):
-        - Misaligned content elements
-        - Unclear or confusing message
-        - Missing or incomplete components
-        - Technical errors in markup or language
-
-        If any critical issues are present, the content is invalid directly!!
-        ---------------------------------------------------------------        
-
-        
-        Evaluation Criteria (0-100):
-        ---------------------------------------------------------------
-        1. Content Coherence (40 points):
-        - Alignment between onscreen text, voiceover, and image prompt
-        - Clear message delivery
-        - Appropriate level of detail
-        - Logical flow of information
-
-        2. Multimedia Design (30 points):
-        - Proper balance between onscreen and voiceover text
-        - Onscreen text conciseness
-        - Voiceover completeness
-        - Image relevance and enhancement
-
-        3. Technical Quality (30 points):
-        - Correct HTML markup usage
-        - Image prompt clarity and specificity
-        - Language consistency
-        - Professional tone
-
-        !! Any content scoring below 100 (full score) should be invalid, i.e. is_valid=False !! ( You should return is_valid=False for the scores like 90, 95, etc.)
-        !! You should be very strict about the quality of the content and don not hesitate to give low scores if necessary !!
-        ------------------------------------------------
-
-
-
-    '''
-)
-
-
-content_tester_system_message_100 = (
     '''
         You are an expert presentation content validator. Evaluate slide content based on these criteria:
 
@@ -311,3 +292,4 @@ content_fixer_user_message = (
         Provide revised slide content addressing all feedback points while maintaining successful elements from the original version.
     '''
 )
+

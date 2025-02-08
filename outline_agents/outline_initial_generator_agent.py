@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import outline_initial_generator_system_message
+from prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
 
 load_dotenv()
 
@@ -27,7 +27,8 @@ def call_outline_initial_generator_agent(topic_count: TopicCount) -> Presentatio
             },
             {
                 "role": "user",
-                "content": f"I want to create a presentation on {topic_count.presentation_topic}. There will be {topic_count.slide_count} slides."
+                "content": outline_initial_generator_user_message.format(presentation_topic=topic_count.presentation_topic, 
+                                                                         slide_count=topic_count.slide_count)
             }
         ],
         response_model=PresentationOutline,
