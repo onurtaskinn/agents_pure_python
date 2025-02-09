@@ -1,11 +1,12 @@
 #%%
-from topic_count_agent import call_topic_count_agent
-from outline_initial_generator_agent import call_outline_initial_generator_agent
-from outline_tester_agent import call_outline_tester_agent
-from outline_fixer_agent import call_outline_fixer_agent
-from content_initial_generator_agent import call_content_initial_generator_agent
-from content_tester_agent import call_content_tester_agent
-from content_fixer_agent import call_content_fixer_agent
+from agents.outline_agents.outline_initial_generator_agent import call_outline_initial_generator_agent
+from agents.outline_agents.outline_tester_agent import call_outline_tester_agent
+from agents.outline_agents.outline_fixer_agent import call_outline_fixer_agent
+from agents.content_agents.content_initial_generator_agent import call_content_initial_generator_agent
+from agents.content_agents.content_tester_agent import call_content_tester_agent
+from agents.content_agents.content_fixer_agent import call_content_fixer_agent
+
+from agents.slidedatamodels import TopicCount
 
 import datetime
 import json
@@ -22,8 +23,9 @@ results = {
 
 #%%
 # Topic count
-topic_count = call_topic_count_agent("Bana Ege'nin güzellikleri ile ilgili 6 slaytlık Türkçe bir sunum hazırla.")
-print(topic_count)
+slide_topic = "Bana Ege'nin güzellikleri ile ilgili 5 slaytlık Türkçe bir sunum hazırla."
+slide_count = 5
+topic_count = TopicCount(presentation_topic=slide_topic, slide_count=slide_count)
 results["process_steps"].append({
     "step": "topic_count",
     "data": json.loads(topic_count.model_dump_json())

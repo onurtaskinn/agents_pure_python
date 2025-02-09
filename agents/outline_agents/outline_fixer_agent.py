@@ -1,10 +1,10 @@
 #%%
-from slidedatamodels import PresentationOutline, TestResultOutline
+from agents.slidedatamodels import PresentationOutline, TestResultOutline
 import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import outline_fixer_system_message, outline_fixer_user_message
+from agents.prompts import outline_fixer_system_message, outline_fixer_user_message
 
 load_dotenv()
 
@@ -47,36 +47,3 @@ def call_outline_fixer_agent(test_result_with_outline : TestResultOutline) -> Pr
     )
 
     return AI_Response
-
-
-#%%
-
-# # Test the function
-# previous_outline = PresentationOutline(
-#     presentation_title =  "The History of the Internet",
-#     slide_outlines =  [
-#         {
-#             "slide_title": "The Birth of the Internet",
-#             "slide_focus": "Introduction to ARPANET and the early foundations of the internet in the 1960s and 1970s"
-#         },
-#         {
-#             "slide_title": "The World Wide Web",
-#             "slide_focus": "Development of the World Wide Web by Tim Berners-Lee in 1989 and its impact on internet accessibility"
-#         },
-#         {
-#             "slide_title": "The Dot-Com Boom and Web 2.0",
-#             "slide_focus": "Rapid growth of internet companies in the 1990s and the shift towards user-generated content in the early 2000s"
-#         },
-#         {
-#             "slide_title": "The Modern Internet Era",
-#             "slide_focus": "Current state of the internet, including mobile technology, social media, and future trends"
-#         }
-#     ]
-# )
-
-# validation_feedback = ValidationAndFeedback(is_valid=False, feedback="Theere should be 3 slides")
-# test_result = TestResultOutline(validation_feedback=validation_feedback, tested_outline=previous_outline)
-
-# result = call_outline_fixer_agent(test_result)
-# json_result = result.model_dump_json(indent=3)
-#%%

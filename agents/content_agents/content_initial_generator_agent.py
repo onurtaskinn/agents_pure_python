@@ -1,10 +1,10 @@
 #%%
-from slidedatamodels import SlideOutline, SlideContent
+from agents.slidedatamodels import SlideOutline, SlideContent
 import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import content_initial_generator_system_message, content_initial_generator_user_message
+from agents.prompts import content_initial_generator_system_message, content_initial_generator_user_message
 
 load_dotenv()
 
@@ -38,11 +38,3 @@ def call_content_initial_generator_agent( presentation_title : str, slide_outlin
     
     return AI_Response
 
-
-#%%
-# # Test the function
-# a = SlideOutline(slide_title="Introduction", slide_focus="Introducing the topic")
-# result = call_content_initial_generator_agent("The history of the internet", a)
-
-# json_result = result.model_dump_json(indent=3)
-# print(json_result)

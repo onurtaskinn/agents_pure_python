@@ -1,12 +1,12 @@
 #%%
-from slidedatamodels import PresentationOutline, TopicCount
+from agents.slidedatamodels import PresentationOutline, TopicCount
 import os
 from pydantic import BaseModel, Field
 
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
+from agents.prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
 
 load_dotenv()
 
@@ -38,11 +38,3 @@ def call_outline_initial_generator_agent(topic_count: TopicCount) -> Presentatio
     )
     
     return AI_Response
-
-#%%
-# # # Test the function
-# a = TopicCount(presentation_topic="the history of the internet", slide_count=4)
-# result = call_initial_outline_generator_agent(a)
-# json_result = result.model_dump_json(indent=3)
-
-#%%

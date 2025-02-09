@@ -1,12 +1,14 @@
 import streamlit as st
-from outline_initial_generator_agent import call_outline_initial_generator_agent
-from outline_tester_agent import call_outline_tester_agent
-from outline_fixer_agent import call_outline_fixer_agent
-from content_initial_generator_agent import call_content_initial_generator_agent
-from content_tester_agent import call_content_tester_agent
-from content_fixer_agent import call_content_fixer_agent
-from slidedatamodels import TopicCount
-from image_generator_agent import generate_image_with_flux
+
+from agents.outline_agents.outline_initial_generator_agent import call_outline_initial_generator_agent
+from agents.outline_agents.outline_tester_agent import call_outline_tester_agent
+from agents.outline_agents.outline_fixer_agent import call_outline_fixer_agent
+from agents.content_agents.content_initial_generator_agent import call_content_initial_generator_agent
+from agents.content_agents.content_tester_agent import call_content_tester_agent
+from agents.content_agents.content_fixer_agent import call_content_fixer_agent
+from agents.image_agents.image_generator_agent import generate_image_with_flux
+
+from agents.slidedatamodels import TopicCount
 
 import datetime
 import json

@@ -1,10 +1,10 @@
 #%%
-from slidedatamodels import SlideOutline, SlideContent, ValidationAndFeedbackContent
+from agents.slidedatamodels import SlideOutline, SlideContent, ValidationAndFeedbackContent
 import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from prompts import content_fixer_system_message, content_fixer_user_message
+from agents.prompts import content_fixer_system_message, content_fixer_user_message
 
 load_dotenv()
 
@@ -43,18 +43,3 @@ def call_content_fixer_agent(presentation_title : str, slide_outline : SlideOutl
     )
     
     return AI_Response
-
-#%%
-# # Test the function
-# presentation_title = "The History of the Internet"
-# a = SlideOutline(slide_title="The History of the Internet", slide_focus="A brief overview of the internet's development")
-# b = SlideContent(slide_onscreen_text="The internet has a long history that dates back to the 1960s.",
-#                  slide_voiceover_text="The internet has a long history that dates back to the 1960s.",
-#                  slide_image_prompt="A visual representation of the internet's development over time.")
-
-# c = ValidationAndFeedbackContent(is_valid=False, feedback="The content is not relevant to the slide", score=70)
-
-# result = call_content_fixer_agent(presentation_title, a, b, c)
-# json_result = result.model_dump_json(indent=3)
-# json_result
-# %%

@@ -26,14 +26,13 @@ outline_initial_generator_system_message = (
 
 outline_initial_generator_user_message = (
     '''
-    I want to create a presentation on {presentation_topic}. There will be {slide_count} slides.
+    Create a presentation on {presentation_topic}. There will be {slide_count} slides.
     '''
     )
 
 
 
-outline_tester_system_message = (
-    '''
+outline_tester_system_message ='''
     You are an expert presentation outline evaluator. Test outlines against these criteria:
 
     ---------------------------------------------------------------
@@ -67,16 +66,14 @@ outline_tester_system_message = (
     !! Any outline scoring below 70 point should be is_valid=False !!
     ---------------------------------------------------------------
     '''
-    )
 
 
-outline_tester_user_message = (
+outline_tester_user_message = '''
+    Topic: {presentation_topic}
+    Title: {presentation_title}
+    Previous Outline:
+    {previous_outline_text}
     '''
-    This is the topic of the presentation given by the user: {presentation_topic}.
-    This is the previous presentation title: {presentation_title} 
-    This is the outline generated previously: {previous_outline_text}
-    '''
-)
 
 
 

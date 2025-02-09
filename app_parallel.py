@@ -1,17 +1,18 @@
 from concurrent.futures import ThreadPoolExecutor
-from topic_count_agent import call_topic_count_agent
-from outline_initial_generator_agent import call_outline_initial_generator_agent
-from outline_tester_agent import call_outline_tester_agent
-from outline_fixer_agent import call_outline_fixer_agent
-from content_initial_generator_agent import call_content_initial_generator_agent
-from content_tester_agent import call_content_tester_agent
-from content_fixer_agent import call_content_fixer_agent
-import json
+from agents.outline_agents.outline_initial_generator_agent import call_outline_initial_generator_agent
+from agents.outline_agents.outline_tester_agent import call_outline_tester_agent
+from agents.outline_agents.outline_fixer_agent import call_outline_fixer_agent
+from agents.content_agents.content_initial_generator_agent import call_content_initial_generator_agent
+from agents.content_agents.content_tester_agent import call_content_tester_agent
+from agents.content_agents.content_fixer_agent import call_content_fixer_agent
+
+from agents.slidedatamodels import TopicCount
+
+from typing import Dict, Any
+import json, datetime
 import streamlit as st
 
-import datetime
-import json
-from typing import Dict, Any
+
 
 def create_log_structure() -> Dict[str, Any]:
     """Initialize the log structure with timestamp"""
@@ -70,12 +71,31 @@ def process_slide_content(presentation_title, slide_outline, slide_index):
         
     return result
 
-st.set_page_config(page_title="Presentation Generator", layout="wide")
-st.title("AI Presentation Generation Pipeline")
+st.set_page_config(page_title="AI CONTENT STUDIO",page_icon=":card_file_box:", layout="wide", initial_sidebar_state="collapsed")
+st.header(body=":card_file_box: AI CONTENT STUDIO ⚡⚡⚡", divider="orange")
 
-# User input
-user_prompt = st.text_input("Enter your presentation request:", 
-                          "Create a presentation on the impact of AI on the future of work. There will be 5 slides.")
+#SIDEBAR DESIGN
+st.sidebar.subheader(body="SETTINGS", divider="orange")
+
+quality_to_model = {"Low": "fal-ai/flux/schnell", "Medium": "fal-ai/flux-realism", "High": "fal-ai/flux-pro/v1.1"}
+image_quality = st.sidebar.select_slider("Choose Image Quality:", list(quality_to_model.keys()))
+selected_image_model = quality_to_model[image_quality]
+st.sidebar.divider()
+voiceover_generation = st.sidebar.checkbox(label="Generate Voice Audio", value=False)
+#END OF SIDEBAR DESIGN
+
+
+
+col_left, col_mid = st.columns([2,1])
+
+with col_left:
+    topic_container = st.container(border=True)
+    slide_topic = topic_container.text_input(label="**Enter Your Topic of Interest**", value="İş Hayatında Etkili İletişim Yönetimi ve Networking Teknikleri")
+
+with col_mid:
+    count_container = st.container(border=True)
+    slide_count = count_container.number_input(label="Slide Count", min_value=2, max_value=15, step=1, value=5)
+
 
 if st.button("Generate Presentation"):
     # Initialize session state
@@ -85,7 +105,7 @@ if st.button("Generate Presentation"):
     # Topic count section
     with st.status("🔍 Analyzing presentation topic...", expanded=True) as status:
         st.write("### Step 1: Determining Topic and Slide Count")
-        topic_count = call_topic_count_agent(user_prompt)
+        topic_count = TopicCount(presentation_topic=slide_topic, slide_count=slide_count)
         add_log_step(log_data, "topic_count", topic_count.model_dump())
         st.json(topic_count.model_dump())
         status.update(label="Topic analysis complete!", state="complete")
