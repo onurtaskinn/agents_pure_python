@@ -13,3 +13,6 @@ google-cloud-vision
 fal-client
 
 streamlit
+
+fastapi
+uvicorn

@@ -160,6 +160,6 @@ with ThreadPoolExecutor() as executor:
             }                    
 
 
-filename = f"./outputs/presentation_log_{log_data['timestamp']}.json"
+filename = f"./_outputs/presentation_log_{log_data['timestamp']}.json"
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(log_data, f, indent=4, ensure_ascii=False)

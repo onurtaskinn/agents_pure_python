@@ -1,5 +1,5 @@
-_venv
-outputs/
+_venv_
+_outputs
 .env
 __pycache__
 __garbage__

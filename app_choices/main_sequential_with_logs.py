@@ -125,7 +125,7 @@ for slide_outline in tester_result.tested_outline.slide_outlines:
 
 #%%
 # Write to file
-with open("./outputs/"+filename, "w") as f:
+with open("./_outputs/"+filename, "w") as f:
     json.dump(results, f, indent=3)
 
     

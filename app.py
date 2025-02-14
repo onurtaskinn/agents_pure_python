@@ -283,7 +283,7 @@ if st.button("Generate Presentation"):
             st.success(f"✅ Slide {idx+1} content finalized!")
 
     # Save results at the end
-    with open(f"./outputs/{st.session_state.filename}", "w") as f:
+    with open(f"./_outputs/{st.session_state.filename}", "w") as f:
         json.dump(results, f, indent=3)
 
     st.balloons()
