@@ -290,3 +290,109 @@ content_fixer_user_message = (
     '''
 )
 
+
+
+image_tester_system_message = (
+    '''
+    You are an expert image validator for presentation slides. Your role is to analyze images and provide detailed feedback about their quality and suitability for presentations, ensuring they meet all specified requirements.
+    '''
+)
+
+image_tester_user_message = (
+    '''
+    Analyze this image for a presentation slide:
+
+    Original Prompt: {previous_prompt}
+
+    Evaluate against these criteria:
+
+    CRITICAL ISSUES (Any of these results in automatic rejection):
+    1. Does not match the provided prompt
+    2. Poor quality or resolution
+    3. Contains celebrity/famous person likenesses
+    4. Contains text or writing within the image
+    5. Overly complex or elaborate compositions
+    6. Contains inappropriate/offensive content
+    7. Has copyright/watermark issues
+    8. Shows technical rendering problems
+    9. Includes elements not directly supporting the slide's context
+
+    SCORING CRITERIA (Total 100 points):
+    1. Prompt Alignment (40 points):
+    - Matches specified visual style
+    - Contains all requested elements
+    - Accurate concept representation
+    - Proper composition as described
+
+    2. Visual Quality (30 points):
+    - Resolution and clarity
+    - Color balance and contrast
+    - Lighting and shadows
+    - Professional appearance
+
+    3. Presentation Suitability (30 points):
+    - Fits presentation context
+    - Supports slide message
+    - Maintains appropriate simplicity
+    - Uses minimal, context-appropriate elements
+    - Clear focus on key message
+
+    Required Response Format:
+    1. Valid/Invalid status (Invalid if score < 90 or any critical issues present)
+    2. Detailed feedback listing specific issues found    
+    3. Numerical score (0-100)
+    4. Suggested prompt improvements if needed
+
+    Remember:
+    - Keep images simple and context-appropriate
+    - Avoid complex figures
+    - Ensure every element serves a purpose
+    - Prioritize clarity over artistic complexity
+    '''
+)
+
+
+
+image_prompt_regenerator_system_message = (
+    '''
+    You are an expert at refining image generation prompts based on feedback. Your role is to improve prompts to create simple, effective presentation visuals.
+    '''
+)
+
+image_prompt_regenerator_user_message = (
+    '''
+    Previous image generation attempt:
+
+    Original Prompt: {previous_prompt}
+    Validation Results:
+    - Score: {score}
+    - Feedback: {feedback}
+    - Improvement Suggestions: {suggestions}
+
+    Create a new, improved prompt following these guidelines:
+
+    1. Critical Requirements:
+    - NO celebrities or famous people
+    - NO text or writing in the image
+    - Keep visuals simple and minimal
+    - Focus only on elements that support the slide's message
+    - Avoid complex figures or compositions
+
+    2. Style Requirements:
+    - Be specific about visual style
+    - Define clear composition
+    - Specify colors when relevant
+    - Include lighting/mood descriptions
+    - Mention quality requirements
+
+    3. Integration Guidelines:
+    - Address all feedback points
+    - Implement suggested improvements
+    - Maintain successful elements from original
+    - Ensure presentation suitability
+
+    Provide:
+    1. A revised, detailed prompt that addresses all feedback
+    2. Brief explanation of key changes made
+    '''
+)

@@ -1,12 +1,13 @@
 import streamlit as st
 
-from agents.outline_agents.outline_initial_generator_agent import call_outline_initial_generator_agent
-from agents.outline_agents.outline_tester_agent import call_outline_tester_agent
-from agents.outline_agents.outline_fixer_agent import call_outline_fixer_agent
-from agents.content_agents.content_initial_generator_agent import call_content_initial_generator_agent
-from agents.content_agents.content_tester_agent import call_content_tester_agent
-from agents.content_agents.content_fixer_agent import call_content_fixer_agent
-from agents.image_agents.image_generator_agent import generate_image_with_flux
+from agents.outline_initial_generator_agent import call_outline_initial_generator_agent
+from agents.outline_tester_agent import call_outline_tester_agent
+from agents.outline_fixer_agent import call_outline_fixer_agent
+from agents.content_initial_generator_agent import call_content_initial_generator_agent
+from agents.content_tester_agent import call_content_tester_agent
+from agents.content_fixer_agent import call_content_fixer_agent
+from agents.image_generator_agent import generate_image_with_flux
+from agents.image_tester_agent import analyze_image
 
 from agents.slidedatamodels import TopicCount
 
@@ -217,19 +218,68 @@ if st.button("Generate Presentation"):
                         content_fix_iteration += 1
             
             # Image generation
+            # Image generation and validation loop
             with st.status(f"🖼️ Generating image for Slide {idx+1}...") as status:
-                image_url = generate_image_with_flux(content.slide_image_prompt, selected_image_model)
-                results["process_steps"].append({
-                    "step": f"image_generation_slide_{idx+1}",
-                    "data": {
-                        "image_prompt": content.slide_image_prompt,
-                        "image_url": image_url,
-                        "model": selected_image_model
-                    }
-                })                
-                st.image(image_url, use_container_width=True)
-                status.update(label="Image generated!", state="complete")
-            
+                current_prompt = content.slide_image_prompt
+                attempt_count = 1
+                max_attempts = 5  # Safety limit to prevent infinite loops
+                
+                while True:
+                    # Generate image
+                    status.update(label=f"Generating image (Attempt {attempt_count})...")
+                    image_url = generate_image_with_flux(current_prompt, selected_image_model)
+                    
+                    # Log the generation attempt
+                    results["process_steps"].append({
+                        "step": f"image_generation_slide_{idx+1}_attempt_{attempt_count}",
+                        "data": {
+                            "image_prompt": current_prompt,
+                            "image_url": image_url,
+                            "model": selected_image_model,
+                            "attempt": attempt_count
+                        }
+                    })
+                    
+                    # Test image and get new prompt if needed
+                    status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
+                    analysis_result_with_logs = analyze_image(image_url, current_prompt)
+                    analysis_result = analysis_result_with_logs["result"]
+                    logs = analysis_result_with_logs["log_elements"]
+                    
+                    # Log the analysis result
+                    results["process_steps"].append({
+                        "step": f"image_analysis_slide_{idx+1}_attempt_{attempt_count}",
+                        "data": {
+                            "is_valid": analysis_result["is_valid"],
+                            "score": logs["score"],
+                            "feedback": logs["feedback"],
+                            "suggestions": logs["suggestions"],
+                            "current_prompt": current_prompt,                            
+                            "new_prompt": analysis_result["prompt"] if not analysis_result["is_valid"] else None
+                        }
+                    })
+                    
+                    # If image is valid or we've reached max attempts, break the loop
+                    if analysis_result["is_valid"] or attempt_count >= max_attempts:
+                        # Show the final image
+                        st.image(image_url, use_container_width=True)
+                        
+                        # Add final status message
+                        if analysis_result["is_valid"]:
+                            status.update(label=f"Image generated successfully! (Attempt {attempt_count})", state="complete")
+                        else:
+                            status.update(label=f"Maximum attempts reached ({max_attempts})", state="error")
+                            st.warning("Warning: Could not generate an image meeting all quality criteria.")
+                        st.write("**Analysis Results:**")
+                        st.json(analysis_result_with_logs)                               
+                        break
+                    
+                    st.write("**Analysis Results:**")
+                    st.json(analysis_result_with_logs)                    
+                    # Update prompt and continue loop
+                    current_prompt = analysis_result["prompt"]
+                    attempt_count += 1
+
             st.success(f"✅ Slide {idx+1} content finalized!")
 
     # Save results at the end

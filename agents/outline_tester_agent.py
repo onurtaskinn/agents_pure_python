@@ -1,11 +1,11 @@
 #%%
 from agents.slidedatamodels import PresentationOutline, TopicCount, TestResultOutline, ValidationAndFeedback
-import os
-from dotenv import load_dotenv
-import instructor
+from agents.prompts import outline_tester_system_message, outline_tester_user_message
+
+import os, instructor
 from anthropic import Anthropic
 from openai import OpenAI
-from agents.prompts import outline_tester_system_message, outline_tester_user_message
+from dotenv import load_dotenv
 
 load_dotenv()
 

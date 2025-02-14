@@ -1,10 +1,11 @@
 #%%
 from agents.slidedatamodels import PresentationOutline, TestResultOutline
-import os
-from dotenv import load_dotenv
-import instructor
-from anthropic import Anthropic
 from agents.prompts import outline_fixer_system_message, outline_fixer_user_message
+
+import os, instructor
+from dotenv import load_dotenv
+from anthropic import Anthropic
+
 
 load_dotenv()
 

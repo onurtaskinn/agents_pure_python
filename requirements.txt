@@ -9,6 +9,7 @@ ipykernel
 
 instructor
 anthropic
+google-cloud-vision
 fal-client
 
 streamlit

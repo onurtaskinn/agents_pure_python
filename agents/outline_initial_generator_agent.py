@@ -1,12 +1,11 @@
 #%%
 from agents.slidedatamodels import PresentationOutline, TopicCount
-import os
-from pydantic import BaseModel, Field
-
-from dotenv import load_dotenv
-import instructor
-from anthropic import Anthropic
 from agents.prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
+
+
+import os, instructor
+from anthropic import Anthropic
+from dotenv import load_dotenv
 
 load_dotenv()
 

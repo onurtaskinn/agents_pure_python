@@ -1,5 +1,8 @@
 _venv
+outputs/
 .env
 __pycache__
 __garbage__
 __init__.py
+_setup_venv
+

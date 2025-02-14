@@ -45,6 +45,14 @@ class TestResultContent(BaseModel):
 
 
 
+class ImageAnalysis(BaseModel):
+    feedback :str = Field(description="The feedback on the image analysis")
+    suggestions:str = Field(description="Suggestions for improving the image analysis")
+    score:int = Field(description="The score of the image analysis")
+    is_valid:bool = Field(description="Whether the image analysis is valid or not")    
+
+class RegeneratedPrompt(BaseModel):
+    prompt:str = Field(description="The regenerated prompt")
 
 
 class SlideSavingTemplate(BaseModel):

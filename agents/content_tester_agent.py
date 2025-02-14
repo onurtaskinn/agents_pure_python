@@ -1,10 +1,12 @@
 #%%
 from agents.slidedatamodels import SlideOutline, SlideContent, ValidationAndFeedbackContent
+from agents.prompts import content_tester_system_message, content_tester_user_message
+
 import os
 from dotenv import load_dotenv
 import instructor
 from anthropic import Anthropic
-from agents.prompts import content_tester_system_message, content_tester_user_message
+
 
 load_dotenv()
 
