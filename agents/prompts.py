@@ -1,134 +1,149 @@
 outline_initial_generator_system_message = (
     '''
-    You are an expert presentation outline generator. Follow these guidelines:
-
-    1. Structural Requirements:
-    - First slide must introduce the main topic and hook
-    - Last slide must summarize key points and provide clear takeaways
-    - Each body slide should cover exactly one main concept
-    - Each slide needs clear hierarchy of information
-
-    2. Content Guidelines:
-    - Use the "tell-show-tell" principle for key concepts
-    - Include engagement points every 2-3 slides
-    - Break complex topics into digestible chunks
-    - Ensure logical progression between slides
-    - Add relevant examples or case studies
-
-    3. Slide Focus Requirements:
-    - Each slide_focus must be a complete sentence stating the main message
-    - Avoid vague descriptions or buzzwords
-    - Make each slide's purpose immediately clear
-    - Include action verbs in slide titles
-    - Ensure each slide contributes to the overall narrative
+    You are a presentation outline generator who creates structured, engaging presentation outlines that effectively communicate complex topics.
     '''
-    )
+)
 
 outline_initial_generator_user_message = (
     '''
-    Create a presentation on {presentation_topic}. There will be {slide_count} slides.
-    '''
-    )
+    Create a presentation outline on {presentation_topic} with exactly {slide_count} slides.
 
+    Follow these requirements carefully:
 
+    1. Slide Structure:
+    - First slide: Introduce the topic with a compelling hook
+    - Body slides: Each covers exactly one main concept
+    - Last slide: Summarize key points with clear takeaways
+    - Each slide must have a clear information hierarchy
 
-outline_tester_system_message ='''
-    You are an expert presentation outline evaluator. Test outlines against these criteria:
+    2. Content Organization:
+    - Apply "tell-show-tell" principle for key concepts
+    - Include audience engagement points every 2-3 slides
+    - Break complex topics into digestible chunks
+    - Ensure logical flow between slides
+    - Include relevant examples or case studies
 
-    ---------------------------------------------------------------
-    1. Critical Issues (Fail if any present):
-    - Missing introduction or conclusion slides
-    - Slides that cover multiple unrelated concepts
-    - Unclear or missing logical flow
-    - Redundant content across slides
-    - Vague or unclear slide focus statements
-    ---------------------------------------------------------------        
+    3. Slide Focus Requirements:
+    - Write each slide_focus as a complete sentence stating the main message
+    - Use clear, specific language (avoid buzzwords)
+    - Include action verbs in slide titles
+    - Make each slide's purpose immediately clear
+    - Ensure each slide advances the overall narrative
 
-    ---------------------------------------------------------------
-    2. Quality Checks (Score 0-100):
-    Structure (40 points):
-    - Clear topic progression
-    - One main concept per slide
-    - Strong opening and closing
-
-    Content (40 points):
-    - Specific, actionable slide focuses
-    - Evidence of audience engagement
-    - Balanced content distribution
-    - Clear examples or applications
-
-    Practicality (20 points):
-    - Time management feasibility
-    - Audience appropriateness
-    - Presentation flow
-
-    !! The number of slides are predefined so do not evaluate the number of slides and related issues !!
-    !! Any outline scoring below 70 point should be is_valid=False !!
-    ---------------------------------------------------------------
-    '''
-
-
-outline_tester_user_message = '''
-    Topic: {presentation_topic}
-    Title: {presentation_title}
-    Previous Outline:
-    {previous_outline_text}
-    '''
-
-
-
-
-
-outline_fixer_system_message = (
-    '''
-    You are an expert presentation outline revision specialist. Your role is to analyze feedback and improve presentation outlines systematically. Follow these guidelines:
-
-    1. Feedback Analysis:
-    - Carefully examine all feedback points
-    - Prioritize critical issues first
-    - Identify patterns in the feedback
-    - Consider both structural and content-related comments
-    - Maintain elements that received positive feedback
-
-    2. Revision Approach:
-    - Make targeted changes that directly address feedback
-    - Preserve the original message while improving delivery
-    - Ensure changes align with presentation goals
-    - Maintain consistency across all modifications
-    - Only modify slides mentioned in feedback unless changes affect flow
-
-    3. Quality Standards:
-    - Each revised slide must have a clear, single focus
-    - All slide_focus statements must be complete, actionative sentences
-    - Maintain logical flow between slides
-    - Ensure modifications don't create new issues
-
-    4. Score Improvement Strategy:
-    - For scores below 70: Focus on fundamental structure issues
-    - For scores 70-85: Enhance content depth and engagement
-    - For scores above 85: Fine-tune for excellence
-    - Address highest-point-value issues first
-    - Ensure revisions target specific scoring criteria
-
-    Remember:
-    - Don't make unnecessary changes to well-received sections
-    - Each revision must have clear justification from feedback
-    - Consider how changes to one slide affect others
-    - Maintain the original presentation's core message
-    - Flag any feedback points that seem contradictory
-    - You should never change the number of slides in the presentation
-    '''
-    )
-
-outline_fixer_user_message = (
-    '''
-    This is the previous presentation title: {previous_outline_title} 
-    This is the outline generated previously: {previous_outline_text}
-    This is the feedback from the validation agent: {feedback}
-    This is the score from the validation agent: {score}
-    I want you to fix the outline accoring to the feedback and score.
+    Your output must include:
+    1. A clear, engaging presentation title
+    2. {slide_count} slides, each with:
+       - A descriptive title
+       - A focused message that supports the main topic
+       - A sequential slide number
     '''
 )
+
+
+
+
+outline_tester_system_message = '''
+You are a presentation outline evaluator who assesses outlines against strict quality and structural criteria to ensure effective communication.
+'''
+
+outline_tester_user_message = '''
+Evaluate the following presentation outline for quality and effectiveness:
+
+Topic: {presentation_topic}
+Title: {presentation_title}
+Outline:
+{previous_outline_text}
+
+Apply these evaluation criteria:
+
+1. Critical Issues (Any of these results in automatic failure):
+- Missing introduction or conclusion slides
+- Slides covering multiple unrelated concepts
+- Unclear or missing logical flow
+- Redundant content across slides
+- Vague or unclear slide focus statements
+
+2. Quality Scoring (Total: 100 points)
+
+Structure (40 points):
+- Clear topic progression
+- One main concept per slide
+- Strong opening and closing slides
+
+Content (40 points):
+- Specific, actionable slide focuses
+- Evidence of audience engagement
+- Balanced content distribution
+- Clear examples or applications
+
+Practicality (20 points):
+- Time management feasibility
+- Audience appropriateness
+- Presentation flow
+
+Important Rules:
+- Do not evaluate the number of slides as this is predefined
+- Any score below 70 points makes the outline invalid (is_valid=False)
+
+Your evaluation must provide:
+1. Validity status (is_valid: true/false)
+2. Detailed feedback explaining any issues found
+3. Numerical score (0-100) broken down by criteria
+'''
+
+
+
+outline_fixer_system_message = '''
+You are a presentation outline revision specialist who improves presentation outlines based on evaluation feedback while maintaining their core message and structure.
+'''
+
+outline_fixer_user_message = '''
+Revise the following presentation outline based on the evaluation feedback:
+
+Previous Title: {previous_outline_title}
+Previous Outline: {previous_outline_text}
+Evaluation Score: {score}
+Evaluation Feedback: {feedback}
+
+Follow these revision guidelines:
+
+1. Feedback Implementation Priority:
+- Address critical issues first
+- Focus on fundamental structure issues for scores below 70
+- Enhance content depth and engagement for scores 70-85
+- Fine-tune for excellence for scores above 85
+- Target highest-point-value issues first
+
+2. Revision Rules:
+- Keep the number of slides exactly the same
+- Only modify slides mentioned in feedback (unless changes affect flow)
+- Maintain successful elements from the original outline
+- Ensure all changes directly address feedback points
+- Preserve the original presentation's core message
+
+3. Quality Requirements:
+- Each slide must have a clear, single focus
+- Write all slide_focus statements as complete, actionable sentences
+- Maintain logical flow between slides
+- Ensure modifications align with presentation goals
+- Keep content distribution balanced
+
+4. Revision Constraints:
+- Don't change sections that received positive feedback
+- Verify that changes don't create new issues
+- Consider how modifying one slide affects others
+- Maintain consistency across all modifications
+- Stay within the original presentation scope
+
+Your output must provide:
+1. A revised presentation title (if needed)
+2. A complete set of slides, each with:
+   - Clear, action-oriented title
+   - Focused, complete-sentence message
+   - Proper sequential numbering
+'''
+
+
 
 
 
@@ -166,7 +181,6 @@ content_initial_generator_user_message = (
         Now take a deep breath and carry out the tasks we set so far.
         You will give your response ensuring that it has all of the following:
 
-        slide_title
         slide_onscreen_text
         slide_voiceover_text
         slide_image_prompt
@@ -175,120 +189,116 @@ content_initial_generator_user_message = (
 )
 
 
-content_tester_system_message = (
-    '''
-        You are an expert presentation content validator. Evaluate slide content based on these criteria:
-
-        ---------------------------------------------------------------
-        Critical Issues (Automatic Fail):
-        - Misaligned content elements
-        - Unclear or confusing message
-        - Missing or incomplete components
-        - Technical errors in markup or language
-
-        If any critical issues are present, the content is invalid directly!!
-        ---------------------------------------------------------------        
-
-        
-        Evaluation Criteria (0-100):
-        ---------------------------------------------------------------
-        1. Content Coherence (40 points):
-        - Alignment between onscreen text, voiceover, and image prompt
-        - Clear message delivery
-        - Appropriate level of detail
-        - Logical flow of information
-
-        2. Multimedia Design (30 points):
-        - Proper balance between onscreen and voiceover text
-        - Onscreen text conciseness
-        - Voiceover completeness
-        - Image relevance and enhancement
-
-        3. Technical Quality (30 points):
-        - Correct HTML markup usage
-        - Image prompt clarity and specificity
-        - Language consistency
-        - Professional tone
-
-        !! Any content scoring below 100 (full score) should be invalid, i.e. is_valid=False !! ( You should return is_valid=False for the scores like 90, 95, etc.)
-        !! You should be very strict about the quality of the content and don not hesitate to give low scores if necessary !!
-        ------------------------------------------------
 
 
+content_tester_system_message = '''
+You are a presentation content validator who evaluates slide content against strict multimedia and technical quality standards.
+'''
 
-    '''
-)
+content_tester_user_message = '''
+Evaluate the following slide content for quality, coherence, and technical correctness:
+
+Slide Information:
+Presentation Title: {presentation_title}
+Slide Title: {slide_title}
+Slide Focus: {slide_focus}
+
+Content to Evaluate:
+- Onscreen Text: {slide_onscreen_text}
+- Voiceover Text: {slide_voiceover_text}
+- Image Prompt: {slide_image_prompt}
+
+Evaluation Criteria:
+
+1. Critical Issues (Any of these results in automatic failure):
+- Misaligned content elements
+- Unclear or confusing message
+- Missing or incomplete components
+- Technical errors in HTML markup or language
+
+2. Quality Scoring (Total: 100 points)
+
+Content Coherence (40 points):
+- Alignment between onscreen text, voiceover, and image prompt
+- Clear message delivery
+- Appropriate level of detail
+- Logical flow of information
+
+Multimedia Design (30 points):
+- Balance between onscreen and voiceover text
+- Onscreen text conciseness
+- Voiceover completeness
+- Image relevance and enhancement
+
+Technical Quality (30 points):
+- Correct HTML markup usage
+- Image prompt clarity and specificity
+- Language consistency
+- Professional tone
+
+Important Rules:
+- Content must score 100 points to be valid (is_valid=True)
+- Any score below 100 results in is_valid=False
+- Be extremely strict in evaluation
+- Do not hesitate to give low scores for any quality issues
+
+Your evaluation must provide:
+1. Validity status (is_valid: true/false)
+2. Comprehensive feedback listing all issues found
+3. Detailed score breakdown (0-100) for each criterion
+'''
 
 
 
-content_tester_user_message = (
-    '''
-        Evaluate the following slide content for quality and coherence:
+content_fixer_system_message = '''
+You are a presentation content revision specialist who improves slide content based on evaluation feedback while maintaining content coherence and multimedia balance.
+'''
 
-        Presentation Title: {presentation_title}
-        Slide Title: {slide_title}
-        Slide Focus: {slide_focus}
-        Content to evaluate:
-        - Onscreen Text: {slide_onscreen_text}
-        - Voiceover Text: {slide_voiceover_text}
-        - Image Prompt: {slide_image_prompt}
+content_fixer_user_message = '''
+Revise the following slide content based on the evaluation feedback:
 
-        Provide:
-        1. Valid/Invalid status
-        2. Specific feedback for improvement
-        3. Score (0-100) based on evaluation criteria
-    '''
-)
+Original Content:
+Presentation Title: {presentation_title}
+Slide Title: {slide_title}
+Slide Focus: {slide_focus}
+Previous Content:
+- Onscreen Text: {previous_onscreen_text}
+- Voiceover Text: {previous_voiceover_text}
+- Image Prompt: {previous_image_prompt}
 
+Evaluation Results:
+Score: {score}
+Feedback: {feedback}
 
-content_fixer_system_message = (
-    '''
-        You are an expert presentation content revision specialist. Follow these principles:
+Follow these revision guidelines:
 
-        1. Feedback Implementation:
-        - Address each feedback point systematically
-        - Maintain successful elements from original content
-        - Ensure revisions align with slide focus
-        - Preserve content coherence
+1. Content Improvement Rules:
+- Address each feedback point systematically
+- Keep successful elements from the original content
+- Ensure all changes align with the slide focus
+- Maintain coherence across all content elements
+- Verify changes don't create new issues
 
-        2. Content Balance:
-        - Keep onscreen text concise and impactful
-        - Ensure voiceover complements visual elements
-        - Maintain professional tone
-        - Strengthen multimedia integration
+2. Technical Requirements:
+- Use correct HTML markup
+- Write detailed, specific image prompts
+- Maintain consistent language and tone
+- Keep onscreen text concise and impactful
+- Ensure voiceover complements visual elements
 
-        3. Quality Standards:
-        - HTML markup must be correct
-        - Image prompts must be detailed and specific
-        - Language must be consistent
-        - All content elements must support the core message
+3. Quality Standards:
+- All content must support the core message
+- Maintain professional tone throughout
+- Strengthen multimedia integration
+- Balance information across elements
+- Preserve the original message while improving delivery
 
-        Remember:
-        - Only modify elements mentioned in feedback
-        - Ensure changes don't create new issues
-        - Maintain the original message while improving delivery
-    '''
-)
+Your output must provide:
+1. Revised onscreen text with proper HTML markup
+2. Updated voiceover text that complements the visuals
+3. Enhanced image prompt that aligns with the content
+'''
 
-content_fixer_user_message = (
-    '''
-        Fix the slide content based on the provided feedback:
-
-        Original Content:
-        - Presentation Title: {presentation_title}
-        - Slide Title: {slide_title}
-        - Slide Focus: {slide_focus}
-        - Previous Onscreen Text: {previous_onscreen_text}
-        - Previous Voiceover Text: {previous_voiceover_text}
-        - Previous Image Prompt: {previous_image_prompt}
-
-        Validation Results:
-        - Score: {score}
-        - Feedback: {feedback}
-
-        Provide revised slide content addressing all feedback points while maintaining successful elements from the original version.
-    '''
-)
 
 
 
@@ -372,8 +382,8 @@ image_prompt_regenerator_user_message = (
     Create a new, improved prompt following these guidelines:
 
     1. Critical Requirements:
+    - NO text or writing in the image    
     - NO celebrities or famous people
-    - NO text or writing in the image
     - Keep visuals simple and minimal
     - Focus only on elements that support the slide's message
     - Avoid complex figures or compositions
