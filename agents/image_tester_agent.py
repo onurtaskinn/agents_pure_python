@@ -1,5 +1,5 @@
 #%%
-from agents.slidedatamodels import ImageAnalysis, RegeneratedPrompt
+from agents.datamodels import ImageValidationResult, RegeneratedPrompt
 from agents.prompts import (image_tester_system_message, image_tester_user_message,
                      image_prompt_regenerator_system_message, image_prompt_regenerator_user_message,)
 
@@ -40,7 +40,7 @@ def analyze_image(image_url: str, previous_prompt: str) -> dict:
             }
         ],
         autodetect_images=True,
-        response_model=ImageAnalysis,  
+        response_model=ImageValidationResult,  
         max_tokens=8192,
     )
 

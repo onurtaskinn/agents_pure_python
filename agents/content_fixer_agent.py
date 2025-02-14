@@ -1,5 +1,5 @@
 #%%
-from agents.slidedatamodels import SlideOutline, SlideContent, ValidationAndFeedbackContent
+from agents.datamodels import SlideOutline, SlideContent, ContentValidationResult
 from agents.prompts import content_fixer_system_message, content_fixer_user_message
 
 import os
@@ -11,7 +11,7 @@ from anthropic import Anthropic
 load_dotenv()
 
 
-def call_content_fixer_agent(presentation_title : str, slide_outline : SlideOutline, previous_content : SlideContent, tester_result : ValidationAndFeedbackContent) -> SlideContent:
+def call_content_fixer_agent(presentation_title : str, slide_outline : SlideOutline, previous_content : SlideContent, tester_result : ContentValidationResult) -> SlideContent:
     """Function to call the initial outline generator agent"""
 
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))

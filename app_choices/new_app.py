@@ -12,7 +12,7 @@ from agents.content_fixer_agent import call_content_fixer_agent
 from agents.image_generator_agent import generate_image_with_flux
 from agents.image_tester_agent import analyze_image
 
-from agents.slidedatamodels import TopicCount
+from agents.datamodels import TopicCount
 
 # Setup
 st.set_page_config(page_title="AI CONTENT STUDIO", page_icon=":card_file_box:", layout="wide")

@@ -1,5 +1,5 @@
 #%%
-from agents.slidedatamodels import PresentationOutline, TestResultOutline
+from agents.datamodels import PresentationOutline, ValidationWithOutline
 from agents.prompts import outline_fixer_system_message, outline_fixer_user_message
 
 import os, instructor
@@ -10,7 +10,7 @@ from anthropic import Anthropic
 load_dotenv()
 
 
-def call_outline_fixer_agent(test_result_with_outline : TestResultOutline) -> PresentationOutline:
+def call_outline_fixer_agent(test_result_with_outline : ValidationWithOutline) -> PresentationOutline:
     """Function to call the outline fixer agent"""
     
     previous_outline = test_result_with_outline.tested_outline

@@ -1,5 +1,5 @@
 #%%
-from agents.slidedatamodels import PresentationOutline, TopicCount, TestResultOutline, ValidationAndFeedback
+from agents.datamodels import PresentationOutline, TopicCount, ValidationWithOutline, OutlineValidationResult
 from agents.prompts import outline_tester_system_message, outline_tester_user_message
 
 import os, instructor
@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def call_outline_tester_agent(topic_count: TopicCount, previous_outline: PresentationOutline) -> TestResultOutline:
+def call_outline_tester_agent(topic_count: TopicCount, previous_outline: PresentationOutline) -> ValidationWithOutline:
     """Function to call the initial outline generator agent"""
 
     if(topic_count.slide_count != len(previous_outline.slide_outlines)):
@@ -20,8 +20,8 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
             f'but the user has requested {topic_count.slide_count} slides. Therefore '
             f'{"remove " + str(abs(diff)) + " slides" if diff > 0 else " add " + str(abs(diff)) + " slides"}'
         )
-        result_of_test = ValidationAndFeedback(is_valid=False, feedback=feedback, score=0)
-        return TestResultOutline(validation_feedback=result_of_test , tested_outline=previous_outline)
+        result_of_test = OutlineValidationResult(is_valid=False, feedback=feedback, score=0)
+        return ValidationWithOutline(validation_feedback=result_of_test , tested_outline=previous_outline)
     
 
     openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -47,9 +47,9 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
                                                                 previous_outline_text=previous_outline_text)
             }
         ],
-        response_model=ValidationAndFeedback,
+        response_model=OutlineValidationResult,
         top_p=1,
     )
 
-    return TestResultOutline(validation_feedback=AI_Response, tested_outline=previous_outline)
+    return ValidationWithOutline(validation_feedback=AI_Response, tested_outline=previous_outline)
 

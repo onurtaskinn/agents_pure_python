@@ -6,7 +6,7 @@ from agents.content_initial_generator_agent import call_content_initial_generato
 from agents.content_tester_agent import call_content_tester_agent
 from agents.content_fixer_agent import call_content_fixer_agent
 
-from agents.slidedatamodels import TopicCount
+from agents.datamodels import TopicCount
 
 import datetime
 import json
@@ -27,7 +27,7 @@ initial_outline = call_outline_initial_generator_agent(topic_count)
 #%%
 # Test outline
 tester_result = call_outline_tester_agent(topic_count=topic_count, previous_outline=initial_outline)
-# class of tester_result is TestResultOutline
+# class of tester_result is ValidationWithOutline
 
 #%%
 # Fixing loop
@@ -38,7 +38,7 @@ while tester_result.validation_feedback.is_valid == False:
 
     
     tester_result = call_outline_tester_agent(topic_count=topic_count, previous_outline=fixed_result)
-    # class of tester_result is TestResultOutline
+    # class of tester_result is ValidationWithOutline
 
     iteration += 1
 
@@ -55,7 +55,7 @@ for slide_outline in tester_result.tested_outline.slide_outlines:
 
     # Test content
     tester_result = call_content_tester_agent(presentation_title, slide_outline, content)
-    # class of tester_result is ValidationAndFeedbackContent
+    # class of tester_result is ContentValidationResult
 
     # Fixing loop
     iteration = 1
@@ -65,7 +65,7 @@ for slide_outline in tester_result.tested_outline.slide_outlines:
         # class of fixed_content is SlideContent
 
         tester_result = call_content_tester_agent(presentation_title, slide_outline, fixed_content) 
-        # class of tester_result is ValidationAndFeedbackContent
+        # class of tester_result is ContentValidationResult
 
         iteration += 1
         content = fixed_content

@@ -1,5 +1,5 @@
 #%%
-from agents.slidedatamodels import PresentationOutline, TopicCount
+from agents.datamodels import PresentationOutline, TopicCount
 from agents.prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
 
 

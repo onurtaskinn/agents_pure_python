@@ -14,12 +14,12 @@ from agents.image_generator_agent import generate_image_with_flux
 from agents.image_tester_agent import analyze_image
 
 # Import your existing data models
-from agents.slidedatamodels import (
+from agents.datamodels import (
     TopicCount,
     PresentationOutline,
     SlideOutline,
     SlideContent,
-    ValidationAndFeedbackContent
+    ContentValidationResult
 )
 
 # Load environment variables
@@ -129,7 +129,7 @@ async def generate_content(request: dict):
 #         "slide_image_prompt": "..."
 #     }
 # }
-@app.post("/content/test", response_model=ValidationAndFeedbackContent)
+@app.post("/content/test", response_model=ContentValidationResult)
 async def test_content(request: dict):
     """Test slide content"""
     try:
@@ -162,7 +162,7 @@ async def fix_content(request: dict):
         presentation_title = request["presentation_title"]
         slide_outline = SlideOutline(**request["slide_outline"])
         previous_content = SlideContent(**request["previous_content"])
-        test_result = ValidationAndFeedbackContent(**request["test_result"])
+        test_result = ContentValidationResult(**request["test_result"])
         fixed_content = call_content_fixer_agent(
             presentation_title,
             slide_outline,

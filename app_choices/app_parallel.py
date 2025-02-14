@@ -6,7 +6,7 @@ from agents.content_initial_generator_agent import call_content_initial_generato
 from agents.content_tester_agent import call_content_tester_agent
 from agents.content_fixer_agent import call_content_fixer_agent
 
-from agents.slidedatamodels import TopicCount
+from agents.datamodels import TopicCount
 
 from typing import Dict, Any
 import json, datetime
