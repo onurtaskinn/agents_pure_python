@@ -30,7 +30,7 @@ st.header(body=":card_file_box: AI CONTENT STUDIO ⚡⚡⚡", divider="orange")
 #SIDEBAR DESIGN
 st.sidebar.subheader(body="SETTINGS", divider="orange")
 
-quality_to_model = {"Low": "fal-ai/flux/schnell", "Medium": "fal-ai/flux-realism", "High": "fal-ai/flux-pro/v1.1"}
+quality_to_model = {"Low": "fal-ai/recraft-20b", "Medium": "fal-ai/imagen3", "High": "fal-ai/flux-pro/v1.1"}
 image_quality = st.sidebar.select_slider("Choose Image Quality:", list(quality_to_model.keys()))
 selected_image_model = quality_to_model[image_quality]
 st.sidebar.divider()
