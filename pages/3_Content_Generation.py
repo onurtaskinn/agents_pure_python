@@ -4,10 +4,12 @@ from agents.content_tester_agent import call_content_tester_agent
 from agents.content_fixer_agent import call_content_fixer_agent
 from agents.image_generator_agent import call_image_generator_agent
 from agents.image_tester_agent import call_image_tester_agent
+from agents.image_fixer_agent import call_image_fixer_agent
 import json
 from datetime import datetime
 from utils.logging import save_logs, log_step
-CONTENT_THRESHOLD_SCORE = 98
+CONTENT_THRESHOLD_SCORE = 90
+IMAGE_THRESHOLD_SCORE = 85
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -135,58 +137,76 @@ with slide_container:
                     content_fix_iteration += 1
 
         # Image generation
+        # Image generation
         with st.status(f"🖼️ Generating image...") as status:
-            current_prompt = content.slide_image_prompt
+            current_content = content  # Keep track of current slide content (including prompt)
             attempt_count = 1
             max_attempts = 5
+            is_valid = False
             
-            while True:
+            while not is_valid and attempt_count <= max_attempts:
+                # Generate image
                 status.update(label=f"Generating image (Attempt {attempt_count})...")
-                image_url = call_image_generator_agent(current_prompt, selected_image_model)
+                image_url = call_image_generator_agent(current_content.slide_image_prompt, selected_image_model)
                 
+                # Log image generation
                 st.session_state.results["process_steps"].append({
                     "step": f"image_generation_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
                     "data": {
-                        "image_prompt": current_prompt,
+                        "image_prompt": current_content.slide_image_prompt,
                         "image_url": image_url,
                         "model": selected_image_model,
                         "attempt": attempt_count
                     }
                 })
                 
+                # Test image
                 status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
-                analysis_result_with_logs = call_image_tester_agent(image_url, current_prompt)
-                analysis_result = analysis_result_with_logs["result"]
-                logs = analysis_result_with_logs["log_elements"]
+                image_test_result = call_image_tester_agent(image_url, current_content)
                 
+                # Log image test results
                 st.session_state.results["process_steps"].append({
                     "step": f"image_analysis_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
                     "data": {
-                        "is_valid": analysis_result["is_valid"],
-                        "score": logs["score"],
-                        "feedback": logs["feedback"],
-                        "suggestions": logs["suggestions"],
-                        "current_prompt": current_prompt,
-                        "new_prompt": analysis_result["prompt"] if not analysis_result["is_valid"] else None
+                        "score": image_test_result.validation_feedback.score,
+                        "feedback": image_test_result.validation_feedback.feedback,
+                        "suggestions": image_test_result.validation_feedback.suggestions,
+                        "current_prompt": current_content.slide_image_prompt
                     }
                 })
                 
-                if analysis_result["is_valid"] or attempt_count >= max_attempts:
-                    st.image(image_url, use_container_width=True)
-                    
-                    if analysis_result["is_valid"]:
+                # Display image and test results
+                st.image(image_url, use_container_width=True)
+                st.write("**Analysis Results:**")
+                st.json(image_test_result.model_dump())
+                
+                # Determine if the image is valid (threshold check)
+                is_valid = image_test_result.validation_feedback.score >= IMAGE_THRESHOLD_SCORE  # Assuming 90 is your threshold
+                
+                if is_valid or attempt_count >= max_attempts:
+                    if is_valid:
                         status.update(label=f"Image generated successfully! (Attempt {attempt_count})", state="complete")
                     else:
                         status.update(label=f"Maximum attempts reached ({max_attempts})", state="error")
                         st.warning("Warning: Could not generate an image meeting all quality criteria.")
-                    st.write("**Analysis Results:**")
-                    st.json(analysis_result_with_logs)
                     break
                 
-                st.write("**Analysis Results:**")
-                st.json(analysis_result_with_logs)
-                current_prompt = analysis_result["prompt"]
+                # Fix the prompt if needed
+                status.update(label=f"Improving image prompt (Attempt {attempt_count})...")
+                current_content = call_image_fixer_agent(image_test_result)
+                
+                # Log the improved prompt
+                st.session_state.results["process_steps"].append({
+                    "step": f"image_prompt_fix_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
+                    "data": {
+                        "new_prompt": current_content.slide_image_prompt
+                    }
+                })
+                
                 attempt_count += 1
+            
+            # Use the final content (with potentially improved image prompt)
+            content = current_content
 
         # Mark slide as completed
         st.session_state.completed_slides.add(st.session_state.current_slide_idx)

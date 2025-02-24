@@ -1,7 +1,6 @@
 #%%
-from agents.datamodels import ImageValidationResult, RegeneratedPrompt
-from agents.prompts import (image_tester_system_message, image_tester_user_message,
-                     image_prompt_regenerator_system_message, image_prompt_regenerator_user_message,)
+from agents.datamodels import ImageValidationResult, SlideContent, ImageValidationWithSlideContent
+from agents.prompts import image_tester_system_message, image_tester_user_message
 
 from anthropic import Anthropic
 import os
@@ -16,7 +15,7 @@ client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode
 
 #%%
 
-def call_image_tester_agent(image_url: str, previous_prompt: str) -> dict:
+def call_image_tester_agent(image_url: str, slide_content : SlideContent) -> ImageValidationWithSlideContent:
 
     tester_result = client.chat.completions.create(
         model="claude-3-5-sonnet-20241022",        
@@ -30,7 +29,9 @@ def call_image_tester_agent(image_url: str, previous_prompt: str) -> dict:
                 "content": [
                     {
                         "type": "text",
-                        "text": image_tester_user_message.format(previous_prompt = previous_prompt),
+                        "text": image_tester_user_message.format(slide_onscreen_text = slide_content.slide_onscreen_text,
+                                                                 slide_voiceover_text = slide_content.slide_voiceover_text,
+                                                                 slide_image_prompt = slide_content.slide_image_prompt),
                     },
                     {
                         "type": "image",
@@ -44,44 +45,8 @@ def call_image_tester_agent(image_url: str, previous_prompt: str) -> dict:
         max_tokens=8192,
     )
 
-
-    if tester_result.is_valid:
-        return {
-                "result":
-                    {"is_valid": True, "prompt": ""} , 
-                "log_elements" : 
-                    {"score": tester_result.score, "feedback": tester_result.feedback, "suggestions": tester_result.suggestions, "image_url": image_url}
-                }
-    
-    
-
-    
-    AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20241022",
-        messages=[
-            {
-                "role": "system",
-                "content": image_prompt_regenerator_system_message
-            },
-            {
-                "role": "user",
-                "content": image_prompt_regenerator_user_message.format(previous_prompt = previous_prompt, 
-                                                            score = tester_result.score,
-                                                            feedback = tester_result.feedback,
-                                                            suggestions = tester_result.suggestions,
-                                                            )
-            }
-        ],
-        response_model=RegeneratedPrompt,
-        temperature=0.7,
-        max_tokens=8192,
-        top_p=1,
+    return ImageValidationWithSlideContent(
+        validation_feedback = tester_result,
+        tested_slide_content = slide_content
     )
-    
-    return {"result":
-                {"is_valid": False, "prompt": AI_Response.prompt},
-            "log_elements":
-                {"score": tester_result.score, "feedback": tester_result.feedback, "suggestions": tester_result.suggestions, "image_url": image_url}
-            }
-
 #%%

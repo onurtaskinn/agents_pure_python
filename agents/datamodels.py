@@ -23,6 +23,8 @@ class ValidationWithOutline(BaseModel):
     validation_feedback: OutlineValidationResult = Field(description="The result of the outline validation")
     tested_outline: PresentationOutline = Field(description="The tested outline")
 
+
+
 class SlideContent(BaseModel):
     slide_onscreen_text: str = Field(description="The textual content with HTML markup that is shown on the slide")
     slide_voiceover_text: str = Field(description="The text for the voiceover of this particular slide")
@@ -37,14 +39,23 @@ class ValidationWithContent(BaseModel):
     validation_feedback: ContentValidationResult = Field(description="The result of the content validation")
     tested_content: SlideContent = Field(description="The tested content")
 
+
+
+
+class RegeneratedPrompt(BaseModel):
+    prompt: str = Field(description="The regenerated image prompt")
+
 class ImageValidationResult(BaseModel):
     feedback: str = Field(description="The feedback on the image validation")
     suggestions: str = Field(description="Suggestions for improving the image")
     score: int = Field(description="The score of the image validation")
-    is_valid: bool = Field(description="Whether the image meets quality requirements")    
+    # is_valid: bool = Field(description="Whether the image meets quality requirements")   
 
-class RegeneratedPrompt(BaseModel):
-    prompt: str = Field(description="The regenerated image prompt")
+class ImageValidationWithSlideContent(BaseModel):
+    validation_feedback: ImageValidationResult = Field(description="The result of the image validation")
+    tested_slide_content: SlideContent = Field(description="The tested slide content")
+
+
 
 class SlideExportData(BaseModel):
     slide_onscreen_text: str = Field(description="The textual content with HTML markup that is shown on the slide")

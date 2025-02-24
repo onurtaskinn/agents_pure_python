@@ -308,25 +308,27 @@ image_tester_user_message = (
     '''
     Analyze this image for a presentation slide:
 
-    Original Prompt: {previous_prompt}
+    The slide content is as follows:
+    - Onscreen Text: {slide_onscreen_text}
+    - Voiceover Text: {slide_voiceover_text}
+    - Image Prompt: {slide_image_prompt}
 
     Evaluate against these criteria:
 
     CRITICAL ISSUES (Any of these results in automatic rejection):
-    1. Does not match the provided prompt
-    2. Poor quality or resolution
-    3. Contains celebrity/famous person likenesses
-    4. Contains text or writing within the image
-    5. Overly complex or elaborate compositions
+    1. Contains text or writing within the image
+    2. Contains celebrity/famous person likenesses     
     6. Contains inappropriate/offensive content
     7. Has copyright/watermark issues
     8. Shows technical rendering problems
     9. Includes elements not directly supporting the slide's context
 
+    
     SCORING CRITERIA (Total 100 points):
-    1. Prompt Alignment (40 points):
-    - Matches specified visual style
-    - Contains all requested elements
+    1. Slide Content Alignment (40 points):
+    - Includes elements that align with slide content
+    - Matches specified visual style in prompt
+    - Contains requested elements
     - Accurate concept representation
     - Proper composition as described
 
@@ -344,32 +346,42 @@ image_tester_user_message = (
     - Clear focus on key message
 
     Required Response Format:
-    1. Valid/Invalid status (Invalid if score < 90 or any critical issues present)
-    2. Detailed feedback listing specific issues found    
+    1. Detailed feedback listing specific issues found    
+    2. Suggested prompt improvements if needed
     3. Numerical score (0-100)
-    4. Suggested prompt improvements if needed
+    
 
     Remember:
     - Keep images simple and context-appropriate
     - Avoid complex figures
     - Ensure every element serves a purpose
     - Prioritize clarity over artistic complexity
+
+    Now take a deep breath and start evaluating the image.
     '''
 )
 
 
 
-image_prompt_regenerator_system_message = (
+image_fixer_system_message = (
     '''
     You are an expert at refining image generation prompts based on feedback. Your role is to improve prompts to create simple, effective presentation visuals.
     '''
 )
 
-image_prompt_regenerator_user_message = (
+image_fixer_user_message = (
     '''
     Previous image generation attempt:
 
-    Original Prompt: {previous_prompt}
+    Original image prompt:
+    ## {slide_image_prompt}
+    ##
+    
+    Slide Content:
+    - Onscreen Text: {slide_onscreen_text}
+    - Voiceover Text: {slide_voiceover_text}
+
+
     Validation Results:
     - Score: {score}
     - Feedback: {feedback}
