@@ -15,8 +15,8 @@ class PresentationOutline(BaseModel):
     slide_outlines: List[SlideOutline] = Field(description="List of slide outlines")
 
 class OutlineValidationResult(BaseModel):
-    # is_valid: bool = Field(description="Whether the outline is valid or not")
-    feedback: str = Field(description="Feedback on the outline. This should indicate the slide numbers that need to be improved.")
+    # is_valid: bool = Field(description="Whether the outline is valid or not")    
+    feedback: str = Field(description="Feedback on the outline. This should indicate the slide numbers that need to be improved.")    
     score: int = Field(description="The score of the outline")
 
 class ValidationWithOutline(BaseModel):
@@ -29,8 +29,8 @@ class SlideContent(BaseModel):
     slide_image_prompt: str = Field(description="A detailed prompt text to generate an image for this particular slide. This is always in English regardless of the language of the presentation")
 
 class ContentValidationResult(BaseModel):
-    is_valid: bool = Field(description="Whether the content is valid or not")
-    feedback: str = Field(description="Feedback on the content")
+    # is_valid: bool = Field(description="Whether the content is valid or not")    
+    feedback: str = Field(description="Feedback on the content")    
     score: int = Field(description="The score of the content")
 
 class ValidationWithContent(BaseModel):

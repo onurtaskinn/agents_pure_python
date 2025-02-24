@@ -1,7 +1,6 @@
 #%%
 from agents.datamodels import SlideOutline, SlideContent, ContentValidationResult
 from agents.prompts import content_tester_system_message, content_tester_user_message
-
 import os
 from dotenv import load_dotenv
 import instructor
@@ -42,5 +41,3 @@ def call_content_tester_agent( presentation_title : str, slide_outline : SlideOu
     )
     
     return AI_Response
-
-

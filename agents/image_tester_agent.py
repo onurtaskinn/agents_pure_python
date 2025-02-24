@@ -16,7 +16,7 @@ client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode
 
 #%%
 
-def analyze_image(image_url: str, previous_prompt: str) -> dict:
+def call_image_tester_agent(image_url: str, previous_prompt: str) -> dict:
 
     tester_result = client.chat.completions.create(
         model="claude-3-5-sonnet-20241022",        

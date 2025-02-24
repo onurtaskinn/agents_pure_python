@@ -170,7 +170,7 @@ content_initial_generator_user_message = (
         The slide will also have some voiceover text that will be read by a speaker.
         The onscreen text and voiceover text must be determined in coherence. Apply the multimedia design principles to generate coherent texts for screen and voiceover.
         The slide will also have an image to enrich its content beyond a text only look.
-        I will later use another AI model to generate image for this slide. But I need a detailed and well-written textual prompt to do that.
+        I will later use another AI model to generate image for this slide. But I need a detailed and well-written textual image prompt to do that.
         Before writing the prompt, think about the entire context for this slide, presentation, slide title, focus, on screen text and voiceover text.
         First, come up with a good visual idea that would make sense with the rest of the information, context and message we provide here.
         Then express this visual idea with a detailed and descriptive manner as a textual prompt. It is important that your image prompt to be clear, descriptive and detailed.
@@ -209,11 +209,12 @@ Content to Evaluate:
 
 Evaluation Criteria:
 
-1. Critical Issues (Any of these results in automatic failure):
+1. Critical Issues (Any of these results in automatic failure, 0 points):
 - Misaligned content elements
 - Unclear or confusing message
 - Missing or incomplete components
 - Technical errors in HTML markup or language
+
 
 2. Quality Scoring (Total: 100 points)
 
@@ -226,8 +227,8 @@ Content Coherence (40 points):
 Multimedia Design (30 points):
 - Balance between onscreen and voiceover text
 - Onscreen text conciseness
-- Voiceover completeness
-- Image relevance and enhancement
+- Voiceover text completeness
+- Image prompt relevance and enhancement
 
 Technical Quality (30 points):
 - Correct HTML markup usage
@@ -235,16 +236,13 @@ Technical Quality (30 points):
 - Language consistency
 - Professional tone
 
-Important Rules:
-- Content must score 100 points to be valid (is_valid=True)
-- Any score below 100 results in is_valid=False
-- Be extremely strict in evaluation
-- Do not hesitate to give low scores for any quality issues
-
 Your evaluation must provide:
-1. Validity status (is_valid: true/false)
-2. Comprehensive feedback listing all issues found
-3. Detailed score breakdown (0-100) for each criterion
+1. Comprehensive feedback listing all issues found
+2. Detailed score breakdown (0-100) for each criterion
+
+Remember, your evaluation should be strict, don't hesitate to give low scores if you see any issues.
+
+Now take a deep breath and start evaluating the content.
 '''
 
 
@@ -288,7 +286,6 @@ Follow these revision guidelines:
 3. Quality Standards:
 - All content must support the core message
 - Maintain professional tone throughout
-- Strengthen multimedia integration
 - Balance information across elements
 - Preserve the original message while improving delivery
 

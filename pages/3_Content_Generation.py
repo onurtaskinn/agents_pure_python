@@ -2,11 +2,12 @@ import streamlit as st
 from agents.content_initial_generator_agent import call_content_initial_generator_agent
 from agents.content_tester_agent import call_content_tester_agent
 from agents.content_fixer_agent import call_content_fixer_agent
-from agents.image_generator_agent import generate_image_with_flux
-from agents.image_tester_agent import analyze_image
+from agents.image_generator_agent import call_image_generator_agent
+from agents.image_tester_agent import call_image_tester_agent
 import json
 from datetime import datetime
 from utils.logging import save_logs, log_step
+CONTENT_THRESHOLD_SCORE = 98
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -76,7 +77,7 @@ with slide_container:
             st.write("### Content Test Results")
             st.json(content_test_result.model_dump())
             
-            if content_test_result.is_valid:
+            if content_test_result.score >= CONTENT_THRESHOLD_SCORE:
                 content = initial_content
                 status.update(label="Content validation passed!", state="complete")
             else:
@@ -85,11 +86,11 @@ with slide_container:
 
         # Content fixing loop
         content = initial_content
-        if not content_test_result.is_valid:
+        if content_test_result.score < CONTENT_THRESHOLD_SCORE:
             content_fix_iteration = 1
             max_iterations = 3
             
-            while not content_test_result.is_valid and content_fix_iteration <= max_iterations:
+            while content_test_result.score < CONTENT_THRESHOLD_SCORE and content_fix_iteration <= max_iterations:
                 with st.status(f"🔧 Fixing content - Iteration {content_fix_iteration}...") as status:
                     st.write(f"### Fixing Round {content_fix_iteration}")
                     fixed_content = call_content_fixer_agent(
@@ -118,7 +119,7 @@ with slide_container:
                     st.write("**Test Results:**")
                     st.json(content_test_result.model_dump())
                     
-                    if content_test_result.is_valid:
+                    if content_test_result.score >= CONTENT_THRESHOLD_SCORE:
                         content = fixed_content
                         status.update(label=f"Content fixed in {content_fix_iteration} iterations!", state="complete")
                     else:
@@ -141,7 +142,7 @@ with slide_container:
             
             while True:
                 status.update(label=f"Generating image (Attempt {attempt_count})...")
-                image_url = generate_image_with_flux(current_prompt, selected_image_model)
+                image_url = call_image_generator_agent(current_prompt, selected_image_model)
                 
                 st.session_state.results["process_steps"].append({
                     "step": f"image_generation_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
@@ -154,7 +155,7 @@ with slide_container:
                 })
                 
                 status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
-                analysis_result_with_logs = analyze_image(image_url, current_prompt)
+                analysis_result_with_logs = call_image_tester_agent(image_url, current_prompt)
                 analysis_result = analysis_result_with_logs["result"]
                 logs = analysis_result_with_logs["log_elements"]
                 

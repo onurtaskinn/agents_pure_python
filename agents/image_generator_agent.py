@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def generate_image_with_flux(prompt, selected_model):
+def call_image_generator_agent(prompt, selected_model):
 
     handler = fal_client.submit(
         selected_model,
