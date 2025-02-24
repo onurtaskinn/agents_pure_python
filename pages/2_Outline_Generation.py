@@ -4,6 +4,7 @@ from agents.outline_tester_agent import call_outline_tester_agent
 from agents.outline_fixer_agent import call_outline_fixer_agent
 from agents.datamodels import TopicCount
 import json
+from utils.logging import log_step
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Outline Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Outline Generation ⚡", divider="orange")
@@ -21,6 +22,12 @@ if "outline_generated" not in st.session_state:
     st.session_state.outline_generated = False
 
 if not st.session_state.outline_generated:
+    # Log the start of outline generation
+    log_step("outline_generation_start", {
+        "topic": st.session_state.slide_topic,
+        "slide_count": st.session_state.slide_count
+    })
+    
     topic_count = TopicCount(
         presentation_topic=st.session_state.slide_topic,
         slide_count=st.session_state.slide_count

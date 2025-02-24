@@ -1,14 +1,6 @@
 import streamlit as st
 from datetime import datetime
-import json
-
-def initialize_logging():
-    time = datetime.now().strftime("%Y%m%d%H%M%S")
-    filename = f"presentation_outline_{time}.json"
-    return {
-        "timestamp": time,
-        "process_steps": []
-    }, filename
+from utils.logging import initialize_logging, save_logs, log_step
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Topic Selection", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Topic Selection ⚡", divider="orange")
@@ -39,5 +31,14 @@ if st.button("Proceed to Outline Generation"):
     # Store the values in session state
     st.session_state.slide_topic = slide_topic
     st.session_state.slide_count = slide_count
+    
+    # Log the topic selection
+    log_step("topic_selection", {
+        "topic": slide_topic,
+        "slide_count": slide_count
+    })
+    st.session_state.results["metadata"]["completion_status"]["topic_selection"] = True
+    # save_logs()
+    
     # Navigate to the next page
     st.switch_page("pages/2_Outline_Generation.py")

@@ -27,7 +27,7 @@ def call_outline_fixer_agent(test_result_with_outline : ValidationWithOutline) -
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
 
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20240620",
+        model="claude-3-5-sonnet-20241022",
         messages=[
             {
                 "role": "system",

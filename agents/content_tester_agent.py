@@ -18,7 +18,7 @@ def call_content_tester_agent( presentation_title : str, slide_outline : SlideOu
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
     
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20240620",
+        model="claude-3-5-sonnet-20241022",
         messages=[
             {
                 "role": "system",

@@ -28,7 +28,7 @@ with overview_container:
     st.write(f"**Generation Date:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 # Create tabs for different view modes
-tab_slides, tab_export = st.tabs(["🎯 Slide View", "📑 Export View"])
+tab_slides, tab_export, tab_logs = st.tabs(["🎯 Slide View", "📑 Export View", "📋 Process Logs"])
 
 with tab_slides:
     # Initialize the current slide index if not exists
@@ -94,7 +94,7 @@ with tab_slides:
                     st.markdown(slide_content["slide_image_prompt"])
             
             with col_image:
-                st.image(slide_image, use_column_width=True)
+                st.image(slide_image, use_container_width=True)
 
 with tab_export:
     st.subheader("📑 Export Options")
@@ -218,3 +218,40 @@ with tab_export:
             file_name=f"presentation_export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.html",
             mime="text/html"
         )
+
+with tab_logs:
+    st.subheader("📋 Process Logs")
+    
+    # Display process metadata
+    st.markdown("### Process Overview")
+    metadata = st.session_state.results["metadata"]
+    st.json({
+        "Start Time": metadata["start_time"],
+        "Completion Time": metadata.get("completion_time", "Not completed"),
+        "Status": metadata["completion_status"]
+    })
+    
+    # Create a filterable view of the logs
+    st.markdown("### Detailed Logs")
+    
+    # Create log filters
+    log_types = set(step["step"].split("_")[0] for step in st.session_state.results["process_steps"])
+    selected_types = st.multiselect(
+        "Filter by Process Type",
+        options=sorted(log_types),
+        default=list(log_types)
+    )
+    
+    # Display filtered logs
+    for step in st.session_state.results["process_steps"]:
+        if step["step"].split("_")[0] in selected_types:
+            with st.expander(f"🔍 {step['step']} ({step.get('timestamp', 'N/A')})"):
+                st.json(step["data"])
+    
+    # Add download button for complete logs
+    st.download_button(
+        label="Download Complete Logs",
+        data=json.dumps(st.session_state.results, indent=2),
+        file_name=f"complete_logs_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json",
+        mime="application/json"
+    )

@@ -5,6 +5,8 @@ from agents.content_fixer_agent import call_content_fixer_agent
 from agents.image_generator_agent import generate_image_with_flux
 from agents.image_tester_agent import analyze_image
 import json
+from datetime import datetime
+from utils.logging import save_logs, log_step
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -211,8 +213,23 @@ with slide_container:
                 st.rerun()
         elif len(st.session_state.completed_slides) == len(st.session_state.final_outline.slide_outlines):
             if st.button("🎉 Finish Presentation"):
+                # Mark content generation as complete
+                st.session_state.results["metadata"]["completion_status"]["content_generation"] = True
+                
+                # Add completion timestamp
+                st.session_state.results["metadata"]["completion_time"] = datetime.now().strftime("%Y%m%d%H%M%S")
+                
+                # Log completion
+                log_step("presentation_completion", {
+                    "total_slides": len(st.session_state.final_outline.slide_outlines),
+                    "completion_time": st.session_state.results["metadata"]["completion_time"]
+                })
+                
                 # Save final results
-                with open(f"./_outputs/{st.session_state.filename}", "w") as f:
-                    json.dump(st.session_state.results, f, indent=3)
+                save_logs()
+                
                 st.balloons()
                 st.success("🎉 Presentation generation completed successfully!")
+                
+                # Proceed to results viewer
+                st.switch_page("pages/4_Results_Viewer.py")

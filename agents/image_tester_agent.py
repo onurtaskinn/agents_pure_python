@@ -19,7 +19,7 @@ client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode
 def analyze_image(image_url: str, previous_prompt: str) -> dict:
 
     tester_result = client.chat.completions.create(
-        model="claude-3-5-sonnet-20240620",        
+        model="claude-3-5-sonnet-20241022",        
         messages=[
             {
                 "role": "system",
@@ -57,7 +57,7 @@ def analyze_image(image_url: str, previous_prompt: str) -> dict:
 
     
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20240620",
+        model="claude-3-5-sonnet-20241022",
         messages=[
             {
                 "role": "system",
