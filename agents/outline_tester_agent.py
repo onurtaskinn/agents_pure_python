@@ -1,7 +1,6 @@
 #%%
 from agents.datamodels import PresentationOutline, TopicCount, ValidationWithOutline, OutlineValidationResult
 from agents.prompts import outline_tester_system_message, outline_tester_user_message
-
 import os, instructor
 from anthropic import Anthropic
 from openai import OpenAI
@@ -13,17 +12,6 @@ load_dotenv()
 def call_outline_tester_agent(topic_count: TopicCount, previous_outline: PresentationOutline) -> ValidationWithOutline:
     """Function to call the initial outline generator agent"""
 
-    if(topic_count.slide_count != len(previous_outline.slide_outlines)):
-        diff = len(previous_outline.slide_outlines) - topic_count.slide_count
-        feedback = (
-            f'There are {len(previous_outline.slide_outlines)} slides in the previous outline, '
-            f'but the user has requested {topic_count.slide_count} slides. Therefore '
-            f'{"remove " + str(abs(diff)) + " slides" if diff > 0 else " add " + str(abs(diff)) + " slides"}'
-        )
-        result_of_test = OutlineValidationResult(is_valid=False, feedback=feedback, score=0)
-        return ValidationWithOutline(validation_feedback=result_of_test , tested_outline=previous_outline)
-    
-
     openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     client = instructor.from_openai(client=openai_client, mode=instructor.Mode.JSON)
 
@@ -33,7 +21,6 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
     )
 
     AI_Response = client.chat.completions.create(
-        # model="o3-mini-2025-01-31",
         model = "o1-2024-12-17",
         messages=[
             {
@@ -52,4 +39,3 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
     )
 
     return ValidationWithOutline(validation_feedback=AI_Response, tested_outline=previous_outline)
-

@@ -6,6 +6,8 @@ from agents.datamodels import TopicCount
 import json
 from utils.logging import log_step
 
+THRESHOLD_SCORE = 95
+
 st.set_page_config(page_title="AI CONTENT STUDIO - Outline Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Outline Generation ⚡", divider="orange")
 
@@ -54,7 +56,7 @@ if not st.session_state.outline_generated:
         })
         st.json(tester_result.model_dump())
         
-        if tester_result.validation_feedback.is_valid:
+        if tester_result.validation_feedback.score >= THRESHOLD_SCORE:
             status.update(label="Outline validation passed!", state="complete")
             st.session_state.final_outline = tester_result.tested_outline
             st.session_state.outline_generated = True
@@ -63,9 +65,9 @@ if not st.session_state.outline_generated:
             st.error(f"Validation Failed: {tester_result.validation_feedback.feedback}")
 
     # Outline fixing loop
-    if not tester_result.validation_feedback.is_valid:
+    if not tester_result.validation_feedback.score >= THRESHOLD_SCORE:
         outline_fix_iteration = 1
-        while not tester_result.validation_feedback.is_valid:
+        while not tester_result.validation_feedback.score >= THRESHOLD_SCORE:
             with st.status(f"🔧 Fixing outline - Iteration {outline_fix_iteration}...", expanded=True) as status:
                 st.write(f"### Fixing Round {outline_fix_iteration}")
                 fixed_result = call_outline_fixer_agent(tester_result)
@@ -85,7 +87,7 @@ if not st.session_state.outline_generated:
                 st.write("**Test Results:**")
                 st.json(tester_result.model_dump())
                 
-                if tester_result.validation_feedback.is_valid:
+                if tester_result.validation_feedback.score >= THRESHOLD_SCORE:
                     status.update(label=f"Outline fixed in {outline_fix_iteration} iterations!", state="complete")
                     st.session_state.final_outline = tester_result.tested_outline
                     st.session_state.outline_generated = True

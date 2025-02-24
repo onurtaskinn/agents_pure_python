@@ -15,8 +15,8 @@ class PresentationOutline(BaseModel):
     slide_outlines: List[SlideOutline] = Field(description="List of slide outlines")
 
 class OutlineValidationResult(BaseModel):
-    is_valid: bool = Field(description="Whether the outline is valid or not")
-    feedback: str = Field(description="Feedback on the outline")
+    # is_valid: bool = Field(description="Whether the outline is valid or not")
+    feedback: str = Field(description="Feedback on the outline. This should indicate the slide numbers that need to be improved.")
     score: int = Field(description="The score of the outline")
 
 class ValidationWithOutline(BaseModel):

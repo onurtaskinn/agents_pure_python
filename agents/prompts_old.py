@@ -4,7 +4,8 @@ outline_initial_generator_system_message = (
     '''
 )
 
-outline_initial_generator_user_message ='''
+outline_initial_generator_user_message = (
+    '''
     Create a presentation outline on {presentation_topic} with exactly {slide_count} slides.
 
     Follow these requirements carefully:
@@ -35,10 +36,8 @@ outline_initial_generator_user_message ='''
        - A descriptive title
        - A focused message that supports the main topic
        - A sequential slide number
-
-    IMPORTANT: Generate all content in Turkish language. Respond in fluent, grammatically correct Turkish.
-
     '''
+)
 
 
 
@@ -84,10 +83,12 @@ Practicality (20 points):
 
 Important Rules:
 - Do not evaluate the number of slides as this is predefined
+- Any score below 70 points makes the outline invalid (is_valid=False)
 
 Your evaluation must provide:
-1. Detailed feedback explaining any issues found
-2. Numerical score (0-100) broken down by criteria
+1. Validity status (is_valid: true/false)
+2. Detailed feedback explaining any issues found
+3. Numerical score (0-100) broken down by criteria
 '''
 
 
