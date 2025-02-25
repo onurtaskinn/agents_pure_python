@@ -1,6 +1,6 @@
 #%%
-from agents.datamodels import PresentationOutline, TopicCount
-from agents.prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
+from utils.datamodels import PresentationOutline, TopicCount
+from utils.prompts import outline_initial_generator_system_message, outline_initial_generator_user_message
 
 
 import os, instructor

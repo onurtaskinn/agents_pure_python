@@ -1,6 +1,6 @@
 #%%
-from agents.datamodels import SlideOutline, SlideContent, ContentValidationResult
-from agents.prompts import content_tester_system_message, content_tester_user_message
+from utils.datamodels import SlideOutline, SlideContent, ContentValidationResult
+from utils.prompts import content_tester_system_message, content_tester_user_message
 import os
 from dotenv import load_dotenv
 import instructor

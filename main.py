@@ -14,7 +14,7 @@ from agents.image_generator_agent import generate_image_with_flux
 from agents.image_tester_agent import analyze_image
 
 # Import your existing data models
-from agents.datamodels import (
+from utils.datamodels import (
     TopicCount,
     PresentationOutline,
     SlideOutline,

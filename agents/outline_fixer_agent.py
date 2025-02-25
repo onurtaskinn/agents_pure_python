@@ -1,6 +1,6 @@
 #%%
-from agents.datamodels import PresentationOutline, ValidationWithOutline
-from agents.prompts import outline_fixer_system_message, outline_fixer_user_message
+from utils.datamodels import PresentationOutline, ValidationWithOutline
+from utils.prompts import outline_fixer_system_message, outline_fixer_user_message
 
 import os, instructor
 from dotenv import load_dotenv

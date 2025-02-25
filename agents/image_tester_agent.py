@@ -1,6 +1,6 @@
 #%%
-from agents.datamodels import ImageValidationResult, SlideContent, ImageValidationWithSlideContent
-from agents.prompts import image_tester_system_message, image_tester_user_message
+from utils.datamodels import ImageValidationResult, SlideContent, ImageValidationWithSlideContent
+from utils.prompts import image_tester_system_message, image_tester_user_message
 
 from anthropic import Anthropic
 import os
