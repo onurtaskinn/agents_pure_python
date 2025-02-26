@@ -6,7 +6,7 @@ from utils.datamodels import TopicCount
 import json
 from utils.logging import log_step
 
-OUTLINE_THRESHOLD_SCORE = 85
+OUTLINE_THRESHOLD_SCORE = 90
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Outline Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Outline Generation ⚡", divider="orange")

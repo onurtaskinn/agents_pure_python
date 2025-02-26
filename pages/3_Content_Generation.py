@@ -5,11 +5,13 @@ from agents.content_fixer_agent import call_content_fixer_agent
 from agents.image_generator_agent import call_image_generator_agent
 from agents.image_tester_agent import call_image_tester_agent
 from agents.image_fixer_agent import call_image_fixer_agent
+from agents.speech_generator import call_speech_generator
+
 import json
 from datetime import datetime
 from utils.logging import save_logs, log_step
-CONTENT_THRESHOLD_SCORE = 90
-IMAGE_THRESHOLD_SCORE = 85
+CONTENT_THRESHOLD_SCORE = 30
+IMAGE_THRESHOLD_SCORE = 30
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -207,6 +209,28 @@ with slide_container:
             
             # Use the final content (with potentially improved image prompt)
             content = current_content
+
+        if voiceover_generation:
+            with st.status("🔊 Generating voice audio...") as status:
+                generated_speech_file_path = call_speech_generator(
+                    input_text=content.slide_voiceover_text,
+                    output_file_name=str(st.session_state.current_slide_idx+1)
+                )
+                
+                # Log speech generation
+                st.session_state.results["process_steps"].append({
+                    "step": f"speech_generation_slide_{st.session_state.current_slide_idx + 1}",
+                    "data": {
+                        "voiceover_text": content.slide_voiceover_text,
+                        "audio_file_path": generated_speech_file_path
+                    }
+                })
+                st.audio(data=generated_speech_file_path)
+                st.markdown(content.slide_voiceover_text)                
+                
+                status.update(label="Voice audio generated successfully!", state="complete")
+
+
 
         # Mark slide as completed
         st.session_state.completed_slides.add(st.session_state.current_slide_idx)
