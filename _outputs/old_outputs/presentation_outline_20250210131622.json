@@ -1,0 +1,385 @@
+{
+   "timestamp": "20250210131622",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_outlines": [
+               {
+                  "slide_title": "\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin \u00d6nemi",
+                  "slide_focus": "Etkili ileti\u015fim ve networking, kariyer ba\u015far\u0131s\u0131n\u0131n temel ta\u015flar\u0131d\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenleri",
+                  "slide_focus": "Aktif dinleme, a\u00e7\u0131k ifade ve beden dili, etkili ileti\u015fimin \u00fc\u00e7 ana bile\u015fenidir.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "\u0130\u015f Ortam\u0131nda Networking'in G\u00fcc\u00fc",
+                  "slide_focus": "G\u00fc\u00e7l\u00fc bir profesyonel a\u011f, yeni f\u0131rsatlar ve i\u015fbirliklerine kap\u0131 a\u00e7ar.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Dijital \u00c7a\u011fda Networking Stratejileri",
+                  "slide_focus": "LinkedIn ve profesyonel etkinlikler, modern networking'in vazge\u00e7ilmez ara\u00e7lar\u0131d\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkisi",
+                  "slide_focus": "G\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve geni\u015f bir network, profesyonel ba\u015far\u0131y\u0131 h\u0131zland\u0131r\u0131r.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Slayt yap\u0131s\u0131 genel olarak tutarl\u0131 ve ak\u0131c\u0131. \u0130lk slayt giri\u015f niteli\u011fi ta\u015f\u0131yor, son slaytta konunun kariyer \u00fczerindeki etkileri vurgulanarak sonuca ba\u011flan\u0131yor. Her slayt tek bir ana konsepte odaklan\u0131yor ve odak c\u00fcmleleri net. Dijital \u00e7a\u011fdaki ara\u00e7lara yer verilmesi i\u00e7eri\u011fi g\u00fcncel tutarken aktif dinleme ve beden dili gibi somut \u00f6rnekler sunulmas\u0131 uygulanabilirli\u011fi art\u0131r\u0131yor. Kapan\u0131\u015fta sunum \u00f6zetinin daha belirgin olmas\u0131, sunumun mesaj\u0131n\u0131 iyice peki\u015ftirebilir.",
+               "score": 90
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin \u00d6nemi",
+                     "slide_focus": "Etkili ileti\u015fim ve networking, kariyer ba\u015far\u0131s\u0131n\u0131n temel ta\u015flar\u0131d\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenleri",
+                     "slide_focus": "Aktif dinleme, a\u00e7\u0131k ifade ve beden dili, etkili ileti\u015fimin \u00fc\u00e7 ana bile\u015fenidir.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "\u0130\u015f Ortam\u0131nda Networking'in G\u00fcc\u00fc",
+                     "slide_focus": "G\u00fc\u00e7l\u00fc bir profesyonel a\u011f, yeni f\u0131rsatlar ve i\u015fbirliklerine kap\u0131 a\u00e7ar.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Dijital \u00c7a\u011fda Networking Stratejileri",
+                     "slide_focus": "LinkedIn ve profesyonel etkinlikler, modern networking'in vazge\u00e7ilmez ara\u00e7lar\u0131d\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkisi",
+                     "slide_focus": "G\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve geni\u015f bir network, profesyonel ba\u015far\u0131y\u0131 h\u0131zland\u0131r\u0131r.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin Stratejik \u00d6nemi</h2><ul><li>Kariyer Ba\u015far\u0131s\u0131n\u0131n Temel Ta\u015f\u0131: Etkili \u0130leti\u015fim</li><li>Networking = Profesyonel Geli\u015fimin Anahtar\u0131</li><li>\u0130leti\u015fim Becerileri Rekabet Avantaj\u0131 Sa\u011flar</li></ul>",
+            "slide_voiceover_text": "Sevgili profesyoneller, i\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n s\u0131rr\u0131 etkili ileti\u015fim ve g\u00fc\u00e7l\u00fc networking becerilerinden ge\u00e7iyor. \u0130leti\u015fim, sadece konu\u015fmak de\u011fil, do\u011fru zamanda, do\u011fru ki\u015filerle ve do\u011fru \u015fekilde ba\u011flant\u0131 kurabilmektir. Profesyonel hayat\u0131n\u0131zda ili\u015fkilerinizi g\u00fc\u00e7lendiren ve kariyerinize ivme kazand\u0131ran en \u00f6nemli ara\u00e7 ileti\u015fim becerilerinizdir.",
+            "slide_image_prompt": "A professional networking scene in a modern office setting, showing diverse business people connecting and communicating. Create a dynamic composition with people shaking hands, exchanging business cards, and engaging in meaningful conversations. Use a warm, corporate color palette with blues and grays. Illustrate the energy and importance of communication through body language and facial expressions. Photorealistic style with a slightly stylized, inspirational feel, emphasizing connection and professional interaction."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover could be more directly tied to the bullet points.\n- Consider adding a brief mention of 'rekabet avantaj\u0131' (competitive advantage) in the voiceover to match the onscreen text.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is good.\n- The image prompt is relevant and enhances the message.\n- Consider adding one more bullet point to the onscreen text to cover all key points mentioned in the voiceover.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific, but could benefit from mentioning the exchange of business cards to fully align with networking aspects.\n- Ensure consistency in capitalization in the onscreen text (e.g., 'Networking' vs '\u0130leti\u015fim Becerileri').\n\nOverall, the content is strong but needs minor refinements to achieve full marks.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin Stratejik \u00d6nemi</h2><ul><li>Kariyer Ba\u015far\u0131s\u0131n\u0131n Temel Ta\u015f\u0131: Etkili \u0130leti\u015fim</li><li>Networking: Profesyonel Geli\u015fimin Anahtar\u0131</li><li>\u0130leti\u015fim Becerileri Rekabet Avantaj\u0131 Sa\u011flar</li><li>Do\u011fru Zamanda, Do\u011fru Ki\u015filerle Ba\u011flant\u0131 Kurma</li></ul>",
+            "slide_voiceover_text": "Sevgili profesyoneller, i\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n s\u0131rr\u0131 etkili ileti\u015fim ve g\u00fc\u00e7l\u00fc networking becerilerinden ge\u00e7iyor. \u0130leti\u015fim, sadece konu\u015fmak de\u011fil, do\u011fru zamanda, do\u011fru ki\u015filerle ve do\u011fru \u015fekilde ba\u011flant\u0131 kurabilmektir. Profesyonel hayat\u0131n\u0131zda ili\u015fkilerinizi g\u00fc\u00e7lendiren ve kariyerinize ivme kazand\u0131ran en \u00f6nemli ara\u00e7 ileti\u015fim becerilerinizdir. Bu beceriler, sizlere \u00f6nemli bir rekabet avantaj\u0131 sa\u011flayarak, kariyer ba\u015far\u0131n\u0131z\u0131 destekler ve profesyonel geli\u015fiminizi h\u0131zland\u0131r\u0131r.",
+            "slide_image_prompt": "A professional networking scene in a modern office setting, showing diverse business people connecting and communicating. Create a dynamic composition with people shaking hands, exchanging business cards, and engaging in meaningful conversations. Include a clear visual of business card exchange to emphasize networking. Use a warm, corporate color palette with blues and grays. Illustrate the energy and importance of communication through body language and facial expressions. Photorealistic style with a slightly stylized, inspirational feel, emphasizing connection and professional interaction."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and aligns perfectly with the presentation's focus. The onscreen text, voiceover, and image prompt are coherent and reinforce the key message about the importance of communication and networking in the business world. The onscreen text is concise and well-structured, while the voiceover provides more detailed information. The image prompt is highly relevant and descriptive, enhancing the overall message. There are no critical issues, and the content meets all evaluation criteria at the highest level.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A professional networking scene in a modern office setting, showing diverse business people connecting and communicating. Create a dynamic composition with people shaking hands, exchanging business cards, and engaging in meaningful conversations. Include a clear visual of business card exchange to emphasize networking. Use a warm, corporate color palette with blues and grays. Illustrate the energy and importance of communication through body language and facial expressions. Photorealistic style with a slightly stylized, inspirational feel, emphasizing connection and professional interaction.",
+            "image_url": "https://v3.fal.media/files/tiger/VgQwhQEYELPDJPTQKMO6b.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 88,
+            "feedback": "The image generally aligns well with the prompt, depicting a modern office setting with business professionals interacting. The composition shows people shaking hands, but the focus on business card exchange is not clearly visible, which was a key element of the prompt. The image uses a warm corporate color palette, with tones of blue and gray, fitting the stylistic requirements. The quality is high, with clear resolution and professional lighting. Body language and facial expressions suggest communication and connection, maintaining the intended stylistic feel.\n\nHowever, there's no discernible business card exchange, which weakens the connection to the prompt. Also, the composition might be considered slightly complex due to the number of people, but it doesn\u2019t appear overly elaborate or distracting for a networking scene.",
+            "suggestions": "To improve alignment with the prompt, make the business card exchange more prominent, either by focusing on a close-up of the exchange or ensuring it is central to the composition. This enhancement will emphasize the networking aspect more effectively.",
+            "current_prompt": "A professional networking scene in a modern office setting, showing diverse business people connecting and communicating. Create a dynamic composition with people shaking hands, exchanging business cards, and engaging in meaningful conversations. Include a clear visual of business card exchange to emphasize networking. Use a warm, corporate color palette with blues and grays. Illustrate the energy and importance of communication through body language and facial expressions. Photorealistic style with a slightly stylized, inspirational feel, emphasizing connection and professional interaction.",
+            "new_prompt": "A simplified networking scene in a modern office setting. Focus on two diverse business professionals exchanging business cards in the foreground. They should be smiling and making eye contact, emphasizing connection. Behind them, a blurred background suggests other professionals interacting. Use a warm corporate color palette with soft blues and grays. Lighting should be bright and welcoming, creating a positive atmosphere. The style should be semi-realistic with clean lines and minimal details. Ensure high image quality and resolution for clear visibility in a presentation."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "A simplified networking scene in a modern office setting. Focus on two diverse business professionals exchanging business cards in the foreground. They should be smiling and making eye contact, emphasizing connection. Behind them, a blurred background suggests other professionals interacting. Use a warm corporate color palette with soft blues and grays. Lighting should be bright and welcoming, creating a positive atmosphere. The style should be semi-realistic with clean lines and minimal details. Ensure high image quality and resolution for clear visibility in a presentation.",
+            "image_url": "https://v3.fal.media/files/kangaroo/ZzQReq9Y364ASd236VQ0z.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image aligns well with the prompt. It depicts two business professionals exchanging business cards in a modern office setting, with a warm atmosphere created by the lighting. The background is appropriately blurred to suggest other interactions without drawing focus away from the main subjects. The color palette is warm, with soft blues and grays. The style is semi-realistic, and the image quality is high, with clear details and professional resolution.",
+            "suggestions": "Consider ensuring the business cards are completely devoid of any recognizable text or logos to avoid any identification issues.",
+            "current_prompt": "A simplified networking scene in a modern office setting. Focus on two diverse business professionals exchanging business cards in the foreground. They should be smiling and making eye contact, emphasizing connection. Behind them, a blurred background suggests other professionals interacting. Use a warm corporate color palette with soft blues and grays. Lighting should be bright and welcoming, creating a positive atmosphere. The style should be semi-realistic with clean lines and minimal details. Ensure high image quality and resolution for clear visibility in a presentation.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fimin 3 Temel Bile\u015feni</h2><ul><li>Aktif Dinleme</li><li>A\u00e7\u0131k \u0130fade</li><li>Beden Dili</li></ul><p>\u0130leti\u015fimde Ba\u015far\u0131n\u0131n Anahtar\u0131</p>",
+            "slide_voiceover_text": "Etkili ileti\u015fim, profesyonel hayatta ba\u015far\u0131n\u0131n temel ta\u015f\u0131d\u0131r. Bu s\u00fcre\u00e7te \u00fc\u00e7 kritik bile\u015fen \u00f6n plana \u00e7\u0131kar. Birincisi aktif dinleme: kar\u015f\u0131n\u0131zdakini ger\u00e7ekten anlama ve empati kurma becerisi. \u0130kincisi a\u00e7\u0131k ifade: d\u00fc\u015f\u00fcncelerinizi net, anla\u015f\u0131l\u0131r ve yap\u0131c\u0131 bir \u015fekilde aktarabilmek. \u00dc\u00e7\u00fcnc\u00fcs\u00fc ise beden dili: s\u00f6zs\u00fcz ileti\u015fim ara\u00e7lar\u0131n\u0131 do\u011fru ve uygun \u015fekilde kullanabilmek. Bu \u00fc\u00e7 bile\u015fen, i\u015f hayat\u0131nda sa\u011fl\u0131kl\u0131 ve etkili ileti\u015fimin temelini olu\u015fturur.",
+            "slide_image_prompt": "A modern, professional illustration showing three interconnected human silhouettes. Each silhouette represents one communication component: one with ears symbolizing active listening, another with an open speech bubble representing clear expression, and the third with expressive body posture indicating body language. Use a clean, minimalist design with a color palette of blues and grays, suggesting professionalism and clarity. The silhouettes should be stylized and connected through subtle, flowing lines to show interdependence. Background should be simple and corporate-looking, with soft gradient."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good.\n- The message is clear, but the onscreen text could be more detailed to match the voiceover depth.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise, but could benefit from a brief explanation under each point.\n- The voiceover is comprehensive and well-detailed.\n- The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but could be enhanced with additional semantic elements.\n- The image prompt is clear and specific.\n- Language consistency is maintained throughout.\n- The tone is professional, but could be slightly more engaging.\n\nSuggestions for improvement:\n- Add brief explanations under each bullet point in the onscreen text.\n- Consider using <section> tags to structure the content semantically.\n- Enhance the onscreen text to include the 'key to success' mentioned in the voiceover.\n- Make the tone slightly more engaging while maintaining professionalism.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<section><h2>Etkili \u0130leti\u015fimin 3 Temel Bile\u015feni</h2><ul><li>Aktif Dinleme<br><small>Kar\u015f\u0131n\u0131zdakini ger\u00e7ekten anlama ve empati kurma</small></li><li>A\u00e7\u0131k \u0130fade<br><small>D\u00fc\u015f\u00fcnceleri net ve yap\u0131c\u0131 \u015fekilde aktarma</small></li><li>Beden Dili<br><small>S\u00f6zs\u00fcz ileti\u015fim ara\u00e7lar\u0131n\u0131 do\u011fru kullanma</small></li></ul><p><strong>\u0130leti\u015fimde Ba\u015far\u0131n\u0131n Anahtar\u0131:</strong> Bu \u00fc\u00e7 bile\u015feni uyumlu \u015fekilde kullanmak</p></section>",
+            "slide_voiceover_text": "Etkili ileti\u015fim, profesyonel hayatta ba\u015far\u0131n\u0131n temel ta\u015f\u0131d\u0131r. Bu s\u00fcre\u00e7te \u00fc\u00e7 kritik bile\u015fen \u00f6n plana \u00e7\u0131kar ve birlikte ileti\u015fim ba\u015far\u0131s\u0131n\u0131n anahtar\u0131n\u0131 olu\u015fturur. Birincisi aktif dinleme: kar\u015f\u0131n\u0131zdakini ger\u00e7ekten anlama ve empati kurma becerisi. Bu, ili\u015fkileri g\u00fc\u00e7lendirir ve i\u015fbirli\u011fini art\u0131r\u0131r. \u0130kincisi a\u00e7\u0131k ifade: d\u00fc\u015f\u00fcncelerinizi net, anla\u015f\u0131l\u0131r ve yap\u0131c\u0131 bir \u015fekilde aktarabilmek. Bu sayede yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nler ve etkili bir diyalog kurars\u0131n\u0131z. \u00dc\u00e7\u00fcnc\u00fcs\u00fc ise beden dili: s\u00f6zs\u00fcz ileti\u015fim ara\u00e7lar\u0131n\u0131 do\u011fru ve uygun \u015fekilde kullanabilmek. Bu, mesaj\u0131n\u0131z\u0131 g\u00fc\u00e7lendirir ve g\u00fcvenilirli\u011finizi art\u0131r\u0131r. Bu \u00fc\u00e7 bile\u015feni uyumlu bir \u015fekilde kullanmak, i\u015f hayat\u0131nda sa\u011fl\u0131kl\u0131 ve etkili ileti\u015fimin temelini olu\u015fturur ve profesyonel ba\u015far\u0131n\u0131z\u0131 destekler.",
+            "slide_image_prompt": "Create a modern, professional illustration showing three interconnected human silhouettes in a triangle formation. Each silhouette represents one communication component: one with highlighted ears symbolizing active listening, another with an open speech bubble representing clear expression, and the third with expressive body posture indicating body language. Use a clean, minimalist design with a vibrant yet professional color palette of blues, grays, and a touch of energetic orange. The silhouettes should be stylized and connected through flowing, dynamic lines to show interdependence and energy. In the center of the triangle, include a subtle key icon to represent the 'key to success' in communication. The background should be simple and corporate-looking, with a soft gradient and perhaps subtle, abstract network patterns to suggest connectivity in a professional setting."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for effective communication. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear, concise, and logically structured. The multimedia design balances onscreen and voiceover text effectively, with the onscreen text providing key points and the voiceover elaborating on them. The image prompt is detailed and relevant, enhancing the overall message. The HTML markup is correct, and the language is consistent and professional throughout. To further improve, consider adding a brief transition sentence in the voiceover to smoothly connect the three components to the 'key to success' mentioned at the end.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern, professional illustration showing three interconnected human silhouettes in a triangle formation. Each silhouette represents one communication component: one with highlighted ears symbolizing active listening, another with an open speech bubble representing clear expression, and the third with expressive body posture indicating body language. Use a clean, minimalist design with a vibrant yet professional color palette of blues, grays, and a touch of energetic orange. The silhouettes should be stylized and connected through flowing, dynamic lines to show interdependence and energy. In the center of the triangle, include a subtle key icon to represent the 'key to success' in communication. The background should be simple and corporate-looking, with a soft gradient and perhaps subtle, abstract network patterns to suggest connectivity in a professional setting.",
+            "image_url": "https://v3.fal.media/files/panda/vPeVATKcw6OCs8yyiOA3y.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 96,
+            "feedback": "The image meets the prompt closely. It successfully displays three silhouettes, each representing a communication component with the highlighted ears, speech bubble, and gesturing hands that symbolize active listening, clear expression, and body language. They are in a triangle formation, interconnected with flowing lines indicating dynamic interaction. The color scheme is professional with blues, grays, and a touch of orange, and the key icon is correctly placed in the center. The background has a gradient, aligning with a corporate and minimalist design.",
+            "suggestions": "To improve the clarity of the expressive body posture, you might enhance the depiction of the gesturing posture to be more recognizable. Additionally, increasing the vibrancy slightly might help the image stand out more against presentation backgrounds.",
+            "current_prompt": "Create a modern, professional illustration showing three interconnected human silhouettes in a triangle formation. Each silhouette represents one communication component: one with highlighted ears symbolizing active listening, another with an open speech bubble representing clear expression, and the third with expressive body posture indicating body language. Use a clean, minimalist design with a vibrant yet professional color palette of blues, grays, and a touch of energetic orange. The silhouettes should be stylized and connected through flowing, dynamic lines to show interdependence and energy. In the center of the triangle, include a subtle key icon to represent the 'key to success' in communication. The background should be simple and corporate-looking, with a soft gradient and perhaps subtle, abstract network patterns to suggest connectivity in a professional setting.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f Ortam\u0131nda Networking'in G\u00fcc\u00fc</h2><ul><li>\ud83c\udf10 Profesyonel A\u011flar\u0131n Stratejik \u00d6nemi</li><li>\ud83e\udd1d F\u0131rsatlar\u0131 Yakalama Anahtar\u0131</li><li>\u2728 Ba\u015far\u0131ya Giden Ba\u011flant\u0131lar</li></ul>",
+            "slide_voiceover_text": "Networking, modern i\u015f d\u00fcnyas\u0131nda sadece tan\u0131\u015fmak de\u011fil, stratejik ili\u015fkiler kurma sanat\u0131d\u0131r. G\u00fc\u00e7l\u00fc bir profesyonel a\u011f, size yeni i\u015f f\u0131rsatlar\u0131, bilgi payla\u015f\u0131m\u0131 ve kariyer geli\u015fimi i\u00e7in benzersiz kap\u0131lar a\u00e7ar. Her ba\u011flant\u0131, potansiyel bir i\u015f ortakl\u0131\u011f\u0131, ment\u00f6rl\u00fck veya gelecekteki bir f\u0131rsat\u0131n ba\u015flang\u0131c\u0131 olabilir.",
+            "slide_image_prompt": "A dynamic professional networking scene showing diverse business people connecting, with digital network lines and connection points visually linking them. Use a modern, clean corporate style with a color palette of blues and grays. Illustrate people in business attire shaking hands, exchanging business cards, and interacting in a sophisticated, well-lit conference or networking event space. Include subtle technology and connection metaphors like glowing network lines or digital connection points. Photorealistic style with a slightly stylized, infographic-like quality."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but could be tightened.\n- The voiceover could more directly address the bullet points on screen.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The language is consistent and professional.\n\nRecommendations:\n- Align the voiceover more closely with the onscreen bullet points.\n- Consider adding a brief mention of 'stratejik ili\u015fkiler' in the onscreen text to match the voiceover.\n- Expand slightly on 'Ba\u015far\u0131ya Giden Ba\u011flant\u0131lar' in the voiceover to fully cover all onscreen points.\n\nOverall, the content is of high quality but needs minor adjustments for perfect alignment and completeness.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f Ortam\u0131nda Networking'in G\u00fcc\u00fc</h2><ul><li>\ud83c\udf10 Profesyonel A\u011flar\u0131n Stratejik \u00d6nemi</li><li>\ud83e\udd1d F\u0131rsatlar\u0131 Yakalama ve \u0130li\u015fki Kurma Sanat\u0131</li><li>\u2728 Ba\u015far\u0131ya Giden Ba\u011flant\u0131lar</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f ortam\u0131nda networking'in g\u00fcc\u00fc, profesyonel a\u011flar\u0131n stratejik \u00f6neminde yatmaktad\u0131r. Networking, modern i\u015f d\u00fcnyas\u0131nda sadece tan\u0131\u015fmak de\u011fil, stratejik ili\u015fkiler kurma sanat\u0131d\u0131r. Bu, f\u0131rsatlar\u0131 yakalama anahtar\u0131d\u0131r. G\u00fc\u00e7l\u00fc bir profesyonel a\u011f, size yeni i\u015f f\u0131rsatlar\u0131, bilgi payla\u015f\u0131m\u0131 ve kariyer geli\u015fimi i\u00e7in benzersiz kap\u0131lar a\u00e7ar. Ba\u015far\u0131ya giden ba\u011flant\u0131lar, her etkile\u015fimde gizlidir. Her ba\u011flant\u0131, potansiyel bir i\u015f ortakl\u0131\u011f\u0131, ment\u00f6rl\u00fck veya gelecekteki bir f\u0131rsat\u0131n ba\u015flang\u0131c\u0131 olabilir, b\u00f6ylece kariyerinizi ileriye ta\u015f\u0131yabilirsiniz.",
+            "slide_image_prompt": "A dynamic professional networking scene showing diverse business people connecting, with digital network lines and connection points visually linking them. Use a modern, clean corporate style with a color palette of blues and grays. Illustrate people in business attire shaking hands, exchanging business cards, and engaging in strategic conversations in a sophisticated, well-lit conference or networking event space. Include subtle technology and connection metaphors like glowing network lines or digital connection points linking individuals. Incorporate visual elements representing career growth, such as upward-pointing arrows or ladder icons near some of the networked individuals. Photorealistic style with a slightly stylized, infographic-like quality to emphasize the strategic nature of professional networking."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and effectively communicates the importance of networking in a professional environment. The content is appropriately detailed and flows logically. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points on screen and a more detailed explanation in the voiceover. The image prompt is highly relevant and enhances the message. The technical quality is high, with correct HTML markup and consistent language use. The professional tone is maintained throughout. To make it absolutely perfect, consider adding a brief mention of networking challenges or tips in the voiceover to provide even more practical value to the audience.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A dynamic professional networking scene showing diverse business people connecting, with digital network lines and connection points visually linking them. Use a modern, clean corporate style with a color palette of blues and grays. Illustrate people in business attire shaking hands, exchanging business cards, and engaging in strategic conversations in a sophisticated, well-lit conference or networking event space. Include subtle technology and connection metaphors like glowing network lines or digital connection points linking individuals. Incorporate visual elements representing career growth, such as upward-pointing arrows or ladder icons near some of the networked individuals. Photorealistic style with a slightly stylized, infographic-like quality to emphasize the strategic nature of professional networking.",
+            "image_url": "https://v3.fal.media/files/koala/0YkvuMafTZKlO23ge7iIc.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 90,
+            "feedback": "1. **Prompt Alignment (35/40):** The image is well-aligned with the prompt. It shows a networking scene with business professionals interacting in a modern, clean style. The color palette of blues and grays is used effectively. Digital network lines connect individuals, aligning with the metaphorical theme of networking.\n2. **Visual Quality (30/30):** The image has excellent resolution and clarity. The color balance and contrast are well-maintained, and the lighting gives a professional appearance.\n3. **Presentation Suitability (25/30):** The image fits the context of a professional networking presentation. It supports the theme of connection and professional growth. However, additional emphasis could be placed on elements representing career growth, such as arrows or ladders, to better illustrate upward progression and strategic networking.",
+            "suggestions": "To enhance prompt alignment, consider incorporating more explicit symbols or icons like arrows or ladders to emphasize career growth, as requested in the original prompt. This would help to further convey the theme of professional advancement.",
+            "current_prompt": "A dynamic professional networking scene showing diverse business people connecting, with digital network lines and connection points visually linking them. Use a modern, clean corporate style with a color palette of blues and grays. Illustrate people in business attire shaking hands, exchanging business cards, and engaging in strategic conversations in a sophisticated, well-lit conference or networking event space. Include subtle technology and connection metaphors like glowing network lines or digital connection points linking individuals. Incorporate visual elements representing career growth, such as upward-pointing arrows or ladder icons near some of the networked individuals. Photorealistic style with a slightly stylized, infographic-like quality to emphasize the strategic nature of professional networking.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Dijital \u00c7a\u011fda Networking Stratejileri</h2><ul><li>LinkedIn: Modern Profesyonel Ba\u011flant\u0131lar\u0131n Merkezi</li><li>Etkinlik A\u011flar\u0131: Dijital ve Fiziksel Networking K\u00f6pr\u00fcleri</li><li>Stratejik Ba\u011flant\u0131 Kurma \u0130lkeleri</li></ul>",
+            "slide_voiceover_text": "Dijital \u00e7a\u011fda networking art\u0131k sadece y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerle s\u0131n\u0131rl\u0131 de\u011fil. LinkedIn gibi profesyonel platformlar ve \u00e7e\u015fitli etkinlikler, i\u015f d\u00fcnyas\u0131nda ili\u015fki a\u011f\u0131n\u0131z\u0131 geni\u015fletmenin ve g\u00fc\u00e7lendirmenin temel ara\u00e7lar\u0131 haline gelmi\u015ftir. Do\u011fru stratejilerle, dijital platformlar\u0131 ve profesyonel bulu\u015fmalar\u0131 etkili bir \u015fekilde kullanarak kariyerinizdeki f\u0131rsatlar\u0131 art\u0131rabilirsiniz.",
+            "slide_image_prompt": "A modern, professional networking scene showing a split digital-physical environment. On one side, a professional using LinkedIn on a sleek laptop, with digital connection lines and network icons. On the other side, a networking event with diverse professionals in business attire, shaking hands and exchanging business cards. Use a clean, contemporary design with a color palette of blues and grays, representing technology and professionalism. Illustrate the connectivity and interaction between digital and physical networking worlds."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and well-structured. It effectively communicates the importance of digital networking strategies in the modern professional world. The onscreen text, voiceover, and image prompt are well-aligned and complement each other perfectly. The content is coherent, the multimedia design is balanced, and the technical quality is high. To achieve absolute perfection, consider adding a brief mention of specific strategies or tips for effective LinkedIn networking in the voiceover to provide even more practical value to the audience.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A modern, professional networking scene showing a split digital-physical environment. On one side, a professional using LinkedIn on a sleek laptop, with digital connection lines and network icons. On the other side, a networking event with diverse professionals in business attire, shaking hands and exchanging business cards. Use a clean, contemporary design with a color palette of blues and grays, representing technology and professionalism. Illustrate the connectivity and interaction between digital and physical networking worlds.",
+            "image_url": "https://v3.fal.media/files/lion/KIPEhwz2xBatqa_pP1g-U.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 98,
+            "feedback": "The image is well-composed, clearly dividing into digital and physical networking environments as described in the prompt. It features a person using LinkedIn on a laptop with digital connection lines and network icons, aligning with the digital aspect. The networking event on the other side shows diverse professionals shaking hands and exchanging business cards. The color palette of blues and grays is well-represented, enhancing the overall professional and contemporary look.\n\nCritical issues:\n- No critical issues observed.\n\nPrompt Alignment (40/40): Great match with the described elements such as the sleek laptop with LinkedIn, digital connection lines, and a physical networking event depicted accurately.\n\nVisual Quality (28/30): The image is of high resolution and features a professional appearance. Slight improvement in lighting to enhance clarity could add more value.\n\nPresentation Suitability (30/30): Perfectly suitable for a presentation slide, maintaining simplicity and focusing on the key message of blending digital and physical networking.\n\nOverall, the image successfully communicates the intended concept and maintains a professional tone.",
+            "suggestions": "Consider slightly enhancing the lighting for greater clarity between sections.",
+            "current_prompt": "A modern, professional networking scene showing a split digital-physical environment. On one side, a professional using LinkedIn on a sleek laptop, with digital connection lines and network icons. On the other side, a networking event with diverse professionals in business attire, shaking hands and exchanging business cards. Use a clean, contemporary design with a color palette of blues and grays, representing technology and professionalism. Illustrate the connectivity and interaction between digital and physical networking worlds.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkisi</h2><ul><li>\ud83d\ude80 Profesyonel Ba\u015far\u0131y\u0131 H\u0131zland\u0131ran G\u00fc\u00e7</li><li>\u2728 \u0130leti\u015fim Becerileri = Kariyer \u0130vmesi</li><li>\ud83c\udf10 Networking: F\u0131rsatlar\u0131n Anahtar\u0131</li></ul>",
+            "slide_voiceover_text": "Profesyonel d\u00fcnyada ba\u015far\u0131n\u0131n s\u0131rlar\u0131, g\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve stratejik networking'de sakl\u0131d\u0131r. \u0130yi bir ileti\u015fimci olarak kendinizi ifade etmeniz ve do\u011fru insanlarla ba\u011flant\u0131 kurman\u0131z, kariyer yolculu\u011funuzda dev ad\u0131mlar atman\u0131z\u0131 sa\u011flayabilir. Sadece ne bildi\u011finiz de\u011fil, kimi tan\u0131d\u0131\u011f\u0131n\u0131z da \u00f6nemlidir.",
+            "slide_image_prompt": "A professional networking scene in a modern office setting, showing diverse professionals connecting and communicating. Create a split-screen visual where one side represents effective communication (people engaged in meaningful dialogue) and the other side shows networking (people exchanging business cards, making connections). Use a clean, corporate-style illustration with warm, encouraging colors like blues and oranges. Emphasize body language that shows openness, confidence, and engagement. Include subtle visual metaphors of growth and connection, such as interconnected lines or network-like patterns in the background."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligns with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40): The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message. However, the voiceover could benefit from a more explicit connection to the bullet points on screen.\n\n2. Multimedia Design (28/30): The balance between onscreen and voiceover text is good. The onscreen text is concise and uses emojis effectively. The image prompt is detailed and relevant. Consider adding one more bullet point to the onscreen text to fully capture the essence of the voiceover.\n\n3. Technical Quality (28/30): The HTML markup is correct, and the language is consistent. The image prompt is clear and specific. To improve, consider adding more professional jargon or statistics in the voiceover to enhance the authoritative tone.\n\nOverall, the content is strong but needs minor refinements to achieve full marks.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkisi</h2><ul><li>\ud83d\ude80 Profesyonel Ba\u015far\u0131y\u0131 H\u0131zland\u0131ran G\u00fc\u00e7</li><li>\u2728 \u0130leti\u015fim Becerileri = Kariyer \u0130vmesi</li><li>\ud83c\udf10 Networking: F\u0131rsatlar\u0131n Anahtar\u0131</li><li>\ud83d\udcca Performans ve \u0130tibar Art\u0131\u015f\u0131</li></ul>",
+            "slide_voiceover_text": "Profesyonel d\u00fcnyada ba\u015far\u0131n\u0131n s\u0131rlar\u0131, g\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve stratejik networking'de sakl\u0131d\u0131r. \u0130yi bir ileti\u015fimci olarak kendinizi ifade etmeniz, kariyer ivmenizi art\u0131r\u0131r ve profesyonel ba\u015far\u0131n\u0131z\u0131 h\u0131zland\u0131r\u0131r. Ara\u015ft\u0131rmalar, etkili ileti\u015fim becerilerine sahip \u00e7al\u0131\u015fanlar\u0131n %40 daha y\u00fcksek performans g\u00f6sterdi\u011fini ortaya koyuyor. Networking ise f\u0131rsatlar\u0131n anahtar\u0131d\u0131r; LinkedIn'in verilerine g\u00f6re, profesyonellerin %80'i networklerini kullanarak i\u015f f\u0131rsatlar\u0131 yakalamaktad\u0131r. Do\u011fru insanlarla ba\u011flant\u0131 kurman\u0131z ve bu ili\u015fkileri s\u00fcrd\u00fcrmeniz, itibar\u0131n\u0131z\u0131 art\u0131r\u0131r ve kariyer yolculu\u011funuzda dev ad\u0131mlar atman\u0131z\u0131 sa\u011flar. Unutmay\u0131n, sadece ne bildi\u011finiz de\u011fil, kimi tan\u0131d\u0131\u011f\u0131n\u0131z ve nas\u0131l ileti\u015fim kurdu\u011funuz da kritik \u00f6nem ta\u015f\u0131r.",
+            "slide_image_prompt": "A professional networking scene in a modern office setting, showing diverse professionals connecting and communicating. Create a split-screen visual where one side represents effective communication (people engaged in meaningful dialogue) and the other side shows networking (people exchanging business cards, making connections). Use a clean, corporate-style illustration with warm, encouraging colors like blues and oranges. Emphasize body language that shows openness, confidence, and engagement. Include subtle visual metaphors of growth and connection, such as interconnected lines or network-like patterns in the background. Add small infographic elements showing statistics: a 40% increase symbol for performance and an 80% symbol for job opportunities through networking."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is very good overall, but there are a few areas for improvement to make it excellent:\n\n1. Content Coherence (38/40):\n   - The alignment between onscreen text, voiceover, and image prompt is strong.\n   - The message is clear and well-delivered.\n   - Consider adding a brief mention of the 40% performance increase and 80% networking statistic in the onscreen text to better align with the voiceover and image prompt.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - Onscreen text is concise and uses effective emoji icons.\n   - Voiceover provides detailed information complementing the onscreen text.\n   - The image prompt is relevant and enhances the content.\n   - Consider adding a small note about the statistics in the onscreen text for better integration.\n\n3. Technical Quality (29/30):\n   - HTML markup is correctly used.\n   - Image prompt is clear and specific.\n   - Language is consistent and professional.\n   - Ensure that 'Networking' is consistently capitalized or not (it appears both ways in the onscreen text).\n\nTo achieve a perfect score, address the minor inconsistencies and improve the alignment of statistics across all elements.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkisi</h2><ul><li>\ud83d\ude80 Profesyonel Ba\u015far\u0131y\u0131 H\u0131zland\u0131ran G\u00fc\u00e7</li><li>\u2728 \u0130leti\u015fim Becerileri = Kariyer \u0130vmesi (%40 \u2191 Performans)</li><li>\ud83c\udf10 Networking: F\u0131rsatlar\u0131n Anahtar\u0131 (%80 \u0130\u015f F\u0131rsat\u0131)</li><li>\ud83d\udcca Performans ve \u0130tibar Art\u0131\u015f\u0131</li></ul>",
+            "slide_voiceover_text": "Profesyonel d\u00fcnyada ba\u015far\u0131n\u0131n s\u0131rlar\u0131, g\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve stratejik networking'de sakl\u0131d\u0131r. \u0130yi bir ileti\u015fimci olarak kendinizi ifade etmeniz, kariyer ivmenizi art\u0131r\u0131r ve profesyonel ba\u015far\u0131n\u0131z\u0131 h\u0131zland\u0131r\u0131r. Ara\u015ft\u0131rmalar, etkili ileti\u015fim becerilerine sahip \u00e7al\u0131\u015fanlar\u0131n %40 daha y\u00fcksek performans g\u00f6sterdi\u011fini ortaya koyuyor. Networking ise f\u0131rsatlar\u0131n anahtar\u0131d\u0131r; LinkedIn'in verilerine g\u00f6re, profesyonellerin %80'i networklerini kullanarak i\u015f f\u0131rsatlar\u0131 yakalamaktad\u0131r. Do\u011fru insanlarla ba\u011flant\u0131 kurman\u0131z ve bu ili\u015fkileri s\u00fcrd\u00fcrmeniz, itibar\u0131n\u0131z\u0131 art\u0131r\u0131r ve kariyer yolculu\u011funuzda dev ad\u0131mlar atman\u0131z\u0131 sa\u011flar. Unutmay\u0131n, sadece ne bildi\u011finiz de\u011fil, kimi tan\u0131d\u0131\u011f\u0131n\u0131z ve nas\u0131l ileti\u015fim kurdu\u011funuz da kritik \u00f6nem ta\u015f\u0131r.",
+            "slide_image_prompt": "A professional networking scene in a modern office setting, showing diverse professionals connecting and communicating. Create a split-screen visual where one side represents effective communication (people engaged in meaningful dialogue) and the other side shows networking (people exchanging business cards, making connections). Use a clean, corporate-style illustration with warm, encouraging colors like blues and oranges. Emphasize body language that shows openness, confidence, and engagement. Include subtle visual metaphors of growth and connection, such as interconnected lines or network-like patterns in the background. Add small infographic elements showing statistics: a 40% increase symbol for performance and an 80% symbol for job opportunities through networking."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align well, delivering a clear and impactful message about the importance of effective communication and networking in career success. The content is well-structured, with the onscreen text providing key points that are elaborated in the voiceover. The use of emojis in the onscreen text adds visual appeal. The voiceover provides relevant statistics and explanations, enhancing the main points. The image prompt is detailed and relevant, perfectly complementing the textual content. To further improve, consider adding a brief mention of practical tips for improving communication skills or expanding one's network in the voiceover.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A professional networking scene in a modern office setting, showing diverse professionals connecting and communicating. Create a split-screen visual where one side represents effective communication (people engaged in meaningful dialogue) and the other side shows networking (people exchanging business cards, making connections). Use a clean, corporate-style illustration with warm, encouraging colors like blues and oranges. Emphasize body language that shows openness, confidence, and engagement. Include subtle visual metaphors of growth and connection, such as interconnected lines or network-like patterns in the background. Add small infographic elements showing statistics: a 40% increase symbol for performance and an 80% symbol for job opportunities through networking.",
+            "image_url": "https://v3.fal.media/files/penguin/n7obo7nL1Q1iWGczxnDoh.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 80,
+            "feedback": "1. **Prompt Alignment (30/40):** \n   - The image aligns with the prompt by depicting a diverse group of professionals in a modern office setting. \n   - It attempts a split-screen effect, but the execution and clarity could be improved. \n   - There are visual metaphors of network-like patterns present but they are not very prominent. \n   - Small infographics are included but contain spelling errors (\"compurications\" and \"oppurtunices\") which impact clarity and professionalism.\n\n2. **Visual Quality (25/30):**\n   - Overall, the resolution and color balance are adequate.\n   - The illustration uses warm colors, primarily blues and oranges, as requested.\n   - Professional appearance is maintained but minor text errors detract from quality.\n\n3. **Presentation Suitability (25/30):**\n   - Suitable for a corporate presentation; supports the theme of networking and communication.\n   - Minimal elements are utilized, maintaining a clean look. However, text errors impact message clarity.\n   - The split-screen concept is functional but could be clearer in illustrating the difference between communication and networking.\n\n**Overall Score:** 80/100\n\n**Evaluation:** The image is Invalid for presentation as it does not meet the required score of 90 and contains textual errors.",
+            "suggestions": "- Correct spelling errors in infographic elements to enhance professionalism and clarity.\n- Enhance the split-screen effect to better differentiate between communication and networking visuals.\n- Increase the visibility of network-like patterns for improved metaphorical representation.",
+            "current_prompt": "A professional networking scene in a modern office setting, showing diverse professionals connecting and communicating. Create a split-screen visual where one side represents effective communication (people engaged in meaningful dialogue) and the other side shows networking (people exchanging business cards, making connections). Use a clean, corporate-style illustration with warm, encouraging colors like blues and oranges. Emphasize body language that shows openness, confidence, and engagement. Include subtle visual metaphors of growth and connection, such as interconnected lines or network-like patterns in the background. Add small infographic elements showing statistics: a 40% increase symbol for performance and an 80% symbol for job opportunities through networking.",
+            "new_prompt": "Create a clean, corporate-style illustration with a clear split-screen composition. On the left side, depict effective communication with 2-3 diverse professionals engaged in meaningful dialogue, showing open body language and attentive expressions. On the right side, illustrate networking with 2-3 professionals exchanging contact information or shaking hands. Use a modern office setting with minimal, stylized furniture. Employ a warm color palette dominated by soft blues and oranges. In the background, add subtle, interconnected lines forming a network pattern, more prominent than before. Avoid any text or numbers in the image. Include simple, abstract symbols representing growth (e.g., an upward arrow) and connection (e.g., interlocking circles) integrated seamlessly into the design. Ensure high image quality with clean lines and smooth gradients. Add soft, diffused lighting to create a professional and inviting atmosphere."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "Create a clean, corporate-style illustration with a clear split-screen composition. On the left side, depict effective communication with 2-3 diverse professionals engaged in meaningful dialogue, showing open body language and attentive expressions. On the right side, illustrate networking with 2-3 professionals exchanging contact information or shaking hands. Use a modern office setting with minimal, stylized furniture. Employ a warm color palette dominated by soft blues and oranges. In the background, add subtle, interconnected lines forming a network pattern, more prominent than before. Avoid any text or numbers in the image. Include simple, abstract symbols representing growth (e.g., an upward arrow) and connection (e.g., interlocking circles) integrated seamlessly into the design. Ensure high image quality with clean lines and smooth gradients. Add soft, diffused lighting to create a professional and inviting atmosphere.",
+            "image_url": "https://v3.fal.media/files/rabbit/45iK62NwAB1v-ECw7R4lB.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 97,
+            "feedback": "The image successfully matches the corporate-style and split-screen composition described in the prompt. The left side shows professionals with open body language, and the right side illustrates networking with a handshake, both fitting the described situations. The modern office setting with minimal furniture and the background network pattern align well with the prompt's requirements. The warm color palette of blues and oranges is effectively used, creating a professional and inviting atmosphere. Symbols for growth and connection appear integrated into the design. The quality, clarity, and overall composition are excellent, ensuring it is presentation-ready.",
+            "suggestions": "No significant changes needed. Ensure all elements continue to support clarity and purpose in future iterations.",
+            "current_prompt": "Create a clean, corporate-style illustration with a clear split-screen composition. On the left side, depict effective communication with 2-3 diverse professionals engaged in meaningful dialogue, showing open body language and attentive expressions. On the right side, illustrate networking with 2-3 professionals exchanging contact information or shaking hands. Use a modern office setting with minimal, stylized furniture. Employ a warm color palette dominated by soft blues and oranges. In the background, add subtle, interconnected lines forming a network pattern, more prominent than before. Avoid any text or numbers in the image. Include simple, abstract symbols representing growth (e.g., an upward arrow) and connection (e.g., interlocking circles) integrated seamlessly into the design. Ensure high image quality with clean lines and smooth gradients. Add soft, diffused lighting to create a professional and inviting atmosphere.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

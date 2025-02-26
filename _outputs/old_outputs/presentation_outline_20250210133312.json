@@ -1,0 +1,389 @@
+{
+   "timestamp": "20250210133312",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "C\u00f6mert dinleme konusunda t\u00fcrk\u00e7e bir sunum haz\u0131rlamak istiyorum",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "C\u00f6mert Dinleme: \u0130li\u015fkileri G\u00fc\u00e7lendirmenin Anahtar\u0131",
+            "slide_outlines": [
+               {
+                  "slide_title": "C\u00f6mert Dinleme Nedir?",
+                  "slide_focus": "C\u00f6mert dinleme, kar\u015f\u0131m\u0131zdakini anlamak i\u00e7in t\u00fcm dikkatimizi vererek dinleme sanat\u0131d\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "C\u00f6mert Dinlemenin \u00d6nemi",
+                  "slide_focus": "C\u00f6mert dinleme, ili\u015fkileri g\u00fc\u00e7lendirir, empatiyi art\u0131r\u0131r ve daha etkili ileti\u015fim sa\u011flar.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "C\u00f6mert Dinlemenin Temel \u00d6zellikleri",
+                  "slide_focus": "C\u00f6mert dinleme; odaklanma, yarg\u0131lamama ve sab\u0131r gerektirir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "C\u00f6mert Dinleme Teknikleri",
+                  "slide_focus": "Aktif dinleme, g\u00f6z temas\u0131 kurma ve beden dilini kullanma, c\u00f6mert dinlemenin temel teknikleridir.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "C\u00f6mert Dinlemeyi Hayat\u0131n\u0131za Kat\u0131n",
+                  "slide_focus": "G\u00fcnl\u00fck ya\u015famda c\u00f6mert dinlemeyi uygulayarak, ili\u015fkilerinizi ve ileti\u015fiminizi geli\u015ftirebilirsiniz.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Bu sunum tasla\u011f\u0131 sa\u011flam bir yap\u0131, a\u00e7\u0131k odak noktalar\u0131 ve mant\u0131kl\u0131 bir ak\u0131\u015f sunuyor. Her slaytta tek bir konu ele al\u0131n\u0131yor ve sunum sonunda dinleyicilerin g\u00fcnl\u00fck hayata y\u00f6nelik uygulamalarla konuyu peki\u015ftirmesi \u00f6neriliyor. Daha g\u00fc\u00e7l\u00fc bir kapan\u0131\u015f ifadesiyle sonucu netle\u015ftirerek ve \u00f6rnek uygulamalarla i\u00e7eri\u011fe biraz daha derinlik katarak sunumun etkilili\u011fini art\u0131rabilirsiniz.",
+               "score": 94
+            },
+            "tested_outline": {
+               "presentation_title": "C\u00f6mert Dinleme: \u0130li\u015fkileri G\u00fc\u00e7lendirmenin Anahtar\u0131",
+               "slide_outlines": [
+                  {
+                     "slide_title": "C\u00f6mert Dinleme Nedir?",
+                     "slide_focus": "C\u00f6mert dinleme, kar\u015f\u0131m\u0131zdakini anlamak i\u00e7in t\u00fcm dikkatimizi vererek dinleme sanat\u0131d\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "C\u00f6mert Dinlemenin \u00d6nemi",
+                     "slide_focus": "C\u00f6mert dinleme, ili\u015fkileri g\u00fc\u00e7lendirir, empatiyi art\u0131r\u0131r ve daha etkili ileti\u015fim sa\u011flar.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "C\u00f6mert Dinlemenin Temel \u00d6zellikleri",
+                     "slide_focus": "C\u00f6mert dinleme; odaklanma, yarg\u0131lamama ve sab\u0131r gerektirir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "C\u00f6mert Dinleme Teknikleri",
+                     "slide_focus": "Aktif dinleme, g\u00f6z temas\u0131 kurma ve beden dilini kullanma, c\u00f6mert dinlemenin temel teknikleridir.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "C\u00f6mert Dinlemeyi Hayat\u0131n\u0131za Kat\u0131n",
+                     "slide_focus": "G\u00fcnl\u00fck ya\u015famda c\u00f6mert dinlemeyi uygulayarak, ili\u015fkilerinizi ve ileti\u015fiminizi geli\u015ftirebilirsiniz.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinleme Nedir?</h2><ul><li>Tam Odaklanma</li><li>Yarg\u0131s\u0131z Anlama</li><li>Empati Kurma</li><li>Kar\u015f\u0131m\u0131zdakini Ger\u00e7ekten Dinleme Sanat\u0131</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, ileti\u015fimde devrimsel bir yakla\u015f\u0131md\u0131r. Bu, kar\u015f\u0131m\u0131zdaki ki\u015fiye tamamen odaklanarak, yarg\u0131lamadan ve samimi bir \u015fekilde kulak vermek demektir. Sadece kelimeleri de\u011fil, duygular\u0131, tonlamay\u0131 ve ifade edilmeyeni de dinlemektir. Amac\u0131m\u0131z, konu\u015fan\u0131 anlamak, ona de\u011fer vermek ve ger\u00e7ek bir ba\u011flant\u0131 kurmakt\u0131r.",
+            "slide_image_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact, and showing genuine interest. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. The style should be modern, minimalist, with clean lines and a watercolor-like texture to emphasize emotional depth and understanding."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and convey a clear message about generous listening.\n- The voiceover provides more detail and context, which is good, but it could be more tightly connected to the bullet points on screen.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is good, with concise bullet points and a more detailed voiceover.\n- The image prompt is relevant and enhances the content effectively.\n- Consider adding a brief mention of the visual elements in the voiceover to tie it more closely to the image.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific, but could benefit from mentioning the split-screen aspect in the voiceover.\n- The language is consistent and professional throughout.\n\nTo improve:\n1. Align the voiceover more closely with the onscreen bullet points, perhaps elaborating on each point sequentially.\n2. Mention the visual elements (split-screen, body language) in the voiceover to create a stronger connection between all components.\n3. Use proper <li> tags in the HTML markup for better structure and accessibility.\n4. Consider adding a brief transition or introduction in the voiceover to set the context for the definition of generous listening.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinleme Nedir?</h2><ul><li>Tam Odaklanma</li><li>Yarg\u0131s\u0131z Anlama</li><li>Empati Kurma</li><li>Kar\u015f\u0131m\u0131zdakini Ger\u00e7ekten Dinleme Sanat\u0131</li></ul>",
+            "slide_voiceover_text": "\u015eimdi c\u00f6mert dinlemenin ne oldu\u011funu anlamaya \u00e7al\u0131\u015fal\u0131m. Ekranda g\u00f6rd\u00fc\u011f\u00fcn\u00fcz gibi, c\u00f6mert dinleme ileti\u015fimde devrimsel bir yakla\u015f\u0131md\u0131r ve d\u00f6rt temel unsuru i\u00e7erir. \u0130lk olarak, tam odaklanma: Bu, kar\u015f\u0131m\u0131zdaki ki\u015fiye t\u00fcm dikkatimizi vermek demektir. \u0130kincisi, yarg\u0131s\u0131z anlama: Konu\u015fan\u0131 ele\u015ftirmeden, a\u00e7\u0131k bir zihinle dinleriz. \u00dc\u00e7\u00fcnc\u00fcs\u00fc, empati kurma: Sadece kelimeleri de\u011fil, duygular\u0131 ve tonlamay\u0131 da anlamaya \u00e7al\u0131\u015f\u0131r\u0131z. Son olarak, kar\u015f\u0131m\u0131zdakini ger\u00e7ekten dinleme sanat\u0131: Bu, ifade edilmeyeni de duyabilmek ve ger\u00e7ek bir ba\u011flant\u0131 kurmakt\u0131r. G\u00f6rd\u00fc\u011f\u00fcn\u00fcz g\u00f6rsel, bu s\u00fcreci iki ki\u015fi aras\u0131ndaki derin bir konu\u015fma olarak yans\u0131t\u0131yor. Bir tarafta dikkatle dinleyen, a\u00e7\u0131k beden diliyle \u00f6ne e\u011filen ve g\u00f6z temas\u0131 kuran bir dinleyici, di\u011fer tarafta ise konu\u015fan\u0131n d\u00fc\u015f\u00fcnce ve duygular\u0131n\u0131 temsil eden ba\u011flant\u0131lar var. Bu g\u00f6rsel, c\u00f6mert dinlemenin \u00f6z\u00fcn\u00fc - anlay\u0131\u015f ve duygusal derinlik - m\u00fckemmel bir \u015fekilde yakal\u0131yor.",
+            "slide_image_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact, and showing genuine interest. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. The style should be modern, minimalist, with clean lines and a watercolor-like texture to emphasize emotional depth and understanding. The split-screen design should clearly delineate the listener's actions and the speaker's thoughts and emotions."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more concise.\n- The message is clear, but the voiceover provides more detail than necessary for a single slide.\n\n2. Multimedia Design (27/30):\n- The balance between onscreen and voiceover text could be improved. The voiceover is significantly longer than the onscreen text.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific.\n- The language is consistent and professional.\n\nRecommendations:\n1. Shorten the voiceover text to match the conciseness of the onscreen text.\n2. Consider breaking this content into two slides to better balance the information.\n3. Use <li> tags for list items in the onscreen text for improved accessibility and structure.\n4. Ensure the image created matches the detailed description in the prompt.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinleme Nedir?</h2><ul><li>Tam Odaklanma</li><li>Yarg\u0131s\u0131z Anlama</li><li>Empati Kurma</li><li>Kar\u015f\u0131m\u0131zdakini Ger\u00e7ekten Dinleme Sanat\u0131</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, ileti\u015fimde devrimsel bir yakla\u015f\u0131md\u0131r ve d\u00f6rt temel unsuru i\u00e7erir. Tam odaklanma ile kar\u015f\u0131m\u0131zdaki ki\u015fiye t\u00fcm dikkatimizi veririz. Yarg\u0131s\u0131z anlama ile a\u00e7\u0131k bir zihinle dinleriz. Empati kurarak sadece kelimeleri de\u011fil, duygular\u0131 da anlamaya \u00e7al\u0131\u015f\u0131r\u0131z. Son olarak, kar\u015f\u0131m\u0131zdakini ger\u00e7ekten dinleme sanat\u0131 ile ifade edilmeyeni de duyar ve ger\u00e7ek bir ba\u011flant\u0131 kurar\u0131z.",
+            "slide_image_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. The style should be modern, minimalist, with clean lines and a watercolor-like texture. The split-screen design clearly delineates the listener's actions and the speaker's thoughts and emotions."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement to achieve full marks:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more tightly linked to the bullet points.\n- The message is clear, but the voiceover could be more concise.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The voiceover provides good detail but could be more focused.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific.\n- Language consistency is maintained throughout.\n- The tone is professional and appropriate for the topic.\n\nTo improve:\n1. Refine the voiceover to more directly address each bullet point on the slide.\n2. Consider adding brief explanations to the onscreen bullet points for better clarity.\n3. Use proper HTML list structure with <ul> and <li> tags for the bullet points.\n4. Slightly shorten the voiceover text to improve focus and impact.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinleme Nedir?</h2><ul><li>Tam Odaklanma: T\u00fcm dikkatimizi verme</li><li>Yarg\u0131s\u0131z Anlama: A\u00e7\u0131k zihinle dinleme</li><li>Empati Kurma: Duygular\u0131 anlama</li><li>Ger\u00e7ek Ba\u011flant\u0131: \u0130fade edilmeyeni duyma</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, ileti\u015fimde devrimsel bir yakla\u015f\u0131md\u0131r ve d\u00f6rt temel unsuru i\u00e7erir. \u0130lk olarak, tam odaklanma ile kar\u015f\u0131m\u0131zdaki ki\u015fiye t\u00fcm dikkatimizi veririz. \u0130kinci olarak, yarg\u0131s\u0131z anlama ile a\u00e7\u0131k bir zihinle dinleriz. \u00dc\u00e7\u00fcnc\u00fcs\u00fc, empati kurarak sadece kelimeleri de\u011fil, duygular\u0131 da anlamaya \u00e7al\u0131\u015f\u0131r\u0131z. Son olarak, ger\u00e7ek bir ba\u011flant\u0131 kurarak ifade edilmeyeni de duyar\u0131z. Bu unsurlar, c\u00f6mert dinlemenin \u00f6z\u00fcn\u00fc olu\u015fturur.",
+            "slide_image_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. Include subtle icons representing the four elements of generous listening (focus, non-judgmental understanding, empathy, and real connection) in the corners of the image. The style should be modern, minimalist, with clean lines and a watercolor-like texture."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_3",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good.\n- The message is clear and consistent across all elements.\n- The voiceover provides appropriate detail, expanding on the bullet points.\n- Consider adding a brief introduction in the voiceover to set the context for 'c\u00f6mert dinleme'.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- Onscreen text is concise and well-organized.\n- The voiceover complements the onscreen text effectively.\n- The image prompt is relevant and enhances the content.\n\n3. Technical Quality (27/30):\n- HTML markup is correctly used for the onscreen text.\n- The image prompt is clear and specific, but could benefit from mentioning the placement of the icons more precisely.\n- Language is consistent throughout.\n- The tone is professional and appropriate for the topic.\n\nTo improve:\n- Add a brief introduction to 'c\u00f6mert dinleme' in the voiceover.\n- Specify the exact placement of the icons in the image prompt (e.g., 'top-left corner', 'bottom-right corner').\n- Consider adding a transition sentence in the voiceover to connect the definition with the four elements.\n\nOverall, the content is of high quality but needs minor refinements to achieve full marks.",
+            "score": 90
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. Include subtle icons representing the four elements of generous listening (focus, non-judgmental understanding, empathy, and real connection) in the corners of the image. The style should be modern, minimalist, with clean lines and a watercolor-like texture.",
+            "image_url": "https://fal.media/files/rabbit/dwjmFESyiNPCMES9CTAhL_3da6d5372fb847609b05bd6208f965a5.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "**Detailed Feedback:**\n\n1. **Prompt Alignment (36/40 points):**\n   - The image follows the split-screen concept showing two people engaged in conversation.\n   - Thought bubbles and use of warm colors like blues and oranges are present, creating the intended empathetic feel.\n   - Icons representing generous listening elements are subtle and might be difficult to identify clearly in the corners.\n   - The illustration embodies a modern, minimalist style with a watercolor-like texture.\n\n2. **Visual Quality (28/30 points):**\n   - The resolution and clarity of the image are good, ensuring a professional appearance.\n   - There is a good balance of colors and contrast, with effective use of lighting and shadows.\n\n3. **Presentation Suitability (28/30 points):**\n   - The image adequately fits within the context of a presentation focused on communication and listening.\n   - It supports the slide message related to empathetic communication.\n   - Maintains appropriate simplicity, although the generous listening icons could be more pronounced to enhance clarity.\n\n**Score:** 92/100\n\n**Critical Issues:** None identified.\n\n**Suggestions:**\n- Enhance the visibility of the icons representing the elements of generous listening to improve clarity and alignment with the prompt.",
+            "suggestions": "Enhance the visibility and clarity of the generous listening icons in the corners to ensure they are easily recognizable and contribute effectively to the context.",
+            "current_prompt": "A split-screen illustration showing two people in a deep conversation. On one side, a person is listening intently with open body language, leaning forward, maintaining eye contact. The other side visualizes thought bubbles and emotional connections between the speakers, using warm, empathetic colors like soft blues and gentle oranges. Include subtle icons representing the four elements of generous listening (focus, non-judgmental understanding, empathy, and real connection) in the corners of the image. The style should be modern, minimalist, with clean lines and a watercolor-like texture.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinlemenin G\u00fcc\u00fc</h2><ul><li>\u0130li\u015fkileri G\u00fc\u00e7lendirir</li><li>Empatiyi Art\u0131r\u0131r</li><li>Etkili \u0130leti\u015fim Sa\u011flar</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, sadece kelimeleri i\u015fitmek de\u011fil, kar\u015f\u0131m\u0131zdaki ki\u015finin duygular\u0131n\u0131 ve d\u00fc\u015f\u00fcncelerini ger\u00e7ekten anlamakt\u0131r. Bu yakla\u015f\u0131m, insani ili\u015fkilerimizin temelini g\u00fc\u00e7lendirir, kar\u015f\u0131l\u0131kl\u0131 sayg\u0131y\u0131 ve anlay\u0131\u015f\u0131 art\u0131r\u0131r.",
+            "slide_image_prompt": "A warm, compassionate illustration showing two people engaged in deep, empathetic conversation. One person is leaning forward, listening intently with an open and understanding expression. Use soft, warm watercolor-style illustration with muted earth tones, emphasizing emotional connection and genuine communication. The background should suggest a comfortable, intimate setting that promotes meaningful dialogue."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover could better reflect the specific points mentioned in the onscreen text.\n- The message is clear, but the voiceover could be more tightly connected to the slide title and focus.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-organized.\n- The image prompt is relevant and enhances the message.\n- The voiceover could be more comprehensive in covering all points listed on screen.\n\n3. Technical Quality (29/30):\n- HTML markup is correct.\n- Image prompt is clear and specific.\n- Language is consistent and professional.\n- Minor improvement: Consider using <li> tags for better semantic structure in the HTML.\n\nTo improve:\n1. Expand the voiceover to explicitly mention how c\u00f6mert dinleme improves effective communication.\n2. Adjust the slide title to match the onscreen text (\"C\u00f6mert Dinlemenin G\u00fcc\u00fc\" instead of \"C\u00f6mert Dinlemenin \u00d6nemi\").\n3. Use <li> tags in the HTML for better structure: <ul><li>\u0130li\u015fkileri G\u00fc\u00e7lendirir</li><li>Empatiyi Art\u0131r\u0131r</li><li>Etkili \u0130leti\u015fim Sa\u011flar</li></ul>",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinlemenin G\u00fcc\u00fc</h2><ul><li>\u0130li\u015fkileri G\u00fc\u00e7lendirir</li><li>Empatiyi Art\u0131r\u0131r</li><li>Etkili \u0130leti\u015fim Sa\u011flar</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, sadece kelimeleri i\u015fitmek de\u011fil, kar\u015f\u0131m\u0131zdaki ki\u015finin duygular\u0131n\u0131 ve d\u00fc\u015f\u00fcncelerini ger\u00e7ekten anlamakt\u0131r. Bu yakla\u015f\u0131m, insani ili\u015fkilerimizin temelini g\u00fc\u00e7lendirir, kar\u015f\u0131l\u0131kl\u0131 sayg\u0131y\u0131 ve anlay\u0131\u015f\u0131 art\u0131r\u0131r. Ayr\u0131ca, c\u00f6mert dinleme empatiyi geli\u015ftirerek, kar\u015f\u0131m\u0131zdakinin bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 daha iyi anlamam\u0131z\u0131 sa\u011flar. Son olarak, bu dinleme tarz\u0131, ileti\u015fimimizi daha etkili hale getirir; \u00e7\u00fcnk\u00fc kar\u015f\u0131m\u0131zdakini tam olarak anlad\u0131\u011f\u0131m\u0131zda, daha uygun ve anlaml\u0131 yan\u0131tlar verebiliriz.",
+            "slide_image_prompt": "A warm, compassionate illustration showing two people engaged in deep, empathetic conversation. One person is leaning forward, listening intently with an open and understanding expression. Use soft, warm watercolor-style illustration with muted earth tones, emphasizing emotional connection and genuine communication. The background should suggest a comfortable, intimate setting that promotes meaningful dialogue."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide's focus. The content effectively communicates the importance of generous listening in strengthening relationships, increasing empathy, and facilitating effective communication. The onscreen text is concise and highlights key points, while the voiceover provides a more detailed explanation. The image prompt complements the message by visualizing the concept of empathetic listening. The HTML markup is correct, and the language is consistent and professional throughout. To further enhance the content, consider adding a brief example or statistic in the voiceover to reinforce the benefits of generous listening.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A warm, compassionate illustration showing two people engaged in deep, empathetic conversation. One person is leaning forward, listening intently with an open and understanding expression. Use soft, warm watercolor-style illustration with muted earth tones, emphasizing emotional connection and genuine communication. The background should suggest a comfortable, intimate setting that promotes meaningful dialogue.",
+            "image_url": "https://fal.media/files/rabbit/6UgDNAqMmKBWBIdLKvkHp_017a730bc98e4d12b52b3343be4dc8b9.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 88,
+            "feedback": "1. **Prompt Alignment (35/40):**  \n   - The image matches the watercolor-style and uses muted earth tones effectively.  \n   - It features two people in conversation, which aligns with the prompt.  \n   - The expression of empathy and compassion is evident through the characters' posture and expressions.  \n   - The background suggests a comfortable setting, though a bit more detail would enhance intimacy.\n\n2. **Visual Quality (28/30):**  \n   - The image is clear, with a good resolution and professional appearance.  \n   - The colors are well-balanced and create a warm, inviting atmosphere.  \n   - There are no issues with lighting and shadows.\n\n3. **Presentation Suitability (25/30):**  \n   - The image fits well within the context of promoting emotional connection and conversation.  \n   - It is slightly more focused on a romantic sense, which may or may not align depending on the presentation context. \n   - Simplicity is maintained, though if the romantic tone is not suitable, it might require adjustments.\n\n**Suggestions for Improvement:**\n   - Ensure the image is appropriate to the intended message of the presentation. If a non-romantic setting is needed, consider altering expressions/poses.\n   - Add subtle background elements to enhance the suggested intimate setting.",
+            "suggestions": "- Clarify whether a romantic tone is appropriate for the slide to ensure alignment.\n- Enhance the background to add depth to the intimate, conversational setting.",
+            "current_prompt": "A warm, compassionate illustration showing two people engaged in deep, empathetic conversation. One person is leaning forward, listening intently with an open and understanding expression. Use soft, warm watercolor-style illustration with muted earth tones, emphasizing emotional connection and genuine communication. The background should suggest a comfortable, intimate setting that promotes meaningful dialogue.",
+            "new_prompt": "A warm, compassionate illustration depicting two individuals engaged in a deep, empathetic conversation. The scene shows a person with an attentive posture leaning forward, listening intently to another person who is speaking with open hand gestures. Both have kind, understanding expressions. Use soft, warm watercolor-style illustration with muted earth tones like ochre, sienna, and sage green. Emphasize emotional connection through gentle eye contact and open body language. The background suggests a cozy, intimate setting with subtle elements like the corner of a comfortable couch or a warm, diffused light source. Avoid any romantic implications by maintaining a respectful distance between the figures and focusing on their engaged conversation. Ensure high-quality illustration with clear details and a simple, uncluttered composition suitable for a presentation slide about effective communication or active listening."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "A warm, compassionate illustration depicting two individuals engaged in a deep, empathetic conversation. The scene shows a person with an attentive posture leaning forward, listening intently to another person who is speaking with open hand gestures. Both have kind, understanding expressions. Use soft, warm watercolor-style illustration with muted earth tones like ochre, sienna, and sage green. Emphasize emotional connection through gentle eye contact and open body language. The background suggests a cozy, intimate setting with subtle elements like the corner of a comfortable couch or a warm, diffused light source. Avoid any romantic implications by maintaining a respectful distance between the figures and focusing on their engaged conversation. Ensure high-quality illustration with clear details and a simple, uncluttered composition suitable for a presentation slide about effective communication or active listening.",
+            "image_url": "https://fal.media/files/rabbit/5wcRdW_IPLqw-RcyHr0PX_658ac437906b4ecfb606018f751da358.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The illustration closely matches the original prompt by displaying two individuals in an empathetic conversation, with attentive posture and open gestures. The use of soft earth tones and watercolor style adds warmth to the image, reinforcing the emotional connection. The background subtly suggests a cozy setting with warm lighting, aligning well with the desired intimate ambiance. There are no text, complex elements, or copyright issues, and the composition remains uncluttered and focused. The overall quality is high, with good resolution and professional appearance.",
+            "suggestions": "Consider slightly increasing the emphasis on muted tones like sage green as specified for additional prompt alignment, although current tone usage is quite effective.",
+            "current_prompt": "A warm, compassionate illustration depicting two individuals engaged in a deep, empathetic conversation. The scene shows a person with an attentive posture leaning forward, listening intently to another person who is speaking with open hand gestures. Both have kind, understanding expressions. Use soft, warm watercolor-style illustration with muted earth tones like ochre, sienna, and sage green. Emphasize emotional connection through gentle eye contact and open body language. The background suggests a cozy, intimate setting with subtle elements like the corner of a comfortable couch or a warm, diffused light source. Avoid any romantic implications by maintaining a respectful distance between the figures and focusing on their engaged conversation. Ensure high-quality illustration with clear details and a simple, uncluttered composition suitable for a presentation slide about effective communication or active listening.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinlemenin Temel \u00d6zellikleri</h2><ul><li>Odaklanma: Tamamen \u015eimdiki Anda</li><li>Yarg\u0131lamama: A\u00e7\u0131k Fikirli Yakla\u015f\u0131m</li><li>Sab\u0131r: Sessizce ve Anlay\u0131\u015fla Dinleme</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, ileti\u015fimde derin bir anlay\u0131\u015f ve sayg\u0131 gerektirir. \u00dc\u00e7 temel \u00f6zellik \u00f6n plana \u00e7\u0131kar: Birincisi, konu\u015fana tamamen odaklanmak ve \u015fimdiki anda kalmak. \u0130kincisi, yarg\u0131lay\u0131c\u0131 olmayan bir yakla\u015f\u0131mla kar\u015f\u0131m\u0131zdaki ki\u015finin perspektifini anlamaya \u00e7al\u0131\u015fmak. \u00dc\u00e7\u00fcnc\u00fcs\u00fc ise, sab\u0131rla ve sessizce dinleyerek kar\u015f\u0131m\u0131zdaki ki\u015fiye ger\u00e7ek bir dinleme deneyimi sunmak.",
+            "slide_image_prompt": "A split-screen illustration showing three distinct scenes representing generous listening: 1) A person with focused eyes and attentive posture, symbolizing complete presence, 2) An open ear with no judgmental barriers, represented by a transparent, welcoming ear shape, 3) Hands cupped gently around an ear, symbolizing patient and empathetic listening. Use a soft, warm color palette with pastel blues and gentle greens. Employ a modern, minimalist graphic design style with clean lines and subtle symbolic elements. The overall composition should convey warmth, understanding, and deep connection."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and effectively conveys the key aspects of generous listening. The content is logically structured and provides an appropriate level of detail. The balance between onscreen text and voiceover is good, with concise bullet points on screen and more detailed explanations in the voiceover. The image prompt is specific and relevant, enhancing the overall message. The language is consistent and professional throughout. To make it absolutely perfect, consider adding a brief transition sentence in the voiceover to introduce the three key features more explicitly.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen illustration showing three distinct scenes representing generous listening: 1) A person with focused eyes and attentive posture, symbolizing complete presence, 2) An open ear with no judgmental barriers, represented by a transparent, welcoming ear shape, 3) Hands cupped gently around an ear, symbolizing patient and empathetic listening. Use a soft, warm color palette with pastel blues and gentle greens. Employ a modern, minimalist graphic design style with clean lines and subtle symbolic elements. The overall composition should convey warmth, understanding, and deep connection.",
+            "image_url": "https://fal.media/files/lion/nb3OXoio2sPg_5ukioHfU_d837e6b3d78f4bb8aa8498c682a5be73.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image effectively matches the prompt, showcasing three distinct scenes of generous listening with a minimalist design style. Each scene is clearly depicted, featuring a person with focused attention, an open ear, and hands cupped around an ear. The color palette aligns with the soft, warm specification using pastel blues and greens. However, the inclusion of text under each section violates the criterion of not having text within the image, constituting a critical issue.\n\nThe visual quality is high, with good resolution, clarity, and professional appearance. The image maintains simplicity and clear focus on the key message, fitting well in a presentation context.\n\nDespite the high alignment with other aspects of the prompt, the presence of text makes it invalid.",
+            "suggestions": "To improve, remove the text from within the image to meet the criteria effectively. If needed, incorporate labels or explanations outside the image on the slide itself.",
+            "current_prompt": "A split-screen illustration showing three distinct scenes representing generous listening: 1) A person with focused eyes and attentive posture, symbolizing complete presence, 2) An open ear with no judgmental barriers, represented by a transparent, welcoming ear shape, 3) Hands cupped gently around an ear, symbolizing patient and empathetic listening. Use a soft, warm color palette with pastel blues and gentle greens. Employ a modern, minimalist graphic design style with clean lines and subtle symbolic elements. The overall composition should convey warmth, understanding, and deep connection.",
+            "new_prompt": "Create a triptych illustration representing generous listening, using a modern, minimalist graphic design style with clean lines and subtle symbolic elements. Divide the image into three equal vertical sections: 1) Left panel: A simple profile silhouette of a person with exaggerated, focused eyes and attentive posture, symbolizing complete presence. 2) Center panel: A large, stylized ear shape with a transparent, welcoming design, representing openness without judgment. 3) Right panel: Two simplified hands gently cupping around a minimalist ear outline, symbolizing patient and empathetic listening. Use a soft, warm color palette dominated by pastel blues and gentle greens. Employ subtle gradients and simple geometric shapes to enhance the minimalist aesthetic. Ensure high resolution and professional quality suitable for presentation use. The overall composition should convey warmth, understanding, and deep connection without any text or labels within the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_2",
+         "data": {
+            "image_prompt": "Create a triptych illustration representing generous listening, using a modern, minimalist graphic design style with clean lines and subtle symbolic elements. Divide the image into three equal vertical sections: 1) Left panel: A simple profile silhouette of a person with exaggerated, focused eyes and attentive posture, symbolizing complete presence. 2) Center panel: A large, stylized ear shape with a transparent, welcoming design, representing openness without judgment. 3) Right panel: Two simplified hands gently cupping around a minimalist ear outline, symbolizing patient and empathetic listening. Use a soft, warm color palette dominated by pastel blues and gentle greens. Employ subtle gradients and simple geometric shapes to enhance the minimalist aesthetic. Ensure high resolution and professional quality suitable for presentation use. The overall composition should convey warmth, understanding, and deep connection without any text or labels within the image.",
+            "image_url": "https://fal.media/files/lion/xVUlancrmjU-TRDI5TGnP_4de9c71c7faa4c3db89ea0d8de8d719b.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 90,
+            "feedback": "The image successfully follows the prompt and includes the three specified panels. The minimalist style is maintained throughout with clean lines and pastel tones, predominantly utilizing blues and greens. \n\n1. **Prompt Alignment (35/40):**\n   - The visual style is modern and minimalist.\n   - All three panels are present and distinguishable.\n   - Composition aligns with the described elements, like the focused silhouette and symbolic ear.\n   - The representation of key concepts is clear.\n\n2. **Visual Quality (28/30):**\n   - The resolution appears sufficient for presentation purposes.\n   - The color balance uses pastels effectively, creating a warm and welcoming feel.\n   - Contrast is subtle yet effective, complementing the minimalist design.\n\n3. **Presentation Suitability (27/30):**\n   - The image fits the presentation context with clear representation of generous listening.\n   - The simplicity enhances focus on the main message.\n   - The artwork is appropriately focused and not overly complex.\n\nOverall, the image meets the criteria well and only loses points for minor opportunities to enhance conceptual clarity between sections.",
+            "suggestions": "1. Add subtle additional elements to reinforce the symbolism without compromising minimalism.\n2. Slightly more emphasis on the ear elements to enhance the concept of openness and listening.\n3. Ensure all lines and gradients render perfectly to maximize presentation effectiveness.",
+            "current_prompt": "Create a triptych illustration representing generous listening, using a modern, minimalist graphic design style with clean lines and subtle symbolic elements. Divide the image into three equal vertical sections: 1) Left panel: A simple profile silhouette of a person with exaggerated, focused eyes and attentive posture, symbolizing complete presence. 2) Center panel: A large, stylized ear shape with a transparent, welcoming design, representing openness without judgment. 3) Right panel: Two simplified hands gently cupping around a minimalist ear outline, symbolizing patient and empathetic listening. Use a soft, warm color palette dominated by pastel blues and gentle greens. Employ subtle gradients and simple geometric shapes to enhance the minimalist aesthetic. Ensure high resolution and professional quality suitable for presentation use. The overall composition should convey warmth, understanding, and deep connection without any text or labels within the image.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinleme Teknikleri</h2><ul><li>Aktif Dinleme</li><li>G\u00f6z Temas\u0131</li><li>Beden Dili</li></ul><p>\u0130leti\u015fimde G\u00fcven ve Anlay\u0131\u015f Yaratma</p>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, ileti\u015fimde kaliteyi art\u0131ran \u00fc\u00e7 temel teknikle ger\u00e7ekle\u015fir. Aktif dinleme, konu\u015fan\u0131n s\u00f6ylediklerine tam odaklanmak ve anlamaya \u00e7al\u0131\u015fmak demektir. G\u00f6z temas\u0131, kar\u015f\u0131n\u0131zdaki ki\u015fiye de\u011fer verdi\u011finizi ve onu ger\u00e7ekten dinledi\u011finizi g\u00f6sterir. Beden diliniz ise sessizce ileti\u015fim kurman\u0131z\u0131 sa\u011flar - a\u00e7\u0131k duru\u015f, hafif \u00f6ne e\u011filme ve nazik jest ve mimikler dinledi\u011finizi ve \u00f6nemsedi\u011finizi g\u00f6sterir.",
+            "slide_image_prompt": "A warm, empathetic illustration showing three interconnected human figures engaged in deep communication. One person is speaking with open body language, another is listening intently with direct eye contact, and the third demonstrates supportive non-verbal cues. Use a soft, harmonious color palette with blues and greens suggesting trust and understanding. Watercolor-style illustration with gentle, blending edges to emphasize emotional connection and communication. Realistic yet slightly stylized human figures showing genuine human interaction and emotional intelligence."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide focus. The content effectively communicates the key techniques of generous listening. The onscreen text is concise and well-structured, while the voiceover provides more detailed explanations. The image prompt is highly relevant and enhances the message. There are no critical issues, and all components are present and complete. The HTML markup is correct, and the language is consistent and professional. To achieve absolute perfection, consider adding a brief mention of how these techniques create trust and understanding in the voiceover, mirroring the onscreen text's final point.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A warm, empathetic illustration showing three interconnected human figures engaged in deep communication. One person is speaking with open body language, another is listening intently with direct eye contact, and the third demonstrates supportive non-verbal cues. Use a soft, harmonious color palette with blues and greens suggesting trust and understanding. Watercolor-style illustration with gentle, blending edges to emphasize emotional connection and communication. Realistic yet slightly stylized human figures showing genuine human interaction and emotional intelligence.",
+            "image_url": "https://fal.media/files/monkey/3VrnG6ge9Ze660JtJOvtO_ae75aebfb1c74957811ae274faef5e86.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "1. **Critical Issues**: There are no critical issues such as the presence of text, celebrity likeness, or copyright concerns.\n2. **Prompt Alignment (30/40 points)**: The illustration uses a watercolor style with soft edges suitable for depicting emotional connection. However, it only features two figures rather than three, and it lacks the interaction dynamics described in the prompt (speaking, listening, and non-verbal cues).\n3. **Visual Quality (25/30 points)**: The image shows high visual quality with a harmonious color palette of blues and greens. The clarity and resolution are good, and the overall aesthetic is professional.\n4. **Presentation Suitability (20/30 points)**: While visually appealing, the illustration doesn't fully support the slide's message of communication among three people. The composition is simple and focused but does not entirely fit the context described in the prompt.",
+            "suggestions": "Ensure the image includes all three figures as described, with distinct roles such as speaking, listening, and providing non-verbal support. Enhance interaction depiction, such as eye contact and open body language among all figures.",
+            "current_prompt": "A warm, empathetic illustration showing three interconnected human figures engaged in deep communication. One person is speaking with open body language, another is listening intently with direct eye contact, and the third demonstrates supportive non-verbal cues. Use a soft, harmonious color palette with blues and greens suggesting trust and understanding. Watercolor-style illustration with gentle, blending edges to emphasize emotional connection and communication. Realistic yet slightly stylized human figures showing genuine human interaction and emotional intelligence.",
+            "new_prompt": "Simple illustration of three interconnected human figures in a triangular composition, emphasizing communication. One figure speaks with open arms, another listens attentively with direct eye contact, and the third shows supportive gestures like a hand on a shoulder. Use minimal, stylized human forms without detailed features. Soft watercolor style with blending edges in calming blues and greens. Gentle lighting creates a warm, empathetic mood. High-quality, clean lines with a focus on body language and interaction. Background should be plain or with subtle, abstract shapes to maintain simplicity."
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_2",
+         "data": {
+            "image_prompt": "Simple illustration of three interconnected human figures in a triangular composition, emphasizing communication. One figure speaks with open arms, another listens attentively with direct eye contact, and the third shows supportive gestures like a hand on a shoulder. Use minimal, stylized human forms without detailed features. Soft watercolor style with blending edges in calming blues and greens. Gentle lighting creates a warm, empathetic mood. High-quality, clean lines with a focus on body language and interaction. Background should be plain or with subtle, abstract shapes to maintain simplicity.",
+            "image_url": "https://fal.media/files/elephant/bE25CFaluEI-iijcfEBBR_7c7edc34facd4afb8a118c9b9b2f6063.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 90,
+            "feedback": "The image matches the prompt well, depicting three interconnected figures with body language suggesting communication and support. The style is minimal and stylized, with soft watercolor effects and a calming color palette of blues and greens. The composition emphasizes body language and interaction, aligning with the prompt's requirements. The lighting is gentle and adds to the empathetic mood.\n\nHowever, the figures are not as minimalistic as described in the prompt, and the background could be more simplified. The current background, while subtle, features more detailed shapes than suggested.\n\nThe image quality is high with clean lines, good resolution, and a pleasant color balance. It is suitable for a presentation slide focused on communication and support.",
+            "suggestions": "To improve alignment with the prompt, simplify the depiction of the figures even further, focusing on very minimal shapes and ensuring the background has subtler or fewer shapes. This would enhance the emphasis on body language and interaction without distraction.",
+            "current_prompt": "Simple illustration of three interconnected human figures in a triangular composition, emphasizing communication. One figure speaks with open arms, another listens attentively with direct eye contact, and the third shows supportive gestures like a hand on a shoulder. Use minimal, stylized human forms without detailed features. Soft watercolor style with blending edges in calming blues and greens. Gentle lighting creates a warm, empathetic mood. High-quality, clean lines with a focus on body language and interaction. Background should be plain or with subtle, abstract shapes to maintain simplicity.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>C\u00f6mert Dinlemeyi Hayat\u0131n\u0131za Kat\u0131n</h2><ul><li>Tam Odaklanma</li><li>Yarg\u0131s\u0131z Anlama</li><li>Empati Kurma</li><li>Kar\u015f\u0131ndakini \u00d6nemseme</li></ul>",
+            "slide_voiceover_text": "C\u00f6mert dinleme, g\u00fcnl\u00fck ileti\u015fimlerinizi d\u00f6n\u00fc\u015ft\u00fcrebilecek g\u00fc\u00e7l\u00fc bir beceridir. Bu yakla\u015f\u0131m, kar\u015f\u0131n\u0131zdaki ki\u015fiye tamamen odaklanarak, yarg\u0131lamadan dinlemek ve onun duygular\u0131n\u0131 ger\u00e7ekten anlamak demektir. Tam bir empati ile dinledi\u011finizde, ili\u015fkilerinizde derin bir ba\u011f kurabilir ve kar\u015f\u0131n\u0131zdaki insan\u0131n kendini ger\u00e7ekten de\u011ferli hissetmesini sa\u011flayabilirsiniz.",
+            "slide_image_prompt": "A warm, inclusive illustration showing two people engaged in a deep conversation. One person is leaning in, listening intently with an open and compassionate expression. Use soft, warm colors like gentle blues and warm oranges. The background should be minimalist, focusing on the human connection. Depict body language that shows active, generous listening - open posture, maintaining eye contact, and showing genuine interest. Watercolor or soft digital illustration style that emphasizes emotional warmth and human connection."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align well, delivering a clear message about generous listening. The content is well-structured, with the onscreen text providing key points and the voiceover expanding on them. The image prompt complements the message by visualizing the concept of active, generous listening. To further enhance the slide, consider adding a brief example or statistic in the voiceover to illustrate the impact of generous listening on relationships.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A warm, inclusive illustration showing two people engaged in a deep conversation. One person is leaning in, listening intently with an open and compassionate expression. Use soft, warm colors like gentle blues and warm oranges. The background should be minimalist, focusing on the human connection. Depict body language that shows active, generous listening - open posture, maintaining eye contact, and showing genuine interest. Watercolor or soft digital illustration style that emphasizes emotional warmth and human connection.",
+            "image_url": "https://fal.media/files/lion/XkNLAxYSWLfJBt5zs9OKM_a200ecd3e07c491cafe83f6a88446978.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 94,
+            "feedback": "The image matches the prompt by showing two people engaged in a conversation, with clear emphasis on emotional warmth and human connection. The illustration uses warm and soft colors, notably gentle blues and warm oranges, and seems to display an open posture and maintained eye contact. The watercolor style used in the image reinforces the warm and inclusive vibe sought in the prompt. The background is minimalist, which helps focus on the subjects and the interpersonal connection. There are no celebrities or famous likenesses, and it's free from inappropriate content or watermarks.\n\nThe image has good resolution and clarity, with balanced color contrast and a professional aesthetic. It fits well within a presentation context, supports a slide message focused on communication or empathy, and the simplicity is maintained.\n\nScoring:\n- Prompt Alignment: 38/40\n- Visual Quality: 28/30\n- Presentation Suitability: 28/30",
+            "suggestions": "To improve, ensure the expression of the active listening is even more pronounced through the body gestures, though the current presentation is already quite effective. Consider enhancing the emotional expressions slightly more for additional emphasis.",
+            "current_prompt": "A warm, inclusive illustration showing two people engaged in a deep conversation. One person is leaning in, listening intently with an open and compassionate expression. Use soft, warm colors like gentle blues and warm oranges. The background should be minimalist, focusing on the human connection. Depict body language that shows active, generous listening - open posture, maintaining eye contact, and showing genuine interest. Watercolor or soft digital illustration style that emphasizes emotional warmth and human connection.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

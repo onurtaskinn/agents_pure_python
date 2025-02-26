@@ -1,0 +1,305 @@
+{
+   "timestamp": "20250214192226",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_outlines": [
+               {
+                  "slide_title": "Etkili \u0130leti\u015fim ve Networking'in \u00d6nemi",
+                  "slide_focus": "\u0130\u015f hayat\u0131nda ba\u015far\u0131n\u0131n anahtar\u0131 etkili ileti\u015fim ve g\u00fc\u00e7l\u00fc bir network't\u00fcr.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Prensipleri",
+                  "slide_focus": "A\u00e7\u0131k, net ve empatik ileti\u015fim, i\u015f ili\u015fkilerini g\u00fc\u00e7lendirir ve anla\u015fmazl\u0131klar\u0131 \u00f6nler.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Profesyonel Networking Stratejileri",
+                  "slide_focus": "Stratejik networking, kariyer f\u0131rsatlar\u0131n\u0131 art\u0131r\u0131r ve i\u015f d\u00fcnyas\u0131nda g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fc y\u00fckseltir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Dijital Platformlarda \u0130leti\u015fim ve Networking",
+                  "slide_focus": "LinkedIn ve di\u011fer profesyonel platformlar, modern i\u015f d\u00fcnyas\u0131nda networking'in vazge\u00e7ilmez ara\u00e7lar\u0131d\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkileri",
+                  "slide_focus": "G\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve geni\u015f bir network, kariyer geli\u015fimini h\u0131zland\u0131r\u0131r ve i\u015f f\u0131rsatlar\u0131n\u0131 \u00e7o\u011falt\u0131r.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Presentation has a clear progression from the importance of communication to practical strategies and final career impacts, suggesting an implicit conclusion. Each slide focuses on a distinct core concept, and the flow is coherent. To strengthen it, consider explicitly labeling a concluding slide and adding more concrete examples or engagement strategies. Overall, the outline demonstrates solid structure, specific focuses, and feasible presentation flow.",
+               "score": 80
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fim ve Networking'in \u00d6nemi",
+                     "slide_focus": "\u0130\u015f hayat\u0131nda ba\u015far\u0131n\u0131n anahtar\u0131 etkili ileti\u015fim ve g\u00fc\u00e7l\u00fc bir network't\u00fcr.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Prensipleri",
+                     "slide_focus": "A\u00e7\u0131k, net ve empatik ileti\u015fim, i\u015f ili\u015fkilerini g\u00fc\u00e7lendirir ve anla\u015fmazl\u0131klar\u0131 \u00f6nler.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Profesyonel Networking Stratejileri",
+                     "slide_focus": "Stratejik networking, kariyer f\u0131rsatlar\u0131n\u0131 art\u0131r\u0131r ve i\u015f d\u00fcnyas\u0131nda g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fc y\u00fckseltir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Dijital Platformlarda \u0130leti\u015fim ve Networking",
+                     "slide_focus": "LinkedIn ve di\u011fer profesyonel platformlar, modern i\u015f d\u00fcnyas\u0131nda networking'in vazge\u00e7ilmez ara\u00e7lar\u0131d\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkileri",
+                     "slide_focus": "G\u00fc\u00e7l\u00fc ileti\u015fim becerileri ve geni\u015f bir network, kariyer geli\u015fimini h\u0131zland\u0131r\u0131r ve i\u015f f\u0131rsatlar\u0131n\u0131 \u00e7o\u011falt\u0131r.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in \u00d6nemi</h2><ul><li>\u0130\u015f ba\u015far\u0131s\u0131n\u0131n temeli</li><li>F\u0131rsatlar\u0131 yakalama</li><li>Profesyonel geli\u015fim</li><li>G\u00fcven ve itibar olu\u015fturma</li><li>Yenilik\u00e7i fikirler ve i\u015fbirlikleri</li></ul>",
+            "slide_voiceover_text": "Etkili ileti\u015fim ve networking, i\u015f hayat\u0131nda ba\u015far\u0131n\u0131n anahtar\u0131d\u0131r. Bu iki beceri, profesyonel ya\u015fam\u0131n\u0131zda f\u0131rsatlar\u0131 yakalaman\u0131z\u0131, kendinizi s\u00fcrekli geli\u015ftirmenizi ve g\u00fcven ile itibar olu\u015fturman\u0131z\u0131 sa\u011flar. G\u00fc\u00e7l\u00fc bir network, yenilik\u00e7i fikirlerin do\u011fmas\u0131na ve de\u011ferli i\u015fbirliklerinin kurulmas\u0131na olanak tan\u0131r. Bu nedenle, ileti\u015fim becerilerinizi geli\u015ftirmek ve network'\u00fcn\u00fcz\u00fc geni\u015fletmek, kariyer yolculu\u011funuzda sizi bir ad\u0131m \u00f6ne ta\u015f\u0131yacakt\u0131r.",
+            "slide_image_prompt": "Create a visually striking illustration depicting a bustling business networking event. The image should show a diverse group of professionals engaged in animated conversations, exchanging business cards, and making connections. In the center, highlight two individuals shaking hands, surrounded by a glowing aura to symbolize the power of effective communication. Incorporate visual elements like connecting lines or a network grid overlay to emphasize the networking aspect. Use a modern, professional color palette with shades of blue and gold. The style should be a blend of flat design and subtle gradients, creating a sleek and contemporary look that appeals to a business audience."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and fully aligns with the presentation's focus. The onscreen text, voiceover, and image prompt are coherent and complement each other well. The content effectively conveys the importance of effective communication and networking in professional life. The onscreen text is concise and well-structured, while the voiceover provides more detailed information. The image prompt is highly relevant and creatively enhances the message. To further improve, consider adding a brief statistic or quote about the impact of networking on career success to make the content even more compelling.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "Create a visually striking illustration depicting a bustling business networking event. The image should show a diverse group of professionals engaged in animated conversations, exchanging business cards, and making connections. In the center, highlight two individuals shaking hands, surrounded by a glowing aura to symbolize the power of effective communication. Incorporate visual elements like connecting lines or a network grid overlay to emphasize the networking aspect. Use a modern, professional color palette with shades of blue and gold. The style should be a blend of flat design and subtle gradients, creating a sleek and contemporary look that appeals to a business audience.",
+            "image_url": "https://v3.fal.media/files/zebra/dY0Xc2YpXkQZsO4s4TCOV.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image successfully captures the essence of a bustling business networking event as requested in the prompt. It depicts a diverse group of professionals engaged in conversations and making connections. The central focus is on two individuals shaking hands, surrounded by a glowing aura that symbolizes effective communication. The image uses a modern, professional color palette with shades of blue and gold, and employs a blend of flat design with subtle gradients, creating a sleek and contemporary look suitable for a business audience. The networking aspect is emphasized through connecting lines between individuals. The composition is well-balanced and visually striking, making it suitable for a presentation slide.",
+            "suggestions": "While the image meets most of the requirements, there are a few minor improvements that could be made:\n1. Consider reducing the number of people in the background slightly to simplify the composition.\n2. The network grid overlay mentioned in the prompt could be more prominent or distinct from the connecting lines between people.\n3. The use of gold in the color palette could be slightly increased to better balance with the dominant blue tones.",
+            "current_prompt": "Create a visually striking illustration depicting a bustling business networking event. The image should show a diverse group of professionals engaged in animated conversations, exchanging business cards, and making connections. In the center, highlight two individuals shaking hands, surrounded by a glowing aura to symbolize the power of effective communication. Incorporate visual elements like connecting lines or a network grid overlay to emphasize the networking aspect. Use a modern, professional color palette with shades of blue and gold. The style should be a blend of flat design and subtle gradients, creating a sleek and contemporary look that appeals to a business audience.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fimin Temel Prensipleri</h2><ul><li>A\u00e7\u0131kl\u0131k: Net ve anla\u015f\u0131l\u0131r ifadeler kullan\u0131n</li><li>Dinleme: Aktif dinleme becerilerini geli\u015ftirin</li><li>Empati: Kar\u015f\u0131 taraf\u0131n bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlamaya \u00e7al\u0131\u015f\u0131n</li><li>Geri Bildirim: Yap\u0131c\u0131 ve zaman\u0131nda geri bildirim verin</li><li>Beden Dili: S\u00f6zl\u00fc olmayan ileti\u015fime dikkat edin</li></ul>",
+            "slide_voiceover_text": "Etkili ileti\u015fimin temel prensipleri, i\u015f hayat\u0131nda ba\u015far\u0131l\u0131 ili\u015fkiler kurman\u0131n anahtar\u0131d\u0131r. \u0130lk olarak, a\u00e7\u0131kl\u0131k prensibi ile ba\u015flayal\u0131m. Mesajlar\u0131n\u0131z\u0131 net ve anla\u015f\u0131l\u0131r bir \u015fekilde iletmek, yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nler ve verimlili\u011fi art\u0131r\u0131r. \u0130kinci olarak, aktif dinleme becerilerini geli\u015ftirmek \u00e7ok \u00f6nemlidir. Bu, kar\u015f\u0131n\u0131zdakinin s\u00f6ylediklerini tam olarak anlaman\u0131z\u0131 ve uygun yan\u0131tlar vermenizi sa\u011flar. \u00dc\u00e7\u00fcnc\u00fc prensip empatidir. Kar\u015f\u0131n\u0131zdakinin bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlamaya \u00e7al\u0131\u015fmak, daha sa\u011fl\u0131kl\u0131 ve uzun s\u00fcreli i\u015f ili\u015fkileri kurman\u0131za yard\u0131mc\u0131 olur. D\u00f6rd\u00fcnc\u00fc olarak, yap\u0131c\u0131 ve zaman\u0131nda geri bildirim vermek, ekip performans\u0131n\u0131 art\u0131r\u0131r ve potansiyel sorunlar\u0131 erkenden \u00e7\u00f6zmenizi sa\u011flar. Son olarak, beden dilinize dikkat etmek, s\u00f6zl\u00fc ileti\u015fiminizi destekler ve g\u00fcvenilirli\u011finizi art\u0131r\u0131r. Bu prensipleri uygulad\u0131\u011f\u0131n\u0131zda, i\u015f hayat\u0131nda daha etkili ileti\u015fim kurabilir ve anla\u015fmazl\u0131klar\u0131 \u00f6nleyebilirsiniz.",
+            "slide_image_prompt": "Create a visually appealing and professional illustration showcasing the five core principles of effective communication in a business setting. The image should be divided into five interconnected sections, each representing one principle: Clarity, Listening, Empathy, Feedback, and Body Language. Use a modern, clean design style with a color palette of blues and greens to convey trust and growth. In the center, depict two business professionals engaged in a positive interaction, surrounded by symbolic representations of each principle. For Clarity, show a clear speech bubble; for Listening, an ear with sound waves; for Empathy, two hands forming a heart shape; for Feedback, a circular arrow; and for Body Language, a figure with open, welcoming posture. The overall composition should be balanced and easy to understand at a glance, suitable for a professional presentation on communication skills in the workplace."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for effective presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear, concise, and delivered logically. The multimedia design shows a proper balance between onscreen and voiceover text, with the onscreen text being concise and the voiceover providing more detailed explanations. The image prompt is relevant and enhances the content effectively. The technical quality is high, with correct HTML markup usage and consistent language. The content is professional and appropriate for the topic. No improvements are necessary as the content achieves full marks in all evaluation criteria.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "Create a visually appealing and professional illustration showcasing the five core principles of effective communication in a business setting. The image should be divided into five interconnected sections, each representing one principle: Clarity, Listening, Empathy, Feedback, and Body Language. Use a modern, clean design style with a color palette of blues and greens to convey trust and growth. In the center, depict two business professionals engaged in a positive interaction, surrounded by symbolic representations of each principle. For Clarity, show a clear speech bubble; for Listening, an ear with sound waves; for Empathy, two hands forming a heart shape; for Feedback, a circular arrow; and for Body Language, a figure with open, welcoming posture. The overall composition should be balanced and easy to understand at a glance, suitable for a professional presentation on communication skills in the workplace.",
+            "image_url": "https://v3.fal.media/files/penguin/Xf84P_bF-AVNTW86Kjjmc.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image meets most of the requirements specified in the prompt, but there are some critical issues and areas for improvement. The main concerns are:\n\n1. The image contains text within it, which is listed as a critical issue.\n2. The composition does not fully match the prompt's description. It's missing the 'Body Language' principle and the symbolic representations for each principle are not exactly as described.\n3. While the image uses blues and greens as requested, it doesn't fully capture the 'modern, clean design style' described in the prompt.\n4. The center depicts two business professionals as requested, but the surrounding elements are not exactly as described in the prompt.",
+            "suggestions": "To improve the image:\n1. Remove all text from the image.\n2. Include all five principles as specified: Clarity, Listening, Empathy, Feedback, and Body Language.\n3. Use the exact symbolic representations described for each principle (e.g., clear speech bubble for Clarity, ear with sound waves for Listening, etc.).\n4. Adjust the overall design to be more modern and clean.\n5. Ensure the composition is more balanced with all five principles equally represented.\n6. Consider simplifying the central figures to focus more on the principles themselves.",
+            "current_prompt": "Create a visually appealing and professional illustration showcasing the five core principles of effective communication in a business setting. The image should be divided into five interconnected sections, each representing one principle: Clarity, Listening, Empathy, Feedback, and Body Language. Use a modern, clean design style with a color palette of blues and greens to convey trust and growth. In the center, depict two business professionals engaged in a positive interaction, surrounded by symbolic representations of each principle. For Clarity, show a clear speech bubble; for Listening, an ear with sound waves; for Empathy, two hands forming a heart shape; for Feedback, a circular arrow; and for Body Language, a figure with open, welcoming posture. The overall composition should be balanced and easy to understand at a glance, suitable for a professional presentation on communication skills in the workplace.",
+            "new_prompt": "Create a minimalist illustration of the five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble, 2) Listening: a simplified ear outline with three curved lines representing sound waves, 3) Empathy: two abstract hand shapes forming a heart, 4) Feedback: a circular arrow, 5) Body Language: a stick figure with open arms. Use a modern color palette of soft blues and greens, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction. Apply subtle shadows to add depth. Ensure high resolution and crisp lines for a professional, presentation-ready appearance. The overall composition should be balanced, easily understood at a glance, and convey a sense of harmony and effective communication."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist illustration of the five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble, 2) Listening: a simplified ear outline with three curved lines representing sound waves, 3) Empathy: two abstract hand shapes forming a heart, 4) Feedback: a circular arrow, 5) Body Language: a stick figure with open arms. Use a modern color palette of soft blues and greens, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction. Apply subtle shadows to add depth. Ensure high resolution and crisp lines for a professional, presentation-ready appearance. The overall composition should be balanced, easily understood at a glance, and convey a sense of harmony and effective communication.",
+            "image_url": "https://v3.fal.media/files/rabbit/igb5G2CaDGyknDlaBIdrp.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image largely aligns with the prompt but has some discrepancies. It successfully portrays a minimalist illustration of communication principles in a business setting with simple icons arranged in a circular layout. The image includes representations for Clarity (speech bubble), Listening (ear-like shape), Empathy, and Feedback. The center features two abstract human silhouettes facing each other as requested. However, there are some issues: the image uses only one color (teal) instead of the requested soft blues and greens, the Body Language icon is missing, and the Empathy icon doesn't exactly match the description of two abstract hand shapes forming a heart. The resolution and quality appear good, with crisp lines and a clean white background. The composition is balanced and easily understood at a glance, conveying effective communication.",
+            "suggestions": "To improve the image: 1. Add the missing Body Language icon (stick figure with open arms). 2. Adjust the Empathy icon to more clearly represent two abstract hand shapes forming a heart. 3. Incorporate the requested color palette of soft blues and greens, using different shades for each icon. 4. Consider adding subtle shadows to enhance depth. 5. Ensure the Listening icon includes three curved lines representing sound waves. 6. Make the Clarity icon bolder to match the 'single, bold line' description.",
+            "current_prompt": "Create a minimalist illustration of the five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble, 2) Listening: a simplified ear outline with three curved lines representing sound waves, 3) Empathy: two abstract hand shapes forming a heart, 4) Feedback: a circular arrow, 5) Body Language: a stick figure with open arms. Use a modern color palette of soft blues and greens, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction. Apply subtle shadows to add depth. Ensure high resolution and crisp lines for a professional, presentation-ready appearance. The overall composition should be balanced, easily understood at a glance, and convey a sense of harmony and effective communication.",
+            "new_prompt": "Create a minimalist illustration of five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble in light blue, 2) Listening: a simplified ear outline with three distinct curved lines representing sound waves in soft green, 3) Empathy: two abstract hand shapes clearly forming a heart in pale blue, 4) Feedback: a circular arrow in teal, 5) Body Language: a stick figure with open arms in light green. Use a modern color palette of soft blues and greens as specified, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction, in a darker shade of blue. Apply subtle drop shadows to all elements to add depth. Ensure high resolution (at least 300 dpi) and crisp vector-like lines for a professional, presentation-ready appearance. The overall composition should be perfectly symmetrical, easily understood at a glance, and convey a sense of harmony and effective communication. Maintain ample white space around the circular arrangement for a clean, uncluttered look."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist illustration of five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble in light blue, 2) Listening: a simplified ear outline with three distinct curved lines representing sound waves in soft green, 3) Empathy: two abstract hand shapes clearly forming a heart in pale blue, 4) Feedback: a circular arrow in teal, 5) Body Language: a stick figure with open arms in light green. Use a modern color palette of soft blues and greens as specified, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction, in a darker shade of blue. Apply subtle drop shadows to all elements to add depth. Ensure high resolution (at least 300 dpi) and crisp vector-like lines for a professional, presentation-ready appearance. The overall composition should be perfectly symmetrical, easily understood at a glance, and convey a sense of harmony and effective communication. Maintain ample white space around the circular arrangement for a clean, uncluttered look.",
+            "image_url": "https://v3.fal.media/files/monkey/eoBPVJd4GSJJSqAkJYC3t.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image aligns well with the prompt and meets most of the criteria for an effective presentation slide. It features a minimalist design with five icons arranged in a circular layout, representing the core principles of effective communication. The center shows two abstract human silhouettes facing each other, suggesting interaction. The color palette consists of soft blues and greens as specified. However, there are some discrepancies with the prompt and areas for improvement.",
+            "suggestions": "To fully meet the prompt requirements, consider the following adjustments:\n1. Modify the 'Listening' icon to include three distinct curved lines representing sound waves.\n2. Adjust the 'Empathy' icon to show two abstract hand shapes forming a heart.\n3. Change the 'Body Language' icon to a stick figure with open arms.\n4. Apply subtle drop shadows to all elements to add depth.\n5. Ensure the resolution is at least 300 dpi for a professional, presentation-ready appearance.\n6. Make the overall composition perfectly symmetrical.\n7. Maintain more white space around the circular arrangement for a cleaner look.",
+            "current_prompt": "Create a minimalist illustration of five core principles of effective communication in a business setting. Arrange five simple icons in a circular layout against a clean white background. Each icon represents a principle: 1) Clarity: a single, bold line forming a speech bubble in light blue, 2) Listening: a simplified ear outline with three distinct curved lines representing sound waves in soft green, 3) Empathy: two abstract hand shapes clearly forming a heart in pale blue, 4) Feedback: a circular arrow in teal, 5) Body Language: a stick figure with open arms in light green. Use a modern color palette of soft blues and greens as specified, with each icon in a different shade. In the center, place two abstract, minimalist human silhouettes facing each other, suggesting interaction, in a darker shade of blue. Apply subtle drop shadows to all elements to add depth. Ensure high resolution (at least 300 dpi) and crisp vector-like lines for a professional, presentation-ready appearance. The overall composition should be perfectly symmetrical, easily understood at a glance, and convey a sense of harmony and effective communication. Maintain ample white space around the circular arrangement for a clean, uncluttered look.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Profesyonel Networking Stratejileri</h2><ul><li>Etkinliklere aktif kat\u0131l\u0131m</li><li>Online platformlar\u0131 etkili kullanma</li><li>De\u011fer odakl\u0131 ili\u015fkiler kurma</li><li>D\u00fczenli takip ve ileti\u015fim</li><li>Sekt\u00f6r trendlerini takip etme</li></ul>",
+            "slide_voiceover_text": "Profesyonel networking, kariyer geli\u015fiminiz i\u00e7in kritik \u00f6neme sahiptir. Etkili networking stratejileri \u015funlar\u0131 i\u00e7erir: \u0130lk olarak, sekt\u00f6r etkinliklerine aktif kat\u0131l\u0131m g\u00f6sterin. LinkedIn gibi online platformlar\u0131 etkili bir \u015fekilde kullan\u0131n. \u0130li\u015fkilerinizi de\u011fer odakl\u0131 kurun ve geli\u015ftirin. Ba\u011flant\u0131lar\u0131n\u0131zla d\u00fczenli ileti\u015fimde kal\u0131n ve takip edin. Son olarak, sekt\u00f6r\u00fcn\u00fczdeki trendleri yak\u0131ndan takip edin. Bu stratejiler, i\u015f d\u00fcnyas\u0131ndaki g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc art\u0131r\u0131rken, yeni f\u0131rsatlar yakalama \u015fans\u0131n\u0131z\u0131 da y\u00fckseltecektir.",
+            "slide_image_prompt": "Create a visually striking and modern illustration representing professional networking. The image should depict a central figure connected to multiple other professionals through glowing lines, symbolizing network connections. These connections should form a web-like structure, with each node representing different aspects of networking strategies mentioned in the slide. Use a cool blue color palette with accents of gold to convey professionalism and success. The background should have subtle abstract elements representing a global business environment. The style should be clean, minimalist, and slightly futuristic to appeal to a professional audience. Include subtle icons near the connection points to represent different networking platforms and strategies."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and well-structured. The onscreen text, voiceover, and image prompt are perfectly aligned, delivering a clear and coherent message about professional networking strategies. The content is concise yet informative, with the voiceover expanding on the bullet points effectively. The image prompt is detailed and relevant, enhancing the overall presentation. To further improve, consider adding a brief mention of the benefits of networking in the voiceover to reinforce the slide focus.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "Create a visually striking and modern illustration representing professional networking. The image should depict a central figure connected to multiple other professionals through glowing lines, symbolizing network connections. These connections should form a web-like structure, with each node representing different aspects of networking strategies mentioned in the slide. Use a cool blue color palette with accents of gold to convey professionalism and success. The background should have subtle abstract elements representing a global business environment. The style should be clean, minimalist, and slightly futuristic to appeal to a professional audience. Include subtle icons near the connection points to represent different networking platforms and strategies.",
+            "image_url": "https://v3.fal.media/files/lion/7EASn8R6Xx5bi1lMqkcFu.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image aligns well with the prompt and meets most of the criteria for a presentation slide. It depicts a central figure connected to multiple other professionals through glowing lines, symbolizing network connections. The cool blue color palette with gold accents is used effectively, conveying professionalism and success. The background includes a subtle world map, representing a global business environment. The style is clean, minimalist, and slightly futuristic, appealing to a professional audience. However, there are a few minor issues to consider.",
+            "suggestions": "To improve the image: 1. Add subtle icons near the connection points to represent different networking platforms and strategies, as requested in the prompt. 2. Consider reducing the prominence of the central figure to focus more on the networking concept rather than an individual. 3. Adjust the composition to make the web-like structure more prominent, emphasizing the interconnectedness of the network. 4. Incorporate more abstract elements in the background to enhance the futuristic feel while maintaining simplicity.",
+            "current_prompt": "Create a visually striking and modern illustration representing professional networking. The image should depict a central figure connected to multiple other professionals through glowing lines, symbolizing network connections. These connections should form a web-like structure, with each node representing different aspects of networking strategies mentioned in the slide. Use a cool blue color palette with accents of gold to convey professionalism and success. The background should have subtle abstract elements representing a global business environment. The style should be clean, minimalist, and slightly futuristic to appeal to a professional audience. Include subtle icons near the connection points to represent different networking platforms and strategies.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Dijital Platformlarda \u0130leti\u015fim ve Networking</h2><ul><li>LinkedIn: Profesyonel a\u011f olu\u015fturman\u0131n merkezi</li><li>Dijital varl\u0131k y\u00f6netimi</li><li>Etkili profil olu\u015fturma</li><li>\u0130\u00e7erik payla\u015f\u0131m\u0131 ve etkile\u015fim</li><li>Di\u011fer platformlar: Twitter, Medium, GitHub</li></ul>",
+            "slide_voiceover_text": "Dijital \u00e7a\u011fda, LinkedIn ve di\u011fer profesyonel platformlar, i\u015f d\u00fcnyas\u0131nda networking'in vazge\u00e7ilmez ara\u00e7lar\u0131 haline geldi. LinkedIn, kariyerinizi geli\u015ftirmek ve i\u015f ba\u011flant\u0131lar\u0131 kurmak i\u00e7in m\u00fckemmel bir f\u0131rsat sunuyor. Etkili bir dijital varl\u0131k y\u00f6netimi, g\u00fc\u00e7l\u00fc bir profil olu\u015fturma, d\u00fczenli i\u00e7erik payla\u015f\u0131m\u0131 ve aktif etkile\u015fim, bu platformlarda ba\u015far\u0131l\u0131 olman\u0131n anahtar\u0131d\u0131r. Unutmay\u0131n, Twitter, Medium ve GitHub gibi di\u011fer platformlar da sekt\u00f6r\u00fcn\u00fcze ba\u011fl\u0131 olarak de\u011ferli networking f\u0131rsatlar\u0131 sunabilir. Bu dijital ara\u00e7lar\u0131 kullanarak, profesyonel a\u011f\u0131n\u0131z\u0131 geni\u015fletebilir ve kariyerinizde yeni kap\u0131lar a\u00e7abilirsiniz.",
+            "slide_image_prompt": "Create a visually striking illustration showcasing a professional using a tablet or smartphone, with the LinkedIn logo prominently displayed. The screen should show a stylized network of interconnected profile pictures, representing a digital professional network. In the background, include smaller icons of other social media platforms like Twitter, Medium, and GitHub. Use a modern, clean design style with a blue and white color scheme, reminiscent of LinkedIn's branding. The overall composition should convey a sense of connectivity, professionalism, and digital networking in a sleek, corporate environment."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide focus. The content is well-structured, informative, and relevant to the topic of digital communication and networking in professional life. The voiceover expands on the bullet points effectively, providing valuable context and advice. The image prompt is detailed and aligns well with the content, promising a visually appealing and relevant illustration. To further enhance the slide, consider adding a brief mention of best practices or common pitfalls in digital networking in the voiceover.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "Create a visually striking illustration showcasing a professional using a tablet or smartphone, with the LinkedIn logo prominently displayed. The screen should show a stylized network of interconnected profile pictures, representing a digital professional network. In the background, include smaller icons of other social media platforms like Twitter, Medium, and GitHub. Use a modern, clean design style with a blue and white color scheme, reminiscent of LinkedIn's branding. The overall composition should convey a sense of connectivity, professionalism, and digital networking in a sleek, corporate environment.",
+            "image_url": "https://v3.fal.media/files/elephant/-ZsoKF6BzbTLYgSq3utxR.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image aligns well with the prompt and meets most of the criteria for a presentation slide. It showcases a professional using a tablet with the LinkedIn logo prominently displayed. The screen shows a stylized network of interconnected profile pictures, representing a digital professional network. The background includes smaller icons of other social media platforms. The design uses a modern, clean style with a blue and white color scheme, consistent with LinkedIn's branding. The composition effectively conveys connectivity, professionalism, and digital networking in a corporate environment. However, there are a few minor issues to note: the image shows a tablet instead of a smartphone option, and the GitHub icon is not clearly visible among the social media icons.",
+            "suggestions": "To improve the image, consider the following suggestions:\n1. Include a smartphone option alongside the tablet to fully match the prompt.\n2. Ensure the GitHub icon is clearly visible among the social media icons.\n3. Consider reducing the number of profile pictures slightly to maintain simplicity and focus.\n4. Adjust the hand positioning to show more of the tablet screen, emphasizing the network visualization.",
+            "current_prompt": "Create a visually striking illustration showcasing a professional using a tablet or smartphone, with the LinkedIn logo prominently displayed. The screen should show a stylized network of interconnected profile pictures, representing a digital professional network. In the background, include smaller icons of other social media platforms like Twitter, Medium, and GitHub. Use a modern, clean design style with a blue and white color scheme, reminiscent of LinkedIn's branding. The overall composition should convey a sense of connectivity, professionalism, and digital networking in a sleek, corporate environment.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in Kariyer \u00dczerindeki Etkileri</h2><ul><li>Kariyer f\u0131rsatlar\u0131n\u0131 art\u0131r\u0131r</li><li>Profesyonel geli\u015fimi h\u0131zland\u0131r\u0131r</li><li>\u0130\u015f d\u00fcnyas\u0131nda tan\u0131n\u0131rl\u0131\u011f\u0131 art\u0131r\u0131r</li><li>Yeni i\u015f imkanlar\u0131 yarat\u0131r</li><li>Liderlik becerilerini geli\u015ftirir</li></ul>",
+            "slide_voiceover_text": "Etkili ileti\u015fim ve networking, kariyer geli\u015fiminizde kritik bir rol oynar. G\u00fc\u00e7l\u00fc ileti\u015fim becerileri, i\u015f arkada\u015flar\u0131n\u0131zla ve y\u00f6neticilerinizle daha iyi ili\u015fkiler kurman\u0131z\u0131 sa\u011flar. Bu da performans\u0131n\u0131z\u0131 ve i\u015f yerindeki de\u011ferinizi art\u0131r\u0131r. Geni\u015f bir network ise size yeni f\u0131rsatlar sunar. Sekt\u00f6r\u00fcn\u00fczdeki geli\u015fmelerden haberdar olur, potansiyel i\u015f imkanlar\u0131n\u0131 daha erken fark edersiniz. Ayr\u0131ca, tan\u0131n\u0131rl\u0131\u011f\u0131n\u0131z artt\u0131k\u00e7a, liderlik pozisyonlar\u0131 i\u00e7in daha fazla g\u00f6z \u00f6n\u00fcnde bulunursunuz. Unutmay\u0131n, ba\u015far\u0131l\u0131 bir kariyer yolculu\u011fu i\u00e7in sadece ne bildi\u011finiz de\u011fil, kimi tan\u0131d\u0131\u011f\u0131n\u0131z da \u00f6nemlidir.",
+            "slide_image_prompt": "Create a vibrant and modern illustration showing a professional climbing a career ladder. The ladder should be made of interconnected speech bubbles and handshake icons, symbolizing communication and networking. At the top of the ladder, show various career opportunity icons such as a briefcase, a promotion certificate, and a leadership crown. The background should have a gradient from light blue to soft orange, representing progress and success. Use a flat design style with clean lines and bold colors to make it visually appealing and easy to understand at a glance."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": true,
+            "feedback": "The content is excellent and coherent. The onscreen text, voiceover, and image prompt align well, delivering a clear message about the impact of effective communication and networking on career development. The onscreen text is concise and well-structured, while the voiceover provides more detailed information. The image prompt is specific and relevant, enhancing the overall message. To further improve, consider adding a brief mention of potential challenges in networking or communication in the voiceover to provide a more balanced perspective.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "Create a vibrant and modern illustration showing a professional climbing a career ladder. The ladder should be made of interconnected speech bubbles and handshake icons, symbolizing communication and networking. At the top of the ladder, show various career opportunity icons such as a briefcase, a promotion certificate, and a leadership crown. The background should have a gradient from light blue to soft orange, representing progress and success. Use a flat design style with clean lines and bold colors to make it visually appealing and easy to understand at a glance.",
+            "image_url": "https://v3.fal.media/files/zebra/X269p3rSOEndRGiL6emcl.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image closely aligns with the prompt and meets most of the requirements for a presentation slide. It depicts a professional climbing a career ladder made of icons, including speech bubbles and handshakes, symbolizing communication and networking. The background features a gradient from light blue to soft orange as requested. The illustration uses a flat design style with clean lines and bold colors, making it visually appealing and easy to understand at a glance. However, there are a few minor discrepancies with the original prompt that should be noted.",
+            "suggestions": "To fully align with the prompt, consider the following improvements:\n1. Include a promotion certificate and leadership crown at the top of the ladder.\n2. Make the ladder more clearly composed of interconnected speech bubbles and handshake icons, rather than a mix of various icons.\n3. Add a briefcase icon at the top of the ladder alongside other career opportunity symbols.\n4. Ensure the gradient background transitions more smoothly from light blue to soft orange.",
+            "current_prompt": "Create a vibrant and modern illustration showing a professional climbing a career ladder. The ladder should be made of interconnected speech bubbles and handshake icons, symbolizing communication and networking. At the top of the ladder, show various career opportunity icons such as a briefcase, a promotion certificate, and a leadership crown. The background should have a gradient from light blue to soft orange, representing progress and success. Use a flat design style with clean lines and bold colors to make it visually appealing and easy to understand at a glance.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

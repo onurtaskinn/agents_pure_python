@@ -1,0 +1,390 @@
+{
+   "timestamp": "20250205020515",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Ege'nin g\u00fczellikleri",
+            "slide_count": 3
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                  "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Antik Kentler ve K\u00fclt\u00fcrel Miras",
+                  "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin E\u015fsiz Do\u011fas\u0131 ve Plajlar\u0131",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve d\u00fcnyaca \u00fcnl\u00fc plajlar\u0131, b\u00f6lgenin do\u011fal g\u00fczelliklerini yans\u0131t\u0131r.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "The outline is missing a conclusion slide, which is a critical issue. While the rest of the content is generally clear and well-structured, the lack of a proper closing significantly impacts the overall flow and completeness of the presentation.",
+               "score": 65
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                     "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Antik Kentler ve K\u00fclt\u00fcrel Miras",
+                     "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin E\u015fsiz Do\u011fas\u0131 ve Plajlar\u0131",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve d\u00fcnyaca \u00fcnl\u00fc plajlar\u0131, b\u00f6lgenin do\u011fal g\u00fczelliklerini yans\u0131t\u0131r.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_1",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                  "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Antik Kentler ve K\u00fclt\u00fcrel Miras",
+                  "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin E\u015fsiz Do\u011fas\u0131 ve Plajlar\u0131",
+                  "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve d\u00fcnyaca \u00fcnl\u00fc plajlar\u0131, b\u00f6lgenin do\u011fal g\u00fczelliklerini yans\u0131t\u0131r.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                  "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle, unutulmaz deneyimler sunan e\u015fsiz bir destinasyondur.",
+                  "slide_number": 4
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_1",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "There are 4 slides in the previous outline, but the user has requested 3 slides. Therefore remove 1 slides",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                     "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Antik Kentler ve K\u00fclt\u00fcrel Miras",
+                     "slide_focus": "Efes, Bergama ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin E\u015fsiz Do\u011fas\u0131 ve Plajlar\u0131",
+                     "slide_focus": "Ege'nin turkuaz koylar\u0131, zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri ve d\u00fcnyaca \u00fcnl\u00fc plajlar\u0131, b\u00f6lgenin do\u011fal g\u00fczelliklerini yans\u0131t\u0131r.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                     "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle, unutulmaz deneyimler sunan e\u015fsiz bir destinasyondur.",
+                     "slide_number": 4
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_2",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                  "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Antik Kentler ve E\u015fsiz Do\u011fa",
+                  "slide_focus": "Ege'nin antik kentleri, turkuaz koylar\u0131 ve zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri, b\u00f6lgenin tarihi ve do\u011fal g\u00fczelliklerini bir arada sunar.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                  "slide_focus": "Ege B\u00f6lgesi, zengin k\u00fclt\u00fcrel miras\u0131 ve e\u015fsiz do\u011fas\u0131yla, unutulmaz deneyimler sunan benzersiz bir destinasyondur.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_2",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "Bu sunum tasla\u011f\u0131nda ba\u011f\u0131ms\u0131z bir sonu\u00e7 slayt\u0131na yer verilmedi\u011fi i\u00e7in kritik bir eksik s\u00f6z konusudur. Ayr\u0131ca slaytlar\u0131n ana odaklar\u0131 tekrara d\u00fc\u015fmektedir ve ak\u0131\u015f\u0131 g\u00fc\u00e7lendirecek daha net bir kapan\u0131\u015f b\u00f6l\u00fcm\u00fc eksiktir.",
+               "score": 45
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                     "slide_focus": "Ege B\u00f6lgesi, tarihi zenginlikleri ve do\u011fal g\u00fczellikleriyle T\u00fcrkiye'nin en \u00e7ekici destinasyonlar\u0131ndan biridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Antik Kentler ve E\u015fsiz Do\u011fa",
+                     "slide_focus": "Ege'nin antik kentleri, turkuaz koylar\u0131 ve zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeleri, b\u00f6lgenin tarihi ve do\u011fal g\u00fczelliklerini bir arada sunar.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                     "slide_focus": "Ege B\u00f6lgesi, zengin k\u00fclt\u00fcrel miras\u0131 ve e\u015fsiz do\u011fas\u0131yla, unutulmaz deneyimler sunan benzersiz bir destinasyondur.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_3",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                  "slide_focus": "Ege B\u00f6lgesi'nin co\u011frafi konumu ve genel \u00f6zellikleri, T\u00fcrkiye turizmi i\u00e7indeki \u00f6nemini vurgular.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Antik Kentler: Tarih Kokan Topraklar",
+                  "slide_focus": "Efes, Bergama, ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Do\u011fal G\u00fczellikler: Turkuaz Koylar ve Zeytin Tepeleri",
+                  "slide_focus": "Ege'nin e\u015fsiz koylar\u0131, plajlar\u0131 ve karakteristik bitki \u00f6rt\u00fcs\u00fc, b\u00f6lgenin do\u011fal \u00e7ekicili\u011fini ortaya koyar.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Ege Mutfa\u011f\u0131: Lezzetin Doruk Noktas\u0131",
+                  "slide_focus": "Zeytinya\u011fl\u0131 yemekler, taze deniz \u00fcr\u00fcnleri ve yerel tatlar, Ege mutfa\u011f\u0131n\u0131n benzersiz \u00f6zelliklerini tan\u0131t\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                  "slide_focus": "Ege B\u00f6lgesi'nin tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle neden e\u015fsiz bir destinasyon oldu\u011funu \u00f6zetler ve ziyaret\u00e7ileri cezbeden \u00f6zellikleri vurgular.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_3",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "There are 5 slides in the previous outline, but the user has requested 3 slides. Therefore remove 2 slides",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin \u0130ncisi",
+                     "slide_focus": "Ege B\u00f6lgesi'nin co\u011frafi konumu ve genel \u00f6zellikleri, T\u00fcrkiye turizmi i\u00e7indeki \u00f6nemini vurgular.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Antik Kentler: Tarih Kokan Topraklar",
+                     "slide_focus": "Efes, Bergama, ve Troya gibi antik kentler, Ege'nin zengin tarihini ve k\u00fclt\u00fcrel miras\u0131n\u0131 g\u00f6zler \u00f6n\u00fcne serer.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Do\u011fal G\u00fczellikler: Turkuaz Koylar ve Zeytin Tepeleri",
+                     "slide_focus": "Ege'nin e\u015fsiz koylar\u0131, plajlar\u0131 ve karakteristik bitki \u00f6rt\u00fcs\u00fc, b\u00f6lgenin do\u011fal \u00e7ekicili\u011fini ortaya koyar.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Ege Mutfa\u011f\u0131: Lezzetin Doruk Noktas\u0131",
+                     "slide_focus": "Zeytinya\u011fl\u0131 yemekler, taze deniz \u00fcr\u00fcnleri ve yerel tatlar, Ege mutfa\u011f\u0131n\u0131n benzersiz \u00f6zelliklerini tan\u0131t\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Ege'nin B\u00fcy\u00fcleyici \u00c7ekicili\u011fi",
+                     "slide_focus": "Ege B\u00f6lgesi'nin tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle neden e\u015fsiz bir destinasyon oldu\u011funu \u00f6zetler ve ziyaret\u00e7ileri cezbeden \u00f6zellikleri vurgular.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_4",
+         "data": {
+            "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin Tarihi ve Do\u011fal Hazinesi",
+                  "slide_focus": "Ege B\u00f6lgesi'nin co\u011frafi konumu, genel \u00f6zellikleri ve T\u00fcrkiye turizmi i\u00e7indeki \u00f6nemini vurgulayarak b\u00f6lgenin e\u015fsiz koylar\u0131 ve antik kentlerini tan\u0131t\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "K\u00fclt\u00fcrel Miras ve Do\u011fal G\u00fczellikler",
+                  "slide_focus": "Efes, Bergama gibi antik kentler ile turkuaz koylar ve zeytin tepeleri \u00fczerinden Ege'nin zengin tarihi ve do\u011fal \u00e7ekicili\u011fini g\u00f6zler \u00f6n\u00fcne serer.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Lezzet ve Ya\u015fam",
+                  "slide_focus": "Ege mutfa\u011f\u0131n\u0131n benzersiz lezzetlerini tan\u0131tarak, b\u00f6lgenin tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle neden e\u015fsiz bir destinasyon oldu\u011funu \u00f6zetler ve ziyaret\u00e7ileri cezbeden \u00f6zellikleri vurgular.",
+                  "slide_number": 3
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_4",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Overall, the outline is well-structured with a clear introduction to the region, followed by a distinct focus on cultural and natural sites, and finishing by highlighting Ege\u2019s cuisine and unique charm as a summary. Each slide has a focused theme, and there is no redundancy or unrelated concepts. To strengthen further, consider labeling the final slide explicitly as a conclusion or adding a brief recap section to reinforce key takeaways.",
+               "score": 85
+            },
+            "tested_outline": {
+               "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin Tarihi ve Do\u011fal Hazinesi",
+                     "slide_focus": "Ege B\u00f6lgesi'nin co\u011frafi konumu, genel \u00f6zellikleri ve T\u00fcrkiye turizmi i\u00e7indeki \u00f6nemini vurgulayarak b\u00f6lgenin e\u015fsiz koylar\u0131 ve antik kentlerini tan\u0131t\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "K\u00fclt\u00fcrel Miras ve Do\u011fal G\u00fczellikler",
+                     "slide_focus": "Efes, Bergama gibi antik kentler ile turkuaz koylar ve zeytin tepeleri \u00fczerinden Ege'nin zengin tarihi ve do\u011fal \u00e7ekicili\u011fini g\u00f6zler \u00f6n\u00fcne serer.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Lezzet ve Ya\u015fam",
+                     "slide_focus": "Ege mutfa\u011f\u0131n\u0131n benzersiz lezzetlerini tan\u0131tarak, b\u00f6lgenin tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle neden e\u015fsiz bir destinasyon oldu\u011funu \u00f6zetler ve ziyaret\u00e7ileri cezbeden \u00f6zellikleri vurgular.",
+                     "slide_number": 3
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Ege B\u00f6lgesi: T\u00fcrkiye'nin Tarihi ve Do\u011fal Hazinesi</h2><ul><li>Co\u011frafi Konum: Bat\u0131 Anadolu</li><li>K\u0131y\u0131 Uzunlu\u011fu: 2,800 km</li><li>\u00d6ne \u00c7\u0131kan \u00d6zellikler:<ul><li>Antik Kentler</li><li>Benzersiz Koylar</li><li>Zengin K\u00fclt\u00fcrel Miras</li></ul></li><li>Turizm Potansiyeli: Y\u00fcksek</li></ul>",
+            "slide_voiceover_text": "Ege B\u00f6lgesi, T\u00fcrkiye'nin bat\u0131s\u0131nda uzanan, tarihin ve do\u011fan\u0131n muhte\u015fem bir \u015fekilde bulu\u015ftu\u011fu e\u015fsiz bir co\u011frafyad\u0131r. Yakla\u015f\u0131k 2,800 kilometrelik k\u0131y\u0131 \u015feridiyle, b\u00f6lge antik uygarl\u0131klar\u0131n izlerini ta\u015f\u0131yan tarihi kentler ve kristal berrakl\u0131\u011f\u0131ndaki koylar\u0131yla turizm a\u00e7\u0131s\u0131ndan ola\u011fan\u00fcst\u00fc bir potansiyele sahiptir. Efes, Bergama gibi antik kentler ve \u00c7e\u015fme, Bodrum gibi muhte\u015fem k\u0131y\u0131 yerle\u015fimleri, b\u00f6lgenin zenginli\u011fini ve \u00e7ekicili\u011fini yans\u0131tmaktad\u0131r.",
+            "slide_image_prompt": "A panoramic landscape of the Aegean Region of Turkey, showcasing a seamless blend of ancient ruins and stunning coastal scenery. In the foreground, include fragments of classical Greek-Roman stone columns and archaeological remnants, transitioning into a crystal-clear turquoise sea with small traditional white-washed boats. In the background, display rolling green hills with olive groves and distant mountain ranges. Use a warm, golden-hour lighting to enhance the scene's magical atmosphere. Photorealistic style with high detail, emphasizing the region's natural beauty and historical depth."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The content is excellent and well-structured. It effectively communicates the key points about the Aegean Region of Turkey. The onscreen text, voiceover, and image prompt are well-aligned and complementary. The onscreen text provides concise bullet points, while the voiceover expands on these with more detail. The image prompt vividly describes a scene that encapsulates the region's blend of history and natural beauty. To further enhance the content, consider adding a specific statistic about tourism (e.g., annual visitor numbers) to reinforce the 'high tourism potential' point.",
+            "score": 95
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Ege'nin Zengin Miras\u0131</h2><ul><li>Antik Kentler: Efes ve Bergama</li><li>Do\u011fal G\u00fczellikler: Turkuaz Koylar</li><li>Zeytin Tepeleri ve Tarihi Peyzaj</li></ul>",
+            "slide_voiceover_text": "Ege b\u00f6lgesi, insanl\u0131k tarihinin en zengin miraslar\u0131ndan birine ev sahipli\u011fi yap\u0131yor. Efes ve Bergama gibi antik kentler, binlerce y\u0131ll\u0131k medeniyetlerin izlerini ta\u015f\u0131rken, turkuaz koylar ve zeytin a\u011fa\u00e7lar\u0131yla kapl\u0131 tepeler b\u00f6lgenin e\u015fsiz do\u011fal g\u00fczelli\u011fini g\u00f6zler \u00f6n\u00fcne seriyor. Burada tarih ve do\u011fa, m\u00fckemmel bir uyum i\u00e7inde i\u00e7 i\u00e7e ge\u00e7mi\u015f durumda.",
+            "slide_image_prompt": "A panoramic landscape capturing the essence of the Aegean region, showing ancient ruins of Ephesus or Pergamon in the foreground, with turquoise blue waters and olive grove-covered hills in the background. Use a golden-hour lighting to enhance the warm, historical atmosphere. Combine archaeological elements with natural beauty, showcasing the rich cultural heritage and stunning landscape of the Aegean region. Photorealistic style with warm earth tones and soft, natural color palette."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent, demonstrating strong coherence between onscreen text, voiceover, and image prompt. The message is clear and well-delivered, focusing on the Aegean region's rich cultural heritage and natural beauty. The onscreen text is concise and well-structured, while the voiceover provides more detailed information. The image prompt effectively captures the essence of the slide's focus. To further enhance the content, consider adding a specific example of a turquoise cove or mentioning a unique feature of olive groves in the voiceover to provide more vivid details. Overall, the content is highly effective in conveying the intended message.",
+            "score": 95
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Ege'nin B\u00fcy\u00fcs\u00fc: Lezzet ve Ya\u015fam</h2><ul><li>Benzersiz Mutfak K\u00fclt\u00fcr\u00fc</li><li>Do\u011fayla \u0130\u00e7 \u0130\u00e7e Gastronomi</li><li>Tarihi Zenginlik ve Tatlar</li></ul>",
+            "slide_voiceover_text": "Ege b\u00f6lgesi, sadece bir co\u011frafya de\u011fil, ayn\u0131 zamanda zengin bir ya\u015fam tarz\u0131n\u0131n ve muhte\u015fem bir mutfak k\u00fclt\u00fcr\u00fcn\u00fcn evidir. Zeytinya\u011fl\u0131 yemeklerinden taze deniz \u00fcr\u00fcnlerine, otlu bitkilerinden \u00fcz\u00fcm ba\u011flar\u0131na kadar her detay, b\u00f6lgenin benzersiz karakterini yans\u0131t\u0131r. Burada yemek sadece bir beslenme eylemi de\u011fil, bir sanat, bir ya\u015fam bi\u00e7imidir.",
+            "slide_image_prompt": "A vibrant, warm-toned photorealistic image showcasing an outdoor Aegean dining scene. In the foreground, a rustic wooden table filled with traditional Turkish Aegean dishes like zeytinya\u011fl\u0131 sebze, grilled fish, and fresh salads. Background features a scenic landscape with olive groves, rolling hills, and a glimpse of a traditional stone house. Soft golden sunlight filtering through, creating a warm, inviting atmosphere. Style: Detailed, warm color palette emphasizing greens, blues, and golden tones, capturing the essence of Aegean lifestyle and cuisine."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The content is well-crafted and coherent, effectively conveying the essence of Aegean cuisine and lifestyle. The onscreen text, voiceover, and image prompt align well, creating a comprehensive and engaging presentation. To further enhance the content, consider adding a specific example of a unique Aegean dish in the onscreen text to make it more concrete. The voiceover could also benefit from mentioning one or two specific historical sites that contribute to the region's culinary heritage, strengthening the connection between history and gastronomy. The image prompt is detailed and vivid, but you might consider adding a small element that hints at the historical aspect, such as an ancient ruin in the distance, to fully encompass all aspects mentioned in the slide focus.",
+            "score": 95
+         }
+      }
+   ],
+   "final_outline": {
+      "presentation_title": "Ege'nin G\u00fczellikleri: Tarihin ve Do\u011fan\u0131n Bulu\u015ftu\u011fu Cennet",
+      "slide_outlines": [
+         {
+            "slide_title": "Ege B\u00f6lgesi: T\u00fcrkiye'nin Tarihi ve Do\u011fal Hazinesi",
+            "slide_focus": "Ege B\u00f6lgesi'nin co\u011frafi konumu, genel \u00f6zellikleri ve T\u00fcrkiye turizmi i\u00e7indeki \u00f6nemini vurgulayarak b\u00f6lgenin e\u015fsiz koylar\u0131 ve antik kentlerini tan\u0131t\u0131r.",
+            "slide_number": 1
+         },
+         {
+            "slide_title": "K\u00fclt\u00fcrel Miras ve Do\u011fal G\u00fczellikler",
+            "slide_focus": "Efes, Bergama gibi antik kentler ile turkuaz koylar ve zeytin tepeleri \u00fczerinden Ege'nin zengin tarihi ve do\u011fal \u00e7ekicili\u011fini g\u00f6zler \u00f6n\u00fcne serer.",
+            "slide_number": 2
+         },
+         {
+            "slide_title": "Ege'nin B\u00fcy\u00fcs\u00fc: Lezzet ve Ya\u015fam",
+            "slide_focus": "Ege mutfa\u011f\u0131n\u0131n benzersiz lezzetlerini tan\u0131tarak, b\u00f6lgenin tarihi, do\u011fas\u0131 ve k\u00fclt\u00fcr\u00fcyle neden e\u015fsiz bir destinasyon oldu\u011funu \u00f6zetler ve ziyaret\u00e7ileri cezbeden \u00f6zellikleri vurgular.",
+            "slide_number": 3
+         }
+      ]
+   },
+   "final_content_slide_1": {
+      "is_valid": true,
+      "feedback": "The content is excellent and well-structured. It effectively communicates the key points about the Aegean Region of Turkey. The onscreen text, voiceover, and image prompt are well-aligned and complementary. The onscreen text provides concise bullet points, while the voiceover expands on these with more detail. The image prompt vividly describes a scene that encapsulates the region's blend of history and natural beauty. To further enhance the content, consider adding a specific statistic about tourism (e.g., annual visitor numbers) to reinforce the 'high tourism potential' point.",
+      "score": 95
+   },
+   "final_content_slide_2": {
+      "is_valid": true,
+      "feedback": "The slide content is excellent, demonstrating strong coherence between onscreen text, voiceover, and image prompt. The message is clear and well-delivered, focusing on the Aegean region's rich cultural heritage and natural beauty. The onscreen text is concise and well-structured, while the voiceover provides more detailed information. The image prompt effectively captures the essence of the slide's focus. To further enhance the content, consider adding a specific example of a turquoise cove or mentioning a unique feature of olive groves in the voiceover to provide more vivid details. Overall, the content is highly effective in conveying the intended message.",
+      "score": 95
+   },
+   "final_content_slide_3": {
+      "is_valid": true,
+      "feedback": "The content is well-crafted and coherent, effectively conveying the essence of Aegean cuisine and lifestyle. The onscreen text, voiceover, and image prompt align well, creating a comprehensive and engaging presentation. To further enhance the content, consider adding a specific example of a unique Aegean dish in the onscreen text to make it more concrete. The voiceover could also benefit from mentioning one or two specific historical sites that contribute to the region's culinary heritage, strengthening the connection between history and gastronomy. The image prompt is detailed and vivid, but you might consider adding a small element that hints at the historical aspect, such as an ancient ruin in the distance, to fully encompass all aspects mentioned in the slide focus.",
+      "score": 95
+   }
+}

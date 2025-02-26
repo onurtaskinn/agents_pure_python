@@ -1,0 +1,21 @@
+Final outline :{
+   "presentation_title": "The Evolution of the Internet: From ARPANET to World Wide Web",
+   "slide_outlines": [
+      {
+         "slide_title": "The Birth of ARPANET",
+         "slide_focus": "ARPANET, created in 1969, laid the foundation for today's internet by connecting four university computers."
+      },
+      {
+         "slide_title": "TCP/IP: The Internet's Universal Language",
+         "slide_focus": "The development of TCP/IP in 1983 enabled diverse computer networks to communicate, forming the modern internet."
+      },
+      {
+         "slide_title": "The World Wide Web Revolution",
+         "slide_focus": "Tim Berners-Lee's invention of the World Wide Web in 1989 transformed the internet into a user-friendly, information-sharing platform."
+      },
+      {
+         "slide_title": "The Internet Today and Tomorrow",
+         "slide_focus": "From dial-up to 5G, the internet continues to evolve, shaping our digital future and connecting billions worldwide."
+      }
+   ]
+}

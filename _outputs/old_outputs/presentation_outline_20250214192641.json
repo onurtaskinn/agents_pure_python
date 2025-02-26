@@ -1,0 +1,441 @@
+{
+   "timestamp": "20250214192641",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Z Ku\u015fa\u011f\u0131 \u0130\u00e7in Finansal Okuryazarl\u0131k",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Z Ku\u015fa\u011f\u0131 \u0130\u00e7in Finansal Okuryazarl\u0131k: Gelece\u011finizi \u015eekillendirin",
+            "slide_outlines": [
+               {
+                  "slide_title": "Finansal Okuryazarl\u0131k: Z Ku\u015fa\u011f\u0131n\u0131n S\u00fcper G\u00fcc\u00fc",
+                  "slide_focus": "Finansal okuryazarl\u0131k, Z ku\u015fa\u011f\u0131n\u0131n ekonomik gelece\u011fini \u015fekillendirmede kritik bir beceridir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "B\u00fct\u00e7eleme: Paran\u0131z\u0131n Kontrol\u00fcn\u00fc Elinize Al\u0131n",
+                  "slide_focus": "Etkili b\u00fct\u00e7eleme, finansal \u00f6zg\u00fcrl\u00fc\u011f\u00fcn temelidir ve ak\u0131ll\u0131 harcama al\u0131\u015fkanl\u0131klar\u0131 geli\u015ftirir.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Tasarruf ve Yat\u0131r\u0131m: Gelece\u011finize Yat\u0131r\u0131m Yap\u0131n",
+                  "slide_focus": "Erken ya\u015fta tasarruf ve yat\u0131r\u0131m al\u0131\u015fkanl\u0131klar\u0131 edinmek, uzun vadeli finansal g\u00fcvenlik sa\u011flar.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Dijital Finans: Teknolojinin G\u00fcc\u00fcn\u00fc Kullan\u0131n",
+                  "slide_focus": "Fintech uygulamalar\u0131 ve dijital bankac\u0131l\u0131k, Z ku\u015fa\u011f\u0131n\u0131n finansal y\u00f6netimini kolayla\u015ft\u0131r\u0131r ve g\u00fc\u00e7lendirir.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Finansal Ba\u011f\u0131ms\u0131zl\u0131k: Gelece\u011finizi Siz Belirleyin",
+                  "slide_focus": "Finansal okuryazarl\u0131k becerileri, Z ku\u015fa\u011f\u0131na ekonomik \u00f6zg\u00fcrl\u00fck ve ya\u015fam tarz\u0131 se\u00e7enekleri sunar.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Sunumda giri\u015f ve sonu\u00e7 niteli\u011findeki slaytlar mevcut; slaytlar tek bir ana kavrama odaklan\u0131yor ve mant\u0131kl\u0131 bir s\u0131rayla ilerliyor. Odak noktalar\u0131 anla\u015f\u0131l\u0131r ve Z ku\u015fa\u011f\u0131na y\u00f6nelik net mesajlar i\u00e7eriyor. B\u00fct\u00e7eleme, tasarruf ve yat\u0131r\u0131m gibi konular\u0131n her biri tek bir slaytta ve odakl\u0131 \u015fekilde ele al\u0131n\u0131yor. Dijital finans konusuna da ayr\u0131 bir slayt ayr\u0131lm\u0131\u015f olmas\u0131 i\u00e7eri\u011fi zenginle\u015ftiriyor. Genel olarak sunum, hedef kitlenin ilgisini \u00e7ekebilecek \u015fekilde yap\u0131land\u0131r\u0131lm\u0131\u015f ve son slayt bir sonu\u00e7/\u00e7a\u011fr\u0131 niteli\u011finde oldu\u011fu i\u00e7in g\u00fc\u00e7l\u00fc bir kapan\u0131\u015f yap\u0131yor.",
+               "score": 93
+            },
+            "tested_outline": {
+               "presentation_title": "Z Ku\u015fa\u011f\u0131 \u0130\u00e7in Finansal Okuryazarl\u0131k: Gelece\u011finizi \u015eekillendirin",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Finansal Okuryazarl\u0131k: Z Ku\u015fa\u011f\u0131n\u0131n S\u00fcper G\u00fcc\u00fc",
+                     "slide_focus": "Finansal okuryazarl\u0131k, Z ku\u015fa\u011f\u0131n\u0131n ekonomik gelece\u011fini \u015fekillendirmede kritik bir beceridir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "B\u00fct\u00e7eleme: Paran\u0131z\u0131n Kontrol\u00fcn\u00fc Elinize Al\u0131n",
+                     "slide_focus": "Etkili b\u00fct\u00e7eleme, finansal \u00f6zg\u00fcrl\u00fc\u011f\u00fcn temelidir ve ak\u0131ll\u0131 harcama al\u0131\u015fkanl\u0131klar\u0131 geli\u015ftirir.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Tasarruf ve Yat\u0131r\u0131m: Gelece\u011finize Yat\u0131r\u0131m Yap\u0131n",
+                     "slide_focus": "Erken ya\u015fta tasarruf ve yat\u0131r\u0131m al\u0131\u015fkanl\u0131klar\u0131 edinmek, uzun vadeli finansal g\u00fcvenlik sa\u011flar.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Dijital Finans: Teknolojinin G\u00fcc\u00fcn\u00fc Kullan\u0131n",
+                     "slide_focus": "Fintech uygulamalar\u0131 ve dijital bankac\u0131l\u0131k, Z ku\u015fa\u011f\u0131n\u0131n finansal y\u00f6netimini kolayla\u015ft\u0131r\u0131r ve g\u00fc\u00e7lendirir.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Finansal Ba\u011f\u0131ms\u0131zl\u0131k: Gelece\u011finizi Siz Belirleyin",
+                     "slide_focus": "Finansal okuryazarl\u0131k becerileri, Z ku\u015fa\u011f\u0131na ekonomik \u00f6zg\u00fcrl\u00fck ve ya\u015fam tarz\u0131 se\u00e7enekleri sunar.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Finansal Okuryazarl\u0131k: Z Ku\u015fa\u011f\u0131n\u0131n S\u00fcper G\u00fcc\u00fc</h2><ul><li>Ekonomik Ba\u011f\u0131ms\u0131zl\u0131\u011f\u0131n Anahtar\u0131</li><li>Bilin\u00e7li Finansal Kararlar</li><li>Gelece\u011fi \u015eekillendirme Becerisi</li></ul>",
+            "slide_voiceover_text": "Z ku\u015fa\u011f\u0131 olarak, finansal okuryazarl\u0131k sizin i\u00e7in sadece bir beceri de\u011fil, ger\u00e7ek bir s\u00fcper g\u00fc\u00e7. Bu s\u00fcper g\u00fc\u00e7, ekonomik ba\u011f\u0131ms\u0131zl\u0131\u011f\u0131n\u0131z\u0131 sa\u011flayan, bilin\u00e7li kararlar alman\u0131za yard\u0131mc\u0131 olan ve gelece\u011finizi do\u011frudan \u015fekillendiren bir ara\u00e7t\u0131r. Paran\u0131z\u0131 anlamak, y\u00f6netmek ve stratejik olarak kullanmak, bug\u00fcn\u00fcn h\u0131zla de\u011fi\u015fen d\u00fcnyas\u0131nda hayati bir \u00f6neme sahiptir.",
+            "slide_image_prompt": "A dynamic superhero-style illustration featuring a young Gen Z person wearing a financial literacy-themed superhero costume. The background shows financial symbols, graphs, and digital currency icons. The character stands confidently, holding a shield with money management symbols and a sword representing financial empowerment. Use a modern, comic book-inspired art style with vibrant colors of blue, green, and gold. The image should convey strength, intelligence, and financial mastery, symbolizing financial literacy as a superpower."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned, delivering a clear and impactful message about financial literacy for Gen Z. The content is engaging, using the superhero metaphor effectively to convey the importance of financial skills. The onscreen text is concise, while the voiceover provides more detailed information. The image prompt is highly specific and relevant, enhancing the overall message. There are no critical issues, and all components work together seamlessly to create a compelling slide.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A dynamic superhero-style illustration featuring a young Gen Z person wearing a financial literacy-themed superhero costume. The background shows financial symbols, graphs, and digital currency icons. The character stands confidently, holding a shield with money management symbols and a sword representing financial empowerment. Use a modern, comic book-inspired art style with vibrant colors of blue, green, and gold. The image should convey strength, intelligence, and financial mastery, symbolizing financial literacy as a superpower.",
+            "image_url": "https://v3.fal.media/files/lion/JF4f9uh38wpWzRIi39F38.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image excellently captures the essence of a financial literacy superhero aimed at Gen Z. It features a young, confident character in a superhero costume with financial symbols, standing against a background of financial icons and graphs. The art style is modern and comic book-inspired, using vibrant colors of blue, green, and gold as requested. The character holds a shield with money symbols and a sword, symbolizing financial empowerment. The composition is dynamic and energetic, effectively conveying strength, intelligence, and financial mastery.\n\nHowever, there are a few minor issues:\n1. The image contains some text elements ('WELL FIANAT'), which goes against the criteria of avoiding text within the image.\n2. The composition is slightly more complex than ideal for a presentation slide, with many small details that might be difficult to discern when projected.\n3. The cityscape in the bottom right, while thematically relevant, adds unnecessary complexity to the image.",
+            "suggestions": "To improve the image for presentation purposes:\n1. Remove all text elements from the image, including 'WELL FIANAT'.\n2. Simplify the background by reducing the number of small financial symbols and focusing on a few key, larger elements.\n3. Consider removing the cityscape to maintain focus on the superhero character and immediate financial symbols.\n4. Enlarge the main character slightly to make them more prominent and easily visible when projected.\n5. Ensure that the shield and sword are clearly visible and emphasize their financial symbolism.",
+            "current_prompt": "A dynamic superhero-style illustration featuring a young Gen Z person wearing a financial literacy-themed superhero costume. The background shows financial symbols, graphs, and digital currency icons. The character stands confidently, holding a shield with money management symbols and a sword representing financial empowerment. Use a modern, comic book-inspired art style with vibrant colors of blue, green, and gold. The image should convey strength, intelligence, and financial mastery, symbolizing financial literacy as a superpower.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>B\u00fct\u00e7eleme: Paran\u0131z\u0131n Kontrol\u00fcn\u00fc Elinize Al\u0131n</h2><ul><li>\ud83d\udcca Gelir ve Giderlerinizi Netle\u015ftirin</li><li>\ud83c\udfaf Ger\u00e7ek\u00e7i Finansal Hedefler Belirleyin</li><li>\ud83d\udca1 Ak\u0131ll\u0131 Harcama Stratejileri Geli\u015ftirin</li><li>\ud83d\udd0d Harcamalar\u0131n\u0131z\u0131 D\u00fczenli Olarak G\u00f6zden Ge\u00e7irin</li></ul>",
+            "slide_voiceover_text": "Gen\u00e7ler, b\u00fct\u00e7eleme sadece para k\u0131s\u0131tlamas\u0131 de\u011fil, finansal \u00f6zg\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fcn anahtar\u0131d\u0131r. Gelirlerinizi ve giderlerinizi net bir \u015fekilde anlamak, bilin\u00e7li mali kararlar alman\u0131z\u0131 sa\u011flar. Her ay harcamalar\u0131n\u0131z\u0131 kategorize edin, gereksiz harcamalardan ka\u00e7\u0131n\u0131n ve tasarruf hedefleri koyun. Dijital ara\u00e7lar ve uygulamalar kullanarak b\u00fct\u00e7enizi kolayca takip edebilir, mali disiplininizi geli\u015ftirebilirsiniz.",
+            "slide_image_prompt": "A split-screen infographic-style illustration showing a young Gen Z person managing their budget. On one side, show a clean, modern digital interface with colorful charts, expense tracking, and savings goals. On the other side, depict the same person looking confident and empowered, holding a smartphone with budget app open. Use a bright, minimalist design with clean lines and a color palette of blues, greens, and whites to represent financial clarity and youth. The image should convey financial control and smart money management in a visually engaging and contemporary style."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and focused on effective budgeting for Gen Z. The content provides appropriate detail without overwhelming the audience. The multimedia design shows a good balance between onscreen text and voiceover, with concise bullet points and a comprehensive voiceover explanation. The image prompt is specific and relevant, enhancing the overall message. The language is consistent and professional throughout. To make it even better, consider adding a brief mention of a specific budgeting app or tool in the voiceover to provide a practical starting point for the audience.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen infographic-style illustration showing a young Gen Z person managing their budget. On one side, show a clean, modern digital interface with colorful charts, expense tracking, and savings goals. On the other side, depict the same person looking confident and empowered, holding a smartphone with budget app open. Use a bright, minimalist design with clean lines and a color palette of blues, greens, and whites to represent financial clarity and youth. The image should convey financial control and smart money management in a visually engaging and contemporary style.",
+            "image_url": "https://v3.fal.media/files/kangaroo/rUf5IVQuLwE3sx_IVIOuB.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 88,
+            "feedback": "The image closely aligns with the provided prompt and meets most of the criteria for a presentation slide. It depicts a split-screen illustration showing a young person managing their budget using a digital interface with charts and graphs on one side, and the same person looking confident while holding a smartphone on the other. The design is clean and modern, using a color palette of blues and greens as requested. However, there are a few minor issues to note:\n\n1. The image contains text within the charts, which is against the critical issues criteria.\n2. The composition is slightly different from the prompt, as it doesn't show a full split-screen layout but rather two separate illustrations.\n3. The digital interface is not as prominent as described in the prompt.\n\nDespite these minor issues, the image effectively conveys the concept of financial control and smart money management in a visually engaging and contemporary style.",
+            "suggestions": "To improve the image for presentation use:\n1. Remove all text from the charts and graphs to comply with the no-text requirement.\n2. Adjust the layout to create a true split-screen effect as described in the prompt.\n3. Enlarge the digital interface on the left side to make it more prominent and detailed.\n4. Consider adding more white space or a white background to enhance the minimalist feel.\n5. Ensure that the person on the right is clearly interacting with a budget app on their smartphone.",
+            "current_prompt": "A split-screen infographic-style illustration showing a young Gen Z person managing their budget. On one side, show a clean, modern digital interface with colorful charts, expense tracking, and savings goals. On the other side, depict the same person looking confident and empowered, holding a smartphone with budget app open. Use a bright, minimalist design with clean lines and a color palette of blues, greens, and whites to represent financial clarity and youth. The image should convey financial control and smart money management in a visually engaging and contemporary style.",
+            "new_prompt": "A minimalist split-screen illustration depicting Gen Z financial management. Left side: A large, prominent digital interface with simple, colorful charts and graphs (no text). Use basic shapes for expense tracking and savings goals visualization. Right side: A confident young adult holding a smartphone, clearly interacting with a budget app (interface visible but without text). Background: Clean white to enhance minimalist feel. Color palette: Soft blues and greens for financial elements, light gray for interface outlines. Style: Flat design with clean lines and simple shapes. Lighting: Bright and even to convey clarity. Composition: Perfect 50/50 split between left and right sides. Quality: High-resolution, crisp edges. Overall mood: Modern, empowering, and focused on smart money management for young adults."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist split-screen illustration depicting Gen Z financial management. Left side: A large, prominent digital interface with simple, colorful charts and graphs (no text). Use basic shapes for expense tracking and savings goals visualization. Right side: A confident young adult holding a smartphone, clearly interacting with a budget app (interface visible but without text). Background: Clean white to enhance minimalist feel. Color palette: Soft blues and greens for financial elements, light gray for interface outlines. Style: Flat design with clean lines and simple shapes. Lighting: Bright and even to convey clarity. Composition: Perfect 50/50 split between left and right sides. Quality: High-resolution, crisp edges. Overall mood: Modern, empowering, and focused on smart money management for young adults.",
+            "image_url": "https://v3.fal.media/files/lion/IIw76ScCUIO-GSwKIZyJa.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 70,
+            "feedback": "The image captures the essence of Gen Z financial management, but it has some critical issues that prevent it from fully meeting the requirements. The main problems are the presence of text within the image and a slight deviation from the specified visual style. Here's a detailed breakdown:\n\n1. Critical Issues:\n   - Contains text within the image (e.g., 'Gen Z Budget', 'Expense', 'Savings')\n   - Visual style doesn't fully match the specified 'minimalist' and 'flat design' requirements\n\n2. Prompt Alignment (25/40):\n   - The split-screen layout is present\n   - Digital interface with charts and graphs is included\n   - Young adult with smartphone is depicted\n   - Color palette is close to the requested soft blues and greens\n   - However, the style is not strictly minimalist or flat as requested\n\n3. Visual Quality (25/30):\n   - Resolution and clarity are good\n   - Color balance and contrast are pleasing\n   - Lighting is even and clear\n   - Professional appearance overall\n\n4. Presentation Suitability (20/30):\n   - Fits the presentation context of Gen Z financial management\n   - Supports the slide message effectively\n   - Some elements are more detailed than necessary for a minimalist design\n   - Focus on key message is clear, but could be more simplified",
+            "suggestions": "To improve the image and align it more closely with the prompt:\n\n1. Remove all text from the image, including labels on charts and graphs\n2. Simplify the charts and graphs to use only basic shapes and minimal detail\n3. Use a cleaner, more minimalist style for both the interface and the person\n4. Ensure a perfect 50/50 split between the left and right sides of the image\n5. Use a pure white background to enhance the minimalist feel\n6. Adjust the color palette to use only soft blues and greens for financial elements, with light gray for interface outlines\n7. Simplify the young adult's appearance to match a flat design style\n8. Remove small details like the watch/bracelet on the person's wrist\n9. Make the smartphone interface visible but without any specific app details\n\nBy implementing these changes, the image would better align with the requested minimalist, flat design style while maintaining its core message about Gen Z financial management.",
+            "current_prompt": "A minimalist split-screen illustration depicting Gen Z financial management. Left side: A large, prominent digital interface with simple, colorful charts and graphs (no text). Use basic shapes for expense tracking and savings goals visualization. Right side: A confident young adult holding a smartphone, clearly interacting with a budget app (interface visible but without text). Background: Clean white to enhance minimalist feel. Color palette: Soft blues and greens for financial elements, light gray for interface outlines. Style: Flat design with clean lines and simple shapes. Lighting: Bright and even to convey clarity. Composition: Perfect 50/50 split between left and right sides. Quality: High-resolution, crisp edges. Overall mood: Modern, empowering, and focused on smart money management for young adults.",
+            "new_prompt": "A minimalist split-screen illustration for Gen Z financial management. Left side: Simple, abstract shapes representing financial elements - a large circle divided into colorful segments for expense categories, a rising bar chart with three bars for savings goals, all using only basic geometric forms. Right side: A stylized silhouette of a young adult, holding a rectangular shape representing a smartphone. The smartphone displays a minimalist interface with two or three abstract shapes suggesting a budget app. Background: Pure white. Color palette: Soft blue (#A0D2DB) and light green (#B5EAD7) for financial elements, light gray (#E0E0E0) for interface outlines and the person's silhouette. Style: Strictly flat design with clean lines and simple shapes, no gradients or shadows. Lighting: Even brightness across the entire image. Composition: Perfect 50/50 split between left and right sides, with centered elements in each half. Quality: High-resolution vector-style graphics with crisp edges. Overall mood: Modern, clean, and focused on simplicity in financial management for young adults. No text, labels, or detailed features anywhere in the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "A minimalist split-screen illustration for Gen Z financial management. Left side: Simple, abstract shapes representing financial elements - a large circle divided into colorful segments for expense categories, a rising bar chart with three bars for savings goals, all using only basic geometric forms. Right side: A stylized silhouette of a young adult, holding a rectangular shape representing a smartphone. The smartphone displays a minimalist interface with two or three abstract shapes suggesting a budget app. Background: Pure white. Color palette: Soft blue (#A0D2DB) and light green (#B5EAD7) for financial elements, light gray (#E0E0E0) for interface outlines and the person's silhouette. Style: Strictly flat design with clean lines and simple shapes, no gradients or shadows. Lighting: Even brightness across the entire image. Composition: Perfect 50/50 split between left and right sides, with centered elements in each half. Quality: High-resolution vector-style graphics with crisp edges. Overall mood: Modern, clean, and focused on simplicity in financial management for young adults. No text, labels, or detailed features anywhere in the image.",
+            "image_url": "https://v3.fal.media/files/koala/E5FEgRCL7IxrbmvLjvaFA.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image closely aligns with the prompt and meets most of the specified criteria. It features a minimalist split-screen design with financial elements on the left and a stylized silhouette on the right. The composition is clean, simple, and focused on Gen Z financial management. However, there are a few minor deviations from the prompt that impact the overall score:\n\n1. Color palette: The image uses different colors than specified. Instead of soft blue (#A0D2DB) and light green (#B5EAD7), it uses various pastel colors including pink, orange, and blue.\n2. Financial elements: The pie chart is present, but the rising bar chart for savings goals is missing.\n3. Smartphone interface: The smartphone shows colored dots instead of abstract shapes suggesting a budget app.\n4. Background: The background appears to be off-white or very light gray rather than pure white.\n\nDespite these minor issues, the image maintains high quality, appropriate simplicity, and clear focus on the key message of financial management for young adults.",
+            "suggestions": "To improve the image and fully align with the prompt:\n1. Adjust the color palette to use the specified soft blue (#A0D2DB) and light green (#B5EAD7) for financial elements.\n2. Add a rising bar chart with three bars next to the pie chart on the left side.\n3. Replace the colored dots on the smartphone screen with 2-3 abstract shapes suggesting a budget app interface.\n4. Ensure the background is pure white.\n5. Consider slightly enlarging the financial elements and smartphone to fill more of the space while maintaining the minimalist style.",
+            "current_prompt": "A minimalist split-screen illustration for Gen Z financial management. Left side: Simple, abstract shapes representing financial elements - a large circle divided into colorful segments for expense categories, a rising bar chart with three bars for savings goals, all using only basic geometric forms. Right side: A stylized silhouette of a young adult, holding a rectangular shape representing a smartphone. The smartphone displays a minimalist interface with two or three abstract shapes suggesting a budget app. Background: Pure white. Color palette: Soft blue (#A0D2DB) and light green (#B5EAD7) for financial elements, light gray (#E0E0E0) for interface outlines and the person's silhouette. Style: Strictly flat design with clean lines and simple shapes, no gradients or shadows. Lighting: Even brightness across the entire image. Composition: Perfect 50/50 split between left and right sides, with centered elements in each half. Quality: High-resolution vector-style graphics with crisp edges. Overall mood: Modern, clean, and focused on simplicity in financial management for young adults. No text, labels, or detailed features anywhere in the image.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Tasarruf ve Yat\u0131r\u0131m: Gelece\u011finize Yat\u0131r\u0131m Yap\u0131n</h2><ul><li>\u2713 Erken Ba\u015fla</li><li>\u2713 D\u00fczenli Biriktir</li><li>\u2713 Ak\u0131ll\u0131ca Yat\u0131r\u0131m Yap</li><li>\u2713 Finansal Gelece\u011fini G\u00fcvence Alt\u0131na Al</li></ul>",
+            "slide_voiceover_text": "Sevgili Z ku\u015fa\u011f\u0131, finansal gelece\u011finiz \u015fimdi sizin ellerinizde. Erken ya\u015fta tasarruf ve yat\u0131r\u0131m al\u0131\u015fkanl\u0131klar\u0131 edinmek, uzun vadeli finansal g\u00fcvenli\u011finizi sa\u011flaman\u0131n anahtar\u0131d\u0131r. K\u00fc\u00e7\u00fck ad\u0131mlarla ba\u015flay\u0131n, d\u00fczenli biriktirin ve ak\u0131ll\u0131ca yat\u0131r\u0131m yaparak gelece\u011finizi in\u015fa edin. Unutmay\u0131n, bug\u00fcn att\u0131\u011f\u0131n\u0131z her finansal ad\u0131m, yar\u0131nlar\u0131n\u0131z\u0131n temelini olu\u015fturuyor.",
+            "slide_image_prompt": "A split-screen visual showing a young Generation Z person in modern attire, on one side planting a small money tree with coins as leaves, and on the other side looking confidently towards a bright, prosperous future landscape. Use a clean, minimalist design with vibrant, hopeful colors like soft blues and greens. Incorporate subtle financial growth infographics in the background. Artistic style should be modern and inspirational, representing financial empowerment and strategic planning for young adults."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and fully aligned with the presentation's objectives. The onscreen text, voiceover, and image prompt work together seamlessly to deliver a clear and impactful message about the importance of saving and investing for Generation Z. The content is coherent, well-structured, and engaging. The onscreen text provides concise bullet points that are expanded upon in the voiceover, while the image prompt perfectly complements the message with a visually appealing and relevant illustration. The language is consistent, professional, and tailored to the target audience. No improvements are necessary as the content meets all criteria at the highest level.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen visual showing a young Generation Z person in modern attire, on one side planting a small money tree with coins as leaves, and on the other side looking confidently towards a bright, prosperous future landscape. Use a clean, minimalist design with vibrant, hopeful colors like soft blues and greens. Incorporate subtle financial growth infographics in the background. Artistic style should be modern and inspirational, representing financial empowerment and strategic planning for young adults.",
+            "image_url": "https://v3.fal.media/files/kangaroo/GSEWMvLZ3-Mwc9DOv0eO1.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image partially aligns with the prompt but has some significant deviations. It successfully portrays a split-screen visual with a young person on one side and a bright, prosperous landscape on the other. The color scheme uses soft blues and greens as requested. However, there are several issues:\n\n1. The money tree concept is not accurately represented. Instead of a small tree with coin leaves, the image shows a regular plant seedling.\n2. The person is not clearly planting the seedling, just holding it.\n3. There are no financial growth infographics in the background.\n4. The artistic style, while modern, lacks the requested minimalist design and subtle infographics.\n5. The composition is somewhat complex with the detailed landscape, which may distract from the main message.\n\nDespite these issues, the image maintains good visual quality and resolution. It effectively conveys the concept of youth and future prosperity, which aligns with the overall theme of financial empowerment for young adults.",
+            "suggestions": "To improve the image:\n1. Replace the regular plant seedling with a small stylized money tree with coin leaves.\n2. Show the person actively planting the money tree instead of just holding it.\n3. Add subtle financial growth infographics in the background, such as ascending graph lines or percentage indicators.\n4. Simplify the landscape side to create a more minimalist design that focuses on the bright, prosperous future concept.\n5. Ensure the person's attire is more distinctly modern to represent Generation Z.\n6. Consider adding a soft gradient overlay to unify the split-screen and enhance the hopeful atmosphere.",
+            "current_prompt": "A split-screen visual showing a young Generation Z person in modern attire, on one side planting a small money tree with coins as leaves, and on the other side looking confidently towards a bright, prosperous future landscape. Use a clean, minimalist design with vibrant, hopeful colors like soft blues and greens. Incorporate subtle financial growth infographics in the background. Artistic style should be modern and inspirational, representing financial empowerment and strategic planning for young adults.",
+            "new_prompt": "Split-screen visual: left side shows a young Generation Z person in trendy, modern attire (e.g., cropped top, high-waisted jeans) kneeling to plant a small, stylized money tree. The tree has a thin trunk with 3-5 branches, each holding golden coin leaves. Right side displays a simplified, bright landscape with a sunrise/sunset gradient (soft blues to warm oranges) symbolizing a prosperous future. Incorporate subtle, minimalist financial growth infographics in the background: thin ascending lines and small percentage indicators (+5%, +10%, etc.) in muted colors. Use a clean, flat design style with vibrant yet soft color palette dominated by blues and greens. Apply a gentle gradient overlay across both sides to unify the composition. Ensure high image quality and resolution, suitable for presentation use. The overall mood should be hopeful and inspirational, focusing on financial empowerment and strategic planning for young adults."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_2",
+         "data": {
+            "image_prompt": "Split-screen visual: left side shows a young Generation Z person in trendy, modern attire (e.g., cropped top, high-waisted jeans) kneeling to plant a small, stylized money tree. The tree has a thin trunk with 3-5 branches, each holding golden coin leaves. Right side displays a simplified, bright landscape with a sunrise/sunset gradient (soft blues to warm oranges) symbolizing a prosperous future. Incorporate subtle, minimalist financial growth infographics in the background: thin ascending lines and small percentage indicators (+5%, +10%, etc.) in muted colors. Use a clean, flat design style with vibrant yet soft color palette dominated by blues and greens. Apply a gentle gradient overlay across both sides to unify the composition. Ensure high image quality and resolution, suitable for presentation use. The overall mood should be hopeful and inspirational, focusing on financial empowerment and strategic planning for young adults.",
+            "image_url": "https://v3.fal.media/files/kangaroo/UW5RhCBfE93GIdDs5asju.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image aligns well with the prompt in many aspects, but there are some deviations and missing elements. The split-screen composition is present, with a young person on the left and a landscape on the right. The person is depicted in modern attire (cropped top and jeans) and is kneeling near a small plant, which represents the money tree concept. The right side shows a simplified landscape with a sun, suggesting a bright future. However, there are some issues to address:\n\n1. The money tree is not fully developed as described. It lacks the golden coin leaves and multiple branches.\n2. The landscape lacks the specific sunrise/sunset gradient mentioned in the prompt.\n3. The financial growth infographics are minimal, showing only two percentage indicators (10% and 30%) without the ascending lines.\n4. The color palette, while using blues and yellows, doesn't fully incorporate the greens mentioned in the prompt.\n5. There's no visible gradient overlay unifying both sides of the composition.\n\nDespite these issues, the image maintains a clean, flat design style and conveys a hopeful and inspirational mood focused on financial growth for young adults.",
+            "suggestions": "To improve the image:\n\n1. Develop the money tree further by adding golden coin leaves and more branches.\n2. Adjust the right-side landscape to include a more pronounced sunrise/sunset gradient with soft blues transitioning to warm oranges.\n3. Add more subtle financial growth infographics, including thin ascending lines and additional percentage indicators.\n4. Incorporate more green tones into the color palette, especially in the landscape portion.\n5. Apply a gentle gradient overlay across both sides to unify the composition.\n6. Consider adjusting the person's pose to more clearly show the act of planting or tending to the money tree.",
+            "current_prompt": "Split-screen visual: left side shows a young Generation Z person in trendy, modern attire (e.g., cropped top, high-waisted jeans) kneeling to plant a small, stylized money tree. The tree has a thin trunk with 3-5 branches, each holding golden coin leaves. Right side displays a simplified, bright landscape with a sunrise/sunset gradient (soft blues to warm oranges) symbolizing a prosperous future. Incorporate subtle, minimalist financial growth infographics in the background: thin ascending lines and small percentage indicators (+5%, +10%, etc.) in muted colors. Use a clean, flat design style with vibrant yet soft color palette dominated by blues and greens. Apply a gentle gradient overlay across both sides to unify the composition. Ensure high image quality and resolution, suitable for presentation use. The overall mood should be hopeful and inspirational, focusing on financial empowerment and strategic planning for young adults.",
+            "new_prompt": "Split-screen visual in flat design style with vibrant yet soft color palette. Left side: Young adult in trendy outfit (crop top, high-waisted jeans) carefully planting a stylized money tree. Tree has thin trunk, 5 branches, each with 3-4 golden coin leaves. Right side: Minimalist landscape with pronounced sunrise gradient (soft blues to warm oranges). Both sides: Subtle financial growth elements - thin ascending lines, small percentage indicators (+5%, +10%, +15%) in muted colors. Unified by gentle blue-green gradient overlay. High-quality, high-resolution image suitable for presentations. Overall mood: hopeful, inspirational, focusing on financial growth for young adults."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_3",
+         "data": {
+            "image_prompt": "Split-screen visual in flat design style with vibrant yet soft color palette. Left side: Young adult in trendy outfit (crop top, high-waisted jeans) carefully planting a stylized money tree. Tree has thin trunk, 5 branches, each with 3-4 golden coin leaves. Right side: Minimalist landscape with pronounced sunrise gradient (soft blues to warm oranges). Both sides: Subtle financial growth elements - thin ascending lines, small percentage indicators (+5%, +10%, +15%) in muted colors. Unified by gentle blue-green gradient overlay. High-quality, high-resolution image suitable for presentations. Overall mood: hopeful, inspirational, focusing on financial growth for young adults.",
+            "image_url": "https://v3.fal.media/files/panda/OhWA4ofYxzJiJeJlSOA7K.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image closely aligns with the provided prompt and meets most of the requirements for a presentation slide. It features a split-screen design with a young adult and a money tree on the left, and a minimalist landscape with a sunrise on the right. The flat design style and color palette are appropriate. However, there are a few minor discrepancies: The young adult's outfit doesn't exactly match the description (crop top, high-waisted jeans). She's wearing a white t-shirt instead of a crop top. The money tree has more than 5 branches and the leaves are not exactly coin-shaped. The right side lacks the subtle financial growth elements like thin ascending lines. The blue-green gradient overlay is not prominent. Despite these minor issues, the image maintains high quality, good resolution, and a professional appearance suitable for presentations. It effectively conveys the concept of financial growth for young adults with a hopeful and inspirational mood.",
+            "suggestions": "To improve the image and align it more closely with the original prompt: 1. Adjust the young adult's outfit to include a crop top instead of a t-shirt. 2. Refine the money tree to have exactly 5 branches with 3-4 golden coin-shaped leaves on each. 3. Add subtle financial growth elements to the right side, such as thin ascending lines and small percentage indicators. 4. Apply a gentle blue-green gradient overlay to unify both sides of the image. 5. Consider adding a few more percentage indicators (+5%, +10%, +15%) in muted colors across both sides of the image.",
+            "current_prompt": "Split-screen visual in flat design style with vibrant yet soft color palette. Left side: Young adult in trendy outfit (crop top, high-waisted jeans) carefully planting a stylized money tree. Tree has thin trunk, 5 branches, each with 3-4 golden coin leaves. Right side: Minimalist landscape with pronounced sunrise gradient (soft blues to warm oranges). Both sides: Subtle financial growth elements - thin ascending lines, small percentage indicators (+5%, +10%, +15%) in muted colors. Unified by gentle blue-green gradient overlay. High-quality, high-resolution image suitable for presentations. Overall mood: hopeful, inspirational, focusing on financial growth for young adults.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Dijital Finans: Teknolojinin G\u00fcc\u00fcn\u00fc Kullan\u0131n</h2><ul><li>Fintech Uygulamalar\u0131 ile Finansal \u00d6zg\u00fcrl\u00fck</li><li>Ak\u0131ll\u0131 Yat\u0131r\u0131m Stratejileri</li><li>Anl\u0131k Finansal Kontrol</li></ul>",
+            "slide_voiceover_text": "Z ku\u015fa\u011f\u0131 olarak, teknolojinin sundu\u011fu dijital finans ara\u00e7lar\u0131 size finansal y\u00f6netimde devrim yaratma f\u0131rsat\u0131 sunuyor. Fintech uygulamalar\u0131 ve dijital bankac\u0131l\u0131k platformlar\u0131 sayesinde, par\u0131n\u0131z\u0131 daha ak\u0131ll\u0131ca y\u00f6netebilir, yat\u0131r\u0131mlar\u0131n\u0131z\u0131 h\u0131zl\u0131ca takip edebilir ve mali kararlar\u0131n\u0131z\u0131 an\u0131nda alabilirsiniz. Cep telefonunuzdan t\u00fcm finansal i\u015flemlerinizi kontrol etmek art\u0131k \u00e7ok kolay!",
+            "slide_image_prompt": "A dynamic, modern illustration showing a young Gen Z person holding a smartphone with holographic financial graphs, digital banking icons, and fintech app interfaces floating around them. Use a vibrant color palette of blues, purples, and teals. The background should suggest a tech-forward, innovative environment with subtle digital network lines. Style should be clean, minimalist, and futuristic, representing the intersection of technology and personal finance."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide focus on digital finance and fintech applications for Gen Z. The content is well-structured, informative, and engaging. The onscreen text provides clear bullet points that are expanded upon in the voiceover. The image prompt complements the content by visualizing the concept of digital finance for young adults. To further enhance the slide, consider adding a specific example of a popular fintech app or a brief statistic on digital banking adoption among Gen Z.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A dynamic, modern illustration showing a young Gen Z person holding a smartphone with holographic financial graphs, digital banking icons, and fintech app interfaces floating around them. Use a vibrant color palette of blues, purples, and teals. The background should suggest a tech-forward, innovative environment with subtle digital network lines. Style should be clean, minimalist, and futuristic, representing the intersection of technology and personal finance.",
+            "image_url": "https://v3.fal.media/files/elephant/kQusl866FAmhsOLmbzYE-.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image aligns well with the provided prompt and meets most of the criteria for a presentation slide. It depicts a young Gen Z person holding a smartphone with various financial and tech-related icons floating around, using a vibrant color palette of blues and purples. The style is modern, clean, and minimalist, effectively representing the intersection of technology and personal finance. The background suggests a tech-forward environment with subtle digital network lines. However, there are a few minor discrepancies with the original prompt: the holographic aspect is not prominent, and the teal color is not strongly present. The composition is appropriate and not overly complex, focusing on the key elements described in the prompt.",
+            "suggestions": "To improve the image further, consider the following adjustments:\n1. Enhance the holographic effect of the floating graphs and icons to better match the prompt.\n2. Incorporate more teal color into the palette to fully align with the requested color scheme.\n3. Add a few more fintech app interfaces to strengthen the connection to digital banking.\n4. Slightly reduce the size of the character to allow more space for the floating elements, enhancing the futuristic feel.",
+            "current_prompt": "A dynamic, modern illustration showing a young Gen Z person holding a smartphone with holographic financial graphs, digital banking icons, and fintech app interfaces floating around them. Use a vibrant color palette of blues, purples, and teals. The background should suggest a tech-forward, innovative environment with subtle digital network lines. Style should be clean, minimalist, and futuristic, representing the intersection of technology and personal finance.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Finansal Ba\u011f\u0131ms\u0131zl\u0131k: Gelece\u011finizi Siz Belirleyin</h2><ul><li>Ekonomik \u00d6zg\u00fcrl\u00fc\u011f\u00fcn Anahtar\u0131: Finansal Okuryazarl\u0131k</li><li>Bilin\u00e7li Kararlar = Kontrol Sahibi Olmak</li><li>Ya\u015fam Tarz\u0131 Se\u00e7eneklerini Geni\u015fletme</li></ul>",
+            "slide_voiceover_text": "Z ku\u015fa\u011f\u0131 olarak, finansal okuryazarl\u0131k size sadece para y\u00f6netimi de\u011fil, ger\u00e7ek anlamda ya\u015fam kontrol\u00fc sa\u011fl\u0131yor. Her bilin\u00e7li finansal karar, ba\u011f\u0131ms\u0131zl\u0131\u011f\u0131n\u0131z\u0131 ve \u00f6zg\u00fcrl\u00fck alan\u0131n\u0131z\u0131 geni\u015fletiyor. Kendi kurallar\u0131n\u0131z\u0131 belirleyen, gelece\u011fini \u015fekillendiren bir nesil olmak sizin elinizde.",
+            "slide_image_prompt": "A modern, empowering illustration showing a young Generation Z person standing confidently at a crossroads, with multiple paths representing financial opportunities. The paths are made of stylized financial symbols like coins, graphs, and digital currency icons. The background is a gradient of motivational blues and greens, symbolizing growth and potential. The character is dressed in contemporary, smart casual attire, holding a smartphone and looking forward with determination. Use a clean, minimalist graphic design style with sharp lines and a hopeful, inspiring color palette."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-aligned and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could more explicitly mention the bullet points on screen.\n- The message is clear, but could be strengthened by providing a specific example of how financial literacy leads to independence.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The voiceover complements the onscreen text but could be more comprehensive in covering all points.\n- The image prompt is relevant and enhances the message effectively.\n\n3. Technical Quality (27/30):\n- The HTML markup is correctly used, but consider adding more semantic elements like <nav> or <section>.\n- The image prompt is clear and specific, but could benefit from mentioning the character's facial expression to convey determination better.\n- Language consistency is maintained well.\n- The tone is professional and motivational.\n\nTo improve:\n- Expand the voiceover to explicitly mention each bullet point on screen.\n- Add a brief, concrete example in the voiceover of how financial literacy leads to independence.\n- Enhance the HTML structure with more semantic elements.\n- Specify the character's facial expression in the image prompt.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<section><h2>Finansal Ba\u011f\u0131ms\u0131zl\u0131k: Gelece\u011finizi Siz Belirleyin</h2><nav><ul><li>Ekonomik \u00d6zg\u00fcrl\u00fc\u011f\u00fcn Anahtar\u0131: Finansal Okuryazarl\u0131k</li><li>Bilin\u00e7li Kararlar = Kontrol Sahibi Olmak</li><li>Ya\u015fam Tarz\u0131 Se\u00e7eneklerini Geni\u015fletme</li></ul></nav></section>",
+            "slide_voiceover_text": "Z ku\u015fa\u011f\u0131 olarak, finansal okuryazarl\u0131k size sadece para y\u00f6netimi de\u011fil, ger\u00e7ek anlamda ya\u015fam kontrol\u00fc sa\u011fl\u0131yor. Ekonomik \u00f6zg\u00fcrl\u00fc\u011f\u00fcn anahtar\u0131 olan finansal okuryazarl\u0131k, bilin\u00e7li kararlar alman\u0131z\u0131 sa\u011flar. \u00d6rne\u011fin, ak\u0131ll\u0131 yat\u0131r\u0131mlar yaparak veya bir i\u015fletme kurarak erken ya\u015fta finansal ba\u011f\u0131ms\u0131zl\u0131\u011fa ad\u0131m atabilirsiniz. Her bilin\u00e7li finansal karar, kontrol\u00fcn\u00fcz\u00fc art\u0131r\u0131r ve ya\u015fam tarz\u0131 se\u00e7eneklerinizi geni\u015fletir. Belki d\u00fcnya seyahati yapmak, kendi i\u015finizi kurmak veya erken emekli olmak istiyorsunuz - finansal okuryazarl\u0131k bu hedeflere ula\u015fman\u0131z\u0131 sa\u011flar. Kendi kurallar\u0131n\u0131z\u0131 belirleyen, gelece\u011fini \u015fekillendiren bir nesil olmak sizin elinizde.",
+            "slide_image_prompt": "A modern, empowering illustration showing a young Generation Z person standing confidently at a crossroads, with multiple paths representing financial opportunities. The paths are made of stylized financial symbols like coins, graphs, and digital currency icons. The background is a gradient of motivational blues and greens, symbolizing growth and potential. The character is dressed in contemporary, smart casual attire, holding a smartphone and looking forward with a determined and optimistic facial expression. Their posture and gaze convey a sense of purpose and readiness to take on financial challenges. Use a clean, minimalist graphic design style with sharp lines and a hopeful, inspiring color palette."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about financial literacy for Generation Z. The content is engaging, informative, and tailored to the target audience. The HTML markup is correct, and the language is consistent and professional. The image prompt is detailed and relevant, enhancing the overall message. To make it perfect, consider adding a brief mention of potential challenges or risks in financial decision-making to provide a balanced view.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A modern, empowering illustration showing a young Generation Z person standing confidently at a crossroads, with multiple paths representing financial opportunities. The paths are made of stylized financial symbols like coins, graphs, and digital currency icons. The background is a gradient of motivational blues and greens, symbolizing growth and potential. The character is dressed in contemporary, smart casual attire, holding a smartphone and looking forward with a determined and optimistic facial expression. Their posture and gaze convey a sense of purpose and readiness to take on financial challenges. Use a clean, minimalist graphic design style with sharp lines and a hopeful, inspiring color palette.",
+            "image_url": "https://v3.fal.media/files/zebra/18oBFxocyvIKbqeKzb0uP.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 65,
+            "feedback": "The image does not fully meet the requirements for a presentation slide due to several issues. While it captures some elements of the prompt, there are critical problems that make it unsuitable:\n\n1. The image contains text ('Generatio New:Z!'), which is against the criteria.\n2. The composition is more complex than desired for a presentation slide.\n3. The stylized financial symbols are present but not as paths as specified in the prompt.\n4. The background is a solid blue rather than the requested gradient of blues and greens.\n5. The character's posture doesn't fully convey the sense of standing at a crossroads with multiple paths.\n6. The visual style is more cartoonish than the requested clean, minimalist graphic design style.\n\nOn the positive side, the image does depict a young person holding a smartphone, and includes some financial symbols. The color scheme is partially aligned with the prompt, using blue tones.",
+            "suggestions": "To improve the image for presentation use:\n1. Remove all text from the image.\n2. Simplify the composition by focusing on the central figure and key financial symbols.\n3. Create actual paths made of financial symbols leading away from the character.\n4. Use a gradient background of blues and greens as specified.\n5. Adjust the character's posture to better represent standing at a crossroads.\n6. Adopt a cleaner, more minimalist graphic style with sharper lines.\n7. Ensure the character's expression is more determined and optimistic.\n8. Include more diverse financial symbols, including digital currency icons.\n9. Refine the character's attire to be more smart casual.",
+            "current_prompt": "A modern, empowering illustration showing a young Generation Z person standing confidently at a crossroads, with multiple paths representing financial opportunities. The paths are made of stylized financial symbols like coins, graphs, and digital currency icons. The background is a gradient of motivational blues and greens, symbolizing growth and potential. The character is dressed in contemporary, smart casual attire, holding a smartphone and looking forward with a determined and optimistic facial expression. Their posture and gaze convey a sense of purpose and readiness to take on financial challenges. Use a clean, minimalist graphic design style with sharp lines and a hopeful, inspiring color palette.",
+            "new_prompt": "Minimalist illustration of a young Gen Z individual standing at a stylized crossroads. The figure is in smart casual attire, holding a smartphone, with a determined facial expression. Three distinct paths extend from the crossroads, each composed of different financial symbols: one of coins, one of line graphs, and one of digital currency icons. The background features a smooth gradient from calming blue to energetic green. The entire image uses clean, sharp lines and a flat design style. The composition is centered, with the figure slightly to the left and the paths extending to the right. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is modern, minimalist, and suitable for a presentation slide."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "Minimalist illustration of a young Gen Z individual standing at a stylized crossroads. The figure is in smart casual attire, holding a smartphone, with a determined facial expression. Three distinct paths extend from the crossroads, each composed of different financial symbols: one of coins, one of line graphs, and one of digital currency icons. The background features a smooth gradient from calming blue to energetic green. The entire image uses clean, sharp lines and a flat design style. The composition is centered, with the figure slightly to the left and the paths extending to the right. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is modern, minimalist, and suitable for a presentation slide.",
+            "image_url": "https://v3.fal.media/files/koala/HA0jbnUeSyI7I97gzsu5n.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image aligns well with the prompt and meets most of the criteria for a presentation slide. It depicts a young individual in smart casual attire holding a smartphone, standing at a stylized crossroads with financial symbols. The background features a gradient from blue to green, and the overall style is minimalist and modern. However, there are some discrepancies with the original prompt and areas for improvement.",
+            "suggestions": "To better match the prompt, consider the following improvements:\n1. Include three distinct paths instead of two, each with different financial symbols (coins, line graphs, and digital currency icons).\n2. Adjust the composition to have the figure slightly to the left with paths extending to the right.\n3. Enhance the determined facial expression of the individual.\n4. Use sharper, cleaner lines for a more pronounced flat design style.\n5. Consider adding a subtle crossroads element to emphasize the concept of choice.",
+            "current_prompt": "Minimalist illustration of a young Gen Z individual standing at a stylized crossroads. The figure is in smart casual attire, holding a smartphone, with a determined facial expression. Three distinct paths extend from the crossroads, each composed of different financial symbols: one of coins, one of line graphs, and one of digital currency icons. The background features a smooth gradient from calming blue to energetic green. The entire image uses clean, sharp lines and a flat design style. The composition is centered, with the figure slightly to the left and the paths extending to the right. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is modern, minimalist, and suitable for a presentation slide.",
+            "new_prompt": "Minimalist illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist line graphs, and the third of basic digital currency symbols. A subtle, geometric crossroads element underlies the paths. The background features a smooth gradient from calming blue (top left) to energetic green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. Use a limited color palette of no more than 5 colors. Ensure high contrast and readability from a distance."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_3",
+         "data": {
+            "image_prompt": "Minimalist illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist line graphs, and the third of basic digital currency symbols. A subtle, geometric crossroads element underlies the paths. The background features a smooth gradient from calming blue (top left) to energetic green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. Use a limited color palette of no more than 5 colors. Ensure high contrast and readability from a distance.",
+            "image_url": "https://v3.fal.media/files/panda/utP8CY3LD7NQwIz-9__4H.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_3",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image partially aligns with the prompt but has some significant deviations. It depicts a young individual standing on a road, holding a smartphone, which matches part of the description. However, there are several key elements missing or different from the prompt:\n\n1. The image shows a single curved road instead of the specified three distinct paths (coins, graphs, digital currency).\n2. The crossroads element is missing.\n3. The background is a simple gradient from light blue to green, but lacks the specified energetic green at the bottom right.\n4. The figure is positioned more centrally than slightly left of center.\n5. The image style is more cartoon-like than the requested ultra-modern, minimalist vector style.\n6. The limited color palette is adhered to, but the contrast could be improved for better readability from a distance.\n\nWhile the image is of good quality and suitable for a presentation slide, it doesn't fully capture the concept described in the prompt, particularly missing the key elements of financial choices represented by the three paths.",
+            "suggestions": "To improve the image:\n1. Add the three distinct paths as described: coins, graphs, and digital currency symbols.\n2. Include a subtle geometric crossroads element.\n3. Adjust the figure's position slightly to the left.\n4. Enhance the background gradient to be more energetic at the bottom right.\n5. Refine the art style to be more minimalist and vector-based.\n6. Increase contrast for better readability.\n7. Ensure the facial expression is clearly determined and focused.\n8. Consider adding simplified elements to represent the financial choices more clearly.",
+            "current_prompt": "Minimalist illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist line graphs, and the third of basic digital currency symbols. A subtle, geometric crossroads element underlies the paths. The background features a smooth gradient from calming blue (top left) to energetic green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. Use a limited color palette of no more than 5 colors. Ensure high contrast and readability from a distance.",
+            "new_prompt": "Minimalist vector illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third of basic digital currency symbols (e.g., Bitcoin logo). A subtle, geometric crossroads element underlies the paths, using thin lines. The background features a smooth gradient from calming light blue (top left) to vibrant lime green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading or texture. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. Use a limited color palette of 5 colors: light blue, lime green, dark blue, white, and a muted orange for contrast. Ensure high contrast between elements and the background for readability from a distance. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. All elements should be simplified and iconic, avoiding any complex details."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_4",
+         "data": {
+            "image_prompt": "Minimalist vector illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third of basic digital currency symbols (e.g., Bitcoin logo). A subtle, geometric crossroads element underlies the paths, using thin lines. The background features a smooth gradient from calming light blue (top left) to vibrant lime green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading or texture. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. Use a limited color palette of 5 colors: light blue, lime green, dark blue, white, and a muted orange for contrast. Ensure high contrast between elements and the background for readability from a distance. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. All elements should be simplified and iconic, avoiding any complex details.",
+            "image_url": "https://v3.fal.media/files/tiger/SJQFh2P2rJFfbKkuSJK-5.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_4",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image partially aligns with the prompt but has some significant deviations. It successfully depicts a young Gen Z individual holding a smartphone in a minimalist style. The background uses a gradient from light blue to lime green as specified. However, the image lacks several key elements described in the prompt: there's no clear crossroads, the three distinct paths (coins, graphs, digital currency symbols) are not fully represented, and the composition doesn't match the described layout. The figure is centered rather than slightly left, and the paths don't occupy the right two-thirds of the image. The color palette is close to the specified one, but not exact. The overall style is modern and suitable for a presentation slide, but it misses some critical elements that would fully convey the intended message about financial choices.",
+            "suggestions": "To improve the image, consider the following:\n1. Add a subtle geometric crossroads element.\n2. Include all three specified paths: coins, upward-trending graphs, and digital currency symbols.\n3. Adjust the composition to place the figure slightly left of center and extend the paths to fill the right two-thirds of the image.\n4. Simplify the human figure to be more vector-like and less detailed.\n5. Ensure the exact color palette is used: light blue, lime green, dark blue, white, and muted orange.\n6. Increase the contrast between elements for better readability from a distance.\n7. Add a subtle Bitcoin logo or other digital currency symbol to represent that path option.",
+            "current_prompt": "Minimalist vector illustration of a young Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing smart casual attire and holding a smartphone. Their facial expression is determined and focused. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third of basic digital currency symbols (e.g., Bitcoin logo). A subtle, geometric crossroads element underlies the paths, using thin lines. The background features a smooth gradient from calming light blue (top left) to vibrant lime green (bottom right). The entire image uses clean, sharp vector lines in a flat design style with no shading or texture. Composition is balanced, with the figure occupying the left third and paths filling the right two-thirds. Lighting is bright and even, creating a hopeful and inspiring mood. Use a limited color palette of 5 colors: light blue, lime green, dark blue, white, and a muted orange for contrast. Ensure high contrast between elements and the background for readability from a distance. The overall style is ultra-modern, minimalist, and highly suitable for a presentation slide. All elements should be simplified and iconic, avoiding any complex details.",
+            "new_prompt": "Minimalist vector illustration of a Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing simple smart casual attire and holding a smartphone. Their facial expression is determined. A subtle geometric crossroads element of thin lines underlies the scene. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third featuring a basic Bitcoin logo. The background has a smooth gradient from light blue (top left) to lime green (bottom right). Use clean, sharp vector lines in a flat design style without shading or texture. Composition: figure occupies left third, paths fill right two-thirds. Lighting is bright and even, creating a hopeful mood. Color palette: light blue, lime green, dark blue, white, and muted orange for contrast. Ensure high contrast between elements and background for readability. Ultra-modern, minimalist style suitable for a presentation slide. All elements simplified and iconic, avoiding complex details."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_5",
+         "data": {
+            "image_prompt": "Minimalist vector illustration of a Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing simple smart casual attire and holding a smartphone. Their facial expression is determined. A subtle geometric crossroads element of thin lines underlies the scene. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third featuring a basic Bitcoin logo. The background has a smooth gradient from light blue (top left) to lime green (bottom right). Use clean, sharp vector lines in a flat design style without shading or texture. Composition: figure occupies left third, paths fill right two-thirds. Lighting is bright and even, creating a hopeful mood. Color palette: light blue, lime green, dark blue, white, and muted orange for contrast. Ensure high contrast between elements and background for readability. Ultra-modern, minimalist style suitable for a presentation slide. All elements simplified and iconic, avoiding complex details.",
+            "image_url": "https://v3.fal.media/files/lion/GyzYA-q3Tnbl4eWe7bpwU.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_5",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image partially aligns with the prompt but has notable discrepancies. It successfully depicts a Gen Z individual in smart casual attire holding a smartphone, with a minimalist style suitable for a presentation slide. The background is light blue, which partially matches the requested gradient. However, there are several deviations from the prompt: the figure is centrally positioned rather than slightly left of center, the crossroads element is missing, and only one path (leading to a Bitcoin logo) is shown instead of the requested three paths. The image maintains simplicity and clarity, which is appropriate for a presentation context.",
+            "suggestions": "To improve the image's alignment with the prompt: 1) Adjust the figure's position slightly to the left. 2) Add a subtle geometric crossroads element with thin lines. 3) Include two additional paths: one with simplified coin icons and another with minimalist upward-trending line graphs. 4) Implement the requested gradient from light blue to lime green in the background. 5) Consider adding a hint of muted orange for contrast, as specified in the prompt.",
+            "current_prompt": "Minimalist vector illustration of a Gen Z individual at a stylized crossroads. The figure stands slightly left of center, wearing simple smart casual attire and holding a smartphone. Their facial expression is determined. A subtle geometric crossroads element of thin lines underlies the scene. Three distinct paths extend from the crossroads to the right: one made of simplified coin icons, another of minimalist upward-trending line graphs, and the third featuring a basic Bitcoin logo. The background has a smooth gradient from light blue (top left) to lime green (bottom right). Use clean, sharp vector lines in a flat design style without shading or texture. Composition: figure occupies left third, paths fill right two-thirds. Lighting is bright and even, creating a hopeful mood. Color palette: light blue, lime green, dark blue, white, and muted orange for contrast. Ensure high contrast between elements and background for readability. Ultra-modern, minimalist style suitable for a presentation slide. All elements simplified and iconic, avoiding complex details.",
+            "new_prompt": "Minimalist vector illustration for a presentation slide. A Gen Z individual stands slightly left of center, wearing simple smart casual attire and holding a smartphone. Their expression is determined. A subtle geometric crossroads of thin lines underlies the scene. Three distinct paths extend from the crossroads to the right: one with simplified coin icons, another with minimalist upward-trending line graphs, and a third with a basic Bitcoin logo. Background: smooth gradient from light blue (top left) to lime green (bottom right). Style: clean, sharp vector lines in flat design without shading or texture. Composition: figure occupies left third, paths fill right two-thirds. Lighting: bright and even, creating a hopeful mood. Color palette: light blue, lime green, dark blue, white, with touches of muted orange for contrast. Ensure high contrast between elements and background. Ultra-modern, minimalist style with all elements simplified and iconic. Avoid complex details, text, or recognizable individuals. Quality: high-resolution, crisp lines suitable for presentation display."
+         }
+      }
+   ]
+}

@@ -1,0 +1,958 @@
+{
+   "timestamp": "20250226103812",
+   "process_steps": [
+      {
+         "step": "topic_selection",
+         "data": {
+            "topic": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+            "slide_count": 9
+         },
+         "timestamp": "20250226110721"
+      },
+      {
+         "step": "outline_generation_start",
+         "data": {
+            "topic": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+            "slide_count": 9
+         },
+         "timestamp": "20250226110721"
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+            "slide_outlines": [
+               {
+                  "slide_title": "Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi",
+                  "slide_focus": "Yapay zeka teknolojileri, yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerini k\u00f6kten de\u011fi\u015ftirerek verimlili\u011fi art\u0131r\u0131yor ve yeni olanaklar sunuyor.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "\u0130pucu 1: Kod Tamamlama Ara\u00e7lar\u0131n\u0131 Etkin Kullan\u0131n",
+                  "slide_focus": "GitHub Copilot ve TabNine gibi yapay zeka destekli kod tamamlama ara\u00e7lar\u0131, kodlama h\u0131z\u0131n\u0131z\u0131 art\u0131r\u0131rken hata oran\u0131n\u0131 d\u00fc\u015f\u00fcr\u00fcr.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "\u0130pucu 2: Kod \u0130nceleme S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                  "slide_focus": "Yapay zeka destekli kod inceleme ara\u00e7lar\u0131, g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 ve performans sorunlar\u0131n\u0131 insan g\u00f6z\u00fcnden ka\u00e7abilecek detaylarda bile tespit edebilir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Siz de Deneyimlerinizi Payla\u015f\u0131n",
+                  "slide_focus": "Yapay zeka ara\u00e7lar\u0131yla yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerinizde ya\u015fad\u0131\u011f\u0131n\u0131z zorluklar ve ba\u015far\u0131lar nelerdir?",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "\u0130pucu 3: Test Otomasyonunu G\u00fc\u00e7lendirin",
+                  "slide_focus": "Yapay zeka destekli test ara\u00e7lar\u0131, test senaryolar\u0131n\u0131 otomatik olu\u015fturarak kapsaml\u0131 testleri h\u0131zla ger\u00e7ekle\u015ftirir ve kod kalitesini art\u0131r\u0131r.",
+                  "slide_number": 5
+               },
+               {
+                  "slide_title": "\u0130pucu 4: Do\u011fal Dil \u0130\u015fleme ile Dok\u00fcmantasyon Olu\u015fturun",
+                  "slide_focus": "Yapay zeka teknolojileri, kodunuzu analiz ederek otomatik dok\u00fcmantasyon olu\u015fturabilir ve dok\u00fcmantasyon s\u00fcre\u00e7lerini h\u0131zland\u0131rabilir.",
+                  "slide_number": 6
+               },
+               {
+                  "slide_title": "\u0130pucu 5: \u00d6\u011frenme S\u00fcrecinizi H\u0131zland\u0131r\u0131n",
+                  "slide_focus": "Yapay zeka destekli e\u011fitim platformlar\u0131, ki\u015fiselle\u015ftirilmi\u015f \u00f6\u011frenme deneyimleri sunarak yeni teknolojileri daha h\u0131zl\u0131 \u00f6\u011frenmenizi sa\u011flar.",
+                  "slide_number": 7
+               },
+               {
+                  "slide_title": "\u0130pucu 6 ve 7: Veri Analizi ve Proje Y\u00f6netiminde YZ",
+                  "slide_focus": "Yapay zeka, veri analizi s\u00fcre\u00e7lerini otomatikle\u015ftirirken proje y\u00f6netiminde de karar verme s\u00fcre\u00e7lerini iyile\u015ftirir ve riskleri \u00f6nceden tahmin eder.",
+                  "slide_number": 8
+               },
+               {
+                  "slide_title": "Gelece\u011fin Yaz\u0131l\u0131m Geli\u015ftirme S\u00fcre\u00e7leri",
+                  "slide_focus": "Yapay zeka destekli ara\u00e7lar\u0131 benimsemek, rekabet avantaj\u0131 sa\u011flarken s\u00fcrekli de\u011fi\u015fen teknoloji d\u00fcnyas\u0131nda g\u00fcncel kalman\u0131z\u0131 sa\u011flayacakt\u0131r.",
+                  "slide_number": 9
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "feedback": "Automatic failure triggered due to critical issue: Slide 8 combines two distinct tips (veri analizi and proje y\u00f6netimi) on one slide, violating the requirement to cover only one main concept per slide. Additionally, slide 4 (Siz de Deneyimlerinizi Payla\u015f\u0131n) disrupts the overall logical flow, as it feels disconnected from the main tips sequence. These issues impact the structure and clarity of the presentation. To improve, separate each tip into its own slide and ensure a smoother flow of ideas.",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi",
+                     "slide_focus": "Yapay zeka teknolojileri, yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerini k\u00f6kten de\u011fi\u015ftirerek verimlili\u011fi art\u0131r\u0131yor ve yeni olanaklar sunuyor.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "\u0130pucu 1: Kod Tamamlama Ara\u00e7lar\u0131n\u0131 Etkin Kullan\u0131n",
+                     "slide_focus": "GitHub Copilot ve TabNine gibi yapay zeka destekli kod tamamlama ara\u00e7lar\u0131, kodlama h\u0131z\u0131n\u0131z\u0131 art\u0131r\u0131rken hata oran\u0131n\u0131 d\u00fc\u015f\u00fcr\u00fcr.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "\u0130pucu 2: Kod \u0130nceleme S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                     "slide_focus": "Yapay zeka destekli kod inceleme ara\u00e7lar\u0131, g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 ve performans sorunlar\u0131n\u0131 insan g\u00f6z\u00fcnden ka\u00e7abilecek detaylarda bile tespit edebilir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Siz de Deneyimlerinizi Payla\u015f\u0131n",
+                     "slide_focus": "Yapay zeka ara\u00e7lar\u0131yla yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerinizde ya\u015fad\u0131\u011f\u0131n\u0131z zorluklar ve ba\u015far\u0131lar nelerdir?",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "\u0130pucu 3: Test Otomasyonunu G\u00fc\u00e7lendirin",
+                     "slide_focus": "Yapay zeka destekli test ara\u00e7lar\u0131, test senaryolar\u0131n\u0131 otomatik olu\u015fturarak kapsaml\u0131 testleri h\u0131zla ger\u00e7ekle\u015ftirir ve kod kalitesini art\u0131r\u0131r.",
+                     "slide_number": 5
+                  },
+                  {
+                     "slide_title": "\u0130pucu 4: Do\u011fal Dil \u0130\u015fleme ile Dok\u00fcmantasyon Olu\u015fturun",
+                     "slide_focus": "Yapay zeka teknolojileri, kodunuzu analiz ederek otomatik dok\u00fcmantasyon olu\u015fturabilir ve dok\u00fcmantasyon s\u00fcre\u00e7lerini h\u0131zland\u0131rabilir.",
+                     "slide_number": 6
+                  },
+                  {
+                     "slide_title": "\u0130pucu 5: \u00d6\u011frenme S\u00fcrecinizi H\u0131zland\u0131r\u0131n",
+                     "slide_focus": "Yapay zeka destekli e\u011fitim platformlar\u0131, ki\u015fiselle\u015ftirilmi\u015f \u00f6\u011frenme deneyimleri sunarak yeni teknolojileri daha h\u0131zl\u0131 \u00f6\u011frenmenizi sa\u011flar.",
+                     "slide_number": 7
+                  },
+                  {
+                     "slide_title": "\u0130pucu 6 ve 7: Veri Analizi ve Proje Y\u00f6netiminde YZ",
+                     "slide_focus": "Yapay zeka, veri analizi s\u00fcre\u00e7lerini otomatikle\u015ftirirken proje y\u00f6netiminde de karar verme s\u00fcre\u00e7lerini iyile\u015ftirir ve riskleri \u00f6nceden tahmin eder.",
+                     "slide_number": 8
+                  },
+                  {
+                     "slide_title": "Gelece\u011fin Yaz\u0131l\u0131m Geli\u015ftirme S\u00fcre\u00e7leri",
+                     "slide_focus": "Yapay zeka destekli ara\u00e7lar\u0131 benimsemek, rekabet avantaj\u0131 sa\u011flarken s\u00fcrekli de\u011fi\u015fen teknoloji d\u00fcnyas\u0131nda g\u00fcncel kalman\u0131z\u0131 sa\u011flayacakt\u0131r.",
+                     "slide_number": 9
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_1",
+         "data": {
+            "presentation_title": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+            "slide_outlines": [
+               {
+                  "slide_title": "Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi",
+                  "slide_focus": "Yapay zeka teknolojileri, yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerini k\u00f6kten de\u011fi\u015ftirerek verimlili\u011fi art\u0131r\u0131yor ve yeni olanaklar sunuyor.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "\u0130pucu 1: Kod Tamamlama Ara\u00e7lar\u0131n\u0131 Etkin Kullan\u0131n",
+                  "slide_focus": "GitHub Copilot ve TabNine gibi yapay zeka destekli kod tamamlama ara\u00e7lar\u0131, kodlama h\u0131z\u0131n\u0131z\u0131 art\u0131r\u0131rken hata oran\u0131n\u0131 d\u00fc\u015f\u00fcr\u00fcr.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "\u0130pucu 2: Kod \u0130nceleme S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                  "slide_focus": "Yapay zeka destekli kod inceleme ara\u00e7lar\u0131, g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 ve performans sorunlar\u0131n\u0131 insan g\u00f6z\u00fcnden ka\u00e7abilecek detaylarda bile tespit edebilir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "\u0130pucu 3: Test Otomasyonunu G\u00fc\u00e7lendirin",
+                  "slide_focus": "Yapay zeka destekli test ara\u00e7lar\u0131, test senaryolar\u0131n\u0131 otomatik olu\u015fturarak kapsaml\u0131 testleri h\u0131zla ger\u00e7ekle\u015ftirir ve kod kalitesini art\u0131r\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "\u0130pucu 4: Do\u011fal Dil \u0130\u015fleme ile Dok\u00fcmantasyon Olu\u015fturun",
+                  "slide_focus": "Yapay zeka teknolojileri, kodunuzu analiz ederek otomatik dok\u00fcmantasyon olu\u015fturabilir ve dok\u00fcmantasyon s\u00fcre\u00e7lerini h\u0131zland\u0131rabilir.",
+                  "slide_number": 5
+               },
+               {
+                  "slide_title": "\u0130pucu 5: \u00d6\u011frenme S\u00fcrecinizi H\u0131zland\u0131r\u0131n",
+                  "slide_focus": "Yapay zeka destekli e\u011fitim platformlar\u0131, ki\u015fiselle\u015ftirilmi\u015f \u00f6\u011frenme deneyimleri sunarak yeni teknolojileri daha h\u0131zl\u0131 \u00f6\u011frenmenizi sa\u011flar.",
+                  "slide_number": 6
+               },
+               {
+                  "slide_title": "\u0130pucu 6: Veri Analizi S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                  "slide_focus": "Yapay zeka, veri analizi s\u00fcre\u00e7lerini otomatikle\u015ftirerek daha do\u011fru ve h\u0131zl\u0131 i\u00e7g\u00f6r\u00fcler elde etmenizi ve veri odakl\u0131 kararlar alman\u0131z\u0131 sa\u011flar.",
+                  "slide_number": 7
+               },
+               {
+                  "slide_title": "\u0130pucu 7: Proje Y\u00f6netiminde YZ Ara\u00e7lar\u0131n\u0131 Kullan\u0131n",
+                  "slide_focus": "Yapay zeka destekli proje y\u00f6netim ara\u00e7lar\u0131, karar verme s\u00fcre\u00e7lerini iyile\u015ftirir, riskleri \u00f6nceden tahmin eder ve kaynak kullan\u0131m\u0131n\u0131 optimize eder.",
+                  "slide_number": 8
+               },
+               {
+                  "slide_title": "Gelece\u011fin Yaz\u0131l\u0131m Geli\u015ftirme S\u00fcre\u00e7leri",
+                  "slide_focus": "Yapay zeka destekli ara\u00e7lar\u0131 benimsemek, rekabet avantaj\u0131 sa\u011flarken s\u00fcrekli de\u011fi\u015fen teknoloji d\u00fcnyas\u0131nda g\u00fcncel kalman\u0131z\u0131 sa\u011flayacakt\u0131r.",
+                  "slide_number": 9
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_1",
+         "data": {
+            "validation_feedback": {
+               "feedback": "The outline demonstrates a strong structure with a clear introduction (Slide 1), a sequence of actionable tips (Slides 2\u20138), and a final look ahead (Slide 9). Each slide presents one main concept. The content is specific and addresses real-world tools such as GitHub Copilot, TabNine, and AI-driven testing and code review. This caters well to audience engagement. However, to strengthen the conclusion, consider expanding Slide 9 with a concise summary of all tips and actionable next steps. Also, adding brief case examples in Slides 2\u20138 could further highlight practical applications and aid audience comprehension.",
+               "score": 85
+            },
+            "tested_outline": {
+               "presentation_title": "Yapay Zeka Deste\u011fiyle Yaz\u0131l\u0131m Geli\u015ftirme: 7 \u00d6nemli \u0130pucu",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi",
+                     "slide_focus": "Yapay zeka teknolojileri, yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerini k\u00f6kten de\u011fi\u015ftirerek verimlili\u011fi art\u0131r\u0131yor ve yeni olanaklar sunuyor.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "\u0130pucu 1: Kod Tamamlama Ara\u00e7lar\u0131n\u0131 Etkin Kullan\u0131n",
+                     "slide_focus": "GitHub Copilot ve TabNine gibi yapay zeka destekli kod tamamlama ara\u00e7lar\u0131, kodlama h\u0131z\u0131n\u0131z\u0131 art\u0131r\u0131rken hata oran\u0131n\u0131 d\u00fc\u015f\u00fcr\u00fcr.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "\u0130pucu 2: Kod \u0130nceleme S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                     "slide_focus": "Yapay zeka destekli kod inceleme ara\u00e7lar\u0131, g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 ve performans sorunlar\u0131n\u0131 insan g\u00f6z\u00fcnden ka\u00e7abilecek detaylarda bile tespit edebilir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "\u0130pucu 3: Test Otomasyonunu G\u00fc\u00e7lendirin",
+                     "slide_focus": "Yapay zeka destekli test ara\u00e7lar\u0131, test senaryolar\u0131n\u0131 otomatik olu\u015fturarak kapsaml\u0131 testleri h\u0131zla ger\u00e7ekle\u015ftirir ve kod kalitesini art\u0131r\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "\u0130pucu 4: Do\u011fal Dil \u0130\u015fleme ile Dok\u00fcmantasyon Olu\u015fturun",
+                     "slide_focus": "Yapay zeka teknolojileri, kodunuzu analiz ederek otomatik dok\u00fcmantasyon olu\u015fturabilir ve dok\u00fcmantasyon s\u00fcre\u00e7lerini h\u0131zland\u0131rabilir.",
+                     "slide_number": 5
+                  },
+                  {
+                     "slide_title": "\u0130pucu 5: \u00d6\u011frenme S\u00fcrecinizi H\u0131zland\u0131r\u0131n",
+                     "slide_focus": "Yapay zeka destekli e\u011fitim platformlar\u0131, ki\u015fiselle\u015ftirilmi\u015f \u00f6\u011frenme deneyimleri sunarak yeni teknolojileri daha h\u0131zl\u0131 \u00f6\u011frenmenizi sa\u011flar.",
+                     "slide_number": 6
+                  },
+                  {
+                     "slide_title": "\u0130pucu 6: Veri Analizi S\u00fcre\u00e7lerini Otomatikle\u015ftirin",
+                     "slide_focus": "Yapay zeka, veri analizi s\u00fcre\u00e7lerini otomatikle\u015ftirerek daha do\u011fru ve h\u0131zl\u0131 i\u00e7g\u00f6r\u00fcler elde etmenizi ve veri odakl\u0131 kararlar alman\u0131z\u0131 sa\u011flar.",
+                     "slide_number": 7
+                  },
+                  {
+                     "slide_title": "\u0130pucu 7: Proje Y\u00f6netiminde YZ Ara\u00e7lar\u0131n\u0131 Kullan\u0131n",
+                     "slide_focus": "Yapay zeka destekli proje y\u00f6netim ara\u00e7lar\u0131, karar verme s\u00fcre\u00e7lerini iyile\u015ftirir, riskleri \u00f6nceden tahmin eder ve kaynak kullan\u0131m\u0131n\u0131 optimize eder.",
+                     "slide_number": 8
+                  },
+                  {
+                     "slide_title": "Gelece\u011fin Yaz\u0131l\u0131m Geli\u015ftirme S\u00fcre\u00e7leri",
+                     "slide_focus": "Yapay zeka destekli ara\u00e7lar\u0131 benimsemek, rekabet avantaj\u0131 sa\u011flarken s\u00fcrekli de\u011fi\u015fen teknoloji d\u00fcnyas\u0131nda g\u00fcncel kalman\u0131z\u0131 sa\u011flayacakt\u0131r.",
+                     "slide_number": 9
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi</h2><ul><li>Geli\u015ftirme s\u00fcre\u00e7lerinde <b>k\u00f6kl\u00fc d\u00f6n\u00fc\u015f\u00fcm</b></li><li>Kod \u00fcretimi ve optimizasyonunda <b>%40-60 verimlilik art\u0131\u015f\u0131</b></li><li>Hata tespiti ve d\u00fczeltmesinde <b>otomasyon</b></li><li>Do\u011fal dil ile <b>kod d\u00f6n\u00fc\u015f\u00fcm\u00fc</b> imkanlar\u0131</li><li>Yaz\u0131l\u0131mc\u0131 rollerinde <b>yeni uzmanl\u0131k alanlar\u0131</b></li></ul>",
+            "slide_voiceover_text": "Yapay zeka teknolojileri, yaz\u0131l\u0131m geli\u015ftirme alan\u0131nda ger\u00e7ek bir devrim yarat\u0131yor. Geleneksel kodlama s\u00fcre\u00e7leri art\u0131k k\u00f6kl\u00fc bir d\u00f6n\u00fc\u015f\u00fcm ge\u00e7iriyor. Ara\u015ft\u0131rmalar, yapay zeka destekli ara\u00e7lar\u0131n kod \u00fcretimi ve optimizasyonunda %40 ile %60 aras\u0131nda verimlilik art\u0131\u015f\u0131 sa\u011flad\u0131\u011f\u0131n\u0131 g\u00f6steriyor. \u00d6zellikle hata tespiti ve d\u00fczeltme s\u00fcre\u00e7lerinde otomasyon sayesinde geli\u015ftirme d\u00f6ng\u00fcleri h\u0131zlan\u0131yor. Do\u011fal dil ile kod d\u00f6n\u00fc\u015f\u00fcm\u00fc imkanlar\u0131, teknik olmayan ekip \u00fcyelerinin bile yaz\u0131l\u0131m geli\u015ftirme s\u00fcrecine katk\u0131da bulunmas\u0131n\u0131 m\u00fcmk\u00fcn k\u0131l\u0131yor. Bu geli\u015fmeler, yaz\u0131l\u0131mc\u0131 rollerinde de yapay zeka entegrasyonu ve prompt m\u00fchendisli\u011fi gibi yeni uzmanl\u0131k alanlar\u0131n\u0131n do\u011fmas\u0131na yol a\u00e7\u0131yor. Yaz\u0131l\u0131m d\u00fcnyas\u0131, yapay zeka ile birlikte yepyeni bir \u00e7a\u011fa ad\u0131m at\u0131yor.",
+            "slide_image_prompt": "A split-screen digital illustration showing the evolution of software development with AI. On the left side, a traditional programmer surrounded by complex code and looking stressed with multiple monitors. On the right side, the same workspace transformed with AI assistance - the developer looks productive and relaxed, with visual representations of AI helping write code, detecting bugs, and optimizing processes shown as glowing blue neural network patterns overlaying the code. Include futuristic UI elements and data visualization. The image should convey increased efficiency and new possibilities. Use a modern tech aesthetic with blue and purple gradient lighting, high contrast, and a semi-realistic digital art style."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence between all elements. The onscreen text provides clear bullet points that align perfectly with the more detailed voiceover narrative. Both elements effectively communicate the impact of AI on software development, highlighting specific benefits like efficiency gains (40-60%), automation in error detection, and new career opportunities.\n\nThe HTML markup is correctly implemented with appropriate heading tags and semantic elements. The bullet points effectively summarize key concepts while the voiceover expands on these points with supporting details and context. The image prompt is particularly well-crafted, requesting a contrasting visual that reinforces the transformation message through a before/after split-screen concept. The prompt includes specific details about colors, style, and elements to include, which would result in a highly relevant visualization of the slide's message.\n\nThe language is consistent throughout, maintaining a professional tone while being accessible. The Turkish language is used correctly and consistently across all elements. The quantitative data point about 40-60% efficiency gains appears in both the visual and audio components, reinforcing this key statistic.\n\nNo critical issues are present - all content elements are aligned, the message is clear, all components are complete, and there are no technical errors in the HTML markup.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing the evolution of software development with AI. On the left side, a traditional programmer surrounded by complex code and looking stressed with multiple monitors. On the right side, the same workspace transformed with AI assistance - the developer looks productive and relaxed, with visual representations of AI helping write code, detecting bugs, and optimizing processes shown as glowing blue neural network patterns overlaying the code. Include futuristic UI elements and data visualization. The image should convey increased efficiency and new possibilities. Use a modern tech aesthetic with blue and purple gradient lighting, high contrast, and a semi-realistic digital art style.",
+            "image_url": "https://v3.fal.media/files/kangaroo/qaleG4uTvnw4DdWMwOyIo_image.webp",
+            "model": "fal-ai/recraft-20b",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "score": 65,
+            "feedback": "The image shows a split-screen comparison of software development environments, effectively illustrating the contrast between traditional and AI-enhanced development. However, there are several issues that make this image less than ideal for the presentation:\n\n1. CRITICAL ISSUE: The image contains visible text on both monitors. While not readable in detail, code snippets and UI elements with text are clearly present, violating criterion #1 of critical issues.\n\n2. The contrast between the environments is not as dramatic as described in the prompt. The left developer does not appear particularly stressed, and the right developer doesn't appear significantly more relaxed than the left.\n\n3. The requested glowing blue neural network patterns overlaying the code are not clearly visible in the image.\n\n4. The visualization on the right screen shows data analytics rather than specifically AI-assisted coding, which is somewhat relevant but doesn't directly illustrate code generation or bug detection.\n\n5. The color scheme uses blue tones as requested, but lacks the specified purple gradient lighting and high contrast that would make the AI elements stand out more dramatically.\n\n6. The split-screen concept is well-executed, but the transformation aspect is subtle rather than dramatic as requested in the prompt.",
+            "suggestions": "1. Remove all visible text from the screens and replace with abstract code visualization that doesn't contain readable text.\n\n2. Enhance the contrast between the two developers - make the left one appear more clearly stressed/overwhelmed (perhaps with more monitors, papers, or visual indicators of complexity).\n\n3. Add more prominent blue/purple glowing neural network patterns overlaying the right-side code to clearly illustrate AI assistance.\n\n4. Include visual elements that specifically demonstrate AI writing code, detecting bugs, and optimizing processes - perhaps through stylized iconography or symbolic representations.\n\n5. Enhance the visual difference between traditional coding (left) and AI-assisted coding (right) through lighting, organization, and environmental elements.\n\n6. Consider adding subtle visual indicators of the efficiency statistics mentioned in the slide (40-60% productivity increase).\n\n7. Modify the prompt to specify that NO TEXT should appear on any screens or interfaces in the image.",
+            "current_prompt": "A split-screen digital illustration showing the evolution of software development with AI. On the left side, a traditional programmer surrounded by complex code and looking stressed with multiple monitors. On the right side, the same workspace transformed with AI assistance - the developer looks productive and relaxed, with visual representations of AI helping write code, detecting bugs, and optimizing processes shown as glowing blue neural network patterns overlaying the code. Include futuristic UI elements and data visualization. The image should convey increased efficiency and new possibilities. Use a modern tech aesthetic with blue and purple gradient lighting, high contrast, and a semi-realistic digital art style."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_1",
+         "data": {
+            "new_prompt": "A modern digital illustration with split-screen comparison showing software development evolution with AI. Left side: overwhelmed developer with messy desk, surrounded by multiple disorganized monitors showing abstract code patterns (NO TEXT), coffee cups, scattered papers, and visual stress indicators like sweat droplets and furrowed brow. Right side: same developer looking confident and relaxed in an AI-enhanced workspace with neat desk, fewer monitors showing abstract visualizations (NO TEXT), prominent glowing blue and purple neural network patterns overlaying abstract code representations. Include visual symbols of AI assistance: bug-fixing (stylized magnifying glass with checkmark), code optimization (simplified flowchart with speed lines), and automated processes (robotic arm). Use modern tech aesthetic with dramatic blue-purple gradient lighting creating stark contrast between chaotic left (darker, cooler tones) and efficient right (brighter, vibrant tones). Add subtle visual indicator showing 40-60% efficiency improvement through simplified infographic element (NO TEXT, just visual representation like a partially-filled progress bar). Semi-realistic digital art style with clean lines and minimalist approach. Ensure NO TEXT appears anywhere in the image."
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h1>Yaz\u0131l\u0131m Geli\u015ftirmede Yapay Zeka Devrimi</h1><ul><li>Geli\u015ftirme s\u00fcre\u00e7lerinde <b>%40'a varan</b> verimlilik art\u0131\u015f\u0131</li><li>Kod yazma, test etme ve hata ay\u0131klamada <b>otomasyon</b></li><li>Karma\u015f\u0131k problemlere <b>yenilik\u00e7i \u00e7\u00f6z\u00fcmler</b></li><li>Geli\u015ftirici deneyiminde <b>paradigma de\u011fi\u015fimi</b></li><li>Yaz\u0131l\u0131m kalitesinde ve g\u00fcvenli\u011finde <b>iyile\u015ftirmeler</b></li></ul>",
+            "slide_voiceover_text": "Yaz\u0131l\u0131m geli\u015ftirme d\u00fcnyas\u0131nda yapay zeka teknolojileri ger\u00e7ek bir devrim yarat\u0131yor. Ara\u015ft\u0131rmalar, yapay zeka destekli ara\u00e7lar\u0131n kullan\u0131m\u0131yla geli\u015ftirme s\u00fcre\u00e7lerinde y\u00fczde k\u0131rka varan verimlilik art\u0131\u015f\u0131 sa\u011fland\u0131\u011f\u0131n\u0131 g\u00f6steriyor. Bu teknolojiler, kod yazma, test etme ve hata ay\u0131klama gibi tekrarlayan g\u00f6revlerde otomasyon sa\u011flayarak geli\u015ftiricilerin daha stratejik \u00e7al\u0131\u015fmalara odaklanmas\u0131na imkan veriyor. Ayr\u0131ca, yapay zeka algoritmalar\u0131, geleneksel yakla\u015f\u0131mlarla \u00e7\u00f6z\u00fclmesi zor olan karma\u015f\u0131k problemlere yenilik\u00e7i \u00e7\u00f6z\u00fcmler sunuyor. Bu durum, yaz\u0131l\u0131m geli\u015ftiricilerin \u00e7al\u0131\u015fma \u015feklinde tam bir paradigma de\u011fi\u015fimi yarat\u0131yor. Sonu\u00e7 olarak, yapay zeka deste\u011fiyle geli\u015ftirilen yaz\u0131l\u0131mlar daha kaliteli, g\u00fcvenli ve kullan\u0131c\u0131 ihtiya\u00e7lar\u0131na daha uygun hale geliyor.",
+            "slide_image_prompt": "A futuristic digital workspace showing a software developer collaborating with AI. The developer is seated at a modern workstation with multiple holographic screens displaying code, while a luminous AI assistant is suggesting code improvements and fixing bugs in real-time. Some screens show productivity metrics with upward trending graphs. The workspace has a clean, high-tech aesthetic with blue and purple lighting. The image should convey both technological advancement and human-AI partnership in a 3D realistic style with detailed lighting effects that highlight the transformative nature of AI in software development."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence across all elements. The onscreen text provides clear bullet points highlighting key benefits of AI in software development, while the voiceover expands on these points with supporting details and context. The image prompt effectively visualizes the concept of AI-assisted software development with specific details that reinforce the message.\n\nContent Coherence (38/40): The alignment between onscreen text, voiceover, and image prompt is nearly perfect. All elements focus on the transformative impact of AI on software development, with consistent messaging about productivity gains, automation, and quality improvements. The voiceover effectively elaborates on each bullet point from the onscreen text, providing additional context and explanation.\n\nMultimedia Design (28/30): The balance between onscreen and voiceover text is well-executed. The onscreen text uses concise bullet points with bold highlights for emphasis, while the voiceover provides more comprehensive information without being redundant. The image prompt is highly relevant and enhances the message by visualizing the human-AI collaboration described in the text. The only minor improvement could be slightly more visual variety in the bullet point presentation.\n\nTechnical Quality (29/30): The HTML markup is correctly implemented with appropriate heading tags and list elements. Bold tags are used effectively for emphasis. The image prompt is detailed and specific, providing clear direction for visualization. Language is consistent throughout, maintaining a professional tone while remaining accessible. The content is presented in Turkish with proper grammar and punctuation.\n\nOverall, this is a high-quality slide with excellent alignment between all elements, clear messaging, and strong technical execution.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A futuristic digital workspace showing a software developer collaborating with AI. The developer is seated at a modern workstation with multiple holographic screens displaying code, while a luminous AI assistant is suggesting code improvements and fixing bugs in real-time. Some screens show productivity metrics with upward trending graphs. The workspace has a clean, high-tech aesthetic with blue and purple lighting. The image should convey both technological advancement and human-AI partnership in a 3D realistic style with detailed lighting effects that highlight the transformative nature of AI in software development.",
+            "image_url": "https://fal.media/files/kangaroo/ws24wSCNFGki3XuOEfNy-_2a544973214845e2914eb52005c182c1.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "score": 65,
+            "feedback": "The image effectively depicts a futuristic AI workspace that aligns well with the slide's theme about AI revolution in software development. The visual shows a robot/AI assistant working at a modern workstation with multiple screens displaying code and productivity metrics with upward trending graphs, which supports the slide's point about automation and productivity increases. The color scheme with blue and purple lighting creates a high-tech aesthetic that conveys technological advancement. However, there is a critical issue: the image focuses on an AI entity working alone rather than showing the human-AI collaboration specified in the prompt. The human developer is missing from the scene, which changes the narrative from 'collaboration' to 'replacement'. The screens contain what appears to be code and graphs, which supports the content about productivity metrics but may contain readable text (though it's not clearly legible in this resolution).",
+            "suggestions": "Modify the image to include a human developer working alongside the AI assistant to demonstrate collaboration rather than replacement. This would better represent the 'paradigma de\u011fi\u015fimi' (paradigm shift) mentioned in the slide where humans and AI work together. Consider reducing the number of screens to simplify the visual and make the focus of human-AI partnership clearer. The color scheme works well but ensure that any text on screens is either completely illegible or removed entirely to avoid the critical issue of text within the image. Also, consider adding visual elements that specifically illustrate the '40% productivity increase' mentioned in the slide content, perhaps through a more prominent productivity graph or visualization.",
+            "current_prompt": "A futuristic digital workspace showing a software developer collaborating with AI. The developer is seated at a modern workstation with multiple holographic screens displaying code, while a luminous AI assistant is suggesting code improvements and fixing bugs in real-time. Some screens show productivity metrics with upward trending graphs. The workspace has a clean, high-tech aesthetic with blue and purple lighting. The image should convey both technological advancement and human-AI partnership in a 3D realistic style with detailed lighting effects that highlight the transformative nature of AI in software development."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_1",
+         "data": {
+            "new_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A human developer (gender-neutral, in professional attire) sits at a modern desk alongside a luminous, abstract AI assistant represented as a glowing blue/purple entity. They face multiple holographic screens displaying abstract code patterns (no readable text) and simple upward trending graphs representing 40% productivity increases. One screen shows a simplified visualization of automated bug fixing with red marks being corrected to green. The workspace has a clean, minimalist design with soft blue and purple ambient lighting creating a high-tech atmosphere. The human and AI are positioned to clearly show partnership rather than replacement, with both contributing to the work. 3D realistic style with dramatic lighting that highlights both figures equally, emphasizing their collaborative relationship in software development. Keep all visual elements simple and focused on the human-AI partnership theme."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A human developer (gender-neutral, in professional attire) sits at a modern desk alongside a luminous, abstract AI assistant represented as a glowing blue/purple entity. They face multiple holographic screens displaying abstract code patterns (no readable text) and simple upward trending graphs representing 40% productivity increases. One screen shows a simplified visualization of automated bug fixing with red marks being corrected to green. The workspace has a clean, minimalist design with soft blue and purple ambient lighting creating a high-tech atmosphere. The human and AI are positioned to clearly show partnership rather than replacement, with both contributing to the work. 3D realistic style with dramatic lighting that highlights both figures equally, emphasizing their collaborative relationship in software development. Keep all visual elements simple and focused on the human-AI partnership theme.",
+            "image_url": "https://fal.media/files/zebra/1mvNbBV7dpdoNrg6vCX1K_af9db9ecc4664d768c49602aecb00904.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "score": 70,
+            "feedback": "The image has several strengths but also some critical issues that prevent it from fully meeting the requirements. Positive aspects include the futuristic workspace with blue/purple ambient lighting, a professional developer at a modern desk, a glowing blue AI entity, holographic screens with code patterns and trending graphs. However, there are important problems: 1) The screens contain what appears to be readable code text, which violates the critical requirement of no text in the image. 2) The AI has 'AI' text visibly displayed in its head, which is another text violation. 3) The visualization of the 40% productivity increase and automated bug fixing with red-to-green corrections isn't clearly implemented. 4) While the human-AI collaboration theme is present, the AI representation is more humanoid than the 'abstract glowing entity' specified in the prompt.",
+            "suggestions": "1) Remove all readable text from the screens and the AI entity - replace code with abstract patterns that suggest code without being readable. 2) Make the AI representation more abstract and less humanoid - perhaps a luminous, flowing energy form rather than a human-shaped figure. 3) Include a clearer visualization of the 40% productivity increase with simple, upward-trending graphs. 4) Add a screen showing the automated bug fixing process with red marks being corrected to green as specified. 5) Ensure the workspace maintains its minimalist design but with clearer focus on the collaborative aspect between human and AI.",
+            "current_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A human developer (gender-neutral, in professional attire) sits at a modern desk alongside a luminous, abstract AI assistant represented as a glowing blue/purple entity. They face multiple holographic screens displaying abstract code patterns (no readable text) and simple upward trending graphs representing 40% productivity increases. One screen shows a simplified visualization of automated bug fixing with red marks being corrected to green. The workspace has a clean, minimalist design with soft blue and purple ambient lighting creating a high-tech atmosphere. The human and AI are positioned to clearly show partnership rather than replacement, with both contributing to the work. 3D realistic style with dramatic lighting that highlights both figures equally, emphasizing their collaborative relationship in software development. Keep all visual elements simple and focused on the human-AI partnership theme."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_2",
+         "data": {
+            "new_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A professional developer in business casual attire sits at a minimalist modern desk alongside an abstract AI assistant represented as an amorphous, flowing blue/purple luminous energy form (with NO text or labels). They face holographic screens displaying: 1) Abstract geometric patterns suggesting code (absolutely NO readable text or characters), 2) A simple, clean upward-trending line graph with a clear 40% marker indicated by shape/color only, 3) A visualization showing abstract red shapes morphing into green shapes representing bug fixing (using only color and shape transformation, NO text). The workspace features clean lines, minimal decoration, and soft blue/purple ambient lighting creating a high-tech atmosphere. Both human and AI entities are positioned side-by-side, clearly collaborating on the screens, with the human gesturing toward the displays while the AI's luminous tendrils extend toward the same area, emphasizing their partnership. Use dramatic lighting that highlights both figures equally, with soft glows creating depth. 3D realistic rendering with high-quality details but maintaining simplicity in the composition. Focus entirely on the human-AI collaborative relationship in software development, with no extraneous elements."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_3",
+         "data": {
+            "image_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A professional developer in business casual attire sits at a minimalist modern desk alongside an abstract AI assistant represented as an amorphous, flowing blue/purple luminous energy form (with NO text or labels). They face holographic screens displaying: 1) Abstract geometric patterns suggesting code (absolutely NO readable text or characters), 2) A simple, clean upward-trending line graph with a clear 40% marker indicated by shape/color only, 3) A visualization showing abstract red shapes morphing into green shapes representing bug fixing (using only color and shape transformation, NO text). The workspace features clean lines, minimal decoration, and soft blue/purple ambient lighting creating a high-tech atmosphere. Both human and AI entities are positioned side-by-side, clearly collaborating on the screens, with the human gesturing toward the displays while the AI's luminous tendrils extend toward the same area, emphasizing their partnership. Use dramatic lighting that highlights both figures equally, with soft glows creating depth. 3D realistic rendering with high-quality details but maintaining simplicity in the composition. Focus entirely on the human-AI collaborative relationship in software development, with no extraneous elements.",
+            "image_url": "https://fal.media/files/lion/mfqnQie2OAI2ydJDUGKx__c2e32f9680ff49658403b045530c96dd.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_3",
+         "data": {
+            "score": 55,
+            "feedback": "This image has significant issues that make it unsuitable for the presentation. The most critical problem is that the AI representation doesn't match the requested specification. Instead of an 'amorphous, flowing blue/purple luminous energy form,' the image shows a humanoid robot with a clearly defined face and body. This anthropomorphized representation of AI conflicts with the prompt's specific request for an abstract representation. Additionally, the digital displays contain what appear to be text elements, violating the requirement for 'NO readable text or characters.' The workspace also doesn't fully align with the 'minimalist modern desk' requested in the prompt. While the blue/purple lighting is present as requested, the composition doesn't accurately represent the collaborative relationship described in the prompt where both entities should be positioned side-by-side with the AI's 'luminous tendrils' extending toward the screens.",
+            "suggestions": "Revise the image to strictly follow the prompt specifications: 1) Replace the humanoid robot with an abstract, amorphous blue/purple energy form without defined human features, 2) Remove all text elements from the screens and replace with purely abstract visual representations, 3) Ensure the human and AI are positioned side-by-side collaboratively rather than facing each other, 4) Simplify the workspace to be more minimalist, 5) Include the specific visual elements requested: abstract code patterns, a 40% marker on an upward-trending graph, and the red-to-green shape transformation representing bug fixing, all without any text.",
+            "current_prompt": "A sleek, futuristic software development workspace showing clear human-AI collaboration. A professional developer in business casual attire sits at a minimalist modern desk alongside an abstract AI assistant represented as an amorphous, flowing blue/purple luminous energy form (with NO text or labels). They face holographic screens displaying: 1) Abstract geometric patterns suggesting code (absolutely NO readable text or characters), 2) A simple, clean upward-trending line graph with a clear 40% marker indicated by shape/color only, 3) A visualization showing abstract red shapes morphing into green shapes representing bug fixing (using only color and shape transformation, NO text). The workspace features clean lines, minimal decoration, and soft blue/purple ambient lighting creating a high-tech atmosphere. Both human and AI entities are positioned side-by-side, clearly collaborating on the screens, with the human gesturing toward the displays while the AI's luminous tendrils extend toward the same area, emphasizing their partnership. Use dramatic lighting that highlights both figures equally, with soft glows creating depth. 3D realistic rendering with high-quality details but maintaining simplicity in the composition. Focus entirely on the human-AI collaborative relationship in software development, with no extraneous elements."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_3",
+         "data": {
+            "new_prompt": "A minimalist, high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white desk with a single sleek monitor. Beside them, NOT a robot or humanoid figure, but an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features. The AI appears as purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side facing the same direction (toward the screen), clearly collaborating. The screen displays: 1) Simple geometric shapes and patterns suggesting code (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at the 40% point highlighted in gold or bright color (NO text labels), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace features minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. The composition emphasizes equal partnership between human and AI, with dramatic but soft lighting highlighting both entities. 3D realistic rendering with clean, simple composition focusing solely on the collaborative relationship in software development."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_4",
+         "data": {
+            "image_prompt": "A minimalist, high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white desk with a single sleek monitor. Beside them, NOT a robot or humanoid figure, but an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features. The AI appears as purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side facing the same direction (toward the screen), clearly collaborating. The screen displays: 1) Simple geometric shapes and patterns suggesting code (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at the 40% point highlighted in gold or bright color (NO text labels), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace features minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. The composition emphasizes equal partnership between human and AI, with dramatic but soft lighting highlighting both entities. 3D realistic rendering with clean, simple composition focusing solely on the collaborative relationship in software development.",
+            "image_url": "https://fal.media/files/panda/0OoC6wQmDhpB3UE8QGTFK_2089458c401340f89a6939005037da88.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_4",
+         "data": {
+            "score": 30,
+            "feedback": "This image has several critical issues that make it unsuitable for the presentation slide:\n\n1. The AI is represented as a humanoid robot with a distinct face/head rather than the specified 'abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features.' This directly contradicts the prompt requirements.\n\n2. The screen contains visible text/characters in the dashboard interface, which violates the critical requirement 'Contains text or writing within the image'.\n\n3. The workspace does not match the specified 'clean, white desk' - instead showing a dark desk with dramatic blue/purple lighting.\n\n4. The visual elements on screen don't accurately represent the requested elements - there's a dashboard with multiple graphs rather than the specific simple geometric shapes, upward trending line with 40% marker, and bug-fixing visualization described in the prompt.\n\n5. The composition shows the human and robot side-by-side but facing each other rather than 'facing the same direction (toward the screen)' as specified.",
+            "suggestions": "To improve the image for this presentation slide:\n\n1. Replace the humanoid robot with an abstract, non-anthropomorphic representation of AI - specifically the 'flowing, amorphous cloud of blue and purple light particles' mentioned in the prompt.\n\n2. Remove all text elements from the screen, replacing them with abstract geometric patterns suggesting code (no characters).\n\n3. Use a clean white desk as specified in the prompt.\n\n4. Include the exact visual elements requested: simple geometric patterns, a clean upward trending line graph with 40% highlighted, and the simple visualization showing shape/color transformation (red angular to green rounded).\n\n5. Position both the human and the abstract AI representation side-by-side facing the same direction (toward the screen).\n\n6. Maintain the blue-purple ambient lighting but ensure it creates a professional tech atmosphere without overwhelming the clean, minimalist aesthetic requested.",
+            "current_prompt": "A minimalist, high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white desk with a single sleek monitor. Beside them, NOT a robot or humanoid figure, but an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features. The AI appears as purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side facing the same direction (toward the screen), clearly collaborating. The screen displays: 1) Simple geometric shapes and patterns suggesting code (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at the 40% point highlighted in gold or bright color (NO text labels), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace features minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. The composition emphasizes equal partnership between human and AI, with dramatic but soft lighting highlighting both entities. 3D realistic rendering with clean, simple composition focusing solely on the collaborative relationship in software development."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_4",
+         "data": {
+            "new_prompt": "A minimalist high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white modern desk with a single sleek monitor. Beside them is an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features - purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side, facing the same direction (toward the monitor), clearly collaborating. The monitor displays: 1) Simple geometric shapes and connecting lines suggesting code structure (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at exactly the 40% point highlighted in gold (NO text labels or numbers), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace has minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. Clean white surfaces contrast with the colored light elements. 3D realistic rendering with dramatic but soft lighting highlighting both the human and the abstract AI representation equally. The composition emphasizes their partnership in software development with absolutely no text anywhere in the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_5",
+         "data": {
+            "image_prompt": "A minimalist high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white modern desk with a single sleek monitor. Beside them is an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features - purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side, facing the same direction (toward the monitor), clearly collaborating. The monitor displays: 1) Simple geometric shapes and connecting lines suggesting code structure (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at exactly the 40% point highlighted in gold (NO text labels or numbers), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace has minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. Clean white surfaces contrast with the colored light elements. 3D realistic rendering with dramatic but soft lighting highlighting both the human and the abstract AI representation equally. The composition emphasizes their partnership in software development with absolutely no text anywhere in the image.",
+            "image_url": "https://fal.media/files/penguin/mgrZrPdQfImFkHpsGMMBd_82347639b17049c09d6e5d0d9b6df8ab.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_5",
+         "data": {
+            "score": 55,
+            "feedback": "The image shows a professional in business casual attire at a modern workspace with a sleek monitor displaying data visualizations including graphs and code-like elements. The blue-purple ambient lighting creates a tech atmosphere that aligns with the AI theme. However, there are several issues with this image: 1) The monitor displays text/code snippets which violates the critical requirement of no text within the image. 2) The visualization shows \"40%\" text on the screen, which is another text violation. 3) The abstract AI representation described in the prompt (flowing, amorphous cloud of light particles) is not clearly visible as specified. 4) The image lacks the clear human-AI collaboration visual that was central to the prompt concept. 5) The monitor displays are more complex than the simple geometric shapes and clean visualizations requested.",
+            "suggestions": "For an improved image: 1) Remove all text from the screen including the \"40%\" label and code snippets. 2) Include the abstract AI representation as a distinct blue-purple light particle cloud next to the person. 3) Simplify the monitor visualizations to show only clean geometric shapes, a simple upward trend line with a gold highlight at the 40% mark (without the number), and the red-to-green shape transformation. 4) Position both the human and AI representation side-by-side facing the monitor to demonstrate collaboration. 5) Maintain the clean white desk and blue-purple ambient lighting which works well for the tech atmosphere.",
+            "current_prompt": "A minimalist high-tech software development workspace showing human-AI collaboration. A professional developer in simple business casual attire sits at a clean, white modern desk with a single sleek monitor. Beside them is an abstract AI representation shown as a flowing, amorphous cloud of blue and purple light particles without any face or human-like features - purely luminous energy with gentle tendrils of light extending toward the screen. Both human and AI are positioned side-by-side, facing the same direction (toward the monitor), clearly collaborating. The monitor displays: 1) Simple geometric shapes and connecting lines suggesting code structure (absolutely NO text or characters), 2) A clean upward-trending line graph with a prominent visual marker at exactly the 40% point highlighted in gold (NO text labels or numbers), 3) A simple visualization showing red angular shapes morphing into green rounded shapes (representing bug fixing through color/shape change only). The workspace has minimal decoration with soft blue-purple ambient lighting creating a professional tech atmosphere. Clean white surfaces contrast with the colored light elements. 3D realistic rendering with dramatic but soft lighting highlighting both the human and the abstract AI representation equally. The composition emphasizes their partnership in software development with absolutely no text anywhere in the image."
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 1: Kod Tamamlama Ara\u00e7lar\u0131n\u0131 Etkin Kullan\u0131n</h2><ul><li>GitHub Copilot ve TabNine gibi AI destekli ara\u00e7lar kodlama s\u00fcrecinizi h\u0131zland\u0131r\u0131r</li><li>Tekrarlayan kod bloklar\u0131n\u0131 otomatik tamamlar</li><li>Yayg\u0131n hatalar\u0131 azalt\u0131r</li><li>Daha az bellek y\u00fck\u00fc, daha fazla yarat\u0131c\u0131l\u0131k</li><li>\u00d6nerilen kodlar\u0131 anlamaya \u00e7al\u0131\u015f\u0131n, k\u00f6r\u00fc k\u00f6r\u00fcne kabul etmeyin</li></ul>",
+            "slide_voiceover_text": "Birinci ipucumuz, yapay zeka destekli kod tamamlama ara\u00e7lar\u0131n\u0131 etkin bir \u015fekilde kullanmakt\u0131r. GitHub Copilot ve TabNine gibi ara\u00e7lar, kodlama s\u00fcrecinizi \u00f6nemli \u00f6l\u00e7\u00fcde h\u0131zland\u0131rabilir. Bu ara\u00e7lar, yazd\u0131\u011f\u0131n\u0131z kodu analiz ederek tekrarlayan kod bloklar\u0131n\u0131 otomatik olarak tamamlar ve b\u00f6ylece zamandan tasarruf etmenizi sa\u011flar. Ayr\u0131ca, yayg\u0131n hatalar\u0131 azaltarak kodunuzun kalitesini art\u0131r\u0131r. Bu t\u00fcr ara\u00e7lar\u0131 kullanmak, teknik detaylar\u0131 hat\u0131rlamak i\u00e7in harcad\u0131\u011f\u0131n\u0131z zihinsel enerjiyi azalt\u0131r ve sizi as\u0131l problem \u00e7\u00f6z\u00fcm\u00fcne odaklanman\u0131z i\u00e7in \u00f6zg\u00fcrle\u015ftirir. Ancak unutmay\u0131n, bu ara\u00e7lar\u0131n \u00f6nerdi\u011fi kodlar\u0131 anlamak ve gerekti\u011finde d\u00fczenlemek \u00f6nemlidir - k\u00f6r\u00fc k\u00f6r\u00fcne kabul etmek yerine, \u00f6nerileri bir \u00f6\u011frenme f\u0131rsat\u0131 olarak de\u011ferlendirin.",
+            "slide_image_prompt": "A split-screen digital illustration showing a software developer at their workspace. On the left side, they are coding manually with visible frustration and many error messages on their screen. On the right side, the same developer is using AI code completion tools (with GitHub Copilot and TabNine logos subtly visible), looking relaxed and productive with clean code appearing automatically as they type. The right side has a soft blue glow representing AI assistance. The image should have a modern tech aesthetic with a clean, minimalist style and cool blue and purple color scheme. Include some visual indicators of increased speed and reduced errors on the AI-assisted side."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence between the onscreen text, voiceover script, and image prompt. All elements effectively communicate the same core message about AI-powered code completion tools. The onscreen text is concise with well-structured bullet points that highlight key benefits, while the voiceover expands on these points with appropriate detail without becoming redundant. The HTML markup is correctly formatted with proper heading and list elements. The image prompt excellently reinforces the message by visually contrasting manual coding with AI-assisted coding, showing both the practical benefits and emotional impact (frustration vs. relaxation). The content maintains a professional tone throughout while being accessible and informative. The voiceover adds valuable context beyond what's on screen, particularly in advising users not to blindly accept suggestions. All components work together harmoniously to deliver a clear, compelling message about the first tip for AI-assisted software development. No critical issues were identified in any aspect of the content.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing a software developer at their workspace. On the left side, they are coding manually with visible frustration and many error messages on their screen. On the right side, the same developer is using AI code completion tools (with GitHub Copilot and TabNine logos subtly visible), looking relaxed and productive with clean code appearing automatically as they type. The right side has a soft blue glow representing AI assistance. The image should have a modern tech aesthetic with a clean, minimalist style and cool blue and purple color scheme. Include some visual indicators of increased speed and reduced errors on the AI-assisted side.",
+            "image_url": "https://fal.media/files/panda/LHH9K44NAQwuNSdYOSUTA_2a66a3546b644c888b7b99cb051d10c7.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "score": 85,
+            "feedback": "The image effectively illustrates the concept of AI-powered code completion tools with a split-screen comparison as requested. On the left, a developer is coding manually, while on the right, the same developer appears more relaxed using AI assistance. The image follows the requested modern tech aesthetic with blue and purple color schemes. The visual clearly communicates the efficiency of AI tools in coding. There are subtle visual indicators like the 'AI' text blocks on both sides and what appears to be a Copilot reference on the left. However, there appears to be some text visible in the code on both screens and possibly a '5:54' time indicator on the right, though these are minimal and appear as part of the coding interface rather than substantive text content. The image successfully creates contrast between traditional coding and AI-assisted coding environments.",
+            "suggestions": "To improve this image: 1) Consider reducing or blurring the code text on the screens to avoid any potential copyright or readability issues while still maintaining the coding visual; 2) Make the GitHub Copilot and TabNine logos slightly more prominent as mentioned in the prompt; 3) Enhance the visual indicators of frustration on the left side (perhaps with more evident error messages or body language showing stress); 4) Add more clear visual cues showing increased speed and reduced errors on the right side, such as green checkmarks or completion indicators; 5) Consider adding a subtle glow effect around the code on the AI-assisted side to further emphasize the 'AI magic' aspect.",
+            "current_prompt": "A split-screen digital illustration showing a software developer at their workspace. On the left side, they are coding manually with visible frustration and many error messages on their screen. On the right side, the same developer is using AI code completion tools (with GitHub Copilot and TabNine logos subtly visible), looking relaxed and productive with clean code appearing automatically as they type. The right side has a soft blue glow representing AI assistance. The image should have a modern tech aesthetic with a clean, minimalist style and cool blue and purple color scheme. Include some visual indicators of increased speed and reduced errors on the AI-assisted side."
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 2: Kod \u0130nceleme S\u00fcre\u00e7lerini Otomatikle\u015ftirin</h2><ul><li>Yapay zeka destekli kod inceleme ara\u00e7lar\u0131 g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 tespit eder</li><li>\u0130nsan g\u00f6z\u00fcnden ka\u00e7abilecek performans sorunlar\u0131n\u0131 yakalar</li><li>Kod kalitesini art\u0131r\u0131r ve teknik borcu azalt\u0131r</li><li>Geli\u015ftirme s\u00fcrecini h\u0131zland\u0131r\u0131r</li><li>\u00d6nerilen Ara\u00e7lar: DeepCode, Amazon CodeGuru, GitHub Copilot for Pull Requests</li></ul>",
+            "slide_voiceover_text": "\u0130kinci ipucumuz, kod inceleme s\u00fcre\u00e7lerinin yapay zeka ile otomatikle\u015ftirilmesi. Geleneksel kod incelemeleri zaman al\u0131c\u0131 olabilir ve insan g\u00f6z\u00fcnden baz\u0131 kritik hatalar ka\u00e7abilir. Yapay zeka destekli kod inceleme ara\u00e7lar\u0131, g\u00fcvenlik a\u00e7\u0131klar\u0131n\u0131 ve performans sorunlar\u0131n\u0131 en k\u00fc\u00e7\u00fck detaylarda bile tespit edebilir. Bu ara\u00e7lar, kodunuzu milyonlarca kod \u00f6rne\u011fiyle kar\u015f\u0131la\u015ft\u0131rarak potansiyel hatalar\u0131 ve iyile\u015ftirme \u00f6nerilerini sunar. \u00d6rne\u011fin, DeepCode, Amazon CodeGuru veya GitHub Copilot for Pull Requests gibi ara\u00e7lar, kod inceleme s\u00fcrecinizi otomatikle\u015ftirerek hem kod kalitenizi art\u0131r\u0131r hem de geli\u015ftirme s\u00fcrecinizi h\u0131zland\u0131r\u0131r. Bu sayede ekibiniz daha stratejik g\u00f6revlere odaklanabilir.",
+            "slide_image_prompt": "A split-screen digital illustration showing the contrast between traditional and AI-powered code review. On the left side, a tired developer manually reviewing code with visible strain and missing some bugs (shown as tiny red insects hiding in the code). On the right side, an AI system (represented by a futuristic scanning interface with blue light) automatically detecting and highlighting security vulnerabilities and performance issues in the code that would be invisible to the human eye. The code appears as stylized text blocks with some sections glowing red (problems) or green (optimizations). The image should have a clean, modern tech aesthetic with a blue and white color scheme, and include symbols representing security shields and performance graphs to reinforce the concept of comprehensive code analysis. The style should be semi-realistic digital art with a slight futuristic touch."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "feedback": "The slide content demonstrates excellent alignment between all elements. The onscreen text presents a clear, bulleted summary of the key points about AI-powered code review, which is fully elaborated in the voiceover. The image prompt creates a compelling visual contrast between traditional and AI-powered code review methods, reinforcing the main message. The HTML markup is correctly structured with appropriate heading and list elements. The content flows logically, starting with the problem (traditional code reviews being time-consuming and error-prone) and moving to the solution (AI-powered tools) with specific examples. The language is consistent throughout, maintaining a professional tone while being accessible. The Turkish language is used correctly and consistently across all elements. The image prompt is highly detailed and specific, providing clear direction for creating a visual that would enhance understanding of the concept. Overall, this is a high-quality slide with excellent integration between visual, textual, and audio elements.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing the contrast between traditional and AI-powered code review. On the left side, a tired developer manually reviewing code with visible strain and missing some bugs (shown as tiny red insects hiding in the code). On the right side, an AI system (represented by a futuristic scanning interface with blue light) automatically detecting and highlighting security vulnerabilities and performance issues in the code that would be invisible to the human eye. The code appears as stylized text blocks with some sections glowing red (problems) or green (optimizations). The image should have a clean, modern tech aesthetic with a blue and white color scheme, and include symbols representing security shields and performance graphs to reinforce the concept of comprehensive code analysis. The style should be semi-realistic digital art with a slight futuristic touch.",
+            "image_url": "https://fal.media/files/kangaroo/_yAxW_13XrGEqJDHewy3q_4c088550f67e48299b49dcefea6a3f25.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "score": 60,
+            "feedback": "The image effectively illustrates the concept of AI-powered code review with a split-screen design showing traditional manual code review (left) versus AI-assisted code review (right). The contrast is clear with the tired developer manually reviewing code on the left while the right side shows automated detection with highlighted vulnerabilities. The blue and dark color scheme creates a modern tech aesthetic that fits the slide's topic well. However, there are several issues: 1) The image contains actual code text throughout, which violates the critical requirement of no text in images; 2) The code text appears to include potentially recognizable syntax that could have copyright implications; 3) The bugs are represented as small red elements as requested, but the visualization might be too subtle for some audience members to notice at a distance; 4) While the split-screen concept works well, the transition between manual and AI review could be more distinct to emphasize the benefits of automation.",
+            "suggestions": "1) Remove all actual code text and replace with abstract code-like patterns or symbols that convey the idea of code without being readable text; 2) Make the contrast between manual and AI review more dramatic - perhaps show the human reviewer missing more obvious issues or looking more overwhelmed; 3) Increase the visibility of the 'bugs' and security vulnerabilities with larger, more distinctive symbols; 4) Add more pronounced visual indicators of AI assistance, such as a more prominent scanning interface or AI symbol; 5) Consider adding clearer visual representations of the benefits mentioned in the slide content, such as speed indicators or quality metrics; 6) Maintain the blue color scheme but ensure sufficient contrast for presentation visibility; 7) Simplify some elements to make the key message more immediately apparent to the audience.",
+            "current_prompt": "A split-screen digital illustration showing the contrast between traditional and AI-powered code review. On the left side, a tired developer manually reviewing code with visible strain and missing some bugs (shown as tiny red insects hiding in the code). On the right side, an AI system (represented by a futuristic scanning interface with blue light) automatically detecting and highlighting security vulnerabilities and performance issues in the code that would be invisible to the human eye. The code appears as stylized text blocks with some sections glowing red (problems) or green (optimizations). The image should have a clean, modern tech aesthetic with a blue and white color scheme, and include symbols representing security shields and performance graphs to reinforce the concept of comprehensive code analysis. The style should be semi-realistic digital art with a slight futuristic touch."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_3_attempt_1",
+         "data": {
+            "new_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (NOT real text, just geometric shapes resembling code structure). Several large, obvious red bug symbols and security vulnerability icons are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red warning symbols and security shields. Include visual indicators of speed (motion lines) and quality improvement (rising graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. No text or writing anywhere in the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_2",
+         "data": {
+            "image_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (NOT real text, just geometric shapes resembling code structure). Several large, obvious red bug symbols and security vulnerability icons are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red warning symbols and security shields. Include visual indicators of speed (motion lines) and quality improvement (rising graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. No text or writing anywhere in the image.",
+            "image_url": "https://fal.media/files/elephant/qVjcqZZmoJwPMKC0P2R-E_3bb03c203dae4735898a274fcc4e8c11.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_2",
+         "data": {
+            "score": 0,
+            "feedback": "The image has several critical issues that make it unsuitable for the presentation slide. The most significant problem is that it contains actual text within the image (such as 'BUG', 'BUGS', and 'AI' labels), which directly violates the first critical requirement. The illustration effectively shows the contrast between traditional and AI-powered code review with a split-screen design as requested, but the presence of text makes it automatically rejected. The image uses the requested blue color scheme and shows the developer on the left side and AI representation on the right, with code patterns in the background. The visual style is clean and would be appropriate for a presentation, but the text elements render it unusable according to the criteria.",
+            "suggestions": "Remove all text elements from the image, including the 'BUG', 'BUGS', and 'AI' labels. Instead, use purely visual elements like red bug icons, shield symbols, and scanning beams without any words. Maintain the split-screen contrast between the human reviewer and AI system, but ensure all concepts are communicated through visual symbols only. Consider adding more clear visual indicators of speed (motion lines) and quality improvement (rising graph icons) on the AI side as specified in the prompt. The color scheme and overall style are appropriate, but ensure the bugs and vulnerabilities are shown with icons rather than text labels.",
+            "current_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (NOT real text, just geometric shapes resembling code structure). Several large, obvious red bug symbols and security vulnerability icons are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red warning symbols and security shields. Include visual indicators of speed (motion lines) and quality improvement (rising graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. No text or writing anywhere in the image."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_3_attempt_2",
+         "data": {
+            "new_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (represented as geometric shapes resembling code structure). Several large, obvious red bug symbols (insect icons) and security vulnerability icons (broken shield symbols) are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red circles, warning triangles, and security shield icons. Include visual indicators of speed (motion lines) and quality improvement (simple upward-trending graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. NO text, labels, or writing of any kind anywhere in the image. Use only universal symbols and visual elements to convey the message."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_3",
+         "data": {
+            "image_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (represented as geometric shapes resembling code structure). Several large, obvious red bug symbols (insect icons) and security vulnerability icons (broken shield symbols) are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red circles, warning triangles, and security shield icons. Include visual indicators of speed (motion lines) and quality improvement (simple upward-trending graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. NO text, labels, or writing of any kind anywhere in the image. Use only universal symbols and visual elements to convey the message.",
+            "image_url": "https://fal.media/files/monkey/gq8ePQnVzc4wfkmGcW05p_587eeebded3149cca825cb78d7bd37c4.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_3",
+         "data": {
+            "score": 40,
+            "feedback": "The image fails the critical requirements and has several significant issues that make it unsuitable for the presentation slide. The primary issues are:\n\n1. Contains text/writing within the image: There is clearly visible text throughout the right side of the image, particularly what appears to be code snippets or technical terms.\n\n2. The image does not properly follow the requested split-screen design comparing traditional versus AI code review as specified. The concept is somewhat aligned (showing a human developer and an AI system), but the execution differs from the requirements.\n\n3. While the image has a developer on the left and AI representation on the right as requested, it fails to clearly demonstrate the contrast in code review capabilities as specified in the prompt. The bug symbols are present but not in the way described in the prompt.\n\n4. The color scheme uses blue tones as requested, but includes bright pink/purple elements that weren't specified and might be distracting.\n\n5. There are no visual indicators of speed (motion lines) or quality improvement (upward-trending graph icons) as specifically requested in the prompt.",
+            "suggestions": "To improve the image for this presentation slide:\n\n1. Remove all text elements completely from the image\n\n2. Follow the split-screen layout more precisely - ensure the left and right sides show identical code patterns with the only difference being that the human misses bugs while the AI detects them\n\n3. Include the specific visual elements requested: red bug symbols, broken shield icons for vulnerabilities, glowing highlights around issues on the AI side\n\n4. Add the requested motion lines and upward-trending graph icons on the AI side to indicate speed and quality improvements\n\n5. Maintain a cleaner, more minimalist style with predominantly blue and white colors as specified\n\n6. Make sure all symbols are universal and easily recognizable from a distance\n\n7. Ensure the developer on the left appears exhausted with strained expression as described in the prompt",
+            "current_prompt": "A clean split-screen digital illustration contrasting traditional versus AI-powered code review. Left side: An exhausted developer with strained expression and bloodshot eyes examining abstract code-like patterns (represented as geometric shapes resembling code structure). Several large, obvious red bug symbols (insect icons) and security vulnerability icons (broken shield symbols) are clearly visible but the developer is missing them. Right side: A sleek AI system represented by a prominent blue scanning beam analyzing identical abstract code patterns. The AI side shows the same bugs and vulnerabilities now highlighted with glowing red circles, warning triangles, and security shield icons. Include visual indicators of speed (motion lines) and quality improvement (simple upward-trending graph icons) on the AI side. Style: Minimalist, semi-futuristic digital art with a predominantly blue and white color scheme, high contrast for presentation visibility, clean lines, and simplified elements that are easily recognizable from a distance. NO text, labels, or writing of any kind anywhere in the image. Use only universal symbols and visual elements to convey the message."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_3_attempt_3",
+         "data": {
+            "new_prompt": "A clean, minimalist split-screen digital illustration contrasting traditional versus AI-powered code review. LEFT SIDE: An exhausted developer with bloodshot eyes and strained expression examining abstract code-represented as blue and white geometric patterns. Several obvious red bug symbols (stylized insects) and security vulnerability icons (broken shield symbols) are clearly visible within the code but the developer is missing them. RIGHT SIDE: The identical code pattern with a prominent blue scanning beam representing AI analysis. The same bugs and vulnerabilities are now highlighted with glowing red circles, warning triangles, and intact shield icons. The AI side includes simple motion lines (to indicate speed) and a small, simplified upward-trending graph icon in the corner (showing quality improvement). Style: Minimalist digital art with clean lines and simplified geometric shapes, predominantly blue and white color scheme with red accents only for errors/warnings. High contrast for presentation visibility. NO text, labels, code snippets or writing of any kind. All elements should be recognizable from a distance using only universal symbols."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_4",
+         "data": {
+            "image_prompt": "A clean, minimalist split-screen digital illustration contrasting traditional versus AI-powered code review. LEFT SIDE: An exhausted developer with bloodshot eyes and strained expression examining abstract code-represented as blue and white geometric patterns. Several obvious red bug symbols (stylized insects) and security vulnerability icons (broken shield symbols) are clearly visible within the code but the developer is missing them. RIGHT SIDE: The identical code pattern with a prominent blue scanning beam representing AI analysis. The same bugs and vulnerabilities are now highlighted with glowing red circles, warning triangles, and intact shield icons. The AI side includes simple motion lines (to indicate speed) and a small, simplified upward-trending graph icon in the corner (showing quality improvement). Style: Minimalist digital art with clean lines and simplified geometric shapes, predominantly blue and white color scheme with red accents only for errors/warnings. High contrast for presentation visibility. NO text, labels, code snippets or writing of any kind. All elements should be recognizable from a distance using only universal symbols.",
+            "image_url": "https://fal.media/files/kangaroo/7VWLeX6K5wAelwS7yrab__ade2fc57a91741559436f7fe9efff931.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_4",
+         "data": {
+            "score": 30,
+            "feedback": "This image has several critical issues that make it unsuitable for the presentation slide. The primary issue is that it contains significant text within the image - there are numerous code snippets and text elements visible throughout both sides of the illustration. The image also doesn't follow the split-screen concept described in the prompt, which requested a clean comparison between traditional and AI-powered code review. Instead, it shows a developer face on the left and code with highlighted elements on the right. While it does show bug symbols (red icons) and the concept of AI review with highlighted warnings (triangles), the implementation differs significantly from the requested design. The image has a strong blue color scheme as requested, but the composition doesn't clearly illustrate the contrast between human code review missing issues versus AI finding them effectively. The developer's face is quite detailed and prominent rather than being a simplified representation as specified in the prompt.",
+            "suggestions": "A better image would: 1) Remove ALL text and code snippets completely 2) Use a true split-screen layout showing the same code pattern on both sides 3) Simplify the human representation to a more abstract, minimalist figure 4) Ensure the bugs and vulnerability symbols are identical on both sides but only highlighted/detected on the AI side 5) Add the requested motion lines and quality improvement graph on the AI side 6) Maintain a cleaner, more minimalist style with geometric representations of code rather than actual code text 7) Use the specified color scheme (blue/white with red only for errors) more consistently",
+            "current_prompt": "A clean, minimalist split-screen digital illustration contrasting traditional versus AI-powered code review. LEFT SIDE: An exhausted developer with bloodshot eyes and strained expression examining abstract code-represented as blue and white geometric patterns. Several obvious red bug symbols (stylized insects) and security vulnerability icons (broken shield symbols) are clearly visible within the code but the developer is missing them. RIGHT SIDE: The identical code pattern with a prominent blue scanning beam representing AI analysis. The same bugs and vulnerabilities are now highlighted with glowing red circles, warning triangles, and intact shield icons. The AI side includes simple motion lines (to indicate speed) and a small, simplified upward-trending graph icon in the corner (showing quality improvement). Style: Minimalist digital art with clean lines and simplified geometric shapes, predominantly blue and white color scheme with red accents only for errors/warnings. High contrast for presentation visibility. NO text, labels, code snippets or writing of any kind. All elements should be recognizable from a distance using only universal symbols."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_3_attempt_4",
+         "data": {
+            "new_prompt": "A clean minimalist split-screen digital illustration comparing traditional vs AI-powered code review. STRICT SPLIT SCREEN layout. LEFT SIDE: A simplified silhouette of a tired developer (shown as a basic outline figure with slumped shoulders and drooping head) examining abstract code represented as blue and white geometric patterns/blocks (NO actual code or text). Several red bug symbols (stylized geometric insects) and security vulnerability icons (simple broken shield shapes) are embedded within the pattern but clearly being overlooked by the developer. RIGHT SIDE: The identical abstract code pattern with a prominent blue scanning beam moving across it. The same bugs and vulnerabilities are now highlighted with glowing red circles and warning triangles. The AI side includes simple motion lines (curved arrows) indicating speed and a small, simplified upward-trending graph icon in the corner. Style: Ultra-minimalist digital art with clean geometric shapes only, using a blue and white color scheme with red ONLY for errors/warnings. High contrast for presentation visibility. ABSOLUTELY NO text, code snippets, labels or writing of any kind. All concepts must be communicated through universal symbols and simple shapes recognizable from a distance."
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_5",
+         "data": {
+            "image_prompt": "A clean minimalist split-screen digital illustration comparing traditional vs AI-powered code review. STRICT SPLIT SCREEN layout. LEFT SIDE: A simplified silhouette of a tired developer (shown as a basic outline figure with slumped shoulders and drooping head) examining abstract code represented as blue and white geometric patterns/blocks (NO actual code or text). Several red bug symbols (stylized geometric insects) and security vulnerability icons (simple broken shield shapes) are embedded within the pattern but clearly being overlooked by the developer. RIGHT SIDE: The identical abstract code pattern with a prominent blue scanning beam moving across it. The same bugs and vulnerabilities are now highlighted with glowing red circles and warning triangles. The AI side includes simple motion lines (curved arrows) indicating speed and a small, simplified upward-trending graph icon in the corner. Style: Ultra-minimalist digital art with clean geometric shapes only, using a blue and white color scheme with red ONLY for errors/warnings. High contrast for presentation visibility. ABSOLUTELY NO text, code snippets, labels or writing of any kind. All concepts must be communicated through universal symbols and simple shapes recognizable from a distance.",
+            "image_url": "https://fal.media/files/lion/iGFkBhN9iJ1GULtzxoBbN_229ae3f6fa3c4020be59aad6499e7838.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_5",
+         "data": {
+            "score": 45,
+            "feedback": "This image fails to meet several critical requirements specified in the prompt. The most significant issue is that it contains actual code/text throughout both sides of the image, when the prompt specifically requested 'ABSOLUTELY NO text, code snippets, labels or writing of any kind.' The image does have the requested split-screen layout comparing traditional vs. AI-powered code review, with a human silhouette on the left and automated scanning visualization on the right. It includes red bug symbols and uses a blue color scheme as specified. However, the extensive code text makes it inappropriate for the intended use. The image also doesn't fully follow the minimalist geometric style requested, instead showing more detailed code representation than abstract patterns/blocks.",
+            "suggestions": "The image needs to be completely redesigned without any text or code snippets. Use truly abstract geometric patterns to represent code (like blue and white blocks/shapes) rather than actual code text. Simplify the bug representations to more geometric/stylized forms. Maintain the split-screen concept but ensure all elements are communicated through universal symbols and simple shapes only. The scanning beam on the right side is appropriate but should interact with abstract code blocks rather than text. Ensure the red elements are limited only to errors/warnings as specified. A more minimalist approach with higher contrast would improve visibility for presentation purposes.",
+            "current_prompt": "A clean minimalist split-screen digital illustration comparing traditional vs AI-powered code review. STRICT SPLIT SCREEN layout. LEFT SIDE: A simplified silhouette of a tired developer (shown as a basic outline figure with slumped shoulders and drooping head) examining abstract code represented as blue and white geometric patterns/blocks (NO actual code or text). Several red bug symbols (stylized geometric insects) and security vulnerability icons (simple broken shield shapes) are embedded within the pattern but clearly being overlooked by the developer. RIGHT SIDE: The identical abstract code pattern with a prominent blue scanning beam moving across it. The same bugs and vulnerabilities are now highlighted with glowing red circles and warning triangles. The AI side includes simple motion lines (curved arrows) indicating speed and a small, simplified upward-trending graph icon in the corner. Style: Ultra-minimalist digital art with clean geometric shapes only, using a blue and white color scheme with red ONLY for errors/warnings. High contrast for presentation visibility. ABSOLUTELY NO text, code snippets, labels or writing of any kind. All concepts must be communicated through universal symbols and simple shapes recognizable from a distance."
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 3: Test Otomasyonunu G\u00fc\u00e7lendirin</h2><ul><li>Yapay zeka destekli test ara\u00e7lar\u0131 test senaryolar\u0131n\u0131 <b>otomatik olu\u015fturur</b></li><li>Kapsaml\u0131 testler <b>h\u0131zla ger\u00e7ekle\u015ftirilir</b></li><li>Kod kalitesi <b>\u00f6nemli \u00f6l\u00e7\u00fcde artar</b></li><li>Geli\u015ftiriciler kritik sorunlar\u0131 <b>erkenden tespit eder</b></li><li>Tekrarlayan test s\u00fcre\u00e7leri i\u00e7in <b>zaman kazand\u0131r\u0131r</b></li></ul>",
+            "slide_voiceover_text": "\u00dc\u00e7\u00fcnc\u00fc ipucumuz, yapay zeka ile test otomasyonunu g\u00fc\u00e7lendirmek. Modern yaz\u0131l\u0131m geli\u015ftirmede test s\u00fcre\u00e7leri kritik \u00f6neme sahiptir ancak genellikle zaman al\u0131c\u0131 olabilir. Yapay zeka destekli test ara\u00e7lar\u0131, test senaryolar\u0131n\u0131 otomatik olarak olu\u015fturarak size b\u00fcy\u00fck avantaj sa\u011flar. Bu ara\u00e7lar, uygulaman\u0131z\u0131n farkl\u0131 b\u00f6l\u00fcmlerini kapsaml\u0131 bir \u015fekilde test eder ve potansiyel hatalar\u0131 h\u0131zla ortaya \u00e7\u0131kar\u0131r. B\u00f6ylece, kod kalitesi \u00f6nemli \u00f6l\u00e7\u00fcde artar ve geli\u015ftiriciler kritik sorunlar\u0131 erkenden tespit edebilir. Ayr\u0131ca, tekrarlayan test s\u00fcre\u00e7leri i\u00e7in harcanan zaman\u0131 minimuma indirerek, ekibinizin daha yenilik\u00e7i g\u00f6revlere odaklanmas\u0131n\u0131 sa\u011flar. Bir sonraki projelerinizde yapay zeka destekli test otomasyonunu kullanarak geli\u015ftirme s\u00fcrecinizi daha verimli hale getirebilirsiniz.",
+            "slide_image_prompt": "A split-screen digital illustration showing the contrast between traditional testing and AI-powered test automation. On the left side, a tired developer manually writing test cases with stacks of bug reports and a clock showing time pressure. On the right side, an AI system automatically generating test scenarios with visual representations of code being scanned, bugs being caught in a net, and a dashboard showing improved code quality metrics with green checkmarks. The image should have a modern tech aesthetic with blue and purple gradient background, clean lines, and futuristic UI elements. Include symbolic representations of automation like gears and flowing data streams connecting the AI to the testing process."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "feedback": "The slide content is well-structured and coherent. The onscreen text uses proper HTML markup with appropriate heading and list elements, and bold tags to emphasize key points. The voiceover text expands on the bullet points effectively, providing additional context and explanation without being redundant. The image prompt is detailed and specifically designed to visually reinforce the contrast between traditional testing and AI-powered automation, which aligns perfectly with the slide's message.\n\nContent Coherence (38/40): The slide maintains excellent alignment between all elements. The message about AI-powered test automation is consistently delivered across onscreen text, voiceover, and image prompt. The information flows logically from introducing the concept to explaining benefits.\n\nMultimedia Design (29/30): There's a good balance between the concise bullet points on screen and the more detailed voiceover explanation. The image prompt is particularly strong, creating a visual that will reinforce the key message through the contrast of manual vs. automated testing.\n\nTechnical Quality (28/30): HTML markup is correctly implemented with appropriate heading tags and list elements. The image prompt is specific and detailed. The language is consistent throughout, maintaining a professional tone in Turkish. Minor point deduction because some bullet points could be slightly more specific about which AI tools to use or examples of implementation.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing the contrast between traditional testing and AI-powered test automation. On the left side, a tired developer manually writing test cases with stacks of bug reports and a clock showing time pressure. On the right side, an AI system automatically generating test scenarios with visual representations of code being scanned, bugs being caught in a net, and a dashboard showing improved code quality metrics with green checkmarks. The image should have a modern tech aesthetic with blue and purple gradient background, clean lines, and futuristic UI elements. Include symbolic representations of automation like gears and flowing data streams connecting the AI to the testing process.",
+            "image_url": "https://fal.media/files/penguin/sOX0lRI3WQ3RS2t2BJkwZ_8f01eb875a3446cbb562449f6f798905.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "score": 72,
+            "feedback": "The image is a well-executed split-screen illustration that effectively contrasts traditional testing (left) with AI-powered test automation (right). The left side shows a stressed human developer surrounded by stacks of documents, clocks indicating time pressure, and various UI elements representing manual work. The right side displays an automated AI-based testing environment with clean code displays, checkmarks indicating successful tests, and a modern tech aesthetic with the purple gradient background as specified. The image includes key elements like the 'AI' label, code representations, and visual cues of automation like the net catching bugs. However, there are a few issues: (1) The image contains text, specifically 'AI' on the right side, which violates the first critical requirement of no text within the image. (2) The human figures on the left might make the image too complex for a presentation slide context, potentially distracting from the main message.",
+            "suggestions": "To improve this image for presentation purposes: (1) Remove all text elements, including the 'AI' label. (2) Consider simplifying the human representation on the left side to make it less detailed and more symbolic. (3) Enhance the contrast between the two sides to make the benefits of AI automation even more apparent at a glance. (4) Reduce some of the smaller detailed elements that might not be visible during a presentation. (5) Consider adding more distinct visual indicators of improved efficiency on the right side, such as speed lines or clearer metrics showing improvement. The core concept is excellent, but simplification would make it more effective for presentation slides.",
+            "current_prompt": "A split-screen digital illustration showing the contrast between traditional testing and AI-powered test automation. On the left side, a tired developer manually writing test cases with stacks of bug reports and a clock showing time pressure. On the right side, an AI system automatically generating test scenarios with visual representations of code being scanned, bugs being caught in a net, and a dashboard showing improved code quality metrics with green checkmarks. The image should have a modern tech aesthetic with blue and purple gradient background, clean lines, and futuristic UI elements. Include symbolic representations of automation like gears and flowing data streams connecting the AI to the testing process."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_4_attempt_1",
+         "data": {
+            "new_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing improvement metrics using only green checkmarks and upward trending lines (NO TEXT or numbers). Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides to emphasize efficiency gains. The illustration should be simple enough to be clearly visible on a presentation slide, with minimal detail and strong symbolic elements that communicate the benefits of AI test automation at a glance."
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing improvement metrics using only green checkmarks and upward trending lines (NO TEXT or numbers). Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides to emphasize efficiency gains. The illustration should be simple enough to be clearly visible on a presentation slide, with minimal detail and strong symbolic elements that communicate the benefits of AI test automation at a glance.",
+            "image_url": "https://fal.media/files/elephant/xCXJkZg3WDCHQhK8boudf_109c289e5a9a4515bcec9d54a3f2768e.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_2",
+         "data": {
+            "score": 75,
+            "feedback": "This image effectively illustrates the contrast between traditional testing (left) and AI-powered test automation (right) as requested. The split-screen design with blue and purple gradient backgrounds creates a clear visual distinction. On the left, we see a stressed developer with slumped posture, surrounded by document stacks, clock icons showing time pressure, and bug symbols. On the right, we see an automated testing system with dashboards, metrics, and a net catching bugs, representing efficiency. However, the image contains numerical text elements (\"230%\" and \"20%\") on the right side dashboards, which violates the critical issue #1 of containing text within the image. Additionally, the dashboard elements are more detailed than requested in the prompt, which asked for only green checkmarks and upward trending lines without text or numbers.",
+            "suggestions": "Modify the image to remove all text and numerical elements from the dashboard displays. Simplify the right-side visualization to use only symbolic representations like green checkmarks and upward trending lines without any numbers. Consider reducing some of the detail in the dashboard elements to create a more minimalist approach as specified in the prompt. The overall concept is strong, but ensuring there are no text elements is critical for acceptance.",
+            "current_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing improvement metrics using only green checkmarks and upward trending lines (NO TEXT or numbers). Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides to emphasize efficiency gains. The illustration should be simple enough to be clearly visible on a presentation slide, with minimal detail and strong symbolic elements that communicate the benefits of AI test automation at a glance."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_4_attempt_2",
+         "data": {
+            "new_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing ONLY green checkmarks and simple upward trending lines with absolutely NO TEXT or NUMBERS. Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides. The illustration must be extremely simple with strong symbolic elements visible at a glance, avoiding any text, numerical indicators, or complex details in the dashboard displays. All metrics and improvements should be represented purely through abstract symbols like checkmarks and arrow directions."
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_3",
+         "data": {
+            "image_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing ONLY green checkmarks and simple upward trending lines with absolutely NO TEXT or NUMBERS. Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides. The illustration must be extremely simple with strong symbolic elements visible at a glance, avoiding any text, numerical indicators, or complex details in the dashboard displays. All metrics and improvements should be represented purely through abstract symbols like checkmarks and arrow directions.",
+            "image_url": "https://fal.media/files/lion/JvZat5mvj8nxkYCt1fjp2_d12f19b3a2764295a7413428cfd4aac5.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_3",
+         "data": {
+            "score": 92,
+            "feedback": "The image is well-executed and aligns with the slide content about AI-powered test automation. It successfully creates a split-screen contrast between traditional testing (left side with a stressed developer, stacks of documents, and time pressure) and AI-powered automation (right side with clean dashboard, checkmarks, and upward trending lines). The blue to purple gradient background matches the requested modern tech aesthetic. The visual storytelling is clear - showing the transition from manual, stressful testing to efficient, automated processes. While there are some small graph elements on the right side, they don't contain actual text or numbers, just symbolic representations as requested. The image maintains good visual quality with clear resolution, proper contrast, and professional appearance. The composition effectively communicates the key message that AI test automation saves time, improves code quality, and makes the development process more efficient.",
+            "suggestions": "The image could be improved in a few ways: 1) The dashboard on the right side could be somewhat simpler - it still has several interface elements that make it look like a specific product rather than an abstract representation of automation. 2) Consider adding more obvious bug-catching symbols on the right side to reinforce the 'early detection' benefit mentioned in the slide text. 3) The gear symbols representing automation could be more prominent to better illustrate the mechanism of automation. 4) The flowing data streams connecting both sides could be more visible to emphasize the transition from manual to automated testing.",
+            "current_prompt": "A minimalist split-screen digital illustration contrasting traditional testing with AI-powered test automation. Left side: simplified silhouette of a stressed developer with slumped posture, surrounded by symbolic stacks of documents, a clock icon showing time pressure, and simple bug icons scattered around. Right side: clean geometric representation of an automated testing system with abstract code blocks being scanned, stylized bug symbols being caught in a simplified net, and a minimalist dashboard showing ONLY green checkmarks and simple upward trending lines with absolutely NO TEXT or NUMBERS. Connect both sides with subtle flowing data streams and gear symbols representing automation. Use a modern tech aesthetic with blue and purple gradient background, clean vector-style graphics, and high contrast between the two sides. The illustration must be extremely simple with strong symbolic elements visible at a glance, avoiding any text, numerical indicators, or complex details in the dashboard displays. All metrics and improvements should be represented purely through abstract symbols like checkmarks and arrow directions."
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 4: Do\u011fal Dil \u0130\u015fleme ile Dok\u00fcmantasyon Olu\u015fturun</h2><ul><li>Yapay zeka, kod analizi yaparak otomatik dok\u00fcmantasyon \u00fcretebilir</li><li>Fonksiyon ve s\u0131n\u0131f a\u00e7\u0131klamalar\u0131n\u0131 otomatik olu\u015fturabilir</li><li>Kod \u00f6rnekleri ve kullan\u0131m senaryolar\u0131 ekleyebilir</li><li>Dok\u00fcmantasyon g\u00fcncellemelerini h\u0131zland\u0131r\u0131r</li><li>Tutarl\u0131 ve kapsaml\u0131 teknik dok\u00fcmantasyon sa\u011flar</li></ul>",
+            "slide_voiceover_text": "D\u00f6rd\u00fcnc\u00fc ipucumuz, do\u011fal dil i\u015fleme teknolojilerini kullanarak dok\u00fcmantasyon olu\u015fturmak. Yaz\u0131l\u0131m geli\u015ftirme s\u00fcrecinde en s\u0131k\u0131c\u0131 ve zaman al\u0131c\u0131 i\u015flerden biri olan dok\u00fcmantasyon yaz\u0131m\u0131, art\u0131k yapay zeka ile otomatikle\u015ftirilebilir. G\u00fcn\u00fcm\u00fczdeki yapay zeka ara\u00e7lar\u0131, kodunuzu analiz ederek fonksiyonlar\u0131n ve s\u0131n\u0131flar\u0131n ne yapt\u0131\u011f\u0131n\u0131 anlamland\u0131rabilir ve bunlar\u0131 a\u00e7\u0131k bir \u015fekilde dok\u00fcmante edebilir. Ayr\u0131ca, kod \u00f6rnekleri ve kullan\u0131m senaryolar\u0131 ekleyerek dok\u00fcmantasyonunuzu daha anla\u015f\u0131l\u0131r hale getirebilir. Bu sayede hem dok\u00fcmantasyon g\u00fcncellemelerinizi h\u0131zland\u0131rabilir hem de daha tutarl\u0131 ve kapsaml\u0131 teknik dok\u00fcmantasyonlar olu\u015fturabilirsiniz. D\u00fczenli olarak g\u00fcncellenen, kaliteli dok\u00fcmantasyon, projenizin s\u00fcrd\u00fcr\u00fclebilirli\u011fini art\u0131racak ve yeni tak\u0131m \u00fcyelerinin adaptasyonunu kolayla\u015ft\u0131racakt\u0131r.",
+            "slide_image_prompt": "A split-screen digital illustration showing the transformation from code to documentation. On the left side, show Python or JavaScript code in a modern code editor with syntax highlighting. On the right side, show the same code being automatically converted into well-structured documentation with function descriptions, parameters, and usage examples. Include subtle AI-like visual elements such as glowing neural network patterns connecting the code to the documentation. Add small robot assistants helping with the documentation process. Use a clean, modern tech aesthetic with a blue and white color scheme that conveys efficiency and automation. The image should have a professional, high-tech look appropriate for a business presentation on AI-assisted software development."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence between all elements. The onscreen text clearly presents the key points about using natural language processing for documentation generation, which is perfectly aligned with the voiceover that elaborates on these points with appropriate detail. The image prompt effectively visualizes the concept by illustrating the transformation from code to documentation with AI assistance.\n\nThe multimedia design shows good balance - the onscreen text uses concise bullet points that capture the essential information, while the voiceover provides more comprehensive context without being redundant. The HTML markup is correctly implemented with appropriate heading and list tags.\n\nThe image prompt is specific and detailed, clearly describing the visual elements needed to reinforce the slide's message. It includes specific technical details (showing code on one side and documentation on the other) and aesthetic guidance (color scheme, visual elements) that would result in a relevant, high-quality visual.\n\nThe language is consistent throughout, maintaining a professional yet accessible tone in both Turkish and the image prompt in English. The content flows logically, starting with the core concept and expanding to specific benefits and applications.\n\nNo critical issues were identified in any aspect of the slide content.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing the transformation from code to documentation. On the left side, show Python or JavaScript code in a modern code editor with syntax highlighting. On the right side, show the same code being automatically converted into well-structured documentation with function descriptions, parameters, and usage examples. Include subtle AI-like visual elements such as glowing neural network patterns connecting the code to the documentation. Add small robot assistants helping with the documentation process. Use a clean, modern tech aesthetic with a blue and white color scheme that conveys efficiency and automation. The image should have a professional, high-tech look appropriate for a business presentation on AI-assisted software development.",
+            "image_url": "https://fal.media/files/monkey/AL6Xhv2fdKgWe2HTf2JqZ_037f65a693d14937986448b329d6a140.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "score": 45,
+            "feedback": "This image has several issues that make it inappropriate for the slide's intended purpose. The most critical problem is that it doesn't match the prompt's requirement of showing a split-screen with code on the left and documentation on the right. Instead, both sides show code. The image lacks the documentation transformation aspect that's central to the slide's message about natural language processing creating documentation from code. Additionally, the requested robot assistants are missing, and there's no clear visual indication of AI-powered documentation generation. While the blue color scheme and neural network patterns in the background align with the requested tech aesthetic, the fundamental concept of the slide is not properly visualized. The image shows only code-to-code rather than code-to-documentation transformation.",
+            "suggestions": "Modify the image to clearly show the transformation from code to documentation. The left panel should display code as it currently does, but the right panel should show well-structured documentation with function descriptions, parameters, and examples - not more code. Add small robot assistants helping with the process as specified in the prompt. Ensure the neural network patterns clearly connect from code to documentation to illustrate the AI transformation process. Consider adding visual elements that better represent natural language processing, perhaps with text analysis visualization or speech-to-text iconography to reinforce the voiceover's message about NLP for documentation.",
+            "current_prompt": "A split-screen digital illustration showing the transformation from code to documentation. On the left side, show Python or JavaScript code in a modern code editor with syntax highlighting. On the right side, show the same code being automatically converted into well-structured documentation with function descriptions, parameters, and usage examples. Include subtle AI-like visual elements such as glowing neural network patterns connecting the code to the documentation. Add small robot assistants helping with the documentation process. Use a clean, modern tech aesthetic with a blue and white color scheme that conveys efficiency and automation. The image should have a professional, high-tech look appropriate for a business presentation on AI-assisted software development."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_5_attempt_1",
+         "data": {
+            "new_prompt": "A clean split-screen digital illustration showing code-to-documentation transformation. Left side: simple Python code in a modern code editor with blue syntax highlighting against a light background. Right side: the same code transformed into well-structured documentation with function descriptions, parameters, and example usage in a clean document format. Between the screens, subtle glowing blue neural network patterns flow from code to documentation, representing AI processing. Two small, minimalist robot characters (simple geometric shapes with basic facial features) assist with the transformation - one analyzing the code, one organizing the documentation. Use a professional tech aesthetic with blue and white color scheme. Clean, minimal composition with soft lighting that emphasizes the transformation process. High-quality, presentation-ready illustration that clearly demonstrates AI-powered documentation generation from code."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "A clean split-screen digital illustration showing code-to-documentation transformation. Left side: simple Python code in a modern code editor with blue syntax highlighting against a light background. Right side: the same code transformed into well-structured documentation with function descriptions, parameters, and example usage in a clean document format. Between the screens, subtle glowing blue neural network patterns flow from code to documentation, representing AI processing. Two small, minimalist robot characters (simple geometric shapes with basic facial features) assist with the transformation - one analyzing the code, one organizing the documentation. Use a professional tech aesthetic with blue and white color scheme. Clean, minimal composition with soft lighting that emphasizes the transformation process. High-quality, presentation-ready illustration that clearly demonstrates AI-powered documentation generation from code.",
+            "image_url": "https://fal.media/files/penguin/hzN9oEGqfVtWDJYNxyl5j_0729af778b094d8696569c8d68e0fb11.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "score": 85,
+            "feedback": "The image effectively illustrates the concept of AI-powered documentation generation from code as described in the slide content. The split-screen layout clearly shows code on the left transforming into documentation on the right, with glowing neural network patterns connecting them, representing AI processing. The image includes a small robot character on the right side that aligns with the prompt's request for minimalist robot assistants. The blue and white color scheme creates a professional tech aesthetic that works well for a presentation about AI and development tools. The composition is clean with good lighting that emphasizes the transformation process. The image avoids text that would be readable/distracting (showing only visual representations of code and documentation), contains no celebrity likenesses, and is appropriate for a professional presentation.",
+            "suggestions": "While the image is generally strong, consider these improvements for future iterations: 1) The neural network pattern between the code and documentation could be made slightly more prominent to better emphasize the AI transformation process. 2) The image shows only one robot character when the prompt requested two (one analyzing code, one organizing documentation). 3) The documentation side could be structured more clearly to show distinct sections for function descriptions, parameters, and examples as specified in the prompt. 4) Consider adding subtle arrows or directional elements to more clearly convey the transformation flow from code to documentation.",
+            "current_prompt": "A clean split-screen digital illustration showing code-to-documentation transformation. Left side: simple Python code in a modern code editor with blue syntax highlighting against a light background. Right side: the same code transformed into well-structured documentation with function descriptions, parameters, and example usage in a clean document format. Between the screens, subtle glowing blue neural network patterns flow from code to documentation, representing AI processing. Two small, minimalist robot characters (simple geometric shapes with basic facial features) assist with the transformation - one analyzing the code, one organizing the documentation. Use a professional tech aesthetic with blue and white color scheme. Clean, minimal composition with soft lighting that emphasizes the transformation process. High-quality, presentation-ready illustration that clearly demonstrates AI-powered documentation generation from code."
+         }
+      },
+      {
+         "step": "initial_content_slide_6",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 5: \u00d6\u011frenme S\u00fcrecinizi H\u0131zland\u0131r\u0131n</h2><ul><li>Yapay zeka destekli e\u011fitim platformlar\u0131 ile <b>ki\u015fiselle\u015ftirilmi\u015f</b> \u00f6\u011frenme deneyimi</li><li>\u00d6\u011frenme s\u00fcrecinizde <b>%40'a varan h\u0131z art\u0131\u015f\u0131</b></li><li>Zay\u0131f noktalar\u0131n\u0131za odaklanan <b>ak\u0131ll\u0131 i\u00e7erik \u00f6nerileri</b></li><li>Ger\u00e7ek zamanl\u0131 <b>geri bildirim</b> ve ilerleme analizi</li><li>Yaz\u0131l\u0131m geli\u015ftirme becerilerini pratik yaparak peki\u015ftirme</li></ul>",
+            "slide_voiceover_text": "Be\u015finci ipucumuz, yapay zeka ile \u00f6\u011frenme s\u00fcrecinizi h\u0131zland\u0131rmak. G\u00fcn\u00fcm\u00fczde yapay zeka destekli e\u011fitim platformlar\u0131, \u00f6\u011frenme deneyiminizi tamamen ki\u015fiselle\u015ftiriyor. Bu platformlar, \u00f6\u011frenme stilinizi ve h\u0131z\u0131n\u0131z\u0131 analiz ederek, sizin i\u00e7in en uygun i\u00e7erikleri sunuyor. Ara\u015ft\u0131rmalar, bu t\u00fcr ki\u015fiselle\u015ftirilmi\u015f \u00f6\u011frenme yakla\u015f\u0131mlar\u0131n\u0131n, geleneksel y\u00f6ntemlere g\u00f6re \u00f6\u011frenme s\u00fcresini %40'a kadar k\u0131saltabildi\u011fini g\u00f6steriyor. Yapay zeka, zay\u0131f oldu\u011funuz konular\u0131 tespit ederek, bu alanlara odaklanan i\u00e7erikler \u00f6neriyor ve ilerlemenizi ger\u00e7ek zamanl\u0131 olarak analiz ediyor. Ayr\u0131ca, \u00f6\u011frendiklerinizi prati\u011fe d\u00f6kmeniz i\u00e7in size \u00f6zel projeler ve kod al\u0131\u015ft\u0131rmalar\u0131 sunarak, yaz\u0131l\u0131m geli\u015ftirme becerilerinizi h\u0131zla geli\u015ftirmenize yard\u0131mc\u0131 oluyor. Bu \u015fekilde, yeni teknolojileri ve programlama dillerini \u00e7ok daha h\u0131zl\u0131 \u00f6\u011frenebilir ve kariyerinizde bir ad\u0131m \u00f6ne ge\u00e7ebilirsiniz.",
+            "slide_image_prompt": "A split-screen digital illustration showing a person's accelerated learning journey with AI. On the left side, show a focused individual wearing smart glasses with holographic code and learning metrics floating around them as they interact with a futuristic AI learning interface on a tablet. On the right side, visualize the same person confidently building a complex software application with AI assistance, surrounded by completed learning modules and progress charts showing steep improvement curves. Use a modern tech aesthetic with a blue and purple gradient background, glowing elements, and clean, minimalist design. Include visual elements representing personalized content recommendations and real-time feedback systems."
+         }
+      },
+      {
+         "step": "tester_content_slide_6",
+         "data": {
+            "feedback": "This slide content demonstrates excellent coherence between all elements. The onscreen text presents clear, bullet-pointed information about AI-enhanced learning that perfectly aligns with the more detailed voiceover explanation. The image prompt effectively visualizes the concept of accelerated learning through AI with appropriate visual metaphors. The HTML markup is correctly implemented with proper heading tags and formatting. The content maintains a professional tone throughout while effectively communicating the statistical benefit of '40% faster learning' mentioned in both the onscreen text and voiceover. The slide maintains focus on the specific tip (#5) while providing sufficient detail about personalized learning, real-time feedback, and practical application. The balance between concise onscreen text and comprehensive voiceover explanation is well-executed. The image prompt includes specific details about layout, colors, and visual elements that will effectively reinforce the message. Overall, this is a high-quality slide with strong alignment across all components.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_6_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen digital illustration showing a person's accelerated learning journey with AI. On the left side, show a focused individual wearing smart glasses with holographic code and learning metrics floating around them as they interact with a futuristic AI learning interface on a tablet. On the right side, visualize the same person confidently building a complex software application with AI assistance, surrounded by completed learning modules and progress charts showing steep improvement curves. Use a modern tech aesthetic with a blue and purple gradient background, glowing elements, and clean, minimalist design. Include visual elements representing personalized content recommendations and real-time feedback systems.",
+            "image_url": "https://fal.media/files/zebra/H6DqkkFeb85hTUjmKoKAq_2b0f05bb494c4551949f0e3f95efd90f.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_6_attempt_1",
+         "data": {
+            "score": 85,
+            "feedback": "The image excellently represents an AI-enhanced learning journey with a split-screen design as requested. The left side shows a person wearing smart glasses interacting with a tablet surrounded by holographic learning metrics and code elements. The right side depicts the same person working with more advanced interfaces and progress charts, effectively illustrating the acceleration of learning with AI assistance. The blue and purple gradient background with glowing elements creates a modern tech aesthetic that aligns perfectly with the slide's theme of AI-accelerated learning. The visual elements clearly represent personalized content recommendations and real-time feedback systems. However, there are a few issues to note: (1) The image contains some small text elements within the holographic displays (showing percentages like '6.15%' and '750,000%'). While these enhance the futuristic feel, they technically violate the 'no text within image' requirement. (2) The percentage shown (750,000%) is unrealistically high and may detract from the credibility of the slide's actual claim of '40% speed increase' mentioned in the content.",
+            "suggestions": "To improve this image while maintaining its strong conceptual alignment: (1) Remove or blur out the specific numerical text elements in the holographic displays. (2) Consider replacing percentage displays with simple upward trending graphs or arrows to convey improvement without specific numbers. (3) Ensure the visual elements better align with the 40% improvement mentioned in the slide content, rather than showing unrealistic metrics. (4) Consider slightly reducing the complexity of some of the floating elements to maintain focus on the core message of AI-enhanced learning acceleration.",
+            "current_prompt": "A split-screen digital illustration showing a person's accelerated learning journey with AI. On the left side, show a focused individual wearing smart glasses with holographic code and learning metrics floating around them as they interact with a futuristic AI learning interface on a tablet. On the right side, visualize the same person confidently building a complex software application with AI assistance, surrounded by completed learning modules and progress charts showing steep improvement curves. Use a modern tech aesthetic with a blue and purple gradient background, glowing elements, and clean, minimalist design. Include visual elements representing personalized content recommendations and real-time feedback systems."
+         }
+      },
+      {
+         "step": "initial_content_slide_7",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 6: Veri Analizi S\u00fcre\u00e7lerini Otomatikle\u015ftirin</h2><ul><li>YZ ile veri toplama ve temizleme s\u00fcre\u00e7lerini h\u0131zland\u0131r\u0131n</li><li>B\u00fcy\u00fck veri setlerinden otomatik i\u00e7g\u00f6r\u00fcler \u00e7\u0131kar\u0131n</li><li>Tahmine dayal\u0131 analitik modellerini geli\u015ftirin</li><li>Ger\u00e7ek zamanl\u0131 veri izleme ve raporlama kurun</li><li>Karar verme s\u00fcre\u00e7lerini veri odakl\u0131 hale getirin</li></ul>",
+            "slide_voiceover_text": "Alt\u0131nc\u0131 ipucumuz, veri analizi s\u00fcre\u00e7lerinizi yapay zeka ile otomatikle\u015ftirmek. Yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerinde veri analizi kritik \u00f6neme sahiptir ancak genellikle zaman al\u0131c\u0131 olabilir. Yapay zeka algoritmalar\u0131n\u0131 kullanarak veri toplama, temizleme ve i\u015fleme s\u00fcre\u00e7lerinizi otomatikle\u015ftirdi\u011finizde, ekibiniz daha de\u011ferli i\u015flere odaklanabilir. YZ destekli sistemler, b\u00fcy\u00fck veri setlerinden anlaml\u0131 i\u00e7g\u00f6r\u00fcler \u00e7\u0131karabilir, tahmine dayal\u0131 modeller olu\u015fturabilir ve ger\u00e7ek zamanl\u0131 veri izleme imkan\u0131 sunar. Bu sayede daha h\u0131zl\u0131, daha do\u011fru ve veri odakl\u0131 kararlar alabilirsiniz. Yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerinizde bu t\u00fcr otomatikle\u015ftirmeler, projenizin ba\u015far\u0131s\u0131n\u0131 \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilir.",
+            "slide_image_prompt": "A modern, clean visualization showing a software developer at a desk with multiple screens displaying data analytics dashboards with colorful charts, graphs, and real-time data flows. One screen shows an AI system automatically processing and cleaning data, another shows predictive analytics models generating insights, and a third shows automated reports being generated. The developer looks relaxed while the AI handles the complex data analysis work. The image should have a futuristic yet professional tech aesthetic with blue and purple color scheme, subtle digital elements, and a clean, minimalist style. Include some small visual indicators of automation like flowing data streams or processing indicators."
+         }
+      },
+      {
+         "step": "tester_content_slide_7",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence between all elements. The onscreen text is well-structured with a clear H2 heading and bullet points that summarize key concepts related to automating data analysis processes with AI. The voiceover text expands on these points effectively, providing additional context and explanation that complements rather than repeats the visible content. The image prompt is highly relevant and specifically designed to visualize the concepts mentioned in both the onscreen and voiceover text, with clear direction for showing AI-assisted data analysis automation. The HTML markup is correctly implemented with appropriate heading tags and list elements. The language is consistent throughout, maintaining a professional tone while being accessible. All components work together to deliver a clear, focused message about how AI can automate data analysis processes in software development. The content maintains excellent alignment with the overall presentation title and slide focus. No critical issues were identified.",
+            "score": 96
+         }
+      },
+      {
+         "step": "image_generation_slide_7_attempt_1",
+         "data": {
+            "image_prompt": "A modern, clean visualization showing a software developer at a desk with multiple screens displaying data analytics dashboards with colorful charts, graphs, and real-time data flows. One screen shows an AI system automatically processing and cleaning data, another shows predictive analytics models generating insights, and a third shows automated reports being generated. The developer looks relaxed while the AI handles the complex data analysis work. The image should have a futuristic yet professional tech aesthetic with blue and purple color scheme, subtle digital elements, and a clean, minimalist style. Include some small visual indicators of automation like flowing data streams or processing indicators.",
+            "image_url": "https://fal.media/files/tiger/2RUg_I5ZhKgXlDRzBZ4dK_c4d3f5a5b30748a29001793487425df3.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_7_attempt_1",
+         "data": {
+            "score": 92,
+            "feedback": "The image perfectly aligns with the slide's focus on automating data analysis processes. It shows a developer in a modern workspace with multiple screens displaying data analytics dashboards, charts, and graphs in a visually appealing blue and purple color scheme. The visual effectively communicates the concept of AI-powered data analysis automation. The composition is excellent with the human element providing scale and context while the multiple data visualization screens convey complexity being managed through technology. The futuristic tech aesthetic matches the slide content about AI-assisted data processes. There are no critical issues present - no inappropriate content, no text within the image that would be distracting, no copyright watermarks, and no rendering problems. All elements directly support the slide's context about automating data analysis processes in software development.",
+            "suggestions": "The image works very well as is, but to enhance it further for this specific presentation: 1) Consider making the distinction between AI-processed vs. manual data more apparent, perhaps with visual indicators showing automation in progress on one of the screens. 2) While the blue/purple aesthetic is excellent, adding subtle green elements could help indicate successful automated processes. 3) The dashboard screens could potentially show more distinct phases of data processing (collection, cleaning, analysis, reporting) to better align with the bullet points in the slide content.",
+            "current_prompt": "A modern, clean visualization showing a software developer at a desk with multiple screens displaying data analytics dashboards with colorful charts, graphs, and real-time data flows. One screen shows an AI system automatically processing and cleaning data, another shows predictive analytics models generating insights, and a third shows automated reports being generated. The developer looks relaxed while the AI handles the complex data analysis work. The image should have a futuristic yet professional tech aesthetic with blue and purple color scheme, subtle digital elements, and a clean, minimalist style. Include some small visual indicators of automation like flowing data streams or processing indicators."
+         }
+      },
+      {
+         "step": "initial_content_slide_8",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130pucu 7: Proje Y\u00f6netiminde YZ Ara\u00e7lar\u0131n\u0131 Kullan\u0131n</h2><ul><li>Karar verme s\u00fcre\u00e7lerini veri odakl\u0131 hale getirin</li><li>Risk tahminleme ve \u00f6nleyici tedbirleri otomatikle\u015ftirin</li><li>Kaynak kullan\u0131m\u0131n\u0131 optimize edin ve verimlili\u011fi art\u0131r\u0131n</li><li>Sprint planlamalar\u0131n\u0131 ve g\u00f6rev da\u011f\u0131l\u0131mlar\u0131n\u0131 ak\u0131ll\u0131 sistemlerle y\u00f6netin</li><li>Ekip performans\u0131n\u0131 ve proje ilerlemesini ger\u00e7ek zamanl\u0131 takip edin</li></ul>",
+            "slide_voiceover_text": "Son ipucumuz, yapay zeka ara\u00e7lar\u0131n\u0131 proje y\u00f6netimi s\u00fcre\u00e7lerinize entegre etmek. Modern YZ destekli proje y\u00f6netim ara\u00e7lar\u0131, geleneksel y\u00f6ntemlerin \u00f6tesine ge\u00e7erek karar verme s\u00fcre\u00e7lerinizi veri odakl\u0131 hale getirir. Bu sistemler, projelerdeki olas\u0131 riskleri \u00f6nceden tahmin ederek sizi uyar\u0131r ve proaktif \u00f6nlemler alman\u0131z\u0131 sa\u011flar. Kaynak kullan\u0131m\u0131n\u0131z\u0131 optimize ederek, do\u011fru zamanda do\u011fru kaynaklar\u0131 atayabilir ve verimlili\u011fi maksimize edebilirsiniz. Sprint planlamalar\u0131n\u0131z\u0131 ve g\u00f6rev da\u011f\u0131l\u0131mlar\u0131n\u0131z\u0131 yapay zeka destekli sistemlerle y\u00f6netti\u011finizde, ekibinizin g\u00fc\u00e7l\u00fc y\u00f6nlerine g\u00f6re i\u015f da\u011f\u0131l\u0131m\u0131 yapabilirsiniz. Ayr\u0131ca, ekip performans\u0131n\u0131 ve proje ilerlemesini ger\u00e7ek zamanl\u0131 izleyerek, gerekti\u011finde h\u0131zl\u0131 m\u00fcdahaleler yapabilirsiniz. Yapay zeka destekli proje y\u00f6netim ara\u00e7lar\u0131, yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7lerinizi daha \u00f6ng\u00f6r\u00fclebilir ve verimli hale getirecektir.",
+            "slide_image_prompt": "A modern, clean digital dashboard showing an AI-powered project management interface with real-time analytics and predictive risk assessment. The interface should display colorful charts, Kanban boards with tasks automatically assigned to team members, resource allocation visualization, and AI recommendations highlighted. In the foreground, show a project manager reviewing the dashboard on a tablet while a diverse team collaborates in the background in a bright, modern office space. The dashboard should have Turkish labels consistent with software development terminology. Use a sleek, tech-forward design style with blue and purple gradient accents, creating a professional yet innovative atmosphere."
+         }
+      },
+      {
+         "step": "tester_content_slide_8",
+         "data": {
+            "feedback": "The slide content demonstrates excellent coherence between all elements. The on-screen text presents a clear, well-structured list of benefits for using AI in project management that aligns perfectly with the voiceover script, which elaborates on each bullet point with appropriate detail. The image prompt effectively visualizes the concept by depicting an AI project management dashboard with the specific elements mentioned in the text. The HTML markup is correctly implemented with proper heading and list tags. The content maintains consistency in Turkish language throughout all elements, with professional terminology appropriate for a software development audience. The voiceover provides valuable context while the on-screen text remains concise and scannable. The image prompt includes specific details about layout, colors, and elements that will create a visual that reinforces the key message. Overall, this is a high-quality slide that effectively communicates the benefits of AI in project management with no critical issues detected.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_8_attempt_1",
+         "data": {
+            "image_prompt": "A modern, clean digital dashboard showing an AI-powered project management interface with real-time analytics and predictive risk assessment. The interface should display colorful charts, Kanban boards with tasks automatically assigned to team members, resource allocation visualization, and AI recommendations highlighted. In the foreground, show a project manager reviewing the dashboard on a tablet while a diverse team collaborates in the background in a bright, modern office space. The dashboard should have Turkish labels consistent with software development terminology. Use a sleek, tech-forward design style with blue and purple gradient accents, creating a professional yet innovative atmosphere.",
+            "image_url": "https://fal.media/files/lion/rev3oVxmAw1I4dQnsX0at_2b09e0209d6f489d922664fa96669bbc.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_8_attempt_1",
+         "data": {
+            "score": 85,
+            "feedback": "The image successfully depicts an AI-powered project management dashboard being used by a professional in a modern office environment, which aligns well with the slide's topic on AI tools for project management. The dashboard shows multiple data visualizations including charts, graphs, and analytics that effectively represent the concept of data-driven decision making and real-time project tracking mentioned in the slide content. The blue and purple gradient aesthetic creates a tech-forward, professional appearance that matches the requested visual style. The background shows a blurred office environment with team members, suggesting the collaborative aspect mentioned in the prompt. However, while the dashboard appears to display some text elements, they are not clearly legible Turkish labels as specified in the prompt. The image does not contain any celebrities, inappropriate content, watermarks, or technical rendering issues. The professional reviewing the tablet dashboard represents the project manager role appropriately.",
+            "suggestions": "To improve this image for the presentation slide, consider the following adjustments to the prompt:\n1. Request more visible and legible Turkish UI elements on the dashboard to better align with the slide's language context\n2. Include more specific project management elements like Kanban boards, which were mentioned in the prompt but aren't clearly visible in the current image\n3. Add visual indicators of AI recommendations or predictive risk assessment that are more explicitly labeled\n4. Consider requesting a slightly less complex dashboard with fewer charts to maintain focus on the key message\n5. Request a clearer visualization of resource allocation or team task distribution to better support the bullet points about resource optimization and smart task assignment",
+            "current_prompt": "A modern, clean digital dashboard showing an AI-powered project management interface with real-time analytics and predictive risk assessment. The interface should display colorful charts, Kanban boards with tasks automatically assigned to team members, resource allocation visualization, and AI recommendations highlighted. In the foreground, show a project manager reviewing the dashboard on a tablet while a diverse team collaborates in the background in a bright, modern office space. The dashboard should have Turkish labels consistent with software development terminology. Use a sleek, tech-forward design style with blue and purple gradient accents, creating a professional yet innovative atmosphere."
+         }
+      },
+      {
+         "step": "initial_content_slide_9",
+         "data": {
+            "slide_onscreen_text": "<h2>Gelece\u011fin Yaz\u0131l\u0131m Geli\u015ftirme S\u00fcre\u00e7leri</h2><ul><li>Yapay zeka ara\u00e7lar\u0131 rekabet avantaj\u0131 sa\u011flar</li><li>Teknolojik de\u011fi\u015fimlere h\u0131zl\u0131 adaptasyon imkan\u0131 sunar</li><li>Verimlilik ve inovasyon kapasitesini art\u0131r\u0131r</li><li>Yaz\u0131l\u0131m ekiplerinin yarat\u0131c\u0131l\u0131\u011f\u0131n\u0131 destekler</li><li>Rutin g\u00f6revleri otomatize ederek de\u011fer odakl\u0131 \u00e7al\u0131\u015fmay\u0131 m\u00fcmk\u00fcn k\u0131lar</li></ul>",
+            "slide_voiceover_text": "Gelece\u011fin yaz\u0131l\u0131m geli\u015ftirme s\u00fcre\u00e7leri yapay zeka destekli ara\u00e7lar etraf\u0131nda \u015fekilleniyor. Bu ara\u00e7lar\u0131 benimsemek, organizasyonunuza \u00f6nemli bir rekabet avantaj\u0131 sa\u011flayacakt\u0131r. S\u00fcrekli de\u011fi\u015fen teknoloji d\u00fcnyas\u0131nda, yapay zeka \u00e7\u00f6z\u00fcmleri sayesinde g\u00fcncel kalabilir ve yeni trendlere h\u0131zla adapte olabilirsiniz. Yapay zeka, yaz\u0131l\u0131m ekiplerinin verimlili\u011fini art\u0131r\u0131rken, ayn\u0131 zamanda inovasyon kapasitesini de geni\u015fletiyor. Geli\u015ftiriciler, rutin ve tekrar eden g\u00f6revlerden kurtulup daha yarat\u0131c\u0131 ve stratejik \u00e7al\u0131\u015fmalara odaklanabilirler. Yapay zeka destekli ara\u00e7lar, yaz\u0131l\u0131m geli\u015ftirmenin gelece\u011finde merkezi bir rol oynayacak ve bu teknolojiyi \u015fimdiden benimseyen organizasyonlar, sekt\u00f6rlerinde \u00f6nc\u00fc konuma ge\u00e7ecektir.",
+            "slide_image_prompt": "Create a futuristic digital workspace showing software developers collaborating with AI tools. The image should feature a modern, bright office setting with transparent screens displaying code and AI suggestions. Show developers looking engaged and productive while AI visualizations (represented by glowing blue digital patterns) assist their work. Include visual elements that represent increased productivity and innovation - perhaps charts trending upward or light bulbs symbolizing new ideas. The overall style should be clean, slightly futuristic with a blue and white color scheme, with soft lighting that gives an optimistic feel about the future of software development. The visualization should clearly communicate the synergy between human creativity and AI assistance."
+         }
+      },
+      {
+         "step": "tester_content_slide_9",
+         "data": {
+            "feedback": "This slide demonstrates excellent content coherence with strong alignment between the onscreen text, voiceover, and image prompt. The message about AI-assisted software development is clearly delivered across all elements. The onscreen text provides concise bullet points that summarize key benefits, while the voiceover expands on these points with appropriate detail. The image prompt effectively visualizes the concept by requesting a futuristic workspace that shows the human-AI collaboration described in the text.\n\nThe multimedia design is well-balanced. The onscreen text uses proper HTML formatting with a heading and bullet points, making it scannable and easy to digest. The voiceover complements rather than duplicates the onscreen text, providing additional context and explanation. The image prompt is detailed and specific, clearly describing visual elements that will reinforce the message about AI-enhanced productivity and innovation.\n\nTechnically, the HTML markup is correctly implemented with proper heading tags and unordered list elements. The language is consistent throughout, maintaining the Turkish language in all content elements. The tone is professional and optimistic, appropriate for a presentation about future technology. The image prompt provides clear direction for creating a visual that will enhance the slide's message.\n\nNo critical issues were identified in this slide content.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_9_attempt_1",
+         "data": {
+            "image_prompt": "Create a futuristic digital workspace showing software developers collaborating with AI tools. The image should feature a modern, bright office setting with transparent screens displaying code and AI suggestions. Show developers looking engaged and productive while AI visualizations (represented by glowing blue digital patterns) assist their work. Include visual elements that represent increased productivity and innovation - perhaps charts trending upward or light bulbs symbolizing new ideas. The overall style should be clean, slightly futuristic with a blue and white color scheme, with soft lighting that gives an optimistic feel about the future of software development. The visualization should clearly communicate the synergy between human creativity and AI assistance.",
+            "image_url": "https://fal.media/files/rabbit/hGr2IGhHLiXCPipYgzfar_f12675f8d34041248fd6f565411516f6.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_9_attempt_1",
+         "data": {
+            "score": 75,
+            "feedback": "This image successfully captures a futuristic software development environment with AI integration, aligning well with the slide's content about future software development processes. The blue-dominant color scheme creates the requested futuristic atmosphere, and the transparent screens showing code, charts, and visualizations effectively convey the AI-human collaboration concept. The upward trending chart visible on the screen directly supports the point about increased productivity and innovation. The modern office setting with developers engaged with advanced technology perfectly illustrates the synergy between human creativity and AI assistance mentioned in the prompt. However, there is text visible on the screens (including 'AI' labels and data visualizations), which violates the critical requirement of no text or writing within the image. The image also features identifiable human figures in a working environment rather than more abstract representations, which might not be ideal for a presentation that should focus on concepts rather than specific individuals.",
+            "suggestions": "To improve this image for presentation use, I recommend:\n1. Remove all text elements including the visible 'AI' labels on the screens\n2. Consider using a more abstract representation of developers (silhouettes or partial views) to focus on the concept rather than specific people\n3. Maintain the blue glowing visualization elements but ensure they don't contain readable text\n4. Keep the upward trending charts but simplify them to avoid text labels\n5. Consider incorporating more symbolic elements like light bulbs or innovation icons as mentioned in the original prompt\n6. Reduce the complexity of the screen displays while maintaining the futuristic feel\n7. Ensure the image has more negative space to make it less busy for presentation purposes",
+            "current_prompt": "Create a futuristic digital workspace showing software developers collaborating with AI tools. The image should feature a modern, bright office setting with transparent screens displaying code and AI suggestions. Show developers looking engaged and productive while AI visualizations (represented by glowing blue digital patterns) assist their work. Include visual elements that represent increased productivity and innovation - perhaps charts trending upward or light bulbs symbolizing new ideas. The overall style should be clean, slightly futuristic with a blue and white color scheme, with soft lighting that gives an optimistic feel about the future of software development. The visualization should clearly communicate the synergy between human creativity and AI assistance."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_9_attempt_1",
+         "data": {
+            "new_prompt": "Create a minimalist, futuristic digital workspace showing the synergy between software developers and AI tools. Feature a clean, bright office environment with transparent holographic screens displaying abstract code patterns and data visualizations without any text or labels. Include silhouetted or partial views of developers interacting with glowing blue digital patterns representing AI assistance. Incorporate simple upward-trending line graphs without labels and abstract light bulb symbols to represent innovation and productivity gains. Use a primarily blue and white color scheme with soft, optimistic lighting that creates a hopeful atmosphere about the future of software development. The composition should have adequate negative space and focus on the conceptual relationship between human creativity and AI collaboration rather than specific individuals. Ensure the image remains simple and uncluttered while clearly conveying increased efficiency and technological advancement in software development processes. High-quality, semi-abstract visualization suitable for presentation background."
+         }
+      },
+      {
+         "step": "image_generation_slide_9_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist, futuristic digital workspace showing the synergy between software developers and AI tools. Feature a clean, bright office environment with transparent holographic screens displaying abstract code patterns and data visualizations without any text or labels. Include silhouetted or partial views of developers interacting with glowing blue digital patterns representing AI assistance. Incorporate simple upward-trending line graphs without labels and abstract light bulb symbols to represent innovation and productivity gains. Use a primarily blue and white color scheme with soft, optimistic lighting that creates a hopeful atmosphere about the future of software development. The composition should have adequate negative space and focus on the conceptual relationship between human creativity and AI collaboration rather than specific individuals. Ensure the image remains simple and uncluttered while clearly conveying increased efficiency and technological advancement in software development processes. High-quality, semi-abstract visualization suitable for presentation background.",
+            "image_url": "https://fal.media/files/tiger/j1_HOh6O_nz_JU56r4MEg_6583163c8523418ea1b2d9c3d940bbfa.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_9_attempt_2",
+         "data": {
+            "score": 65,
+            "feedback": "The image effectively shows a futuristic workspace with a silhouetted figure interacting with holographic displays, which aligns with the theme of future software development processes. However, there are several issues that need addressing:\n\n1. The image contains visible text elements within the code displays, which violates the critical issue #1 (contains text or writing within the image)\n2. The color scheme uses orange/yellow light bulb icons rather than staying within the requested primarily blue and white color scheme\n3. While the image does show a developer interacting with digital displays, the representation of AI collaboration is not clearly distinguished\n4. The workspace appears modern but does not fully capture the minimalist style requested in the prompt\n5. The image shows only one developer rather than multiple developers as implied in the prompt\n6. The holographic displays show actual code rather than the requested 'abstract code patterns'\n7. The composition is a bit busier than the 'adequate negative space' requested in the prompt",
+            "suggestions": "To improve the image for this presentation slide:\n\n1. Remove all visible text/code from the holographic displays, replacing with abstract patterns that suggest code without being readable text\n2. Adjust the color scheme to use primarily blue and white tones as specified, limiting other colors to subtle accents\n3. Include visual elements that more clearly represent AI assistance, such as distinct glowing blue patterns that interact with the human silhouette\n4. Simplify the overall composition to create more negative space and a more minimalist aesthetic\n5. Consider adding a second subtle silhouette to represent team collaboration\n6. Make the trend graphs more abstract and simplified without any label elements\n7. Ensure the light bulb symbols remain abstract and use the blue color palette rather than orange/yellow\n8. Enhance the futuristic feel with more transparent, floating elements rather than traditional screens",
+            "current_prompt": "Create a minimalist, futuristic digital workspace showing the synergy between software developers and AI tools. Feature a clean, bright office environment with transparent holographic screens displaying abstract code patterns and data visualizations without any text or labels. Include silhouetted or partial views of developers interacting with glowing blue digital patterns representing AI assistance. Incorporate simple upward-trending line graphs without labels and abstract light bulb symbols to represent innovation and productivity gains. Use a primarily blue and white color scheme with soft, optimistic lighting that creates a hopeful atmosphere about the future of software development. The composition should have adequate negative space and focus on the conceptual relationship between human creativity and AI collaboration rather than specific individuals. Ensure the image remains simple and uncluttered while clearly conveying increased efficiency and technological advancement in software development processes. High-quality, semi-abstract visualization suitable for presentation background."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_9_attempt_2",
+         "data": {
+            "new_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with transparent holographic displays showing purely abstract blue geometric patterns and data visualizations with absolutely NO text or code snippets. Include 2-3 silhouetted figures of developers interacting with distinct glowing blue digital patterns that flow between human and machine, clearly representing AI assistance. Incorporate simple, abstract upward-trending blue line graphs without any labels and stylized blue light bulb symbols representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure ample negative space (at least 30% of the composition) for a truly minimalist aesthetic. The floating holographic elements should appear lightweight and transparent rather than solid screens. Focus on the conceptual relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes."
+         }
+      },
+      {
+         "step": "image_generation_slide_9_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with transparent holographic displays showing purely abstract blue geometric patterns and data visualizations with absolutely NO text or code snippets. Include 2-3 silhouetted figures of developers interacting with distinct glowing blue digital patterns that flow between human and machine, clearly representing AI assistance. Incorporate simple, abstract upward-trending blue line graphs without any labels and stylized blue light bulb symbols representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure ample negative space (at least 30% of the composition) for a truly minimalist aesthetic. The floating holographic elements should appear lightweight and transparent rather than solid screens. Focus on the conceptual relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes.",
+            "image_url": "https://fal.media/files/lion/GvEEoCbM-EAA4dgKW15DF_77765821c5db48a2a26147175e8a81ac.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_9_attempt_3",
+         "data": {
+            "score": 65,
+            "feedback": "The image shows a modern, clean office environment with three silhouetted professionals looking at a large holographic blue display showing graphs, data visualizations, and a light bulb icon representing innovation. The image successfully uses a blue and white color palette with soft lighting creating an optimistic atmosphere. It effectively communicates the concept of future-focused software development and AI collaboration. However, there are several issues that need addressing. First, the display contains what appears to be small text elements embedded in the data visualizations, which violates the critical requirement of no text within the image. Second, there are three full human figures rather than the 2-3 silhouettes requested in the prompt, and they don't appear to be actively interacting with flowing digital patterns between human and machine as specified. The image shows a more traditional presentation scenario rather than the interactive AI-human collaboration concept requested. While the upward-trending graphs are present, the distinct flowing patterns representing AI assistance are not clearly depicted.",
+            "suggestions": "To improve the image, modify the prompt to: 1) Emphasize absolutely NO text elements, including within data visualizations; 2) Request more abstract representations of the human figures as partial silhouettes rather than full figures; 3) Specify more clearly the interactive flowing patterns between humans and AI (perhaps as tendrils of light connecting hands to digital elements); 4) Request less conventional graph imagery and more abstract data visualization; 5) Reduce the number of elements in the scene to create more negative space (currently less than the 30% requested); 6) Emphasize that the focus should be on interactive collaboration rather than presentation-style viewing of displays; 7) Request more transparent, floating holographic elements rather than a single large display; 8) Specifically request that human figures be positioned to suggest interaction rather than passive observation.",
+            "current_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with transparent holographic displays showing purely abstract blue geometric patterns and data visualizations with absolutely NO text or code snippets. Include 2-3 silhouetted figures of developers interacting with distinct glowing blue digital patterns that flow between human and machine, clearly representing AI assistance. Incorporate simple, abstract upward-trending blue line graphs without any labels and stylized blue light bulb symbols representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure ample negative space (at least 30% of the composition) for a truly minimalist aesthetic. The floating holographic elements should appear lightweight and transparent rather than solid screens. Focus on the conceptual relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_9_attempt_3",
+         "data": {
+            "new_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display multiple floating, transparent holographic elements with abstract blue geometric patterns and data visualizations (absolutely NO text or numbers of any kind). Show distinct glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure at least 30% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, scattered in space, and semi-transparent rather than as solid screens or a single large display. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration."
+         }
+      },
+      {
+         "step": "image_generation_slide_9_attempt_4",
+         "data": {
+            "image_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display multiple floating, transparent holographic elements with abstract blue geometric patterns and data visualizations (absolutely NO text or numbers of any kind). Show distinct glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure at least 30% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, scattered in space, and semi-transparent rather than as solid screens or a single large display. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration.",
+            "image_url": "https://fal.media/files/koala/UZqe0AZz944ZBGBsZO3Sg_0fd583ea1ef1434ebcf74fed790c28f9.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_9_attempt_4",
+         "data": {
+            "score": 70,
+            "feedback": "The image successfully captures the concept of AI-enhanced software development processes with a futuristic workspace showing human-AI collaboration. It features a minimalist office environment with partially visible human silhouettes interacting with holographic elements in a blue and white color palette. The image includes key requested elements like floating transparent holographic visualizations, a stylized blue light bulb symbol representing innovation, and upward-trending data patterns. However, there are some critical issues that need addressing. Most notably, the image contains visible text elements - specifically 'AI' text in one of the holographic panels, which violates the first critical issue requirement. Additionally, some of the holographic elements appear to contain numbers in the data visualizations, which was explicitly prohibited in the prompt instructions.",
+            "suggestions": "To improve the image for presentation use:\n1. Remove all text elements, especially the 'AI' label visible in the holographic displays\n2. Eliminate any numerical elements from the data visualizations\n3. Increase the negative space as requested (currently less than the 30% specified)\n4. Make the interaction between human hands and holographic elements more prominent with clearer energy flow patterns\n5. Consider reducing the number of holographic elements for a more minimalist approach\n6. Ensure the holographic elements appear more scattered in space rather than concentrated in one area\n7. Request a brighter overall lighting scheme while maintaining the blue/white color palette",
+            "current_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display multiple floating, transparent holographic elements with abstract blue geometric patterns and data visualizations (absolutely NO text or numbers of any kind). Show distinct glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure at least 30% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, scattered in space, and semi-transparent rather than as solid screens or a single large display. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_9_attempt_4",
+         "data": {
+            "new_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display 4-5 scattered, floating, transparent holographic elements with abstract blue geometric patterns and simplified data visualizations (absolutely NO text, letters, numbers, or alphanumeric characters of any kind). Show distinct, prominent glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure exactly 30-40% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, well-distributed in 3D space, and semi-transparent rather than as solid screens. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only - no symbols that could be interpreted as text. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration. Bright, clean lighting with subtle shadows to enhance depth."
+         }
+      },
+      {
+         "step": "image_generation_slide_9_attempt_5",
+         "data": {
+            "image_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display 4-5 scattered, floating, transparent holographic elements with abstract blue geometric patterns and simplified data visualizations (absolutely NO text, letters, numbers, or alphanumeric characters of any kind). Show distinct, prominent glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure exactly 30-40% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, well-distributed in 3D space, and semi-transparent rather than as solid screens. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only - no symbols that could be interpreted as text. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration. Bright, clean lighting with subtle shadows to enhance depth.",
+            "image_url": "https://fal.media/files/elephant/jA_szXRMtyu1klT3uN_KT_f2976c9c58ab44bea2cc6c322f8b70cd.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_9_attempt_5",
+         "data": {
+            "score": 68,
+            "feedback": "The image shows a futuristic workspace with two human silhouettes interacting with holographic blue elements, which aligns well with the presentation topic about AI-enhanced software development processes. The color scheme adheres to the requested blue and white palette with a clean, minimalist aesthetic. However, there are several issues that prevent it from fully meeting the requirements:\n\n1. The image contains icons that could be interpreted as simplified text or alphanumeric characters (graphs, arrows, user icons), which contradicts the requirement of 'absolutely NO text, letters, numbers, or alphanumeric characters of any kind.'\n\n2. The digital elements appear more like traditional icons rather than the requested 'abstract blue geometric patterns and simplified data visualizations.'\n\n3. While there is interaction between the humans and digital elements, the 'distinct, prominent glowing blue digital energy patterns flowing directly between human hands/fingers' are not as pronounced as specified.\n\n4. The light bulb symbol is present as requested, but some of the other elements like user icons don't serve the presentation context as effectively as more abstract representations would.\n\n5. The negative space requirement (30-40%) is somewhat met, but the composition could benefit from more balanced distribution of elements.",
+            "suggestions": "To improve the image for this presentation:\n\n1. Replace all icons that resemble standard UI elements (user icons, graphs, arrows) with truly abstract geometric shapes and patterns that cannot be interpreted as text or symbols.\n\n2. Enhance the visual connection between human hands and digital elements with more prominent, flowing energy patterns that clearly illustrate the collaborative relationship.\n\n3. Make the holographic elements more varied in size and more distinctly three-dimensional, with better distribution throughout the space.\n\n4. Maintain the light bulb as an innovation symbol but render it in a more abstract, artistic way that aligns with the futuristic aesthetic.\n\n5. Ensure all visual elements directly support the concept of AI-enhanced software development without relying on conventional iconography.\n\n6. Refine the prompt to specifically prohibit standard UI icons in addition to text and alphanumeric characters.",
+            "current_prompt": "Create a minimalist, futuristic digital workspace showing collaboration between software developers and AI. Feature a clean, bright office environment with 2-3 partial human silhouettes positioned to actively interact with holographic elements. Display 4-5 scattered, floating, transparent holographic elements with abstract blue geometric patterns and simplified data visualizations (absolutely NO text, letters, numbers, or alphanumeric characters of any kind). Show distinct, prominent glowing blue digital energy patterns flowing directly between human hands/fingers and the holographic elements, clearly representing AI assistance and collaboration. Include simple, abstract upward-trending blue patterns and a stylized, minimalist blue light bulb symbol representing innovation. Use exclusively blue and white color palette with soft, optimistic lighting creating a hopeful atmosphere. Ensure exactly 30-40% negative space throughout the composition for a truly minimalist aesthetic. The floating holographic elements must appear lightweight, well-distributed in 3D space, and semi-transparent rather than as solid screens. Focus on depicting the interactive relationship between human creativity and AI collaboration through abstract visual elements only - no symbols that could be interpreted as text. High-quality, semi-abstract visualization suitable for a presentation about the future of software development processes and AI integration. Bright, clean lighting with subtle shadows to enhance depth."
+         }
+      },
+      {
+         "step": "presentation_completion",
+         "data": {
+            "total_slides": 9,
+            "completion_time": "20250226113135"
+         },
+         "timestamp": "20250226113135"
+      }
+   ],
+   "metadata": {
+      "start_time": "20250226103812",
+      "completion_status": {
+         "topic_selection": true,
+         "outline_generation": false,
+         "content_generation": true
+      },
+      "completion_time": "20250226113135"
+   }
+}

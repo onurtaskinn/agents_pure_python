@@ -1,0 +1,21 @@
+{
+   "timestamp": "20250224232653",
+   "process_steps": [
+      {
+         "step": "topic_selection",
+         "data": {
+            "topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         },
+         "timestamp": "20250224232655"
+      }
+   ],
+   "metadata": {
+      "start_time": "20250224232653",
+      "completion_status": {
+         "topic_selection": false,
+         "outline_generation": false,
+         "content_generation": false
+      }
+   }
+}

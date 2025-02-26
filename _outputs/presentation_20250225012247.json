@@ -1,0 +1,683 @@
+{
+   "timestamp": "20250225012247",
+   "process_steps": [
+      {
+         "step": "topic_selection",
+         "data": {
+            "topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         },
+         "timestamp": "20250225012248"
+      },
+      {
+         "step": "outline_generation_start",
+         "data": {
+            "topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         },
+         "timestamp": "20250225012248"
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri: Ba\u015far\u0131l\u0131 Kariyer \u0130li\u015fkileri Geli\u015ftirme Rehberi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler, bu yetenekler kariyer geli\u015fiminin temel yap\u0131 ta\u015flar\u0131d\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                  "slide_focus": "Aktif dinleme, beden dili ve empati kullan\u0131m\u0131 ile profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturman\u0131n pratik teknikleri a\u00e7\u0131klanmaktad\u0131r.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                  "slide_focus": "Online ve offline networking platformlar\u0131n\u0131 etkin kullanarak, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemleri detayland\u0131r\u0131lmaktad\u0131r.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                  "slide_focus": "\u0130\u015f ortam\u0131nda kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerileri sunulmaktad\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Ba\u015far\u0131l\u0131 \u0130leti\u015fim Al\u0131\u015fkanl\u0131klar\u0131n\u0131 Benimseyin",
+                  "slide_focus": "\u00d6\u011frenilen ileti\u015fim ve networking tekniklerinin g\u00fcnl\u00fck i\u015f ya\u015fam\u0131nda uygulanmas\u0131 i\u00e7in somut ad\u0131mlar ve eylem plan\u0131 payla\u015f\u0131lmaktad\u0131r.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "feedback": "This outline demonstrates a clear topic progression and focuses on one main concept per slide, fulfilling the fundamental structural requirements. Slide 1 effectively serves as an introduction to the importance of professional communication, and Slide 5 provides a natural conclusion by emphasizing practical steps. However, labeling the final slide explicitly as a conclusion or summary could strengthen the closing. Overall, the content is specific, actionable, and appropriate for a professional audience. A few more illustrative examples or case studies could further enhance engagement. Breakdown of scores: Structure (35/40), Content (38/40), Practicality (18/20).",
+               "score": 91
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri: Ba\u015far\u0131l\u0131 Kariyer \u0130li\u015fkileri Geli\u015ftirme Rehberi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler, bu yetenekler kariyer geli\u015fiminin temel yap\u0131 ta\u015flar\u0131d\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                     "slide_focus": "Aktif dinleme, beden dili ve empati kullan\u0131m\u0131 ile profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturman\u0131n pratik teknikleri a\u00e7\u0131klanmaktad\u0131r.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                     "slide_focus": "Online ve offline networking platformlar\u0131n\u0131 etkin kullanarak, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemleri detayland\u0131r\u0131lmaktad\u0131r.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                     "slide_focus": "\u0130\u015f ortam\u0131nda kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerileri sunulmaktad\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Ba\u015far\u0131l\u0131 \u0130leti\u015fim Al\u0131\u015fkanl\u0131klar\u0131n\u0131 Benimseyin",
+                     "slide_focus": "\u00d6\u011frenilen ileti\u015fim ve networking tekniklerinin g\u00fcnl\u00fck i\u015f ya\u015fam\u0131nda uygulanmas\u0131 i\u00e7in somut ad\u0131mlar ve eylem plan\u0131 payla\u015f\u0131lmaktad\u0131r.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_1",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim ve Networking: Kan\u0131tlanm\u0131\u015f Stratejiler ve Ba\u015far\u0131 \u00d6rnekleri",
+            "slide_outlines": [
+               {
+                  "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler - bu ger\u00e7e\u011fi destekleyen g\u00fcncel vaka \u00e7al\u0131\u015fmalar\u0131 ve ara\u015ft\u0131rma sonu\u00e7lar\u0131 ile temel prensipleri ke\u015ffedece\u011fiz.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                  "slide_focus": "Fortune 500 liderlerinin ba\u015far\u0131 hikayelerinden \u00f6rneklerle, aktif dinleme, beden dili ve empati kullan\u0131m\u0131n\u0131n profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturmadaki rol\u00fcn\u00fc inceleyece\u011fiz.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                  "slide_focus": "LinkedIn, sekt\u00f6rel etkinlikler ve profesyonel organizasyonlar \u00fczerinden ger\u00e7ek ba\u015far\u0131 hikayeleriyle, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemlerini \u00f6\u011freneceksiniz.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                  "slide_focus": "Ger\u00e7ek i\u015f hayat\u0131ndan vaka analizleri ile, kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerilerini kazanacaks\u0131n\u0131z.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "\u00d6\u011frenilenleri Uygulama: Sonu\u00e7 ve Eylem Plan\u0131",
+                  "slide_focus": "Sunumda payla\u015f\u0131lan ileti\u015fim ve networking tekniklerinin 30-60-90 g\u00fcnl\u00fck uygulama plan\u0131 ile birlikte, ba\u015far\u0131 metriklerini ve takip y\u00f6ntemlerini \u00f6zetleyece\u011fiz.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_1",
+         "data": {
+            "validation_feedback": {
+               "feedback": "The outline presents a clear introduction and concluding slide, and each slide focuses on a distinct, well-defined concept. The logical flow from fundamentals of communication to networking strategies, followed by conflict resolution and an action plan, is coherent and well-sequenced. Each slide includes practical, research-based examples, which strongly support content quality and audience engagement. Slight improvements might include integrating more interactive activities or checkpoints for audience participation, but overall, the structure and content distribution are excellent.",
+               "score": 93
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim ve Networking: Kan\u0131tlanm\u0131\u015f Stratejiler ve Ba\u015far\u0131 \u00d6rnekleri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler - bu ger\u00e7e\u011fi destekleyen g\u00fcncel vaka \u00e7al\u0131\u015fmalar\u0131 ve ara\u015ft\u0131rma sonu\u00e7lar\u0131 ile temel prensipleri ke\u015ffedece\u011fiz.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                     "slide_focus": "Fortune 500 liderlerinin ba\u015far\u0131 hikayelerinden \u00f6rneklerle, aktif dinleme, beden dili ve empati kullan\u0131m\u0131n\u0131n profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturmadaki rol\u00fcn\u00fc inceleyece\u011fiz.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                     "slide_focus": "LinkedIn, sekt\u00f6rel etkinlikler ve profesyonel organizasyonlar \u00fczerinden ger\u00e7ek ba\u015far\u0131 hikayeleriyle, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemlerini \u00f6\u011freneceksiniz.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                     "slide_focus": "Ger\u00e7ek i\u015f hayat\u0131ndan vaka analizleri ile, kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerilerini kazanacaks\u0131n\u0131z.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "\u00d6\u011frenilenleri Uygulama: Sonu\u00e7 ve Eylem Plan\u0131",
+                     "slide_focus": "Sunumda payla\u015f\u0131lan ileti\u015fim ve networking tekniklerinin 30-60-90 g\u00fcnl\u00fck uygulama plan\u0131 ile birlikte, ba\u015far\u0131 metriklerini ve takip y\u00f6ntemlerini \u00f6zetleyece\u011fiz.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_2",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim ve Networking: Kan\u0131tlanm\u0131\u015f Stratejiler ve \u0130nteraktif Ba\u015far\u0131 \u00d6rnekleri",
+            "slide_outlines": [
+               {
+                  "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler - kat\u0131l\u0131mc\u0131lar\u0131n kendi deneyimlerini payla\u015faca\u011f\u0131 interaktif vaka analizleri ve g\u00fcncel ara\u015ft\u0131rma sonu\u00e7lar\u0131 ile temel prensipleri ke\u015ffedece\u011fiz.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                  "slide_focus": "Fortune 500 liderlerinin ba\u015far\u0131 hikayelerinden \u00f6rneklerle, grup egzersizleri \u00fczerinden aktif dinleme, beden dili ve empati kullan\u0131m\u0131n\u0131n profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturmadaki rol\u00fcn\u00fc deneyimleyece\u011fiz.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                  "slide_focus": "LinkedIn, sekt\u00f6rel etkinlikler ve profesyonel organizasyonlar \u00fczerinden ger\u00e7ek ba\u015far\u0131 hikayeleriyle, kat\u0131l\u0131mc\u0131lar\u0131n kendi networking planlar\u0131n\u0131 olu\u015fturaca\u011f\u0131 interaktif \u00e7al\u0131\u015fmalarla s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemlerini \u00f6\u011freneceksiniz.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                  "slide_focus": "Ger\u00e7ek i\u015f hayat\u0131ndan vaka analizleri ile rol yapma egzersizleri kullanarak, kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerilerini uygulayacaks\u0131n\u0131z.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "\u00d6\u011frenilenleri Uygulama: Sonu\u00e7 ve Eylem Plan\u0131",
+                  "slide_focus": "Kat\u0131l\u0131mc\u0131lar\u0131n ki\u015fisel hedeflerine g\u00f6re \u00f6zelle\u015ftirilmi\u015f, sunumda payla\u015f\u0131lan ileti\u015fim ve networking tekniklerinin 30-60-90 g\u00fcnl\u00fck uygulama plan\u0131n\u0131 olu\u015fturacak, ba\u015far\u0131 metriklerini belirleyecek ve d\u00fczenli kontrol noktalar\u0131 ile ilerlemeyi takip edece\u011fiz.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_2",
+         "data": {
+            "validation_feedback": {
+               "feedback": "Overall, this presentation outline demonstrates a clear, logical flow and solid coverage of effective communication, networking, and conflict management. Each slide focuses on a single concept and includes concrete, interactive examples. The introduction (Slide 1) and conclusion (Slide 5) are both strong and well-defined. The detailed, hands-on elements (Slides 2-4) encourage audience engagement and practical application. To refine further, consider clarifying the time allotment for interactive exercises, particularly on Slides 3 and 4, to ensure the material can be covered thoroughly within typical session constraints.",
+               "score": 97
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim ve Networking: Kan\u0131tlanm\u0131\u015f Stratejiler ve \u0130nteraktif Ba\u015far\u0131 \u00d6rnekleri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Profesyonel \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n %85'ini etkili ileti\u015fim ve networking becerileri belirler - kat\u0131l\u0131mc\u0131lar\u0131n kendi deneyimlerini payla\u015faca\u011f\u0131 interaktif vaka analizleri ve g\u00fcncel ara\u015ft\u0131rma sonu\u00e7lar\u0131 ile temel prensipleri ke\u015ffedece\u011fiz.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Bile\u015fenlerini Uygulay\u0131n",
+                     "slide_focus": "Fortune 500 liderlerinin ba\u015far\u0131 hikayelerinden \u00f6rneklerle, grup egzersizleri \u00fczerinden aktif dinleme, beden dili ve empati kullan\u0131m\u0131n\u0131n profesyonel ileti\u015fimde g\u00fcven ve etki olu\u015fturmadaki rol\u00fcn\u00fc deneyimleyece\u011fiz.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Networking Stratejilerini Geli\u015ftirin",
+                     "slide_focus": "LinkedIn, sekt\u00f6rel etkinlikler ve profesyonel organizasyonlar \u00fczerinden ger\u00e7ek ba\u015far\u0131 hikayeleriyle, kat\u0131l\u0131mc\u0131lar\u0131n kendi networking planlar\u0131n\u0131 olu\u015fturaca\u011f\u0131 interaktif \u00e7al\u0131\u015fmalarla s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fki a\u011f\u0131 kurma y\u00f6ntemlerini \u00f6\u011freneceksiniz.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n",
+                     "slide_focus": "Ger\u00e7ek i\u015f hayat\u0131ndan vaka analizleri ile rol yapma egzersizleri kullanarak, kar\u015f\u0131la\u015f\u0131lan anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 diyalog ve problem \u00e7\u00f6zme teknikleriyle profesyonelce y\u00f6netme becerilerini uygulayacaks\u0131n\u0131z.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "\u00d6\u011frenilenleri Uygulama: Sonu\u00e7 ve Eylem Plan\u0131",
+                     "slide_focus": "Kat\u0131l\u0131mc\u0131lar\u0131n ki\u015fisel hedeflerine g\u00f6re \u00f6zelle\u015ftirilmi\u015f, sunumda payla\u015f\u0131lan ileti\u015fim ve networking tekniklerinin 30-60-90 g\u00fcnl\u00fck uygulama plan\u0131n\u0131 olu\u015fturacak, ba\u015far\u0131 metriklerini belirleyecek ve d\u00fczenli kontrol noktalar\u0131 ile ilerlemeyi takip edece\u011fiz.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Profesyonel \u0130leti\u015fimin G\u00fcc\u00fc</h2><ul><li>\u0130\u015f ba\u015far\u0131s\u0131n\u0131n %85'i etkili ileti\u015fime dayan\u0131r</li><li>S\u00f6zel ve s\u00f6zel olmayan ileti\u015fim becerileri</li><li>Aktif dinleme ve empati</li><li>Net ve etkili mesaj iletimi</li></ul><p><strong>Ba\u015far\u0131 Form\u00fcl\u00fc:</strong> Do\u011fru \u0130leti\u015fim + G\u00fc\u00e7l\u00fc Networking = Profesyonel Geli\u015fim</p>",
+            "slide_voiceover_text": "Profesyonel ileti\u015fimin g\u00fcc\u00fcn\u00fc anlamak, kariyerinizde fark yaratman\u0131n ilk ad\u0131m\u0131d\u0131r. G\u00fcncel ara\u015ft\u0131rmalar g\u00f6steriyor ki, i\u015f d\u00fcnyas\u0131ndaki ba\u015far\u0131n\u0131n y\u00fczde 85'ini etkili ileti\u015fim ve networking becerileri belirliyor. Bu oran, teknik yeteneklerinizin \u00f6tesinde, nas\u0131l ileti\u015fim kurdu\u011funuzun ne kadar \u00f6nemli oldu\u011funu a\u00e7\u0131k\u00e7a ortaya koyuyor. S\u00f6zel ve s\u00f6zel olmayan ileti\u015fim becerilerinizi geli\u015ftirmek, aktif dinlemeyi \u00f6\u011frenmek ve empati kurmak, profesyonel ya\u015fam\u0131n\u0131zda size b\u00fcy\u00fck avantaj sa\u011flayacak temel unsurlard\u0131r. Net ve etkili mesaj iletimi ise bu becerilerin doruk noktas\u0131d\u0131r. Ba\u015far\u0131l\u0131 bir kariyer i\u00e7in do\u011fru ileti\u015fim ve g\u00fc\u00e7l\u00fc networking becerilerini birle\u015ftirmeniz gerekiyor.",
+            "slide_image_prompt": "Create a modern, professional illustration showing a diverse group of business professionals engaged in dynamic communication. The image should feature a central figure confidently presenting to others, with visible energy lines or connection paths linking the participants. Include subtle visual elements representing both digital and face-to-face communication. The composition should use a sophisticated color palette with blues and teals, maintaining a corporate yet approachable feel. The style should be semi-realistic with clean lines and soft gradients. Include visual metaphors for networking such as interconnected nodes or a subtle neural network pattern in the background. The lighting should be warm and professional, emphasizing the positive energy of successful communication. The illustration should have a minimalist, contemporary design approach with careful attention to professional attire and body language of the figures."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "feedback": "Overall Assessment:\n\nThe slide content demonstrates strong coherence and professional quality across all elements, with only minor areas for improvement.\n\nStrengths:\n- Excellent alignment between onscreen text, voiceover, and image prompt\n- Clear and impactful message about the importance of professional communication\n- Well-structured HTML markup with appropriate heading and list elements\n- Voiceover effectively expands on bullet points with relevant statistics and context\n- Image prompt is detailed and aligns perfectly with the message\n\nMinor Issues:\n1. The onscreen text could be slightly more concise - the success formula might be more impactful as a separate visual element\n2. The voiceover text contains a slight redundancy in discussing the 85% statistic\n\nDetailed Scoring:\n\nContent Coherence (37/40):\n- Perfect alignment between elements\n- Clear message delivery\n- Minor redundancy in statistics presentation\n\nMultimedia Design (28/30):\n- Strong balance between elements\n- Image prompt is highly detailed and relevant\n- Slight verbosity in onscreen text\n\nTechnical Quality (29/30):\n- Correct HTML markup\n- Professional language throughout\n- Minor optimization possible in text distribution\n\nTotal Score: 94/100",
+            "score": 94
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern, professional illustration showing a diverse group of business professionals engaged in dynamic communication. The image should feature a central figure confidently presenting to others, with visible energy lines or connection paths linking the participants. Include subtle visual elements representing both digital and face-to-face communication. The composition should use a sophisticated color palette with blues and teals, maintaining a corporate yet approachable feel. The style should be semi-realistic with clean lines and soft gradients. Include visual metaphors for networking such as interconnected nodes or a subtle neural network pattern in the background. The lighting should be warm and professional, emphasizing the positive energy of successful communication. The illustration should have a minimalist, contemporary design approach with careful attention to professional attire and body language of the figures.",
+            "image_url": "https://v3.fal.media/files/panda/-4WAlQm7KpXZQBKvCw5Aa_image.webp",
+            "model": "fal-ai/recraft-20b",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "score": 89,
+            "feedback": "The image excellently captures the essence of professional communication and networking with several strong points:\n\n1. Content Alignment (35/40):\n- Perfect representation of diverse business professionals\n- Excellent visualization of networking through blue connection nodes\n- Modern corporate setting with appropriate lighting\n- Strong body language showing engagement\n- Matches requested color scheme with blues and teals\n\n2. Visual Quality (28/30):\n- High resolution and clarity\n- Excellent color balance with corporate blues\n- Professional lighting with natural window light\n- Clean, sharp image quality\n- Well-executed connection overlay effects\n\n3. Presentation Suitability (26/30):\n- Strong support for the slide's message about communication\n- Clear focus on interaction and networking\n- Appropriate level of detail\n- Professional attire and setting\n\nNo critical issues were found - no inappropriate content, copyright issues, or technical problems.",
+            "suggestions": "To improve the image further:\n1. Consider reducing the number of network nodes in the background as they might be slightly distracting\n2. The standing presenter could be positioned slightly more to the side to create better visual balance\n3. Could include more subtle visual metaphors for digital communication\n4. Consider toning down the lens flare effect in the upper right as it might compete for attention",
+            "current_prompt": "Create a modern, professional illustration showing a diverse group of business professionals engaged in dynamic communication. The image should feature a central figure confidently presenting to others, with visible energy lines or connection paths linking the participants. Include subtle visual elements representing both digital and face-to-face communication. The composition should use a sophisticated color palette with blues and teals, maintaining a corporate yet approachable feel. The style should be semi-realistic with clean lines and soft gradients. Include visual metaphors for networking such as interconnected nodes or a subtle neural network pattern in the background. The lighting should be warm and professional, emphasizing the positive energy of successful communication. The illustration should have a minimalist, contemporary design approach with careful attention to professional attire and body language of the figures."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_1",
+         "data": {
+            "new_prompt": "Create a minimalist business illustration featuring 3-4 professionals in a semi-abstract style. The central figure stands confidently but slightly offset to the left, presenting to seated colleagues. Use clean vector-like lines and a refined color palette dominated by soft navy blue, teal, and light gray. Include subtle, sparse connection lines between figures (reduced from previous version) using thin white or light blue strokes. The background should feature a gentle gradient from deep blue to teal, with 3-4 floating geometric shapes suggesting digital connectivity. Add a soft, directional lighting effect from the upper left, creating natural shadows and depth. Figures should wear modern business attire in monochromatic tones, with simplified but clear body language showing engagement and active listening. Incorporate 2-3 small, minimalist icons representing digital communication (like simplified device outlines) floating discretely in the negative space. The overall composition should feel open and uncluttered, with at least 30% negative space for visual breathing room. Maintain high-quality rendering with smooth gradients and crisp edges."
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Profesyonel \u0130leti\u015fimin G\u00fcc\u00fc</h2><ul><li>\u0130\u015f ba\u015far\u0131s\u0131n\u0131n %85'i etkili ileti\u015fime dayan\u0131r</li><li>G\u00fc\u00e7l\u00fc networkler, g\u00fc\u00e7l\u00fc ili\u015fkilerle kurulur</li><li>S\u00f6zs\u00fcz ileti\u015fim ve beden dili kritik \u00f6nem ta\u015f\u0131r</li><li>Aktif dinleme, empati ve geri bildirim ba\u015far\u0131n\u0131n anahtar\u0131d\u0131r</li></ul>",
+            "slide_voiceover_text": "Profesyonel ileti\u015fimin g\u00fcc\u00fcn\u00fc ke\u015ffetmek, kariyerinizde \u00f6nemli bir d\u00f6n\u00fcm noktas\u0131 olabilir. G\u00fcncel ara\u015ft\u0131rmalar g\u00f6steriyor ki, i\u015f d\u00fcnyas\u0131ndaki ba\u015far\u0131n\u0131n y\u00fczde seksen be\u015fi etkili ileti\u015fim becerilerine dayan\u0131yor. Bu oran, teknik yeteneklerden \u00e7ok daha y\u00fcksek. G\u00fc\u00e7l\u00fc bir network olu\u015fturmak ve s\u00fcrd\u00fcrmek, ancak samimi ve etkili ileti\u015fim ile m\u00fcmk\u00fcn. Beden diliniz ve s\u00f6zs\u00fcz ileti\u015fim sinyalleriniz, kelimeleriniz kadar \u00f6nemli. Aktif dinleme, empati kurma ve zaman\u0131nda do\u011fru geri bildirim verme becerileri, profesyonel ba\u015far\u0131n\u0131z\u0131 do\u011frudan etkiliyor. \u015eimdi, sizlerle birlikte bu becerileri ger\u00e7ek vaka \u00f6rnekleri \u00fczerinden inceleyece\u011fiz.",
+            "slide_image_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should be split into four interconnected sections, each highlighting different aspects of professional communication: active listening, body language, networking, and feedback. Use a sophisticated color palette with blues and teals. The style should be clean and minimalist with subtle gradients. Include visual metaphors like connecting lines and nodes representing network connections. The illustration should have a slight isometric perspective to add depth. The people should be shown in professional attire with confident postures and engaging expressions. The overall composition should feel energetic yet professional, with smooth flowing lines connecting all elements. Add subtle abstract geometric shapes in the background to represent communication flow."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "feedback": "Content Evaluation Results:\n\n1. Content Coherence (38/40):\n- Excellent alignment between onscreen text, voiceover, and image prompt\n- Clear and consistent message about professional communication\n- Strong connection between statistical data and practical applications\n- Minor suggestion: Include more specific examples in bullet points\n\n2. Multimedia Design (28/30):\n- Well-balanced distribution between onscreen and voiceover content\n- Voiceover effectively expands on bullet points\n- Image prompt is detailed and perfectly aligned with the message\n- Excellent use of visual metaphors and professional elements\n- Minor improvement needed: Consider adding icons to bullet points\n\n3. Technical Quality (29/30):\n- HTML markup is correctly implemented\n- Image prompt is comprehensive and technically detailed\n- Consistent language use in Turkish throughout\n- Professional tone maintained across all elements\n- Minor suggestion: Add alt text attributes for accessibility\n\nStrengths:\n- Strong integration of statistics with practical concepts\n- Professional and engaging tone throughout\n- Detailed image prompt that reinforces the message\n- Clear hierarchy in information presentation\n\nAreas for Improvement:\n- Add visual indicators (icons) to bullet points\n- Include alt text for accessibility\n- Consider adding one specific example in bullet points\n\nOverall, this is a very strong slide that effectively communicates its message across all components.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should be split into four interconnected sections, each highlighting different aspects of professional communication: active listening, body language, networking, and feedback. Use a sophisticated color palette with blues and teals. The style should be clean and minimalist with subtle gradients. Include visual metaphors like connecting lines and nodes representing network connections. The illustration should have a slight isometric perspective to add depth. The people should be shown in professional attire with confident postures and engaging expressions. The overall composition should feel energetic yet professional, with smooth flowing lines connecting all elements. Add subtle abstract geometric shapes in the background to represent communication flow.",
+            "image_url": "https://fal.media/files/kangaroo/admvN05ckiqP5UseQLKTH_57e47663832c4633b825f8371bea9323.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "score": 92,
+            "feedback": "The image strongly aligns with the slide's content about professional communication. Positive aspects include:\n- Excellent diversity representation showing multicultural business professionals\n- Strong use of professional attire and body language showing active engagement\n- Clean, modern illustration style with appropriate blue/teal color palette\n- Well-executed network elements and icons in the background\n- Professional composition with clear focus on communication\n\nMinor concerns:\n- The networking aspect could be slightly more emphasized through additional visual connections\n- The four sections mentioned in the prompt aren't clearly divided as specified\n- Some background elements could be simplified for better focus on the main subjects",
+            "suggestions": "To improve the image further:\n1. Consider reducing the number of floating icons in the background\n2. Add subtle dividing lines to create the four distinct sections mentioned in the prompt\n3. Incorporate more obvious visual representations of active listening and feedback\n4. Consider adding more pronounced networking lines between the figures\n5. Slightly reduce the leaf elements as they're not essential to the core message",
+            "current_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should be split into four interconnected sections, each highlighting different aspects of professional communication: active listening, body language, networking, and feedback. Use a sophisticated color palette with blues and teals. The style should be clean and minimalist with subtle gradients. Include visual metaphors like connecting lines and nodes representing network connections. The illustration should have a slight isometric perspective to add depth. The people should be shown in professional attire with confident postures and engaging expressions. The overall composition should feel energetic yet professional, with smooth flowing lines connecting all elements. Add subtle abstract geometric shapes in the background to represent communication flow."
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Profesyonel \u0130leti\u015fimin G\u00fcc\u00fc</h2><ul><li>\u0130\u015f ba\u015far\u0131s\u0131n\u0131n %85'i etkili ileti\u015fime dayan\u0131r</li><li>S\u00f6zel ve s\u00f6zel olmayan ileti\u015fim becerileri</li><li>Aktif dinleme ve empati</li><li>Net ve etkileyici mesaj iletimi</li><li>Beden dili ve ses tonu uyumu</li></ul><p class='highlight'>\"Etkili ileti\u015fim, kariyerinizin k\u00f6pr\u00fcs\u00fcd\u00fcr.\"</p>",
+            "slide_voiceover_text": "Profesyonel ileti\u015fimin g\u00fcc\u00fcn\u00fc anlamak, i\u015f hayat\u0131ndaki ba\u015far\u0131n\u0131z\u0131n temel anahtar\u0131d\u0131r. Ara\u015ft\u0131rmalar g\u00f6steriyor ki, i\u015f d\u00fcnyas\u0131ndaki ba\u015far\u0131n\u0131n y\u00fczde seksen be\u015fi etkili ileti\u015fim becerilerine dayan\u0131yor. Bu beceriler, s\u00f6zel ileti\u015fimden beden diline, aktif dinlemeden empati kurma yetene\u011fine kadar geni\u015f bir yelpazede yer al\u0131yor. Mesajlar\u0131n\u0131z\u0131 net ve etkileyici bir \u015fekilde iletebilmek, kariyerinizde sizi bir ad\u0131m \u00f6ne \u00e7\u0131karacak en \u00f6nemli yeteneklerden biridir. Beden diliniz ve ses tonunuzun uyumu da bu etkiyi g\u00fc\u00e7lendirir. Unutmay\u0131n, etkili ileti\u015fim yetenekleriniz, kariyer ba\u015far\u0131n\u0131z\u0131n k\u00f6pr\u00fcs\u00fcd\u00fcr.",
+            "slide_image_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should feature a central figure confidently presenting to colleagues, with visible positive body language and engaging hand gestures. Include subtle visual elements like connecting lines or glowing pathways between people, symbolizing effective communication flow. The color scheme should use professional blues and warm grays with accent colors. The style should be semi-realistic with clean lines and soft shadows, maintaining a corporate yet approachable feel. Include some subtle infographic elements showing the 85% statistic in an elegant, minimalist design. The overall composition should be balanced and should convey energy, professionalism, and successful interaction."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "feedback": "Overall Assessment:\n\nThe slide content demonstrates strong coherence and professional quality across all elements. Here's the detailed breakdown:\n\nStrengths:\n- Perfect alignment between onscreen text, voiceover, and image prompt\n- Clear and consistent messaging about the 85% statistic across all elements\n- Well-structured HTML markup with proper heading and list elements\n- Professional tone maintained throughout\n- Excellent balance between technical content and engaging presentation\n\nMinor Improvements Needed:\n- The highlight class quote could benefit from additional context in the voiceover\n- Image prompt, while detailed, could specify exact dimensions\n\nContent Coherence (38/40):\n- Excellent alignment of key messages\n- Strong logical flow\n- Clear central theme maintained\n- Minor redundancy in statistic repetition\n\nMultimedia Design (29/30):\n- Perfect balance of onscreen and voiceover content\n- Concise bullet points\n- Comprehensive voiceover elaboration\n- Well-thought-out image prompt\n\nTechnical Quality (28/30):\n- Correct HTML structure\n- Professional language use\n- Minor improvement needed in image specifications\n\nTotal Score: 95/100",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should feature a central figure confidently presenting to colleagues, with visible positive body language and engaging hand gestures. Include subtle visual elements like connecting lines or glowing pathways between people, symbolizing effective communication flow. The color scheme should use professional blues and warm grays with accent colors. The style should be semi-realistic with clean lines and soft shadows, maintaining a corporate yet approachable feel. Include some subtle infographic elements showing the 85% statistic in an elegant, minimalist design. The overall composition should be balanced and should convey energy, professionalism, and successful interaction.",
+            "image_url": "https://fal.media/files/lion/EthjYxXYcXA_nzR0lZhmZ_3e378799a6304aa99ef7357b433e6411.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "score": 92,
+            "feedback": "The image effectively captures the essence of professional communication with excellent attention to detail. Strong points include:\n- Perfect alignment with the slide content about professional communication\n- Excellent visualization of the 85% statistic through subtle integration\n- Strong composition with a central presenter and engaged audience\n- Beautiful color scheme using professional blues with warm lighting\n- Clear representation of body language and non-verbal communication\n- Well-executed connecting lines and digital elements symbolizing communication flow\n- Appropriate diversity in the business group\n- High-quality artistic rendering with good lighting and shadows\n\nMinor concerns:\n- The floating icons might be slightly distracting for some viewers\n- The room lighting could be a bit brighter for better visibility of audience reactions",
+            "suggestions": "To improve the image further:\n1. Consider reducing the number of floating icons to minimize distraction\n2. Increase ambient lighting slightly while maintaining the atmospheric effect\n3. Add more visible hand gestures from the audience to emphasize two-way communication\n4. Consider incorporating subtle infographic elements showing active listening concepts\n5. The 85% graphic could be made slightly more prominent while maintaining its elegance",
+            "current_prompt": "Create a modern, professional illustration showing a diverse group of business people engaged in dynamic communication. The image should feature a central figure confidently presenting to colleagues, with visible positive body language and engaging hand gestures. Include subtle visual elements like connecting lines or glowing pathways between people, symbolizing effective communication flow. The color scheme should use professional blues and warm grays with accent colors. The style should be semi-realistic with clean lines and soft shadows, maintaining a corporate yet approachable feel. Include some subtle infographic elements showing the 85% statistic in an elegant, minimalist design. The overall composition should be balanced and should convey energy, professionalism, and successful interaction."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_1",
+         "data": {
+            "new_prompt": "Create a modern business illustration with clean lines and minimalist style. Show a confident presenter in business attire at center-left, using natural hand gestures, facing a small diverse group of 4-5 engaged colleagues. Soft, directional lighting from above creates gentle shadows. Use a professional color palette: deep navy blue (#1a3c5a) for main elements, warm light gray (#f5f5f5) for background, and subtle gold accents (#d4af37) for highlights. Include a simple, abstract circular flow diagram in background showing an 85% segment in navy, integrated naturally into the scene's composition. Thin, luminous lines in pale blue (#a8d8ea) connect the presenter to audience, suggesting energy flow. The audience should show active listening poses with subtle hand gestures and forward-leaning postures. Increase ambient lighting by 20% from previous version while maintaining depth. Keep style semi-realistic with simplified features and smooth gradients. Composition should be balanced with open space on the right. Reduce floating elements to just 3 essential connection lines. Quality should be high-resolution with crisp edges and soft shadows."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "Create a modern business illustration with clean lines and minimalist style. Show a confident presenter in business attire at center-left, using natural hand gestures, facing a small diverse group of 4-5 engaged colleagues. Soft, directional lighting from above creates gentle shadows. Use a professional color palette: deep navy blue (#1a3c5a) for main elements, warm light gray (#f5f5f5) for background, and subtle gold accents (#d4af37) for highlights. Include a simple, abstract circular flow diagram in background showing an 85% segment in navy, integrated naturally into the scene's composition. Thin, luminous lines in pale blue (#a8d8ea) connect the presenter to audience, suggesting energy flow. The audience should show active listening poses with subtle hand gestures and forward-leaning postures. Increase ambient lighting by 20% from previous version while maintaining depth. Keep style semi-realistic with simplified features and smooth gradients. Composition should be balanced with open space on the right. Reduce floating elements to just 3 essential connection lines. Quality should be high-resolution with crisp edges and soft shadows.",
+            "image_url": "https://fal.media/files/kangaroo/p2D5rHEPJvy6JTK7sF0MW_b8789ad868f3467094d56dd2b1c8f8c4.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "score": 88,
+            "feedback": "The image effectively represents professional communication in a business setting, with several strong points and a few areas for improvement:\n\n1. Content Alignment (35/40):\n- Excellently depicts the professional communication context\n- Shows the 85% statistic as requested\n- Includes diverse audience members\n- Perfect representation of active listening and engagement\n- Lighting and composition match the prompt requirements\n\n2. Visual Quality (28/30):\n- High resolution and clear rendering\n- Excellent color balance using the specified palette\n- Professional lighting effects and shadows\n- Clean, modern aesthetic\n\n3. Presentation Suitability (25/30):\n- Strong support for the slide's message about professional communication\n- Clear focus on the key elements\n- Minimal distracting elements\n- Good balance between simplicity and detail",
+            "suggestions": "To improve the image further:\n1. Consider reducing the brightness of the circular diagram slightly to prevent it from competing with the presenter\n2. The connecting lines mentioned in the prompt could be more subtle\n3. Could add more subtle body language cues from the audience to reinforce the active listening concept\n4. Consider adjusting the composition to leave more negative space on the right as specified in the prompt\n5. The 85% text in the diagram could be removed to avoid any text within the image",
+            "current_prompt": "Create a modern business illustration with clean lines and minimalist style. Show a confident presenter in business attire at center-left, using natural hand gestures, facing a small diverse group of 4-5 engaged colleagues. Soft, directional lighting from above creates gentle shadows. Use a professional color palette: deep navy blue (#1a3c5a) for main elements, warm light gray (#f5f5f5) for background, and subtle gold accents (#d4af37) for highlights. Include a simple, abstract circular flow diagram in background showing an 85% segment in navy, integrated naturally into the scene's composition. Thin, luminous lines in pale blue (#a8d8ea) connect the presenter to audience, suggesting energy flow. The audience should show active listening poses with subtle hand gestures and forward-leaning postures. Increase ambient lighting by 20% from previous version while maintaining depth. Keep style semi-realistic with simplified features and smooth gradients. Composition should be balanced with open space on the right. Reduce floating elements to just 3 essential connection lines. Quality should be high-resolution with crisp edges and soft shadows."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_2",
+         "data": {
+            "new_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (40% of image width) with clear forward-leaning postures and engaged expressions. Background features a large, semi-transparent circular diagram (positioned top-right, 30% opacity) with an 85% filled segment in deep navy (#1a3c5a), without any text or numbers. Use warm light gray (#f5f5f5) for background. Add 2-3 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 20% increased ambient fill. Audience members show micro-expressions of understanding - slight nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 30% negative space on right side. Ensure high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on body language and non-verbal communication cues between presenter and audience."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_3",
+         "data": {
+            "image_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (40% of image width) with clear forward-leaning postures and engaged expressions. Background features a large, semi-transparent circular diagram (positioned top-right, 30% opacity) with an 85% filled segment in deep navy (#1a3c5a), without any text or numbers. Use warm light gray (#f5f5f5) for background. Add 2-3 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 20% increased ambient fill. Audience members show micro-expressions of understanding - slight nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 30% negative space on right side. Ensure high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on body language and non-verbal communication cues between presenter and audience.",
+            "image_url": "https://fal.media/files/lion/D40sz4ffa7ei3w6fBJmbH_3072259a445f499aad91433b4f2d86a6.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_3",
+         "data": {
+            "score": 94,
+            "feedback": "The image successfully meets all critical requirements with no violations. Key strengths include:\n- Clean, modern illustration style perfectly matching the prompt\n- Excellent representation of professional communication theme\n- Strong body language and engagement between presenter and audience\n- Well-executed visual elements including the circular diagram and connecting lines\n- Appropriate diversity in audience representation\n- High-quality rendering with crisp lines and smooth gradients\n- Professional color palette with specified navy and light gray tones\n- Effective use of negative space\n- Clear focus on non-verbal communication aspects\n\nBreakdown by criteria:\n1. Slide Content Alignment (37/40): Nearly perfect alignment with prompt and content\n2. Visual Quality (28/30): Excellent technical execution\n3. Presentation Suitability (29/30): Highly effective for presentation context",
+            "suggestions": "Minor improvements could include:\n1. The circular diagram could be slightly more prominent while maintaining the specified 30% opacity\n2. Consider adding one more subtle connecting line between presenter and audience\n3. The audience could be positioned slightly more to the right to maximize the use of negative space\n4. The decorative plant element, while tasteful, could be slightly reduced in size to maintain focus on the main subjects",
+            "current_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (40% of image width) with clear forward-leaning postures and engaged expressions. Background features a large, semi-transparent circular diagram (positioned top-right, 30% opacity) with an 85% filled segment in deep navy (#1a3c5a), without any text or numbers. Use warm light gray (#f5f5f5) for background. Add 2-3 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 20% increased ambient fill. Audience members show micro-expressions of understanding - slight nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 30% negative space on right side. Ensure high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on body language and non-verbal communication cues between presenter and audience."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_3",
+         "data": {
+            "new_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (45% of image width, positioned slightly rightward) with clear forward-leaning postures and engaged expressions. Background features a prominent large, semi-transparent circular diagram (positioned top-right, 35% opacity) with an 85% filled segment in deep navy (#1a3c5a). Use warm light gray (#f5f5f5) for background. Include 3-4 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing organically from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 25% increased ambient fill. Audience members show clear micro-expressions of understanding - subtle nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 35% negative space on right side. Add a single, small decorative plant element (15% smaller than original) in bottom-right corner. Ensure ultra-high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on professional body language and non-verbal communication cues between presenter and audience."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_4",
+         "data": {
+            "image_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (45% of image width, positioned slightly rightward) with clear forward-leaning postures and engaged expressions. Background features a prominent large, semi-transparent circular diagram (positioned top-right, 35% opacity) with an 85% filled segment in deep navy (#1a3c5a). Use warm light gray (#f5f5f5) for background. Include 3-4 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing organically from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 25% increased ambient fill. Audience members show clear micro-expressions of understanding - subtle nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 35% negative space on right side. Add a single, small decorative plant element (15% smaller than original) in bottom-right corner. Ensure ultra-high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on professional body language and non-verbal communication cues between presenter and audience.",
+            "image_url": "https://fal.media/files/kangaroo/l5qp8tCOHPVz0NdAIgIkl_d847b2b92eff4c18978a3260840a5a8f.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_4",
+         "data": {
+            "score": 90,
+            "feedback": "The image successfully meets most requirements and avoids all critical issues. Key observations:\n\n1. Content Alignment (35/40):\n- Excellent representation of professional communication\n- Properly positioned presenter and audience\n- Circular diagram present as specified\n- Body language and engagement well depicted\n- Missing the specified thin connecting lines\n- Plant element not included\n\n2. Visual Quality (28/30):\n- High resolution and crisp rendering\n- Excellent color palette matching requirements\n- Professional, clean illustration style\n- Strong contrast and balanced composition\n- Appropriate lighting and shadows\n\n3. Presentation Suitability (27/30):\n- Perfectly supports the message about professional communication\n- Clear visual hierarchy\n- Appropriate level of detail\n- Strong focus on key concepts\n- Minimal and effective design",
+            "suggestions": "To improve the image:\n1. Add the specified ethereal connecting lines between presenter and audience\n2. Include the small decorative plant element in bottom-right corner\n3. Consider slightly increasing the opacity of the circular diagram for better visibility\n4. Enhance the audience's micro-expressions to show more varied engagement signals\n5. Add subtle gradients to the background to create more depth while maintaining simplicity",
+            "current_prompt": "Create a modern business illustration with minimalist style and clean lines. Position a confident presenter in navy business attire at center-left (35% from left edge), using subtle hand gestures while facing right. Show 4 diverse colleagues in a semi-circle arrangement (45% of image width, positioned slightly rightward) with clear forward-leaning postures and engaged expressions. Background features a prominent large, semi-transparent circular diagram (positioned top-right, 35% opacity) with an 85% filled segment in deep navy (#1a3c5a). Use warm light gray (#f5f5f5) for background. Include 3-4 ethereal, hair-thin connecting lines in pale blue (#a8d8ea) at 15% opacity, flowing organically from presenter to audience. Lighting: soft directional light from 45\u00b0 above, creating gentle shadows with 25% increased ambient fill. Audience members show clear micro-expressions of understanding - subtle nods, thoughtful expressions, and minimal hand gestures suggesting active listening. Style should be semi-realistic with simplified facial features and smooth color gradients. Maintain 35% negative space on right side. Add a single, small decorative plant element (15% smaller than original) in bottom-right corner. Ensure ultra-high-resolution output with crisp edges on figures and ultra-soft shadows. Key focus on professional body language and non-verbal communication cues between presenter and audience."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_1_attempt_4",
+         "data": {
+            "new_prompt": "Create a modern minimalist business illustration. Center-left: position a confident presenter (35% from left) in navy business attire, facing right with subtle, professional hand gestures. Right side: arrange 4 diverse business professionals in a clear semi-circle (45% image width), showing varied engagement through distinct micro-expressions - one nodding slightly, another leaning forward with thoughtful expression, two others displaying subtle hand gestures of active listening. Top-right: place a large semi-transparent circular diagram (40% opacity) with 85% filled segment in deep navy (#1a3c5a). Add 4 delicate, ethereal connecting lines in pale blue (#a8d8ea, 15% opacity) flowing organically between presenter and each audience member. Background: warm light gray (#f5f5f5) with subtle radial gradient for depth. Lighting: soft directional from 45\u00b0 above with 25% ambient fill, casting gentle shadows. Bottom-right corner: include small, modern potted succulent (15% of image height). Style: semi-realistic with simplified facial features, clean lines, smooth color transitions. Maintain professional atmosphere with strong focus on non-verbal communication cues. Ultra-high resolution with crisp figure edges and soft shadow details. Reserve 35% negative space on right side for balance."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_5",
+         "data": {
+            "image_prompt": "Create a modern minimalist business illustration. Center-left: position a confident presenter (35% from left) in navy business attire, facing right with subtle, professional hand gestures. Right side: arrange 4 diverse business professionals in a clear semi-circle (45% image width), showing varied engagement through distinct micro-expressions - one nodding slightly, another leaning forward with thoughtful expression, two others displaying subtle hand gestures of active listening. Top-right: place a large semi-transparent circular diagram (40% opacity) with 85% filled segment in deep navy (#1a3c5a). Add 4 delicate, ethereal connecting lines in pale blue (#a8d8ea, 15% opacity) flowing organically between presenter and each audience member. Background: warm light gray (#f5f5f5) with subtle radial gradient for depth. Lighting: soft directional from 45\u00b0 above with 25% ambient fill, casting gentle shadows. Bottom-right corner: include small, modern potted succulent (15% of image height). Style: semi-realistic with simplified facial features, clean lines, smooth color transitions. Maintain professional atmosphere with strong focus on non-verbal communication cues. Ultra-high resolution with crisp figure edges and soft shadow details. Reserve 35% negative space on right side for balance.",
+            "image_url": "https://fal.media/files/koala/qHmdVxqGj1AESTwH_qicb_18c8bdef38d4421399ee6b6ca69420b7.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_5",
+         "data": {
+            "score": 85,
+            "feedback": "The image successfully meets most key requirements and avoids all critical issues. Here's the detailed analysis:\n\nStrengths:\n- Perfect alignment with the professional communication theme\n- Clean, minimalist design that effectively illustrates the concept\n- Strong visual representation of non-verbal communication\n- Excellent color scheme with navy and light backgrounds\n- Professional business attire and postures\n- Quality illustration style with clear lines and good proportions\n- Includes the circular diagram element and connecting lines\n- Appropriate plant element for subtle environmental touch\n\nWeaknesses:\n- Only shows 2 audience members instead of the requested 4\n- Semi-circle arrangement not fully achieved due to fewer participants\n- Some specified micro-expressions and engagement cues are missing\n- Connecting lines are more subtle than specified",
+            "suggestions": "To improve the image:\n1. Include all 4 audience members as specified\n2. Enhance the variety of engagement expressions\n3. Make connecting lines slightly more visible while maintaining subtlety\n4. Adjust the semi-circle arrangement to accommodate all participants\n5. Consider adding more distinct hand gestures for active listening\n6. Strengthen the contrast of the circular diagram while maintaining transparency",
+            "current_prompt": "Create a modern minimalist business illustration. Center-left: position a confident presenter (35% from left) in navy business attire, facing right with subtle, professional hand gestures. Right side: arrange 4 diverse business professionals in a clear semi-circle (45% image width), showing varied engagement through distinct micro-expressions - one nodding slightly, another leaning forward with thoughtful expression, two others displaying subtle hand gestures of active listening. Top-right: place a large semi-transparent circular diagram (40% opacity) with 85% filled segment in deep navy (#1a3c5a). Add 4 delicate, ethereal connecting lines in pale blue (#a8d8ea, 15% opacity) flowing organically between presenter and each audience member. Background: warm light gray (#f5f5f5) with subtle radial gradient for depth. Lighting: soft directional from 45\u00b0 above with 25% ambient fill, casting gentle shadows. Bottom-right corner: include small, modern potted succulent (15% of image height). Style: semi-realistic with simplified facial features, clean lines, smooth color transitions. Maintain professional atmosphere with strong focus on non-verbal communication cues. Ultra-high resolution with crisp figure edges and soft shadow details. Reserve 35% negative space on right side for balance."
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fimin 3 Temel Bile\u015feni</h2><ul><li><strong>Aktif Dinleme:</strong> S\u00f6zel ve s\u00f6zel olmayan i\u015faretleri anlama</li><li><strong>Beden Dili:</strong> Duru\u015f, g\u00f6z temas\u0131 ve jestlerin bilin\u00e7li kullan\u0131m\u0131</li><li><strong>Empati:</strong> Kar\u015f\u0131 taraf\u0131n bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlama ve de\u011fer verme</li></ul><div class='quote'><em>\"\u0130leti\u015fimde ba\u015far\u0131l\u0131 olmak, ba\u015fkalar\u0131n\u0131 anlamakla ba\u015flar.\"</em><br>- Mary Barra, CEO, General Motors</div>",
+            "slide_voiceover_text": "Fortune 500 \u015firketlerinin ba\u015far\u0131l\u0131 liderlerinden \u00f6\u011frendi\u011fimiz en \u00f6nemli ders, etkili ileti\u015fimin \u00fc\u00e7 temel bile\u015feninin ustaca kullan\u0131lmas\u0131d\u0131r. Aktif dinleme, sadece kelimeleri de\u011fil, konu\u015fmac\u0131n\u0131n ton ve v\u00fccut dilini de okumay\u0131 gerektirir. General Motors CEO'su Mary Barra'n\u0131n ba\u015far\u0131s\u0131n\u0131n arkas\u0131nda, ekibini dikkatle dinlemesi ve onlar\u0131n perspektiflerini anlamas\u0131 yat\u0131yor. Beden dili kullan\u0131m\u0131nda bilin\u00e7li olmak, mesajlar\u0131m\u0131z\u0131n inand\u0131r\u0131c\u0131l\u0131\u011f\u0131n\u0131 art\u0131r\u0131r ve g\u00fcven olu\u015fturur. Son olarak empati, kar\u015f\u0131m\u0131zdaki ki\u015finin d\u00fc\u015f\u00fcnce ve duygular\u0131n\u0131 anlayarak, daha etkili ve anlaml\u0131 bir ileti\u015fim kurmam\u0131z\u0131 sa\u011flar. Bu \u00fc\u00e7 bile\u015feni g\u00fcnl\u00fck i\u015f ya\u015fam\u0131n\u0131zda uygulad\u0131\u011f\u0131n\u0131zda, ileti\u015fiminizin kalitesinin nas\u0131l artt\u0131\u011f\u0131n\u0131 g\u00f6receksiniz.",
+            "slide_image_prompt": "Create a professional illustration showing three interconnected circular elements representing active listening, body language, and empathy. In the center, show a diverse group of business professionals engaged in meaningful conversation. The active listening circle shows a person leaning forward attentively with thoughtful expression. The body language circle depicts confident posture and positive gestures. The empathy circle shows two people with a connecting bridge between their minds. Use a modern corporate art style with a sophisticated color palette of deep blues and warm grays. The illustration should be clean, minimalist, and corporate-friendly with subtle gradient effects and professional iconography. Include subtle visual elements that suggest success and leadership, such as upward arrows or ascending steps in the background"
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "feedback": "The slide content demonstrates excellent quality and coherence across all elements with only minor suggestions for improvement:\n\nStrengths:\n- Strong alignment between onscreen text, voiceover, and image prompt\n- Clear three-part structure consistently maintained across all elements\n- Effective use of a real-world leadership example (Mary Barra)\n- Professional HTML markup with appropriate heading and list structure\n- Well-crafted image prompt with detailed specifications\n- Voiceover effectively expands on bullet points without redundancy\n\nMinor Issues:\n- Image prompt could be more concise while maintaining key requirements\n- Voiceover text could include a brief transition to introduce the Mary Barra quote\n\nScore Breakdown:\n\nContent Coherence (37/40):\n- Perfect alignment between elements (15/15)\n- Clear message delivery (12/13)\n- Appropriate detail level (5/6)\n- Logical information flow (5/6)\n\nMultimedia Design (28/30):\n- Excellent balance between elements (10/10)\n- Concise onscreen text (9/10)\n- Complete voiceover content (9/10)\n\nTechnical Quality (29/30):\n- Correct HTML usage (10/10)\n- Image prompt quality (9/10)\n- Language consistency (10/10)\n\nTotal: 94/100",
+            "score": 94
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "Create a professional illustration showing three interconnected circular elements representing active listening, body language, and empathy. In the center, show a diverse group of business professionals engaged in meaningful conversation. The active listening circle shows a person leaning forward attentively with thoughtful expression. The body language circle depicts confident posture and positive gestures. The empathy circle shows two people with a connecting bridge between their minds. Use a modern corporate art style with a sophisticated color palette of deep blues and warm grays. The illustration should be clean, minimalist, and corporate-friendly with subtle gradient effects and professional iconography. Include subtle visual elements that suggest success and leadership, such as upward arrows or ascending steps in the background",
+            "image_url": "https://fal.media/files/monkey/FgCfhdgyKg8j1aJBZKFyU_7eadf0a77bff41468f86bb8dcba09136.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "score": 75,
+            "feedback": "The image has several strengths but also some concerns:\n\nStrengths:\n- Beautiful composition with three interconnected elements\n- Excellent color scheme using deep blues and warm contrasts\n- Professional illustration style\n- Good representation of diversity in business setting\n- Clear visual hierarchy and flow\n\nConcerns:\n- Contains text labels ('Active Listening', 'Empathy') which violates critical issue #1\n- Some elements could be simplified for better clarity at smaller sizes\n- The speech bubbles might be too literal and could be replaced with more subtle visual metaphors\n- Background decorative elements (stars, leaves) may be slightly distracting",
+            "suggestions": "To improve the image:\n1. Remove all text elements and replace with pure visual representations\n2. Simplify the background decorative elements\n3. Consider using icons or symbols instead of speech bubbles\n4. Reduce the number of figures in the central group to improve clarity\n5. Make the connecting arrows between circles more prominent\n6. Consider using a lighter gradient in the background for better contrast",
+            "current_prompt": "Create a professional illustration showing three interconnected circular elements representing active listening, body language, and empathy. In the center, show a diverse group of business professionals engaged in meaningful conversation. The active listening circle shows a person leaning forward attentively with thoughtful expression. The body language circle depicts confident posture and positive gestures. The empathy circle shows two people with a connecting bridge between their minds. Use a modern corporate art style with a sophisticated color palette of deep blues and warm grays. The illustration should be clean, minimalist, and corporate-friendly with subtle gradient effects and professional iconography. Include subtle visual elements that suggest success and leadership, such as upward arrows or ascending steps in the background"
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_2_attempt_1",
+         "data": {
+            "new_prompt": "Create a minimalist corporate illustration with three large, interconnected circles arranged in a triangular formation. In each circle: 1) Left circle: A simple silhouette of a person leaning slightly forward with one hand raised near their ear, representing active listening. 2) Right circle: A single figure standing tall with open arms and relaxed shoulders, showing positive body language. 3) Top circle: Two simplified face outlines facing each other with a subtle glowing bridge connecting their minds. The circles should be connected by elegant curved lines with soft gradient arrows. Center space shows just three diverse business figures in simple geometric forms engaged in conversation. Use a clean color palette of navy blue (#1a365d), warm gray (#7f8c8d), and subtle white highlights. Add minimal depth with soft drop shadows and gentle gradients. Background should be pure white with extremely subtle geometric patterns. Style should be modern, geometric, and icon-inspired with smooth curves and crisp edges. Ensure all human figures are abstract enough to work at any size. Lighting should create a professional, optimistic mood with subtle highlights on key elements."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist corporate illustration with three large, interconnected circles arranged in a triangular formation. In each circle: 1) Left circle: A simple silhouette of a person leaning slightly forward with one hand raised near their ear, representing active listening. 2) Right circle: A single figure standing tall with open arms and relaxed shoulders, showing positive body language. 3) Top circle: Two simplified face outlines facing each other with a subtle glowing bridge connecting their minds. The circles should be connected by elegant curved lines with soft gradient arrows. Center space shows just three diverse business figures in simple geometric forms engaged in conversation. Use a clean color palette of navy blue (#1a365d), warm gray (#7f8c8d), and subtle white highlights. Add minimal depth with soft drop shadows and gentle gradients. Background should be pure white with extremely subtle geometric patterns. Style should be modern, geometric, and icon-inspired with smooth curves and crisp edges. Ensure all human figures are abstract enough to work at any size. Lighting should create a professional, optimistic mood with subtle highlights on key elements.",
+            "image_url": "https://fal.media/files/lion/fI0ayCvvZ4mKkUZ2K_dru_400ad71be6634917980698c911946041.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "score": 85,
+            "feedback": "The image has both strengths and areas for improvement when evaluated against the given criteria:\n\n1. Critical Issues Check:\n- No text/writing within image \u2713\n- No celebrity likenesses \u2713\n- No inappropriate content \u2713\n- No copyright/watermark issues \u2713\n- No technical rendering problems \u2713\n- All elements support context \u2713\n\n2. Specific Analysis:\n- Strong use of the requested navy blue and gray color palette\n- Professional minimalist style achieved\n- Good representation of business context\n- Clean geometric shapes and circles as requested\n- The visual hierarchy effectively communicates the three components\n- High-quality rendering with proper shadows and gradients\n\nHowever, the image deviates from the original prompt in several ways:\n- The three circles aren't arranged in a triangular formation as specified\n- The specific icons for active listening, body language, and empathy aren't exactly as described\n- The connecting arrows are subtle to the point of being barely visible",
+            "suggestions": "To improve the image, consider these modifications to the prompt:\n1. Explicitly specify the triangular arrangement of circles\n2. Request more distinct iconography for each concept:\n   - Active listening: Make the listening pose more obvious\n   - Body language: Emphasize the open posture more clearly\n   - Empathy: Make the connection between figures more prominent\n3. Increase the visibility of connecting elements between circles\n4. Add more emphasis to the geometric patterns in the background\n5. Consider reducing the number of business figures in the center to avoid cluttering\n6. Request stronger visual distinction between the three main concepts while maintaining the minimal style",
+            "current_prompt": "Create a minimalist corporate illustration with three large, interconnected circles arranged in a triangular formation. In each circle: 1) Left circle: A simple silhouette of a person leaning slightly forward with one hand raised near their ear, representing active listening. 2) Right circle: A single figure standing tall with open arms and relaxed shoulders, showing positive body language. 3) Top circle: Two simplified face outlines facing each other with a subtle glowing bridge connecting their minds. The circles should be connected by elegant curved lines with soft gradient arrows. Center space shows just three diverse business figures in simple geometric forms engaged in conversation. Use a clean color palette of navy blue (#1a365d), warm gray (#7f8c8d), and subtle white highlights. Add minimal depth with soft drop shadows and gentle gradients. Background should be pure white with extremely subtle geometric patterns. Style should be modern, geometric, and icon-inspired with smooth curves and crisp edges. Ensure all human figures are abstract enough to work at any size. Lighting should create a professional, optimistic mood with subtle highlights on key elements."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_2_attempt_2",
+         "data": {
+            "new_prompt": "Create a minimalist corporate illustration with three large circles arranged in an equilateral triangle formation against a pure white background. Each circle has a 2px navy blue (#1a365d) outline and subtle inner gradient. Circle positioning: bottom-left, bottom-right, and top-center. In each circle: 1) Bottom-left circle: A bold, simplified silhouette in navy blue showing a figure clearly leaning forward, hand cupped behind ear, representing active listening. 2) Bottom-right circle: A confident figure rendered in clean lines, arms opened at 45-degree angles, head high, depicting positive body language. 3) Top circle: Two geometric face profiles facing each other with a prominent glowing bridge connecting their minds, symbolizing empathy. Connect the circles with thick, curved arrows (3px width) in warm gray (#7f8c8d) with subtle gradient effects. In the center triangle formed by the circles, place two simple geometric business figures in conversation using basic shapes - one in navy blue, one in warm gray. Add extremely subtle hexagonal patterns in 5% opacity warm gray to the background. Apply soft drop shadows (20% opacity, 10px blur) to all major elements. Maintain strict geometric minimalism throughout, using only clean lines, basic shapes, and smooth curves. All human figures should be highly abstracted, using simple geometric forms that remain clear at any scale. Create an optimistic, professional mood using subtle highlights (10% white) on key elements."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist corporate illustration with three large circles arranged in an equilateral triangle formation against a pure white background. Each circle has a 2px navy blue (#1a365d) outline and subtle inner gradient. Circle positioning: bottom-left, bottom-right, and top-center. In each circle: 1) Bottom-left circle: A bold, simplified silhouette in navy blue showing a figure clearly leaning forward, hand cupped behind ear, representing active listening. 2) Bottom-right circle: A confident figure rendered in clean lines, arms opened at 45-degree angles, head high, depicting positive body language. 3) Top circle: Two geometric face profiles facing each other with a prominent glowing bridge connecting their minds, symbolizing empathy. Connect the circles with thick, curved arrows (3px width) in warm gray (#7f8c8d) with subtle gradient effects. In the center triangle formed by the circles, place two simple geometric business figures in conversation using basic shapes - one in navy blue, one in warm gray. Add extremely subtle hexagonal patterns in 5% opacity warm gray to the background. Apply soft drop shadows (20% opacity, 10px blur) to all major elements. Maintain strict geometric minimalism throughout, using only clean lines, basic shapes, and smooth curves. All human figures should be highly abstracted, using simple geometric forms that remain clear at any scale. Create an optimistic, professional mood using subtle highlights (10% white) on key elements.",
+            "image_url": "https://fal.media/files/panda/r7VIe4WaTRfwtlCDTaiLW_8fa4137dbd544441b48c41049b04185c.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "score": 85,
+            "feedback": "The image differs significantly from the requested design specification while still maintaining relevance to the topic. Key observations:\n\n1. Layout Deviation:\n- Instead of three equal circles in triangle formation, it shows a larger central circle with two smaller side circles\n- Missing the requested curved arrows connecting circles\n- Lacks the specified hexagonal background pattern\n\n2. Visual Elements:\n- Silhouettes are well-executed and professional\n- Color scheme uses appropriate navy blue and grey tones\n- Clean, minimalist style matches presentation context\n- Subtle gradients and shadows create depth\n\n3. Content Alignment:\n- Successfully represents communication concept\n- Professional and appropriate for corporate context\n- Missing specific representations for active listening and body language as detailed in prompt\n- Empathy visualization is different but effective\n\n4. Technical Quality:\n- High resolution and clarity\n- Excellent contrast and balance\n- Professional finish\n- No technical rendering issues",
+            "suggestions": "To improve the image:\n1. Adjust layout to match original triangle formation specification\n2. Add the requested connecting arrows between circles\n3. Include more specific visual representations for active listening and body language\n4. Implement subtle hexagonal background pattern as specified\n5. Consider adding the requested geometric figures in center triangle\n6. Maintain current professional style but align closer to original prompt specifications\n7. Consider adding subtle warm highlights as specified in prompt",
+            "current_prompt": "Create a minimalist corporate illustration with three large circles arranged in an equilateral triangle formation against a pure white background. Each circle has a 2px navy blue (#1a365d) outline and subtle inner gradient. Circle positioning: bottom-left, bottom-right, and top-center. In each circle: 1) Bottom-left circle: A bold, simplified silhouette in navy blue showing a figure clearly leaning forward, hand cupped behind ear, representing active listening. 2) Bottom-right circle: A confident figure rendered in clean lines, arms opened at 45-degree angles, head high, depicting positive body language. 3) Top circle: Two geometric face profiles facing each other with a prominent glowing bridge connecting their minds, symbolizing empathy. Connect the circles with thick, curved arrows (3px width) in warm gray (#7f8c8d) with subtle gradient effects. In the center triangle formed by the circles, place two simple geometric business figures in conversation using basic shapes - one in navy blue, one in warm gray. Add extremely subtle hexagonal patterns in 5% opacity warm gray to the background. Apply soft drop shadows (20% opacity, 10px blur) to all major elements. Maintain strict geometric minimalism throughout, using only clean lines, basic shapes, and smooth curves. All human figures should be highly abstracted, using simple geometric forms that remain clear at any scale. Create an optimistic, professional mood using subtle highlights (10% white) on key elements."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_2_attempt_3",
+         "data": {
+            "new_prompt": "Create a minimalist corporate illustration with exactly three large, equal-sized circles (diameter 30% of canvas) arranged in perfect equilateral triangle formation on pure white background. Each circle has 2px navy blue (#1a365d) outline with 10% inner gradient from center. Precise positioning: one circle top-center, one bottom-left, one bottom-right, forming perfect triangle. Circle contents: 1) Bottom-left: Simple geometric silhouette in navy blue showing figure with hand cupped behind ear, head tilted, clearly depicting active listening. 2) Bottom-right: Minimalist figure in navy blue showing expansive posture - arms at 45\u00b0 angles, straight spine, lifted chin. 3) Top circle: Two abstract face profiles in navy blue, facing each other with glowing white connection line between heads, representing empathy. Connect all three circles with 3px curved arrows in warm gray (#7f8c8d) with 5% gradient, arrows flowing clockwise. Center space: Two ultra-simplified geometric figures (basic shapes only) in conversation stance - one navy blue, one warm gray. Background: Subtle repeating hexagon pattern at 5% opacity in warm gray (#7f8c8d). Apply consistent drop shadows (20% opacity, 10px blur, 45\u00b0 angle) to all elements. Add delicate white highlights (10% opacity) on top edges of circles and figures. Maintain strict geometric abstraction - all human figures should use only basic shapes like circles, rectangles, and triangles. Professional, clean aesthetic with perfect symmetry and balance."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_4",
+         "data": {
+            "image_prompt": "Create a minimalist corporate illustration with exactly three large, equal-sized circles (diameter 30% of canvas) arranged in perfect equilateral triangle formation on pure white background. Each circle has 2px navy blue (#1a365d) outline with 10% inner gradient from center. Precise positioning: one circle top-center, one bottom-left, one bottom-right, forming perfect triangle. Circle contents: 1) Bottom-left: Simple geometric silhouette in navy blue showing figure with hand cupped behind ear, head tilted, clearly depicting active listening. 2) Bottom-right: Minimalist figure in navy blue showing expansive posture - arms at 45\u00b0 angles, straight spine, lifted chin. 3) Top circle: Two abstract face profiles in navy blue, facing each other with glowing white connection line between heads, representing empathy. Connect all three circles with 3px curved arrows in warm gray (#7f8c8d) with 5% gradient, arrows flowing clockwise. Center space: Two ultra-simplified geometric figures (basic shapes only) in conversation stance - one navy blue, one warm gray. Background: Subtle repeating hexagon pattern at 5% opacity in warm gray (#7f8c8d). Apply consistent drop shadows (20% opacity, 10px blur, 45\u00b0 angle) to all elements. Add delicate white highlights (10% opacity) on top edges of circles and figures. Maintain strict geometric abstraction - all human figures should use only basic shapes like circles, rectangles, and triangles. Professional, clean aesthetic with perfect symmetry and balance.",
+            "image_url": "https://fal.media/files/monkey/oxgez0Z0L0SBJlVulZ0uN_e0561c060baa41df92fe476b936fdf8d.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_4",
+         "data": {
+            "score": 87,
+            "feedback": "This image has some notable deviations from the original prompt requirements while still maintaining relevance to the slide content. Key observations:\n\n1. Content Alignment (32/40):\n- The image uses circles effectively but doesn't follow the specified equilateral triangle formation\n- Uses blue tones but not exactly the specified navy blue (#1a365d)\n- Missing the requested connecting arrows between circles\n- The geometric figures are more naturalistic than the requested basic shapes\n- Successfully represents communication concepts but deviates from specific prompt instructions\n\n2. Visual Quality (28/30):\n- Excellent resolution and clarity\n- Strong color harmony with effective use of blue gradients\n- Professional, clean appearance\n- Good use of transparency and overlapping elements\n- Subtle shadows enhance depth\n\n3. Presentation Suitability (27/30):\n- Effectively supports the slide's message about communication components\n- Maintains appropriate simplicity\n- Clear visual hierarchy\n- Good balance between detail and clarity\n- Successfully avoids any critical issues",
+            "suggestions": "To improve the image:\n1. Adjust circle positioning to form perfect equilateral triangle as specified\n2. Add the connecting arrows between circles\n3. Use exact navy blue color code (#1a365d)\n4. Simplify human figures to more geometric shapes\n5. Add the subtle hexagon background pattern\n6. Include the requested drop shadows with specific parameters\n7. Consider adding the center conversation figures as specified\n8. Maintain more precise sizing relationships between elements",
+            "current_prompt": "Create a minimalist corporate illustration with exactly three large, equal-sized circles (diameter 30% of canvas) arranged in perfect equilateral triangle formation on pure white background. Each circle has 2px navy blue (#1a365d) outline with 10% inner gradient from center. Precise positioning: one circle top-center, one bottom-left, one bottom-right, forming perfect triangle. Circle contents: 1) Bottom-left: Simple geometric silhouette in navy blue showing figure with hand cupped behind ear, head tilted, clearly depicting active listening. 2) Bottom-right: Minimalist figure in navy blue showing expansive posture - arms at 45\u00b0 angles, straight spine, lifted chin. 3) Top circle: Two abstract face profiles in navy blue, facing each other with glowing white connection line between heads, representing empathy. Connect all three circles with 3px curved arrows in warm gray (#7f8c8d) with 5% gradient, arrows flowing clockwise. Center space: Two ultra-simplified geometric figures (basic shapes only) in conversation stance - one navy blue, one warm gray. Background: Subtle repeating hexagon pattern at 5% opacity in warm gray (#7f8c8d). Apply consistent drop shadows (20% opacity, 10px blur, 45\u00b0 angle) to all elements. Add delicate white highlights (10% opacity) on top edges of circles and figures. Maintain strict geometric abstraction - all human figures should use only basic shapes like circles, rectangles, and triangles. Professional, clean aesthetic with perfect symmetry and balance."
+         }
+      },
+      {
+         "step": "image_prompt_fix_slide_2_attempt_4",
+         "data": {
+            "new_prompt": "Create a minimalist corporate illustration on pure white background with three key elements: 1) Three large circles (each 30% of canvas width) arranged in perfect equilateral triangle formation - one at top-center, bottom-left, and bottom-right. Each circle has #1a365d navy blue 2px outline and subtle 10% radial gradient from center. 2) Inside circles: Bottom-left: Basic geometric shapes forming listening figure (circle head, rectangle body, triangle ear) in #1a365d navy blue; Bottom-right: Abstract figure made of simple shapes showing confident posture (triangle torso, rectangle arms at 45\u00b0 angles) in navy blue; Top circle: Two minimalist face profiles (basic geometric shapes only) facing each other with thin white connecting line. 3) Connecting elements: Curved arrows (3px width) in #7f8c8d warm gray linking circles clockwise, centered geometric figures (one navy, one gray) made of basic shapes in conversation pose. Apply 20% opacity drop shadows (10px blur, 45\u00b0 angle) to all elements. Add 5% opacity warm gray hexagon pattern to background. Maintain strict geometric abstraction throughout - use only circles, rectangles, and triangles for all figures. Clean, professional finish with perfect symmetry."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_5",
+         "data": {
+            "image_prompt": "Create a minimalist corporate illustration on pure white background with three key elements: 1) Three large circles (each 30% of canvas width) arranged in perfect equilateral triangle formation - one at top-center, bottom-left, and bottom-right. Each circle has #1a365d navy blue 2px outline and subtle 10% radial gradient from center. 2) Inside circles: Bottom-left: Basic geometric shapes forming listening figure (circle head, rectangle body, triangle ear) in #1a365d navy blue; Bottom-right: Abstract figure made of simple shapes showing confident posture (triangle torso, rectangle arms at 45\u00b0 angles) in navy blue; Top circle: Two minimalist face profiles (basic geometric shapes only) facing each other with thin white connecting line. 3) Connecting elements: Curved arrows (3px width) in #7f8c8d warm gray linking circles clockwise, centered geometric figures (one navy, one gray) made of basic shapes in conversation pose. Apply 20% opacity drop shadows (10px blur, 45\u00b0 angle) to all elements. Add 5% opacity warm gray hexagon pattern to background. Maintain strict geometric abstraction throughout - use only circles, rectangles, and triangles for all figures. Clean, professional finish with perfect symmetry.",
+            "image_url": "https://fal.media/files/panda/JCWWi4LM-JxDYfrcISzMD_b837213300424a3e9319c22975fc6396.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_5",
+         "data": {
+            "score": 75,
+            "feedback": "The image has some significant deviations from the original prompt requirements, though it effectively conveys the communication concept. Key observations:\n\n1. Composition:\n- Does not follow the requested three-circle triangular arrangement\n- Uses two overlapping circles instead of three distinct ones\n- Missing the specified geometric figures for active listening and body language\n\n2. Visual Elements:\n- Successfully maintains minimalist style\n- Effectively uses the specified navy blue color scheme\n- Includes subtle hexagon pattern as requested\n- Clean, professional execution\n- Good use of connecting elements with thin lines\n\n3. Content Alignment:\n- Effectively represents communication and empathy aspects\n- Profile faces are well-executed and appropriate\n- Missing explicit representation of body language component\n- Connection lines suggest active listening",
+            "suggestions": "To improve the image:\n1. Revise composition to include all three core components as separate circles\n2. Add geometric representations for active listening and body language\n3. Maintain current clean style but incorporate all required elements\n4. Consider using the triangular arrangement as originally specified\n5. Keep the successful minimalist approach but ensure all three communication components are equally represented",
+            "current_prompt": "Create a minimalist corporate illustration on pure white background with three key elements: 1) Three large circles (each 30% of canvas width) arranged in perfect equilateral triangle formation - one at top-center, bottom-left, and bottom-right. Each circle has #1a365d navy blue 2px outline and subtle 10% radial gradient from center. 2) Inside circles: Bottom-left: Basic geometric shapes forming listening figure (circle head, rectangle body, triangle ear) in #1a365d navy blue; Bottom-right: Abstract figure made of simple shapes showing confident posture (triangle torso, rectangle arms at 45\u00b0 angles) in navy blue; Top circle: Two minimalist face profiles (basic geometric shapes only) facing each other with thin white connecting line. 3) Connecting elements: Curved arrows (3px width) in #7f8c8d warm gray linking circles clockwise, centered geometric figures (one navy, one gray) made of basic shapes in conversation pose. Apply 20% opacity drop shadows (10px blur, 45\u00b0 angle) to all elements. Add 5% opacity warm gray hexagon pattern to background. Maintain strict geometric abstraction throughout - use only circles, rectangles, and triangles for all figures. Clean, professional finish with perfect symmetry."
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Networking Stratejilerinizi Geli\u015ftirin</h2><ul><li>LinkedIn Profili Optimizasyonu<ul><li>Profesyonel g\u00f6r\u00fcn\u00fcm</li><li>D\u00fczenli i\u00e7erik payla\u015f\u0131m\u0131</li><li>Aktif etkile\u015fim</li></ul></li><li>Sekt\u00f6rel Etkinliklere Kat\u0131l\u0131m<ul><li>Konferanslar ve seminerler</li><li>Workshoplar</li><li>Networking bulu\u015fmalar\u0131</li></ul></li><li>Profesyonel Organizasyonlarda Rol Al\u0131n<ul><li>Mesleki dernekler</li><li>Sekt\u00f6rel topluluklar</li><li>G\u00f6n\u00fcll\u00fc projeler</li></ul></li></ul>",
+            "slide_voiceover_text": "Etkili networking stratejileri geli\u015ftirmek, profesyonel hayatta ba\u015far\u0131n\u0131n anahtarlar\u0131ndan biridir. LinkedIn profilinizi optimize ederek ba\u015flay\u0131n: profesyonel bir g\u00f6r\u00fcn\u00fcm olu\u015fturun, d\u00fczenli i\u00e7erik payla\u015f\u0131n ve a\u011f\u0131n\u0131zdaki ki\u015filerle aktif etkile\u015fimde bulunun. Sekt\u00f6rel etkinliklere kat\u0131l\u0131m, yeni ba\u011flant\u0131lar kurman\u0131n en etkili yollar\u0131ndan biridir. Konferanslar, seminerler ve networking bulu\u015fmalar\u0131n\u0131 de\u011ferlendirin. Ayr\u0131ca, mesleki derneklerde ve sekt\u00f6rel topluluklarda aktif rol alarak, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fkiler geli\u015ftirin. G\u00f6n\u00fcll\u00fc projelerde yer almak da size de\u011ferli ba\u011flant\u0131lar kazand\u0131racakt\u0131r.",
+            "slide_image_prompt": "Create a modern, professional illustration showing a dynamic networking concept with three interconnected circular hubs representing LinkedIn, industry events, and professional organizations. Each hub should contain relevant icons and symbols. The LinkedIn hub should show a professional profile and content sharing icons, the events hub should display conference and meeting symbols, and the organizations hub should show community and volunteer work icons. Use a clean, corporate color scheme with blues and teals. The style should be flat design with subtle gradients and connecting lines showing flow and interaction between the hubs. Include small silhouettes of professionals networking within each hub. The overall composition should be balanced and sophisticated, suitable for a business presentation."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "feedback": "Overall Assessment:\n\nContent Coherence (38/40):\n- Excellent alignment between onscreen text, voiceover, and image prompt\n- Clear and focused message about networking strategies\n- Well-structured information flow from digital (LinkedIn) to physical (events) to organizational involvement\n- Minor point deduction for not explicitly connecting the interactive elements mentioned in the slide focus\n\nMultimedia Design (28/30):\n- Strong balance between onscreen bullet points and detailed voiceover explanation\n- Concise and hierarchical onscreen text structure\n- Well-crafted voiceover that expands on bullet points without being redundant\n- Image prompt is detailed and perfectly aligned with content themes\n- Minor deduction for slightly dense bullet point structure\n\nTechnical Quality (29/30):\n- HTML markup is correctly structured with proper heading and nested lists\n- Image prompt provides clear, specific direction for visual creation\n- Consistent use of Turkish language throughout\n- Professional and authoritative tone maintained\n- Minor deduction for one slightly lengthy bullet point\n\nStrengths:\n- Perfect alignment of all content elements\n- Professional and practical approach to networking\n- Clear progression from basic to advanced networking strategies\n- Comprehensive coverage of both online and offline networking\n\nSuggestions for Improvement:\n- Consider reducing the number of sub-bullets for easier visual scanning\n- Add specific metrics or success indicators for LinkedIn optimization\n- Include transition elements between the three main networking areas",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern, professional illustration showing a dynamic networking concept with three interconnected circular hubs representing LinkedIn, industry events, and professional organizations. Each hub should contain relevant icons and symbols. The LinkedIn hub should show a professional profile and content sharing icons, the events hub should display conference and meeting symbols, and the organizations hub should show community and volunteer work icons. Use a clean, corporate color scheme with blues and teals. The style should be flat design with subtle gradients and connecting lines showing flow and interaction between the hubs. Include small silhouettes of professionals networking within each hub. The overall composition should be balanced and sophisticated, suitable for a business presentation.",
+            "image_url": "https://fal.media/files/elephant/xAPTTSaATsDRPdBwNw0aQ_334fd269e37141c7a0a47b227df0fdd3.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "score": 90,
+            "feedback": "The image successfully meets the presentation requirements and avoids all critical issues. Specific analysis:\n\n1. Content Alignment (35/40):\n- Perfect representation of the three main networking aspects\n- Excellent use of the requested blue/teal color scheme\n- Clear illustration of LinkedIn, events, and organizational networking\n- Small figures effectively show scale and human interaction\n- Connected circular hubs create visual flow\n\n2. Visual Quality (28/30):\n- High resolution and crisp details\n- Excellent color gradients and contrast\n- Professional and modern appearance\n- Clean, consistent design style\n- Good use of white space\n\n3. Presentation Suitability (27/30):\n- Perfectly matches the slide's networking strategy theme\n- Simple yet informative visual elements\n- Clear visual hierarchy\n- Excellent support for the key message\n- Professional and engaging design",
+            "suggestions": "To improve the image further:\n1. Consider reducing the number of small figures to minimize visual complexity\n2. The connecting lines between hubs could be slightly more prominent\n3. The icons within each hub could be slightly larger for better visibility in presentation settings\n4. Consider adding subtle annotations or visual cues to differentiate the three networking domains more clearly\n5. The background could be slightly simpler to increase focus on the main elements",
+            "current_prompt": "Create a modern, professional illustration showing a dynamic networking concept with three interconnected circular hubs representing LinkedIn, industry events, and professional organizations. Each hub should contain relevant icons and symbols. The LinkedIn hub should show a professional profile and content sharing icons, the events hub should display conference and meeting symbols, and the organizations hub should show community and volunteer work icons. Use a clean, corporate color scheme with blues and teals. The style should be flat design with subtle gradients and connecting lines showing flow and interaction between the hubs. Include small silhouettes of professionals networking within each hub. The overall composition should be balanced and sophisticated, suitable for a business presentation."
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>\u00c7at\u0131\u015fma Y\u00f6netiminde Ustala\u015f\u0131n</h2><ul><li>Anla\u015fmazl\u0131klar\u0131 F\u0131rsata D\u00f6n\u00fc\u015ft\u00fcr\u00fcn<ul><li>Aktif dinleme</li><li>Empati kurma</li><li>\u00c7\u00f6z\u00fcm odakl\u0131 yakla\u015f\u0131m</li></ul></li><li>Profesyonel \u00c7at\u0131\u015fma \u00c7\u00f6z\u00fcm Ad\u0131mlar\u0131:<ul><li>Durumu analiz edin</li><li>Taraflar\u0131 dinleyin</li><li>Ortak zemin bulun</li><li>Kazan-kazan stratejisi geli\u015ftirin</li></ul></li></ul>",
+            "slide_voiceover_text": "\u0130\u015f hayat\u0131nda \u00e7at\u0131\u015fmalar\u0131 etkili bir \u015fekilde y\u00f6netmek, profesyonel ba\u015far\u0131n\u0131n \u00f6nemli bir par\u00e7as\u0131d\u0131r. Anla\u015fmazl\u0131klar\u0131 yap\u0131c\u0131 bir f\u0131rsata d\u00f6n\u00fc\u015ft\u00fcrmek i\u00e7in aktif dinleme, empati ve \u00e7\u00f6z\u00fcm odakl\u0131 yakla\u015f\u0131m temel becerilerdir. Profesyonel \u00e7at\u0131\u015fma \u00e7\u00f6z\u00fcm\u00fcnde \u00f6ncelikle durumu objektif bir \u015fekilde analiz etmeli, t\u00fcm taraflar\u0131 sab\u0131rla dinlemeli, ortak bir zemin olu\u015fturmal\u0131 ve herkesin kazanaca\u011f\u0131 bir strateji geli\u015ftirmeliyiz. Bu yakla\u015f\u0131m, i\u015f ili\u015fkilerinizi g\u00fc\u00e7lendirecek ve kariyerinizde sizi bir ad\u0131m \u00f6ne ta\u015f\u0131yacakt\u0131r.",
+            "slide_image_prompt": "Create a professional illustration showing two business people in modern office attire engaged in a constructive dialogue, with a symbolic bridge forming between them. The bridge should be made of puzzle pieces coming together, representing problem-solving and conflict resolution. Use calm, professional colors like navy blue and gray. Between them, show floating icons representing key conflict resolution elements: a ear icon for listening, a handshake for agreement, and a lightbulb for solutions. The style should be modern corporate illustration with clean lines and subtle gradients. The overall mood should be positive and solution-focused, with soft lighting and professional atmosphere. Include some subtle infographic elements in the background showing upward trending arrows, suggesting positive progress."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "feedback": "Content Evaluation Results:\n\nStrengths:\n- Excellent alignment between all content elements (text, voiceover, and image)\n- Professional and clear messaging throughout\n- Well-structured HTML markup with proper heading and list hierarchy\n- Image prompt is detailed and perfectly aligned with the conflict resolution theme\n- Voiceover effectively expands on bullet points without redundancy\n\nMinor Areas for Improvement:\n- Could include more specific examples in the onscreen text\n- Image prompt could incorporate more cultural diversity elements\n\nDetailed Scoring:\n\nContent Coherence (38/40):\n- Perfect alignment between elements\n- Clear progression of ideas\n- Well-structured information flow\n- Only missing specific examples\n\nMultimedia Design (29/30):\n- Excellent balance between text and voiceover\n- Concise bullet points\n- Comprehensive voiceover\n- Well-designed image concept\n\nTechnical Quality (30/30):\n- Flawless HTML structure\n- Detailed and specific image prompt\n- Consistent Turkish language usage\n- Highly professional tone\n\nThe content demonstrates exceptional quality with only minimal room for improvement. The presentation maintains professional standards while effectively communicating complex conflict resolution concepts.",
+            "score": 97
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "Create a professional illustration showing two business people in modern office attire engaged in a constructive dialogue, with a symbolic bridge forming between them. The bridge should be made of puzzle pieces coming together, representing problem-solving and conflict resolution. Use calm, professional colors like navy blue and gray. Between them, show floating icons representing key conflict resolution elements: a ear icon for listening, a handshake for agreement, and a lightbulb for solutions. The style should be modern corporate illustration with clean lines and subtle gradients. The overall mood should be positive and solution-focused, with soft lighting and professional atmosphere. Include some subtle infographic elements in the background showing upward trending arrows, suggesting positive progress.",
+            "image_url": "https://fal.media/files/penguin/FbD8QTehnX-NAkJ4lAwy3_444ec7959413474097551b61eb31d150.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "score": 92,
+            "feedback": "The image successfully meets most key requirements and effectively illustrates the concept of conflict management. Positive aspects include:\n- Excellent representation of constructive dialogue between professionals\n- Well-executed puzzle piece bridge metaphor\n- Appropriate use of icons (lightbulb, growth arrow, puzzle pieces)\n- Clean, professional color scheme using navy blue tones\n- Good visual balance and composition\n- No critical issues present (no text, watermarks, or inappropriate content)\n\nMinor concerns:\n- Some icons could be more clearly defined for viewing at smaller sizes\n- The background gradient could be slightly more subtle\n- Plant elements, while decorative, aren't directly related to the content",
+            "suggestions": "To improve the image:\n1. Consider reducing the number of floating icons to focus on the most essential elements\n2. Make the puzzle piece bridge more prominent as it's a key metaphor\n3. Increase contrast between the figures and background slightly\n4. Remove or minimize decorative elements like plants\n5. Add more obvious active listening visual cues between the figures\n6. Consider incorporating more obvious empathy-related visual elements as mentioned in the content",
+            "current_prompt": "Create a professional illustration showing two business people in modern office attire engaged in a constructive dialogue, with a symbolic bridge forming between them. The bridge should be made of puzzle pieces coming together, representing problem-solving and conflict resolution. Use calm, professional colors like navy blue and gray. Between them, show floating icons representing key conflict resolution elements: a ear icon for listening, a handshake for agreement, and a lightbulb for solutions. The style should be modern corporate illustration with clean lines and subtle gradients. The overall mood should be positive and solution-focused, with soft lighting and professional atmosphere. Include some subtle infographic elements in the background showing upward trending arrows, suggesting positive progress."
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>30-60-90 G\u00fcnl\u00fck Eylem Plan\u0131</h2><ul><li><strong>30 G\u00fcn:</strong> Temel ileti\u015fim becerilerini geli\u015ftirme ve ilk networking etkinli\u011fine kat\u0131l\u0131m</li><li><strong>60 G\u00fcn:</strong> Profesyonel a\u011f\u0131 geni\u015fletme ve online presence g\u00fc\u00e7lendirme</li><li><strong>90 G\u00fcn:</strong> \u0130li\u015fkileri derinle\u015ftirme ve mentorluk f\u0131rsatlar\u0131 yaratma</li></ul><div style='background-color: #f5f5f5; padding: 10px; margin-top: 15px;'><strong>Ba\u015far\u0131 Metrikleri:</strong><br>\u2022 Yeni profesyonel ba\u011flant\u0131 say\u0131s\u0131<br>\u2022 Kat\u0131l\u0131nan networking etkinlikleri<br>\u2022 Ger\u00e7ekle\u015ftirilen mentorluk g\u00f6r\u00fc\u015fmeleri</div>",
+            "slide_voiceover_text": "\u00d6\u011frendiklerimizi somut ad\u0131mlara d\u00f6n\u00fc\u015ft\u00fcrmek i\u00e7in 30-60-90 g\u00fcnl\u00fck bir eylem plan\u0131 olu\u015fturaca\u011f\u0131z. \u0130lk 30 g\u00fcnde, temel ileti\u015fim becerilerinizi geli\u015ftirmeye ve ilk networking etkinli\u011finize kat\u0131lmaya odaklanacaks\u0131n\u0131z. 60 g\u00fcnl\u00fck hedefimizde, profesyonel a\u011f\u0131n\u0131z\u0131 geni\u015fletecek ve dijital varl\u0131\u011f\u0131n\u0131z\u0131 g\u00fc\u00e7lendireceksiniz. 90 g\u00fcn\u00fcn sonunda ise kurdu\u011funuz ili\u015fkileri derinle\u015ftirmi\u015f ve potansiyel mentorluk f\u0131rsatlar\u0131 yaratm\u0131\u015f olacaks\u0131n\u0131z. Her a\u015famada, belirledi\u011fimiz ba\u015far\u0131 metrikleriyle ilerlemenizi takip edecek ve gerekli d\u00fczenlemeleri yapaca\u011f\u0131z. Bu plan, sizin ki\u015fisel hedeflerinize g\u00f6re \u00f6zelle\u015ftirilebilir ve esnektir.",
+            "slide_image_prompt": "Create a modern and professional infographic illustration showing a circular journey diagram divided into three main segments (30-60-90 days), using a clean corporate art style with a blue and white color scheme. Each segment should contain simple icons representing different networking and communication activities. The center of the circle should feature a compass or target symbol, suggesting direction and goal achievement. Include small progress bars or checkpoints along the circle's edge. The overall style should be minimalist and professional, with subtle shadows and a light grid background. The illustration should incorporate small human figures networking and communicating at different stages of the journey. Use isometric design elements to add depth and dimension to the visualization."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "feedback": "Overall Assessment:\n\nThe slide content demonstrates strong coherence and professional quality across all elements. Here's the detailed breakdown:\n\nContent Coherence (38/40):\n+ Perfect alignment between onscreen text, voiceover, and image prompt\n+ Clear and actionable message structure with 30-60-90 day plan\n+ Well-defined success metrics\n- Minor point deduction for potentially overwhelming detail level in the 90-day timeframe\n\nMultimedia Design (28/30):\n+ Excellent balance between onscreen text and voiceover content\n+ Voiceover effectively expands on bullet points\n+ Image prompt highly relevant and well-detailed\n- Small deduction for slightly dense onscreen text formatting\n\nTechnical Quality (29/30):\n+ HTML markup is correctly implemented\n+ Image prompt provides comprehensive technical direction\n+ Consistent Turkish language usage throughout\n+ Professional tone maintained across all elements\n- Minor deduction for slightly complex div styling in HTML\n\nStrengths:\n\u2022 Clear progression of learning objectives\n\u2022 Well-structured action plan\n\u2022 Professional tone and presentation\n\u2022 Strong integration of all content elements\n\nSuggestions for Improvement:\n\u2022 Consider breaking down the 90-day goals into more manageable sub-goals\n\u2022 Slightly simplify the onscreen text formatting\n\u2022 Consider adding specific numerical targets to success metrics\n\nNo critical issues were found that would warrant failure.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "Create a modern and professional infographic illustration showing a circular journey diagram divided into three main segments (30-60-90 days), using a clean corporate art style with a blue and white color scheme. Each segment should contain simple icons representing different networking and communication activities. The center of the circle should feature a compass or target symbol, suggesting direction and goal achievement. Include small progress bars or checkpoints along the circle's edge. The overall style should be minimalist and professional, with subtle shadows and a light grid background. The illustration should incorporate small human figures networking and communicating at different stages of the journey. Use isometric design elements to add depth and dimension to the visualization.",
+            "image_url": "https://fal.media/files/zebra/cG44ZyYYz0qva_sWTj6Wg_b5c0eabe571b476dbe03a8ea72fd05c8.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "score": 88,
+            "feedback": "The image effectively represents a 30-60-90 day action plan through a well-designed circular journey diagram. While the overall execution is strong, there are a few notable points:\n\n1. Content Alignment (35/40):\n- Excellent circular layout with compass center as requested\n- Clear three-segment division matching the timeline\n- Professional figures showing networking activities\n- Isometric design implemented effectively\n- Small icons present but could be more distinct\n\n2. Visual Quality (28/30):\n- High resolution and clarity\n- Excellent blue and white color scheme\n- Professional shadows and depth\n- Clean, modern corporate style\n- Strong lighting effects\n\n3. Presentation Suitability (25/30):\n- Supports the slide message well\n- Some text elements visible which should be removed\n- Good use of space and composition\n- Clear visual hierarchy",
+            "suggestions": "To improve the image:\n1. Remove all visible text elements from the diagram\n2. Increase the size of activity icons for better visibility\n3. Consider adding more distinct visual markers between the 30-60-90 day segments\n4. Simplify some of the background elements to reduce visual noise\n5. Add more clear progress indicators or checkpoints along the circle's edge as specified in the original prompt",
+            "current_prompt": "Create a modern and professional infographic illustration showing a circular journey diagram divided into three main segments (30-60-90 days), using a clean corporate art style with a blue and white color scheme. Each segment should contain simple icons representing different networking and communication activities. The center of the circle should feature a compass or target symbol, suggesting direction and goal achievement. Include small progress bars or checkpoints along the circle's edge. The overall style should be minimalist and professional, with subtle shadows and a light grid background. The illustration should incorporate small human figures networking and communicating at different stages of the journey. Use isometric design elements to add depth and dimension to the visualization."
+         }
+      },
+      {
+         "step": "presentation_completion",
+         "data": {
+            "total_slides": 5,
+            "completion_time": "20250225013916"
+         },
+         "timestamp": "20250225013916"
+      }
+   ],
+   "metadata": {
+      "start_time": "20250225012247",
+      "completion_status": {
+         "topic_selection": true,
+         "outline_generation": false,
+         "content_generation": true
+      },
+      "completion_time": "20250225013916"
+   }
+}

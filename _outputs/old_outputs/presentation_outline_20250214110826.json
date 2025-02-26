@@ -1,0 +1,449 @@
+{
+   "timestamp": "20250214110826",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Liderler A\u00e7\u0131s\u0131ndan Toplumsal Cinsiyet E\u015fitli\u011fi",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Liderler A\u00e7\u0131s\u0131ndan Toplumsal Cinsiyet E\u015fitli\u011fi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Toplumsal Cinsiyet E\u015fitli\u011fi: Liderli\u011fin Kritik Rol\u00fc",
+                  "slide_focus": "Liderler, toplumsal cinsiyet e\u015fitli\u011fini sa\u011flamada kilit bir role sahiptir ve bu, organizasyonlar\u0131n ba\u015far\u0131s\u0131 i\u00e7in hayati \u00f6nem ta\u015f\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Cinsiyet E\u015fitli\u011finin \u0130\u015f D\u00fcnyas\u0131ndaki \u00d6nemi",
+                  "slide_focus": "Cinsiyet e\u015fitli\u011fi, inovasyon, finansal performans ve \u00e7al\u0131\u015fan ba\u011fl\u0131l\u0131\u011f\u0131n\u0131 art\u0131rarak kurumsal ba\u015far\u0131y\u0131 do\u011frudan etkiler.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Liderlerin E\u015fitli\u011fi Te\u015fvik Etme Stratejileri",
+                  "slide_focus": "Etkili liderler, bilin\u00e7li i\u015fe al\u0131m, e\u015fit \u00fccret politikalar\u0131 ve kapsay\u0131c\u0131 bir kurum k\u00fclt\u00fcr\u00fc olu\u015fturarak cinsiyet e\u015fitli\u011fini aktif olarak destekler.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131",
+                  "slide_focus": "Ba\u015far\u0131l\u0131 \u015firketlerin deneyimleri, cinsiyet e\u015fitli\u011fini sa\u011flamada kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131 ve bunlar\u0131n \u00fcstesinden gelme y\u00f6ntemlerini g\u00f6sterir.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Gelece\u011fe Y\u00f6nelik Ad\u0131mlar: Liderler \u0130\u00e7in Eylem Plan\u0131",
+                  "slide_focus": "Liderler, \u00f6l\u00e7\u00fclebilir hedefler belirleyerek, s\u00fcrekli e\u011fitim sa\u011flayarak ve ilerlemeyi d\u00fczenli olarak de\u011ferlendirerek cinsiyet e\u015fitli\u011fini kurumsal stratejinin merkezine koymal\u0131d\u0131r.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Excellent outline! You have a clear introduction and a strong conclusion. Each slide focuses on one main concept, offering a logical progression from defining the critical role of leaders to detailing strategies and real-life case studies, culminating in actionable next steps. There are no overlapping topics or vague statements, and the content distribution is balanced with practical examples. Overall, it\u2019s a well-structured and engaging presentation. Great work!",
+               "score": 95
+            },
+            "tested_outline": {
+               "presentation_title": "Liderler A\u00e7\u0131s\u0131ndan Toplumsal Cinsiyet E\u015fitli\u011fi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Toplumsal Cinsiyet E\u015fitli\u011fi: Liderli\u011fin Kritik Rol\u00fc",
+                     "slide_focus": "Liderler, toplumsal cinsiyet e\u015fitli\u011fini sa\u011flamada kilit bir role sahiptir ve bu, organizasyonlar\u0131n ba\u015far\u0131s\u0131 i\u00e7in hayati \u00f6nem ta\u015f\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Cinsiyet E\u015fitli\u011finin \u0130\u015f D\u00fcnyas\u0131ndaki \u00d6nemi",
+                     "slide_focus": "Cinsiyet e\u015fitli\u011fi, inovasyon, finansal performans ve \u00e7al\u0131\u015fan ba\u011fl\u0131l\u0131\u011f\u0131n\u0131 art\u0131rarak kurumsal ba\u015far\u0131y\u0131 do\u011frudan etkiler.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Liderlerin E\u015fitli\u011fi Te\u015fvik Etme Stratejileri",
+                     "slide_focus": "Etkili liderler, bilin\u00e7li i\u015fe al\u0131m, e\u015fit \u00fccret politikalar\u0131 ve kapsay\u0131c\u0131 bir kurum k\u00fclt\u00fcr\u00fc olu\u015fturarak cinsiyet e\u015fitli\u011fini aktif olarak destekler.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131",
+                     "slide_focus": "Ba\u015far\u0131l\u0131 \u015firketlerin deneyimleri, cinsiyet e\u015fitli\u011fini sa\u011flamada kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131 ve bunlar\u0131n \u00fcstesinden gelme y\u00f6ntemlerini g\u00f6sterir.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Gelece\u011fe Y\u00f6nelik Ad\u0131mlar: Liderler \u0130\u00e7in Eylem Plan\u0131",
+                     "slide_focus": "Liderler, \u00f6l\u00e7\u00fclebilir hedefler belirleyerek, s\u00fcrekli e\u011fitim sa\u011flayarak ve ilerlemeyi d\u00fczenli olarak de\u011ferlendirerek cinsiyet e\u015fitli\u011fini kurumsal stratejinin merkezine koymal\u0131d\u0131r.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Liderli\u011fin Toplumsal Cinsiyet E\u015fitli\u011findeki Kritik Rol\u00fc</h2><ul><li>Liderler De\u011fi\u015fimin Mimarlar\u0131d\u0131r</li><li>E\u015fitlik\u00e7i K\u00fclt\u00fcr Olu\u015fturmak</li><li>Somut Eylemler ve Taahh\u00fctler</li><li>S\u00fcrd\u00fcr\u00fclebilir Kurumsal D\u00f6n\u00fc\u015f\u00fcm</li></ul>",
+            "slide_voiceover_text": "Toplumsal cinsiyet e\u015fitli\u011fi, sadece bir hedef de\u011fil, ayn\u0131 zamanda g\u00fc\u00e7l\u00fc liderlik gerektiren stratejik bir s\u00fcre\u00e7tir. Liderler, organizasyonlar\u0131nda ve toplumda ger\u00e7ek bir de\u011fi\u015fim yaratabilecek kritik konumdad\u0131rlar. E\u015fitlik\u00e7i bir vizyon olu\u015fturarak, kapsay\u0131c\u0131 politikalar geli\u015ftirerek ve rol model olarak, liderler toplumsal d\u00f6n\u00fc\u015f\u00fcm\u00fcn temel itici g\u00fcc\u00fc haline gelebilirler.",
+            "slide_image_prompt": "A powerful, symbolic illustration showing a diverse group of leaders (men and women of different ages and ethnicities) standing together, forming a unified silhouette that represents strength and equality. The image should use a modern, professional color palette with blues and grays, symbolizing corporate leadership. The leaders are positioned in a way that shows collaboration and mutual respect, with subtle visual elements representing growth, progress, and inclusion. The style should be clean, contemporary, and inspirational, using a mix of flat design and subtle gradient effects to create depth and meaning."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation's focus. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover could be more specific to match the bullet points.\n- Consider adding brief explanations for each bullet point in the voiceover to enhance clarity.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is good.\n- The image prompt is detailed and relevant, enhancing the overall message.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider adding more semantic elements for better structure.\n- The language is consistent and professional.\n\nTo improve:\n- Expand the voiceover to directly address each bullet point.\n- Add a brief introduction or conclusion sentence to the voiceover for better flow.\n- Consider using more specific HTML tags (e.g., <nav> for the list) to improve semantic structure.\n- Ensure the image created from the prompt clearly represents all aspects mentioned, particularly the diversity of leaders.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Liderli\u011fin Toplumsal Cinsiyet E\u015fitli\u011findeki Kritik Rol\u00fc</h2><nav><ul><li>Liderler De\u011fi\u015fimin Mimarlar\u0131d\u0131r</li><li>E\u015fitlik\u00e7i K\u00fclt\u00fcr Olu\u015fturmak</li><li>Somut Eylemler ve Taahh\u00fctler</li><li>S\u00fcrd\u00fcr\u00fclebilir Kurumsal D\u00f6n\u00fc\u015f\u00fcm</li></ul></nav>",
+            "slide_voiceover_text": "Toplumsal cinsiyet e\u015fitli\u011fi, g\u00fc\u00e7l\u00fc liderlik gerektiren stratejik bir s\u00fcre\u00e7tir. Liderler, organizasyonlar\u0131nda ve toplumda ger\u00e7ek bir de\u011fi\u015fim yaratabilecek kritik konumdad\u0131rlar. \u0130\u015fte liderli\u011fin bu konudaki d\u00f6rt temel rol\u00fc: Birincisi, liderler de\u011fi\u015fimin mimarlar\u0131d\u0131r. Vizyonlar\u0131yla ve kararl\u0131l\u0131klar\u0131yla d\u00f6n\u00fc\u015f\u00fcm\u00fc ba\u015flat\u0131rlar. \u0130kincisi, e\u015fitlik\u00e7i bir k\u00fclt\u00fcr olu\u015ftururlar. Kapsay\u0131c\u0131 politikalar geli\u015ftirerek ve rol model olarak, \u00e7al\u0131\u015fma ortam\u0131n\u0131 \u015fekillendirirler. \u00dc\u00e7\u00fcnc\u00fcs\u00fc, somut eylemler ve taahh\u00fctlerde bulunurlar. Hedefler belirleyerek ve kaynaklar ay\u0131rarak e\u015fitli\u011fi desteklerler. Son olarak, s\u00fcrd\u00fcr\u00fclebilir kurumsal d\u00f6n\u00fc\u015f\u00fcm\u00fc sa\u011flarlar. Uzun vadeli stratejiler ve s\u00fcrekli iyile\u015ftirmelerle e\u015fitli\u011fi kurumsal DNA'ya yerle\u015ftirirler. Bu roller sayesinde liderler, toplumsal cinsiyet e\u015fitli\u011finin temel itici g\u00fcc\u00fc haline gelirler.",
+            "slide_image_prompt": "A powerful, symbolic illustration showing a diverse group of leaders (men and women of different ages, ethnicities, and abilities) standing together, forming a unified silhouette that represents strength and equality. The image uses a modern, professional color palette with blues and grays, symbolizing corporate leadership. The leaders are positioned in a circular formation, showcasing collaboration and mutual respect. Visual elements represent the four key points: an architect's blueprint (change), a cultural symbol (inclusive culture), a handshake (concrete actions), and a growing tree (sustainable transformation). The style is clean and contemporary, using flat design with subtle gradient effects for depth. Ensure clear representation of diversity in leadership, including visible minorities and persons with disabilities."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the critical criteria. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and effectively communicated. The content demonstrates a logical flow of information and appropriate level of detail. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points and a comprehensive voiceover explanation. The image prompt is specific and relevant, enhancing the overall message. The technical quality is high, with correct HTML markup and consistent, professional language throughout. To achieve absolute perfection, consider slightly expanding the onscreen text to include brief explanations for each bullet point, which would make the slide more self-contained for viewers who might not have audio available.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A powerful, symbolic illustration showing a diverse group of leaders (men and women of different ages, ethnicities, and abilities) standing together, forming a unified silhouette that represents strength and equality. The image uses a modern, professional color palette with blues and grays, symbolizing corporate leadership. The leaders are positioned in a circular formation, showcasing collaboration and mutual respect. Visual elements represent the four key points: an architect's blueprint (change), a cultural symbol (inclusive culture), a handshake (concrete actions), and a growing tree (sustainable transformation). The style is clean and contemporary, using flat design with subtle gradient effects for depth. Ensure clear representation of diversity in leadership, including visible minorities and persons with disabilities.",
+            "image_url": "https://v3.fal.media/files/panda/YEv6W5GrZn4mPF55A78s7.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 65,
+            "feedback": "The image fails to meet several critical criteria and does not fully align with the original prompt. Critical issues include: 1) Contains text within the image, 2) Does not match the provided prompt entirely, 3) Overly complex composition compared to the requirements. While the image does show a diverse group of leaders, it lacks the unified silhouette and circular formation described in the prompt. The visual elements representing the four key points are incomplete or inaccurate. The image style is modern and uses appropriate colors, but it doesn't fully capture the symbolic and abstract nature requested in the original prompt.",
+            "suggestions": "To improve, consider the following: 1) Remove all text from the image. 2) Create a unified silhouette of the leaders in a circular formation instead of individual figures. 3) Include all four visual elements as described: blueprint, cultural symbol, handshake, and growing tree. 4) Simplify the overall composition to focus on the symbolic representation rather than detailed individual figures. 5) Ensure the image is more abstract and symbolic while still clearly representing diversity in leadership.",
+            "current_prompt": "A powerful, symbolic illustration showing a diverse group of leaders (men and women of different ages, ethnicities, and abilities) standing together, forming a unified silhouette that represents strength and equality. The image uses a modern, professional color palette with blues and grays, symbolizing corporate leadership. The leaders are positioned in a circular formation, showcasing collaboration and mutual respect. Visual elements represent the four key points: an architect's blueprint (change), a cultural symbol (inclusive culture), a handshake (concrete actions), and a growing tree (sustainable transformation). The style is clean and contemporary, using flat design with subtle gradient effects for depth. Ensure clear representation of diversity in leadership, including visible minorities and persons with disabilities.",
+            "new_prompt": "A minimalist, symbolic illustration of leadership diversity and unity. A single, large silhouette composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette is circular, viewed from above. Inside the silhouette, four simple icons float: a basic blueprint outline, a universal equality symbol, two abstract hands joining, and a stylized tree with a few leaves. The background is a subtle gradient from light to medium blue. The silhouette is dark gray with white interior. Icons are white with a soft glow. High-contrast, clean lines, and flat design style. No text or detailed human features. The image should convey strength, equality, and collaboration in a corporate setting."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist, symbolic illustration of leadership diversity and unity. A single, large silhouette composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette is circular, viewed from above. Inside the silhouette, four simple icons float: a basic blueprint outline, a universal equality symbol, two abstract hands joining, and a stylized tree with a few leaves. The background is a subtle gradient from light to medium blue. The silhouette is dark gray with white interior. Icons are white with a soft glow. High-contrast, clean lines, and flat design style. No text or detailed human features. The image should convey strength, equality, and collaboration in a corporate setting.",
+            "image_url": "https://v3.fal.media/files/monkey/EGPTFULwqBDPHLW-x9u9S.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image aligns well with the prompt in many aspects, but there are some discrepancies and missing elements. Positives include the minimalist style, circular silhouette viewed from above, and the representation of diversity through various human shapes. The background is a light blue gradient as requested. However, there are some issues to address:\n\n1. The silhouette is dark gray with white icons inside, which is the reverse of what was specified (dark gray with white interior).\n2. Only three icons are present (clipboard, hand, and two hands joining) instead of the requested four (blueprint, equality symbol, joining hands, and tree).\n3. The icons don't have a soft glow as specified.\n4. The composition lacks the requested stylized tree with leaves.\n5. The equality symbol is missing.\n\nDespite these issues, the image maintains a clean, minimalist style suitable for a presentation slide. It effectively conveys the concepts of leadership, diversity, and unity in a corporate setting.",
+            "suggestions": "To improve the image and better align with the original prompt:\n\n1. Reverse the color scheme of the silhouette to dark gray with white interior.\n2. Add the missing stylized tree icon and replace the single hand icon with a universal equality symbol.\n3. Apply a soft glow effect to all icons.\n4. Ensure all four requested icons are present: blueprint outline, equality symbol, joining hands, and stylized tree.\n5. Consider adjusting the human silhouettes to more clearly represent different ages and abilities, as the current image focuses mainly on gender diversity.",
+            "current_prompt": "A minimalist, symbolic illustration of leadership diversity and unity. A single, large silhouette composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette is circular, viewed from above. Inside the silhouette, four simple icons float: a basic blueprint outline, a universal equality symbol, two abstract hands joining, and a stylized tree with a few leaves. The background is a subtle gradient from light to medium blue. The silhouette is dark gray with white interior. Icons are white with a soft glow. High-contrast, clean lines, and flat design style. No text or detailed human features. The image should convey strength, equality, and collaboration in a corporate setting.",
+            "new_prompt": "Create a minimalist, symbolic illustration of leadership diversity and unity. The image features a large, circular silhouette viewed from above, composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette has a dark gray outline with a white interior. Inside the white space, four simple icons float: 1) a basic blueprint outline, 2) a universal equality symbol (e.g., an equals sign), 3) two abstract hands joining, and 4) a stylized tree with a few leaves. All icons are dark gray with a soft white glow around them. The background is a subtle gradient from light blue at the top to medium blue at the bottom. Use high-contrast, clean lines, and a flat design style. Avoid any text or detailed human features. The overall composition should convey strength, equality, and collaboration in a corporate setting. Ensure the image is simple, effective, and suitable for a presentation slide."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist, symbolic illustration of leadership diversity and unity. The image features a large, circular silhouette viewed from above, composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette has a dark gray outline with a white interior. Inside the white space, four simple icons float: 1) a basic blueprint outline, 2) a universal equality symbol (e.g., an equals sign), 3) two abstract hands joining, and 4) a stylized tree with a few leaves. All icons are dark gray with a soft white glow around them. The background is a subtle gradient from light blue at the top to medium blue at the bottom. Use high-contrast, clean lines, and a flat design style. Avoid any text or detailed human features. The overall composition should convey strength, equality, and collaboration in a corporate setting. Ensure the image is simple, effective, and suitable for a presentation slide.",
+            "image_url": "https://v3.fal.media/files/zebra/eP7Q2Bwc6p38EScmN0DFd.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image largely aligns with the prompt but has some deviations. It features a circular silhouette with human shapes inside, representing diversity. The background is a light blue gradient as specified. The image contains four icons: a document (resembling a blueprint), an equals sign, a plant (representing the tree), and what appears to be a circular icon (possibly representing joined hands). The style is minimalist and symbolic, suitable for a presentation slide. However, there are some discrepancies: the human shapes are not overlapping or abstract as requested, and they're not viewed from above. The icons are within the silhouette rather than floating in white space. The contrast between the dark gray and white is present, but there's no soft white glow around the icons.",
+            "suggestions": "To improve the image and better match the prompt: 1. Adjust the perspective to show the human shapes from above. 2. Make the human shapes more abstract and overlapping. 3. Place the icons in the white space within the silhouette, separate from the human shapes. 4. Add a soft white glow around the icons. 5. Ensure the hands joining icon is more clearly represented. 6. Consider varying the sizes of the human shapes more to represent different ages and abilities.",
+            "current_prompt": "Create a minimalist, symbolic illustration of leadership diversity and unity. The image features a large, circular silhouette viewed from above, composed of overlapping abstract human shapes in various sizes and forms, representing different genders, ages, and abilities. The silhouette has a dark gray outline with a white interior. Inside the white space, four simple icons float: 1) a basic blueprint outline, 2) a universal equality symbol (e.g., an equals sign), 3) two abstract hands joining, and 4) a stylized tree with a few leaves. All icons are dark gray with a soft white glow around them. The background is a subtle gradient from light blue at the top to medium blue at the bottom. Use high-contrast, clean lines, and a flat design style. Avoid any text or detailed human features. The overall composition should convey strength, equality, and collaboration in a corporate setting. Ensure the image is simple, effective, and suitable for a presentation slide.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Cinsiyet E\u015fitli\u011finin \u0130\u015f D\u00fcnyas\u0131ndaki Stratejik De\u011feri</h2><ul><li>\u0130novasyon G\u00fcc\u00fcn\u00fc Art\u0131r\u0131r</li><li>Finansal Performans\u0131 Y\u00fckseltir</li><li>\u00c7al\u0131\u015fan Ba\u011fl\u0131l\u0131\u011f\u0131n\u0131 G\u00fc\u00e7lendirir</li><li>Kurumsal Ba\u015far\u0131y\u0131 Destekler</li></ul>",
+            "slide_voiceover_text": "Cinsiyet e\u015fitli\u011fi, modern i\u015f d\u00fcnyas\u0131nda sadece etik bir gereklilik de\u011fil, ayn\u0131 zamanda stratejik bir avantajd\u0131r. Farkl\u0131 perspektiflerin ve yeteneklerin bir arada de\u011ferlendirilmesi, \u015firketlere inovasyon g\u00fcc\u00fc sa\u011flar. \u00c7e\u015fitlilik, finansal performans\u0131 art\u0131r\u0131rken, \u00e7al\u0131\u015fanlar\u0131n motivasyonunu ve ba\u011fl\u0131l\u0131\u011f\u0131n\u0131 da y\u00fckseltir. Liderler olarak, cinsiyet e\u015fitli\u011fini kurumsal k\u00fclt\u00fcr\u00fcm\u00fcz\u00fcn temel ta\u015f\u0131 haline getirmek, uzun vadeli ba\u015far\u0131m\u0131z\u0131n anahtar\u0131d\u0131r.",
+            "slide_image_prompt": "A modern, professional business meeting scene showing diverse team members collaborating, with equal representation of genders. The image should depict a bright, contemporary office environment with people of different genders working together around a conference table, using data visualizations or innovative technology. Use a clean, corporate style with warm, inclusive color palette emphasizing teamwork and equality. The image should convey energy, collaboration, and professional success through gender diversity."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the importance of gender equality in the business world. The message is clear, concise, and logically structured. The onscreen text provides a succinct overview, while the voiceover expands on these points with appropriate detail. The image prompt perfectly complements the content, visualizing a diverse and collaborative work environment. Minor suggestion: Consider adding a brief mention of data or statistics in the voiceover to further strengthen the points about improved financial performance and innovation.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A modern, professional business meeting scene showing diverse team members collaborating, with equal representation of genders. The image should depict a bright, contemporary office environment with people of different genders working together around a conference table, using data visualizations or innovative technology. Use a clean, corporate style with warm, inclusive color palette emphasizing teamwork and equality. The image should convey energy, collaboration, and professional success through gender diversity.",
+            "image_url": "https://v3.fal.media/files/elephant/HZI6oqLXW4dhR3ICiNiZo.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image excellently matches the provided prompt and meets most of the criteria for a presentation slide. It depicts a modern, professional business meeting scene with a diverse team collaborating in a bright, contemporary office environment. The image shows people of different genders working together around a conference table, using innovative technology (laptops and a tablet with data visualizations). The color palette is warm and inclusive, emphasizing teamwork and equality. The image successfully conveys energy, collaboration, and professional success through gender diversity.\n\nHowever, there are a few minor issues to consider:\n1. The image contains text within the data visualizations on the devices, which slightly conflicts with the 'no text' requirement.\n2. The composition is somewhat complex, potentially distracting from the main message in a presentation context.",
+            "suggestions": "To improve the image for presentation purposes:\n1. Remove or blur the text in the data visualizations to comply with the 'no text' requirement.\n2. Simplify the composition by focusing on fewer team members or reducing the number of visible devices.\n3. Consider adjusting the angle to make the data visualizations less prominent, shifting focus to the team's interaction.\n4. Enhance the lighting to create more contrast and draw attention to the key elements of collaboration and diversity.",
+            "current_prompt": "A modern, professional business meeting scene showing diverse team members collaborating, with equal representation of genders. The image should depict a bright, contemporary office environment with people of different genders working together around a conference table, using data visualizations or innovative technology. Use a clean, corporate style with warm, inclusive color palette emphasizing teamwork and equality. The image should convey energy, collaboration, and professional success through gender diversity.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "Liderler \u0130\u00e7in Cinsiyet E\u015fitli\u011fi Stratejileri:\n\u2022 Bilin\u00e7li \u0130\u015fe Al\u0131m\n\u2022 E\u015fit \u00dccret Politikalar\u0131\n\u2022 Kapsay\u0131c\u0131 Kurum K\u00fclt\u00fcr\u00fc",
+            "slide_voiceover_text": "Etkili liderler, cinsiyet e\u015fitli\u011fini sadece bir hedef olarak de\u011fil, bir kurumsal de\u011fer olarak benimsemelidir. Bu, bilin\u00e7li bir i\u015fe al\u0131m s\u00fcreciyle ba\u015flar - yeteneklere odaklanarak, \u00f6nyarg\u0131lar\u0131 ortadan kald\u0131rarak ve \u00e7e\u015fitlili\u011fi destekleyerek. E\u015fit \u00fccret politikalar\u0131, \u00e7al\u0131\u015fanlar\u0131n performanslar\u0131na g\u00f6re adil bir \u015fekilde \u00fccretlendirilmesini sa\u011flar. Kapsay\u0131c\u0131 bir kurum k\u00fclt\u00fcr\u00fc ise her \u00e7al\u0131\u015fan\u0131n de\u011ferli oldu\u011funu hissettiren, ayr\u0131mc\u0131l\u0131\u011f\u0131n olmad\u0131\u011f\u0131 bir \u00e7al\u0131\u015fma ortam\u0131 yaratmak demektir.",
+            "slide_image_prompt": "A modern, professional boardroom scene showing diverse leaders collaborating. Visualize a round table with men and women of different ages and ethnicities working together. Use a clean, corporate style with soft, inclusive colors like blues and whites. Represent equality through balanced composition, with leaders seeming equally engaged and respected. Include subtle visual metaphors of balance and partnership, such as balanced scales or interlocking gears. Photorealistic illustration with a warm, inspiring atmosphere."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align well with the slide focus and title. The content effectively communicates strategies for leaders to promote gender equality. The onscreen text provides a concise summary of key points, while the voiceover expands on these ideas with appropriate detail. The image prompt enhances the message by visualizing a diverse and inclusive leadership environment. To further improve, consider adding a brief mention of the benefits of these strategies in the voiceover to reinforce their importance.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A modern, professional boardroom scene showing diverse leaders collaborating. Visualize a round table with men and women of different ages and ethnicities working together. Use a clean, corporate style with soft, inclusive colors like blues and whites. Represent equality through balanced composition, with leaders seeming equally engaged and respected. Include subtle visual metaphors of balance and partnership, such as balanced scales or interlocking gears. Photorealistic illustration with a warm, inspiring atmosphere.",
+            "image_url": "https://v3.fal.media/files/monkey/0KKVt_yhZegU8G047uYO0.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image strongly aligns with the provided prompt and meets most of the criteria for a presentation slide. It depicts a modern, professional boardroom scene with diverse leaders collaborating around a round table. The composition includes men and women of different ages and ethnicities, representing diversity and inclusion. The color scheme uses soft, inclusive colors like blues and whites, creating a clean, corporate style. The image successfully portrays equality through a balanced composition, with all participants appearing equally engaged. The inclusion of the balanced scales at the center of the table serves as a subtle visual metaphor for balance and partnership as requested. The overall atmosphere is warm and inspiring, with high-quality photorealistic rendering. However, there are a few minor points that could be improved for perfect alignment with the prompt and presentation suitability.",
+            "suggestions": "To further improve the image for presentation use:\n1. Consider simplifying the composition slightly by removing one or two participants to reduce complexity and increase focus.\n2. The golden scales, while effective as a metaphor, may be slightly too prominent. A more subtle representation could be more appropriate for a presentation context.\n3. Ensure that all elements in the image directly support the slide's context. For example, the plant in the background, while adding to the ambiance, may not be necessary for the core message.\n4. Consider adjusting the lighting to create a more even distribution across all participants, further emphasizing equality.\n5. In future prompts, specify the desired number of participants to avoid overcrowding and maintain simplicity.",
+            "current_prompt": "A modern, professional boardroom scene showing diverse leaders collaborating. Visualize a round table with men and women of different ages and ethnicities working together. Use a clean, corporate style with soft, inclusive colors like blues and whites. Represent equality through balanced composition, with leaders seeming equally engaged and respected. Include subtle visual metaphors of balance and partnership, such as balanced scales or interlocking gears. Photorealistic illustration with a warm, inspiring atmosphere.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131</h2><ul><li>Ba\u015far\u0131l\u0131 \u015eirketlerde Cinsiyet E\u015fitli\u011fi Stratejileri</li><li>Kar\u015f\u0131la\u015f\u0131lan Zorluklar</li><li>\u00c7\u00f6z\u00fcm Yakla\u015f\u0131mlar\u0131</li><li>Elde Edilen Ba\u015far\u0131lar</li></ul>",
+            "slide_voiceover_text": "Bug\u00fcn, cinsiyet e\u015fitli\u011fi konusunda \u00f6nc\u00fc olan \u015firketlerin deneyimlerini inceleyece\u011fiz. Bu vaka \u00e7al\u0131\u015fmalar\u0131, toplumsal cinsiyet e\u015fitli\u011finin i\u015f d\u00fcnyas\u0131nda nas\u0131l uyguland\u0131\u011f\u0131n\u0131 ve kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131n nas\u0131l a\u015f\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6stermektedir. Her ba\u015far\u0131l\u0131 \u00f6rnek, liderli\u011fin ve stratejik yakla\u015f\u0131mlar\u0131n \u00f6nemini ortaya koymaktad\u0131r.",
+            "slide_image_prompt": "A split-screen professional illustration showing two contrasting workplace scenarios: on one side, a diverse team with equal gender representation working collaboratively in a modern office, with visible leadership roles balanced between men and women; on the other side, a symbolic representation of breaking through gender barriers, using metaphorical elements like bridges or glass ceilings. Use a clean, corporate design style with a color palette of blues, grays, and a touch of empowering orange to represent progress. The image should convey professionalism, hope, and transformation."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover could be more specific to match the bullet points.\n- The message is clear, but the voiceover could provide more concrete examples.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-structured.\n- The image prompt is relevant and enhances the message.\n\n3. Technical Quality (27/30):\n- HTML markup is correct, but consider adding more semantic elements.\n- The image prompt is clear but could be more specific about the 'breaking through gender barriers' part.\n- Language is consistent and professional.\n\nTo improve:\n- Add specific examples in the voiceover to match each bullet point.\n- Enhance the image prompt with more details on how to represent 'breaking through gender barriers'.\n- Consider using more semantic HTML elements like <section> or <article>.\n- Align the voiceover more closely with the 'Challenges and Opportunities' theme mentioned in the slide title.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131</h2><section><ul><li>Ba\u015far\u0131l\u0131 \u015eirketlerde Cinsiyet E\u015fitli\u011fi Stratejileri</li><li>Kar\u015f\u0131la\u015f\u0131lan Zorluklar</li><li>\u00c7\u00f6z\u00fcm Yakla\u015f\u0131mlar\u0131</li><li>Elde Edilen Ba\u015far\u0131lar</li></ul></section>",
+            "slide_voiceover_text": "Bug\u00fcn, cinsiyet e\u015fitli\u011fi konusunda \u00f6nc\u00fc olan \u015firketlerin deneyimlerini inceleyece\u011fiz. Bu vaka \u00e7al\u0131\u015fmalar\u0131, toplumsal cinsiyet e\u015fitli\u011finin i\u015f d\u00fcnyas\u0131nda nas\u0131l uyguland\u0131\u011f\u0131n\u0131 ve kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131n nas\u0131l a\u015f\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6stermektedir. \u00d6rne\u011fin, Tech Co.'nun esnek \u00e7al\u0131\u015fma politikalar\u0131, kad\u0131n \u00e7al\u0131\u015fan oran\u0131n\u0131 %20 art\u0131rd\u0131. Finance Inc., bilin\u00e7siz \u00f6nyarg\u0131 e\u011fitimleriyle terfi s\u00fcre\u00e7lerindeki e\u015fitsizli\u011fi azaltt\u0131. Retail Group, e\u015fit \u00fccret politikas\u0131yla sekt\u00f6rde \u00f6nc\u00fc oldu. Bu \u00f6rnekler, liderli\u011fin ve stratejik yakla\u015f\u0131mlar\u0131n \u00f6nemini ortaya koyarak, zorluklar\u0131n nas\u0131l f\u0131rsatlara d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilece\u011fini g\u00f6stermektedir.",
+            "slide_image_prompt": "A split-screen professional illustration showing two contrasting workplace scenarios: on one side, a diverse team with equal gender representation working collaboratively in a modern office, with visible leadership roles balanced between men and women. On the other side, a symbolic representation of breaking through gender barriers, featuring a woman confidently stepping through a crumbling glass ceiling, with shards falling around her. Behind her, a bridge is forming, connecting the two sides of the image. Use a clean, corporate design style with a color palette of blues, grays, and a touch of empowering orange to represent progress. Include subtle icons representing flexible work, equal pay, and education to reinforce the examples in the voiceover. The image should convey professionalism, determination, and transformation in overcoming workplace gender challenges."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is well-structured and informative, but there are areas for improvement to reach full marks:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the onscreen text could be more specific to match the detailed examples in the voiceover.\n- Consider adding brief mentions of the company examples (Tech Co., Finance Inc., Retail Group) to the onscreen text for better coherence.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is detailed and relevant, enhancing the overall message.\n- Consider adding one more bullet point to the onscreen text to highlight the successful outcomes mentioned in the voiceover.\n\n3. Technical Quality (29/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific.\n- Ensure consistency in language between slide title ('Zorluklar ve F\u0131rsatlar') and the first onscreen bullet point ('Ba\u015far\u0131l\u0131 \u015eirketlerde...').\n\nOverall, the content is of high quality but needs minor adjustments to achieve perfect coherence and alignment across all elements.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131</h2><section><ul><li>Ba\u015far\u0131l\u0131 \u015eirketlerde Cinsiyet E\u015fitli\u011fi Stratejileri</li><li>Kar\u015f\u0131la\u015f\u0131lan Zorluklar ve \u00c7\u00f6z\u00fcm Yakla\u015f\u0131mlar\u0131</li><li>\u00d6rnek Ba\u015far\u0131lar: Tech Co., Finance Inc., Retail Group</li><li>Elde Edilen Sonu\u00e7lar ve Sekt\u00f6rel Etkiler</li></ul></section>",
+            "slide_voiceover_text": "Bug\u00fcn, cinsiyet e\u015fitli\u011fi konusunda \u00f6nc\u00fc olan \u015firketlerin deneyimlerini inceleyece\u011fiz. Bu vaka \u00e7al\u0131\u015fmalar\u0131, toplumsal cinsiyet e\u015fitli\u011finin i\u015f d\u00fcnyas\u0131nda nas\u0131l uyguland\u0131\u011f\u0131n\u0131 ve kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131n nas\u0131l a\u015f\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6stermektedir. \u00d6rne\u011fin, Tech Co.'nun esnek \u00e7al\u0131\u015fma politikalar\u0131, kad\u0131n \u00e7al\u0131\u015fan oran\u0131n\u0131 %20 art\u0131rd\u0131. Finance Inc., bilin\u00e7siz \u00f6nyarg\u0131 e\u011fitimleriyle terfi s\u00fcre\u00e7lerindeki e\u015fitsizli\u011fi azaltt\u0131. Retail Group, e\u015fit \u00fccret politikas\u0131yla sekt\u00f6rde \u00f6nc\u00fc oldu. Bu \u00f6rnekler, liderli\u011fin ve stratejik yakla\u015f\u0131mlar\u0131n \u00f6nemini ortaya koyarak, zorluklar\u0131n nas\u0131l f\u0131rsatlara d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilece\u011fini g\u00f6stermektedir.",
+            "slide_image_prompt": "A split-screen professional illustration showing two contrasting workplace scenarios: on one side, a diverse team with equal gender representation working collaboratively in a modern office, with visible leadership roles balanced between men and women. On the other side, a symbolic representation of breaking through gender barriers, featuring a woman confidently stepping through a crumbling glass ceiling, with shards falling around her. Behind her, a bridge is forming, connecting the two sides of the image. Use a clean, corporate design style with a color palette of blues, grays, and a touch of empowering orange to represent progress. Include subtle icons representing flexible work, equal pay, and education to reinforce the examples in the voiceover. Add small logos or symbols for Tech Co., Finance Inc., and Retail Group to visually represent the case studies mentioned. The image should convey professionalism, determination, and transformation in overcoming workplace gender challenges."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is well-structured and informative, but there are areas for improvement to achieve full coherence and effectiveness. The onscreen text and voiceover are generally aligned, but the onscreen text could be more specific to match the detailed examples in the voiceover. Consider adding brief mentions of the specific companies and their achievements to the onscreen bullet points. The image prompt is detailed and relevant, but it could be simplified to ensure clear execution. The voiceover provides good examples, but could benefit from a stronger opening statement to set the context for the case studies. To enhance multimedia design, consider reducing the amount of text in the voiceover slightly to allow more time for viewers to absorb the visual information. While the content is strong overall, these refinements would elevate it to meet the highest standards of presentation quality.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Zorluklar ve F\u0131rsatlar: Vaka \u00c7al\u0131\u015fmalar\u0131</h2><section><ul><li>Ba\u015far\u0131l\u0131 \u015eirketlerde Cinsiyet E\u015fitli\u011fi Stratejileri</li><li>Kar\u015f\u0131la\u015f\u0131lan Zorluklar ve \u00c7\u00f6z\u00fcm Yakla\u015f\u0131mlar\u0131</li><li>Tech Co.: Esnek \u00e7al\u0131\u015fma ile %20 kad\u0131n art\u0131\u015f\u0131</li><li>Finance Inc.: Bilin\u00e7siz \u00f6nyarg\u0131 e\u011fitimleri</li><li>Retail Group: E\u015fit \u00fccret politikas\u0131 \u00f6nc\u00fcl\u00fc\u011f\u00fc</li></ul></section>",
+            "slide_voiceover_text": "Toplumsal cinsiyet e\u015fitli\u011finde \u00f6nc\u00fc \u015firketlerin deneyimleri, i\u015f d\u00fcnyas\u0131nda kar\u015f\u0131la\u015f\u0131lan zorluklar\u0131n nas\u0131l f\u0131rsatlara d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilece\u011fini g\u00f6steriyor. Tech Co.'nun esnek \u00e7al\u0131\u015fma politikalar\u0131, kad\u0131n \u00e7al\u0131\u015fan oran\u0131n\u0131 %20 art\u0131rd\u0131. Finance Inc., bilin\u00e7siz \u00f6nyarg\u0131 e\u011fitimleriyle terfi s\u00fcre\u00e7lerindeki e\u015fitsizli\u011fi azaltt\u0131. Retail Group, e\u015fit \u00fccret politikas\u0131yla sekt\u00f6rde \u00f6nc\u00fc oldu. Bu \u00f6rnekler, liderli\u011fin ve stratejik yakla\u015f\u0131mlar\u0131n \u00f6nemini ortaya koyarak, cinsiyet e\u015fitli\u011finin i\u015f ba\u015far\u0131s\u0131na katk\u0131s\u0131n\u0131 vurguluyor.",
+            "slide_image_prompt": "A professional illustration showing a diverse team with equal gender representation working collaboratively in a modern office. Include visual elements representing flexible work (a clock), equal pay (balanced scales), and education (a graduation cap). Add small logos for Tech Co., Finance Inc., and Retail Group. Use a clean, corporate design style with a color palette of blues, grays, and orange. The image should convey professionalism, teamwork, and progress in workplace gender equality."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is well-structured and coherent. The onscreen text, voiceover, and image prompt align effectively to convey the message about gender equality challenges and opportunities in successful companies. The content provides specific examples and statistics, which enhances its impact. The voiceover expands on the bullet points, offering additional context and insights. The image prompt is detailed and relevant, reinforcing the key concepts visually. To further improve, consider adding a brief mention of the specific challenges these companies faced in the onscreen text to balance the success stories with the obstacles overcome.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A professional illustration showing a diverse team with equal gender representation working collaboratively in a modern office. Include visual elements representing flexible work (a clock), equal pay (balanced scales), and education (a graduation cap). Add small logos for Tech Co., Finance Inc., and Retail Group. Use a clean, corporate design style with a color palette of blues, grays, and orange. The image should convey professionalism, teamwork, and progress in workplace gender equality.",
+            "image_url": "https://v3.fal.media/files/zebra/k0o0DtLeYSzBM24IMI1H0.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image largely aligns with the provided prompt and meets most of the criteria. It successfully depicts a diverse team with equal gender representation in a modern office setting. The visual elements representing flexible work (clock), equal pay (balanced scales), and education (graduation cap) are present. The color palette of blues, grays, and orange is used effectively. The image conveys professionalism, teamwork, and progress in workplace gender equality.\n\nHowever, there are a few minor issues:\n1. The small logos for Tech Co., Finance Inc., and Retail Group are not visible in the image.\n2. The illustration style, while professional, leans more towards a friendly and approachable look rather than a strictly corporate design style.\n3. The composition is slightly more complex than ideal for a presentation slide, with multiple elements that could potentially distract from the main message.",
+            "suggestions": "To improve the image for presentation purposes:\n1. Simplify the composition by reducing the number of characters or background elements.\n2. Add small, subtle logos for Tech Co., Finance Inc., and Retail Group in a corner or along the bottom of the image.\n3. Consider adjusting the illustration style to be slightly more corporate while maintaining its approachability.\n4. Ensure that the key elements (clock, scales, graduation cap) are more prominently featured to emphasize the main concepts.\n5. If possible, reduce the detail in the characters' clothing and accessories to maintain focus on the overall message.",
+            "current_prompt": "A professional illustration showing a diverse team with equal gender representation working collaboratively in a modern office. Include visual elements representing flexible work (a clock), equal pay (balanced scales), and education (a graduation cap). Add small logos for Tech Co., Finance Inc., and Retail Group. Use a clean, corporate design style with a color palette of blues, grays, and orange. The image should convey professionalism, teamwork, and progress in workplace gender equality.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Liderler \u0130\u00e7in Cinsiyet E\u015fitli\u011fi Eylem Plan\u0131</h2><ul><li>\u00d6l\u00e7\u00fclebilir Hedefler Belirle</li><li>S\u00fcrekli E\u011fitim ve Fark\u0131ndal\u0131k</li><li>D\u00fczenli \u0130lerleme De\u011ferlendirmesi</li><li>Kurumsal Stratejiye Entegrasyon</li></ul>",
+            "slide_voiceover_text": "Cinsiyet e\u015fitli\u011fini ger\u00e7ek anlamda ilerletmek i\u00e7in liderler somut ve stratejik ad\u0131mlar atmal\u0131d\u0131r. Bu, net ve \u00f6l\u00e7\u00fclebilir hedefler koymay\u0131, s\u00fcrekli e\u011fitim programlar\u0131 d\u00fczenlemeyi, d\u00fczenli performans de\u011ferlendirmeleri yapmay\u0131 ve cinsiyet e\u015fitli\u011fini kurumun temel stratejisine tam olarak entegre etmeyi i\u00e7erir. Liderler, sadece iyi niyetle de\u011fil, somut eylemlerle de\u011fi\u015fimi desteklemelidir.",
+            "slide_image_prompt": "A modern, professional boardroom with diverse leaders (men and women of different ages and ethnicities) collaboratively working around a large transparent strategy board. The board shows graphs, action plans, and gender equality metrics. Use a clean, corporate visual style with bright, optimistic colors representing progress and inclusivity. The image should convey teamwork, strategy, and forward-thinking leadership."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is well-structured and coherent, effectively communicating the key points about gender equality action plans for leaders. The onscreen text, voiceover, and image prompt are well-aligned and reinforce each other. The content is clear, concise, and maintains a professional tone throughout. The voiceover provides additional context and depth to the bullet points displayed on screen. The image prompt effectively visualizes the concept of diverse leadership and strategic planning for gender equality. To further enhance the content, consider adding a specific example of a measurable goal or a brief mention of a successful case study in the voiceover to make the message even more impactful.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A modern, professional boardroom with diverse leaders (men and women of different ages and ethnicities) collaboratively working around a large transparent strategy board. The board shows graphs, action plans, and gender equality metrics. Use a clean, corporate visual style with bright, optimistic colors representing progress and inclusivity. The image should convey teamwork, strategy, and forward-thinking leadership.",
+            "image_url": "https://v3.fal.media/files/tiger/YNNlsZItAAUk0ZmT4n0qc.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image closely aligns with the prompt, showcasing a modern, professional setting with diverse leaders collaboratively working around a large strategy board. The board displays various graphs and metrics related to gender equality, which is a key element of the prompt. The composition is clean and corporate in style, using bright colors that represent progress and inclusivity. The image effectively conveys teamwork, strategy, and forward-thinking leadership.\n\nHowever, there are a few issues to note:\n1. The image contains text within it ('Gender couatty' at the top of the board), which is listed as a critical issue.\n2. The strategy board is not transparent as specified in the prompt.\n3. While the group is diverse, it's not clear if there are leaders of different ages as requested.\n4. The board doesn't clearly show action plans, focusing more on metrics and graphs.\n\nDespite these issues, the image is of high quality, has good resolution, and effectively represents the concept of gender equality in a corporate setting.",
+            "suggestions": "To improve the image:\n1. Remove all text from the image, including the 'Gender couatty' title.\n2. Use a transparent or semi-transparent board instead of the white board.\n3. Ensure a wider age range is represented among the leaders.\n4. Include some visual representations of action plans on the board, not just metrics.\n5. Consider adding some elements that more explicitly show leadership, such as one person presenting to the group.",
+            "current_prompt": "A modern, professional boardroom with diverse leaders (men and women of different ages and ethnicities) collaboratively working around a large transparent strategy board. The board shows graphs, action plans, and gender equality metrics. Use a clean, corporate visual style with bright, optimistic colors representing progress and inclusivity. The image should convey teamwork, strategy, and forward-thinking leadership.",
+            "new_prompt": "A modern, minimalist boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent strategy board. The leaders represent different genders, ethnicities, and a wide age range (20s to 60s). The board displays simple, icon-based representations of action plans, basic line graphs, and abstract symbols representing gender equality. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition should be balanced, with the strategy board as the focal point and leaders arranged around it. One leader should be gesturing towards the board, indicating a presentation. Emphasize high image quality and clarity, with no text or writing visible anywhere in the image. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "A modern, minimalist boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent strategy board. The leaders represent different genders, ethnicities, and a wide age range (20s to 60s). The board displays simple, icon-based representations of action plans, basic line graphs, and abstract symbols representing gender equality. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition should be balanced, with the strategy board as the focal point and leaders arranged around it. One leader should be gesturing towards the board, indicating a presentation. Emphasize high image quality and clarity, with no text or writing visible anywhere in the image. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide.",
+            "image_url": "https://v3.fal.media/files/elephant/InlNlT0ntuW3V54ItOFrl.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image aligns well with many aspects of the prompt, but has some critical issues that prevent it from being fully suitable for the presentation slide. While it depicts a modern boardroom with a diverse group of leaders collaborating around a strategy board, there are several concerns:\n\n1. The image contains visible text on the strategy board, which violates the requirement of no text or writing in the image.\n2. The composition is not entirely minimalist as requested, with a more realistic and detailed representation of the boardroom and participants.\n3. The color palette, while including blue, does not prominently feature the requested greens and purples.\n4. The lighting, while bright, does not appear to be soft and diffused as specified.\n5. The strategy board is not semi-transparent as requested.\n\nOn the positive side, the image does showcase diversity in gender, ethnicity, and age range. It also conveys teamwork and strategic planning. The overall quality and resolution of the image are good, and it does not contain any inappropriate content or copyright issues.",
+            "suggestions": "To improve the image for the presentation slide:\n\n1. Remove all text from the strategy board, replacing it with abstract symbols or simplified graphs.\n2. Simplify the overall composition to achieve a more minimalist style.\n3. Adjust the color palette to include more greens and purples as specified in the prompt.\n4. Soften the lighting to create a more diffused effect.\n5. Make the strategy board semi-transparent.\n6. Consider reducing the number of details in the room to focus more on the leaders and the strategy board.\n7. Ensure one leader is clearly gesturing towards the board to indicate a presentation.\n8. Simplify the graphs and icons on the board to be more abstract and less detailed.",
+            "current_prompt": "A modern, minimalist boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent strategy board. The leaders represent different genders, ethnicities, and a wide age range (20s to 60s). The board displays simple, icon-based representations of action plans, basic line graphs, and abstract symbols representing gender equality. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition should be balanced, with the strategy board as the focal point and leaders arranged around it. One leader should be gesturing towards the board, indicating a presentation. Emphasize high image quality and clarity, with no text or writing visible anywhere in the image. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide.",
+            "new_prompt": "A minimalist, modern boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent digital strategy board. The leaders represent different genders, ethnicities, and ages (20s to 60s). The board displays simple, abstract icons and basic geometric shapes in place of text, representing action plans and gender equality concepts. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition is balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged around it. One leader gestures towards the board, indicating a presentation. The room has minimal details, focusing attention on the people and the board. Emphasize high image quality and clarity, with absolutely no text or writing visible anywhere. The overall scene conveys teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_3",
+         "data": {
+            "image_prompt": "A minimalist, modern boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent digital strategy board. The leaders represent different genders, ethnicities, and ages (20s to 60s). The board displays simple, abstract icons and basic geometric shapes in place of text, representing action plans and gender equality concepts. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition is balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged around it. One leader gestures towards the board, indicating a presentation. The room has minimal details, focusing attention on the people and the board. Emphasize high image quality and clarity, with absolutely no text or writing visible anywhere. The overall scene conveys teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide.",
+            "image_url": "https://v3.fal.media/files/rabbit/jz4Zn1BG5X-hUKUHN1wEn.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_3",
+         "data": {
+            "is_valid": false,
+            "score": 60,
+            "feedback": "The image does not fully align with the provided prompt and contains several critical issues that make it unsuitable for the intended presentation slide. While it does depict a diverse group of people in a modern boardroom setting, there are significant deviations from the prompt requirements:\n\n1. The image contains visible text ('Mandartograllty' and other labels on the board), which is explicitly prohibited in the prompt.\n2. The digital strategy board is not semi-transparent as requested.\n3. The color palette does not match the specified blues, greens, and purples; instead, it uses a light blue board with various pastel-colored clothing.\n4. The composition doesn't show leaders collaborating around the board; instead, it depicts a more traditional presentation setup.\n5. The icons on the board are not as abstract or geometric as requested, and they don't clearly represent gender equality concepts.\n6. The room is not as minimalist as described, with clearly visible furniture and details.\n\nThese issues, particularly the presence of text and the misalignment with the prompt, result in an automatic rejection of the image for the intended purpose.",
+            "suggestions": "To improve the image for the intended presentation slide:\n1. Remove all text from the image, including the board title and labels.\n2. Make the digital board semi-transparent and adjust its content to show more abstract, geometric shapes representing action plans and gender equality concepts.\n3. Adjust the color palette to focus on blues, greens, and purples as specified in the prompt.\n4. Rearrange the people to show more collaborative interaction around the board, rather than a traditional presentation setup.\n5. Simplify the room further, removing unnecessary details to focus on the people and the board.\n6. Ensure that one leader is clearly gesturing towards the board to indicate a presentation.\n7. Adjust the lighting to create a softer, more diffused effect for a positive atmosphere.\n8. Consider reducing the number of visible people to match the 5-7 range specified in the prompt.",
+            "current_prompt": "A minimalist, modern boardroom with a diverse group of 5-7 leaders collaborating around a large, semi-transparent digital strategy board. The leaders represent different genders, ethnicities, and ages (20s to 60s). The board displays simple, abstract icons and basic geometric shapes in place of text, representing action plans and gender equality concepts. Use a clean, corporate visual style with a bright, optimistic color palette dominated by blues, greens, and purples. Soft, diffused lighting creates a positive atmosphere. The composition is balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged around it. One leader gestures towards the board, indicating a presentation. The room has minimal details, focusing attention on the people and the board. Emphasize high image quality and clarity, with absolutely no text or writing visible anywhere. The overall scene conveys teamwork, strategic planning, and inclusive leadership in a simple, visually appealing manner suitable for a presentation slide.",
+            "new_prompt": "Create a minimalist, modern boardroom scene with 5-6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (30s to 60s). The semi-transparent board displays only simple, abstract geometric shapes in blues, greens, and purples, representing action plans and gender equality concepts. No text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a semi-circle around it. One leader should be gesturing towards the board, indicating a collaborative discussion. The room should have minimal details - a sleek table and simple chairs only - to focus attention on the people and the board. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_4",
+         "data": {
+            "image_prompt": "Create a minimalist, modern boardroom scene with 5-6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (30s to 60s). The semi-transparent board displays only simple, abstract geometric shapes in blues, greens, and purples, representing action plans and gender equality concepts. No text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a semi-circle around it. One leader should be gesturing towards the board, indicating a collaborative discussion. The room should have minimal details - a sleek table and simple chairs only - to focus attention on the people and the board. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board.",
+            "image_url": "https://v3.fal.media/files/lion/IwOcTzl2Y5mAY7MaFMkuC.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_4",
+         "data": {
+            "is_valid": false,
+            "score": 70,
+            "feedback": "The image closely aligns with the prompt but has some critical issues. It depicts a modern boardroom scene with diverse leaders collaborating around a digital strategy board. The visual style is clean and corporate with a bright, optimistic color palette. However, there are several problems that make it unsuitable for the specified requirements:\n\n1. The image contains text and writing within the strategy board, which violates a critical requirement.\n2. The number of leaders shown is 4, not the requested 5-6.\n3. The strategy board is not semi-transparent as requested.\n4. The geometric shapes on the board are not limited to blues, greens, and purples as specified.\n5. The leaders are not arranged in a semi-circle around the board.\n6. No leader is visibly gesturing towards the board.\n\nOn the positive side, the image does showcase diversity in gender and ethnicity, uses appropriate colors, and has a clean, minimalist style suitable for a presentation slide. The overall composition is balanced and focuses on the strategy board and people.",
+            "suggestions": "To improve the image for the given requirements:\n1. Remove all text and writing from the strategy board.\n2. Include 5-6 leaders instead of 4.\n3. Make the strategy board semi-transparent.\n4. Use only blue, green, and purple geometric shapes on the board.\n5. Arrange the leaders in a semi-circle around the board.\n6. Have one leader gesturing towards the board.\n7. Ensure the age range of leaders spans from 30s to 60s more visibly.\n8. Consider adding minimal details of a sleek table as mentioned in the prompt.",
+            "current_prompt": "Create a minimalist, modern boardroom scene with 5-6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (30s to 60s). The semi-transparent board displays only simple, abstract geometric shapes in blues, greens, and purples, representing action plans and gender equality concepts. No text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a semi-circle around it. One leader should be gesturing towards the board, indicating a collaborative discussion. The room should have minimal details - a sleek table and simple chairs only - to focus attention on the people and the board. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board.",
+            "new_prompt": "Create a minimalist, modern boardroom scene with exactly 6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (clearly ranging from 30s to 60s). The semi-transparent board should display only simple, abstract geometric shapes strictly in blues, greens, and purples, representing action plans and gender equality concepts. Absolutely no text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a clear semi-circle around it. One leader should be visibly gesturing towards the board with an outstretched arm, indicating a collaborative discussion. Include a sleek, minimalist table in the foreground. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board. The image should be simple, avoiding complex figures or compositions, and focus solely on elements that support the message of diverse collaboration and strategic planning."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_5",
+         "data": {
+            "image_prompt": "Create a minimalist, modern boardroom scene with exactly 6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (clearly ranging from 30s to 60s). The semi-transparent board should display only simple, abstract geometric shapes strictly in blues, greens, and purples, representing action plans and gender equality concepts. Absolutely no text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a clear semi-circle around it. One leader should be visibly gesturing towards the board with an outstretched arm, indicating a collaborative discussion. Include a sleek, minimalist table in the foreground. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board. The image should be simple, avoiding complex figures or compositions, and focus solely on elements that support the message of diverse collaboration and strategic planning.",
+            "image_url": "https://v3.fal.media/files/lion/c9J9g3c0wei5OPE7QjO8w.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_5",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image aligns well with many aspects of the prompt but has some critical issues that prevent it from being fully compliant. Positive aspects include a modern boardroom scene with diverse leaders collaborating around a digital strategy board. The leaders represent different genders, ethnicities, and ages as requested. The board displays simple, abstract geometric shapes in blues, greens, and purples. The overall scene conveys teamwork and strategic planning in a visually clean manner. However, there are some critical issues: 1) The image contains text ('STATEGY' on the board), which violates a critical requirement. 2) There are only 5 visible leaders instead of the specified 6. 3) The board is not semi-transparent as requested. 4) The composition doesn't show a clear semi-circle arrangement of leaders around the board. Additionally, the image quality and visual style are excellent, with good lighting and a professional appearance suitable for a presentation slide.",
+            "suggestions": "To improve the image, consider the following adjustments to the prompt:\n1. Emphasize that NO text should appear anywhere in the image, including on the strategy board.\n2. Specify exactly 6 leaders must be clearly visible in the scene.\n3. Reiterate that the digital strategy board should be semi-transparent.\n4. Clarify the arrangement of leaders to form a clear semi-circle around the board.\n5. Specify that one leader should be visibly gesturing towards the board with an outstretched arm.\n6. Request a sleek, minimalist table in the foreground, which is missing in the current image.",
+            "current_prompt": "Create a minimalist, modern boardroom scene with exactly 6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders should represent different genders, ethnicities, and ages (clearly ranging from 30s to 60s). The semi-transparent board should display only simple, abstract geometric shapes strictly in blues, greens, and purples, representing action plans and gender equality concepts. Absolutely no text or writing should be visible anywhere in the image. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point and leaders arranged in a clear semi-circle around it. One leader should be visibly gesturing towards the board with an outstretched arm, indicating a collaborative discussion. Include a sleek, minimalist table in the foreground. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board. The image should be simple, avoiding complex figures or compositions, and focus solely on elements that support the message of diverse collaboration and strategic planning.",
+            "new_prompt": "Create a minimalist, modern boardroom scene with exactly 6 diverse leaders collaborating around a large, semi-transparent digital strategy board. The leaders must represent different genders, ethnicities, and ages (clearly ranging from 30s to 60s), arranged in a clear semi-circle around the board. The semi-transparent board should display only simple, abstract geometric shapes strictly in blues, greens, and purples, representing action plans and gender equality concepts. Absolutely NO text or writing should be visible anywhere in the image, including on the strategy board. Use a clean, corporate visual style with a bright, optimistic color palette dominated by soft blues, muted greens, and light purples. Employ soft, diffused lighting to create a positive atmosphere. The composition should be balanced and simplified, with the semi-transparent strategy board as the focal point. One leader should be visibly gesturing towards the board with an outstretched arm, indicating a collaborative discussion. Include a sleek, minimalist table in the foreground. The overall scene should convey teamwork, strategic planning, and inclusive leadership in a visually clean manner suitable for a presentation slide. Ensure high image quality and clarity, with sharp focus on the people and board. The image should be simple, avoiding complex figures or compositions, and focus solely on elements that support the message of diverse collaboration and strategic planning. Do not include any celebrities or famous people."
+         }
+      }
+   ]
+}

@@ -1,0 +1,413 @@
+{
+   "timestamp": "20250214094350",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Sosyal M\u00fchendislik Nedir ve Nas\u0131l \u00d6nlem Al\u0131r\u0131z?",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Sosyal M\u00fchendislik Nedir ve Nas\u0131l \u00d6nlem Al\u0131r\u0131z?",
+            "slide_outlines": [
+               {
+                  "slide_title": "Sosyal M\u00fchendislik: Siber G\u00fcvenli\u011fin Gizli Tehdidi",
+                  "slide_focus": "Sosyal m\u00fchendislik, teknolojik zafiyetlerden ziyade insan psikolojisini hedef alan tehlikeli bir siber sald\u0131r\u0131 y\u00f6ntemidir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Sosyal M\u00fchendisli\u011fin Temel Teknikleri",
+                  "slide_focus": "Sosyal m\u00fchendisler, phishing, pretexting ve baiting gibi \u00e7e\u015fitli teknikler kullanarak kurbanlar\u0131n\u0131 manip\u00fcle ederler.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Ger\u00e7ek Hayattan Bir \u00d6rnek: 2020 Twitter Hack'i",
+                  "slide_focus": "2020'deki b\u00fcy\u00fck Twitter sald\u0131r\u0131s\u0131, sosyal m\u00fchendisli\u011fin ne kadar etkili ve tehlikeli olabilece\u011fini g\u00f6steren \u00e7arp\u0131c\u0131 bir \u00f6rnektir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Sosyal M\u00fchendislik Sald\u0131r\u0131lar\u0131ndan Korunma Y\u00f6ntemleri",
+                  "slide_focus": "Fark\u0131ndal\u0131k e\u011fitimi, g\u00fc\u00e7l\u00fc kimlik do\u011frulama ve \u015f\u00fcpheci yakla\u015f\u0131m, sosyal m\u00fchendislik sald\u0131r\u0131lar\u0131na kar\u015f\u0131 en etkili savunma mekanizmalar\u0131d\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "G\u00fcvenli Bir Dijital Gelecek \u0130\u00e7in Harekete Ge\u00e7in",
+                  "slide_focus": "Sosyal m\u00fchendislik tehdidine kar\u015f\u0131 bireysel ve kurumsal d\u00fczeyde al\u0131nacak \u00f6nlemler, dijital g\u00fcvenli\u011fimizi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilir.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Excellent structure and clarity. The introduction and conclusion are clearly defined, each slide focuses on a single main concept, and a concrete real-world example (the 2020 Twitter hack) adds strong credibility. Overall, it flows logically, avoids redundancy, and provides specific, actionable insights on preventing social engineering attacks.",
+               "score": 95
+            },
+            "tested_outline": {
+               "presentation_title": "Sosyal M\u00fchendislik Nedir ve Nas\u0131l \u00d6nlem Al\u0131r\u0131z?",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Sosyal M\u00fchendislik: Siber G\u00fcvenli\u011fin Gizli Tehdidi",
+                     "slide_focus": "Sosyal m\u00fchendislik, teknolojik zafiyetlerden ziyade insan psikolojisini hedef alan tehlikeli bir siber sald\u0131r\u0131 y\u00f6ntemidir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Sosyal M\u00fchendisli\u011fin Temel Teknikleri",
+                     "slide_focus": "Sosyal m\u00fchendisler, phishing, pretexting ve baiting gibi \u00e7e\u015fitli teknikler kullanarak kurbanlar\u0131n\u0131 manip\u00fcle ederler.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Ger\u00e7ek Hayattan Bir \u00d6rnek: 2020 Twitter Hack'i",
+                     "slide_focus": "2020'deki b\u00fcy\u00fck Twitter sald\u0131r\u0131s\u0131, sosyal m\u00fchendisli\u011fin ne kadar etkili ve tehlikeli olabilece\u011fini g\u00f6steren \u00e7arp\u0131c\u0131 bir \u00f6rnektir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Sosyal M\u00fchendislik Sald\u0131r\u0131lar\u0131ndan Korunma Y\u00f6ntemleri",
+                     "slide_focus": "Fark\u0131ndal\u0131k e\u011fitimi, g\u00fc\u00e7l\u00fc kimlik do\u011frulama ve \u015f\u00fcpheci yakla\u015f\u0131m, sosyal m\u00fchendislik sald\u0131r\u0131lar\u0131na kar\u015f\u0131 en etkili savunma mekanizmalar\u0131d\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "G\u00fcvenli Bir Dijital Gelecek \u0130\u00e7in Harekete Ge\u00e7in",
+                     "slide_focus": "Sosyal m\u00fchendislik tehdidine kar\u015f\u0131 bireysel ve kurumsal d\u00fczeyde al\u0131nacak \u00f6nlemler, dijital g\u00fcvenli\u011fimizi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilir.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendislik: \u0130nsan Psikolojisini Hedef Alan Siber Tehdit</h2><ul><li>Teknolojik A\u00e7\u0131klardan \u00c7ok \u0130nsani Zaaflar\u0131 S\u00f6m\u00fcr\u00fcr</li><li>Psikolojik Manip\u00fclasyon Teknikleri Kullan\u0131r</li><li>G\u00fcvenlik Sistemlerinin En Zay\u0131f Halkas\u0131: \u0130NSAN</li></ul>",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik, siber g\u00fcvenli\u011fin en sinsi tehditlerinden biridir. Klasik siber sald\u0131r\u0131lardan farkl\u0131 olarak, bu y\u00f6ntem do\u011frudan teknolojik sistemleri de\u011fil, insan psikolojisindeki zay\u0131fl\u0131klar\u0131 hedef al\u0131r. Sald\u0131rganlar, insanlar\u0131n g\u00fcven, merak, korku gibi duygular\u0131n\u0131 manip\u00fcle ederek hassas bilgilere eri\u015fmeyi ama\u00e7lar.",
+            "slide_image_prompt": "A split visual representation showing two contrasting scenes: On one side, a shadowy hacker figure subtly manipulating psychological strings like a puppeteer, connected to a vulnerable human silhouette. On the other side, a digital security shield with human-shaped cracks. Use a dark, cyberpunk-inspired color palette with blues, blacks, and electric neon highlights. Realistic digital illustration style with sharp, high-contrast details emphasizing the psychological warfare aspect of social engineering."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more closely tied to the bullet points.\n- The message is clear, but the voiceover could be more concise.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The image prompt is relevant and enhances the message.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider using <p> tags for the voiceover text.\n- The image prompt is clear and specific, but could be more tightly aligned with the bullet points.\n- The language is consistent, but the transition from Turkish to English in the image prompt is a bit jarring.\n\nTo improve:\n- Align the voiceover more closely with the onscreen bullet points.\n- Add a brief mention of the 'security systems' weak link' concept in the voiceover.\n- Consider keeping the image prompt description in Turkish for consistency.\n- Slightly refine the image prompt to directly reference the bullet points.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendislik: \u0130nsan Psikolojisini Hedef Alan Siber Tehdit</h2><ul><li>Teknolojik A\u00e7\u0131klardan \u00c7ok \u0130nsani Zaaflar\u0131 S\u00f6m\u00fcr\u00fcr</li><li>Psikolojik Manip\u00fclasyon Teknikleri Kullan\u0131r</li><li>G\u00fcvenlik Sistemlerinin En Zay\u0131f Halkas\u0131: \u0130NSAN</li></ul>",
+            "slide_voiceover_text": "<p>Sosyal m\u00fchendislik, siber g\u00fcvenli\u011fin en sinsi tehditlerinden biridir. Bu y\u00f6ntem, teknolojik a\u00e7\u0131klardan ziyade insani zaaflar\u0131 hedef al\u0131r. Sald\u0131rganlar, psikolojik manip\u00fclasyon teknikleri kullanarak, insanlar\u0131n g\u00fcven, merak ve korku gibi duygular\u0131n\u0131 s\u00f6m\u00fcr\u00fcr. Bu nedenle, insan fakt\u00f6r\u00fc g\u00fcvenlik sistemlerinin en zay\u0131f halkas\u0131 haline gelir. Sosyal m\u00fchendislik sald\u0131r\u0131lar\u0131, hassas bilgilere eri\u015fmek i\u00e7in bu zay\u0131fl\u0131klar\u0131 ustaca kullan\u0131r.</p>",
+            "slide_image_prompt": "\u0130ki kontrastl\u0131 sahneyi g\u00f6steren b\u00f6l\u00fcnm\u00fc\u015f bir g\u00f6rsel: Bir tarafta, g\u00f6lgeli bir hacker fig\u00fcr\u00fc, hassas bir insan sil\u00fcetine ba\u011fl\u0131 psikolojik ipleri bir kuklac\u0131 gibi ustaca manip\u00fcle ediyor. Di\u011fer tarafta, insan \u015feklinde \u00e7atlaklar\u0131 olan dijital bir g\u00fcvenlik kalkan\u0131. Koyu, siberpunk esinli bir renk paleti kullan\u0131n; mavi, siyah ve elektrik neon vurgular\u0131yla. Ger\u00e7ek\u00e7i dijital ill\u00fcstrasyon tarz\u0131nda, sosyal m\u00fchendisli\u011fin psikolojik sava\u015f y\u00f6n\u00fcn\u00fc vurgulayan keskin, y\u00fcksek kontrastl\u0131 detaylar i\u00e7ersin. G\u00f6rsel, teknolojik a\u00e7\u0131klardan \u00e7ok insani zaaflar\u0131n s\u00f6m\u00fcr\u00fcld\u00fc\u011f\u00fcn\u00fc, psikolojik manip\u00fclasyon tekniklerini ve insan\u0131n g\u00fcvenlik sistemlerindeki zay\u0131f halka oldu\u011funu yans\u0131ts\u0131n."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the message about social engineering. The content is clear, concise, and logically structured. The onscreen text provides key points, while the voiceover expands on these ideas with appropriate detail. The image prompt is highly specific and relevant, perfectly illustrating the concepts discussed. The technical quality is high, with correct HTML markup and consistent language use. The professional tone is maintained throughout. To achieve absolute perfection, consider adding a brief mention of a real-world example in the voiceover to further ground the concept for the audience.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "\u0130ki kontrastl\u0131 sahneyi g\u00f6steren b\u00f6l\u00fcnm\u00fc\u015f bir g\u00f6rsel: Bir tarafta, g\u00f6lgeli bir hacker fig\u00fcr\u00fc, hassas bir insan sil\u00fcetine ba\u011fl\u0131 psikolojik ipleri bir kuklac\u0131 gibi ustaca manip\u00fcle ediyor. Di\u011fer tarafta, insan \u015feklinde \u00e7atlaklar\u0131 olan dijital bir g\u00fcvenlik kalkan\u0131. Koyu, siberpunk esinli bir renk paleti kullan\u0131n; mavi, siyah ve elektrik neon vurgular\u0131yla. Ger\u00e7ek\u00e7i dijital ill\u00fcstrasyon tarz\u0131nda, sosyal m\u00fchendisli\u011fin psikolojik sava\u015f y\u00f6n\u00fcn\u00fc vurgulayan keskin, y\u00fcksek kontrastl\u0131 detaylar i\u00e7ersin. G\u00f6rsel, teknolojik a\u00e7\u0131klardan \u00e7ok insani zaaflar\u0131n s\u00f6m\u00fcr\u00fcld\u00fc\u011f\u00fcn\u00fc, psikolojik manip\u00fclasyon tekniklerini ve insan\u0131n g\u00fcvenlik sistemlerindeki zay\u0131f halka oldu\u011funu yans\u0131ts\u0131n.",
+            "image_url": "https://v3.fal.media/files/elephant/unx2juzCre0VxH-blHZm6.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 65,
+            "feedback": "### Feedback:\n\n**Prominent Issues:**\n1. **Prompt Misalignment:** The image does not clearly depict the divided scene with a hacker manipulating psychological strings on one side and a digital security shield on the other.\n2. **Text Content:** The image includes textual elements, which is against the guidelines.\n3. **Composition Complexity:** Rather than a straightforward depiction, it has a complex scene involving multiple elements such as buildings and highlighted text that don't fully align with the prompt.\n\n**Details:**\n- **Visual Style:** The cyberpunk aesthetic and color palette are correctly utilized, aligning well with the required style.\n- **Quality:** The image appears high in quality with good resolution, clear contrast, and effective lighting.\n- **Concept Representation:** While it suggests hacking, it lacks the specific elements of psychological manipulation and security vulnerabilities as described.\n\n### Score:\n1. **Prompt Alignment:** 20/40 - Missing key specific elements required by the prompt.\n2. **Visual Quality:** 25/30 - High-quality, but includes text which is not preferred.\n3. **Presentation Suitability:** 20/30 - The image is complex and not entirely focused on the key message of social engineering.\n\n**Total Score:** 65/100\n\n### Validity:\n- **Invalid** due to critical issues related to prompt misalignment and inclusion of text.\n\n### Suggestions:\n- Emphasize the concept of psychological manipulation with clear visual metaphors.\n- Remove any textual elements from the visual to maintain focus and clarity.\n- Simplify the composition to directly convey the message of human vulnerability in cybersecurity.",
+            "suggestions": "1. Clearly depict contrasting scenes as described: a hacker with puppet strings on one side and a cracking digital shield on the other.\n2. Avoid including any text in the illustration.\n3. Reduce the complexity by focusing on the main themes of psychological manipulation and vulnerability exploitation.",
+            "current_prompt": "\u0130ki kontrastl\u0131 sahneyi g\u00f6steren b\u00f6l\u00fcnm\u00fc\u015f bir g\u00f6rsel: Bir tarafta, g\u00f6lgeli bir hacker fig\u00fcr\u00fc, hassas bir insan sil\u00fcetine ba\u011fl\u0131 psikolojik ipleri bir kuklac\u0131 gibi ustaca manip\u00fcle ediyor. Di\u011fer tarafta, insan \u015feklinde \u00e7atlaklar\u0131 olan dijital bir g\u00fcvenlik kalkan\u0131. Koyu, siberpunk esinli bir renk paleti kullan\u0131n; mavi, siyah ve elektrik neon vurgular\u0131yla. Ger\u00e7ek\u00e7i dijital ill\u00fcstrasyon tarz\u0131nda, sosyal m\u00fchendisli\u011fin psikolojik sava\u015f y\u00f6n\u00fcn\u00fc vurgulayan keskin, y\u00fcksek kontrastl\u0131 detaylar i\u00e7ersin. G\u00f6rsel, teknolojik a\u00e7\u0131klardan \u00e7ok insani zaaflar\u0131n s\u00f6m\u00fcr\u00fcld\u00fc\u011f\u00fcn\u00fc, psikolojik manip\u00fclasyon tekniklerini ve insan\u0131n g\u00fcvenlik sistemlerindeki zay\u0131f halka oldu\u011funu yans\u0131ts\u0131n.",
+            "new_prompt": "Split image with two contrasting scenes. Left side: A shadowy figure manipulates glowing, neon-blue strings attached to a simplified human silhouette, representing psychological manipulation. Right side: A stylized digital shield in human form with visible cracks, symbolizing human vulnerability in cybersecurity. Use a dark cyberpunk-inspired color palette with deep blues, blacks, and electric neon accents. Employ a minimalist digital illustration style with high contrast and sharp details. Emphasize the exploitation of human weaknesses over technological vulnerabilities. Lighting: dramatic, with neon highlights. Quality: high-resolution, crisp edges. Composition: clean, symmetrical split-screen layout. No text or complex figures. Suitable for presentation visuals."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "Split image with two contrasting scenes. Left side: A shadowy figure manipulates glowing, neon-blue strings attached to a simplified human silhouette, representing psychological manipulation. Right side: A stylized digital shield in human form with visible cracks, symbolizing human vulnerability in cybersecurity. Use a dark cyberpunk-inspired color palette with deep blues, blacks, and electric neon accents. Employ a minimalist digital illustration style with high contrast and sharp details. Emphasize the exploitation of human weaknesses over technological vulnerabilities. Lighting: dramatic, with neon highlights. Quality: high-resolution, crisp edges. Composition: clean, symmetrical split-screen layout. No text or complex figures. Suitable for presentation visuals.",
+            "image_url": "https://v3.fal.media/files/panda/HAKwlx9sxOONYF4Ubuy2j.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image meets the style and composition requirements of the prompt. The left side features a shadowy figure manipulating neon-blue strings attached to a human silhouette, aligning with the theme of psychological manipulation. The right side shows a digital shield in human form with visible cracks, representing vulnerability, matching the described symbolism. The dark cyberpunk-inspired color palette is well-executed with deep blues and neon accents, enhancing the image's visual impact. The minimalist digital illustration style is maintained, and dramatic lighting with neon highlights effectively adds depth.\n\nRegarding technical quality, the image appears clear and high-resolution with crisp edges. The symmetrical split-screen layout is clean, and no text or overly complex figures are present, adhering to the simplicity needed for presentation visuals.",
+            "suggestions": "The image performs well according to the given criteria, but adjustments could include slightly enhancing the contrast to further define the elements. Ensure lighting does not obscure essential details to maintain focus on key messages.",
+            "current_prompt": "Split image with two contrasting scenes. Left side: A shadowy figure manipulates glowing, neon-blue strings attached to a simplified human silhouette, representing psychological manipulation. Right side: A stylized digital shield in human form with visible cracks, symbolizing human vulnerability in cybersecurity. Use a dark cyberpunk-inspired color palette with deep blues, blacks, and electric neon accents. Employ a minimalist digital illustration style with high contrast and sharp details. Emphasize the exploitation of human weaknesses over technological vulnerabilities. Lighting: dramatic, with neon highlights. Quality: high-resolution, crisp edges. Composition: clean, symmetrical split-screen layout. No text or complex figures. Suitable for presentation visuals.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendisli\u011fin Temel Teknikleri</h2><ul><li>Phishing (Kimlik Av\u0131)</li><li>Pretexting (Senaryolu Manip\u00fclasyon)</li><li>Baiting (Tuzaklama)</li></ul><p>\ud83d\udea8 Dikkat: Bu Teknikler \u0130nsanlar\u0131 Manipulation Etmeye Odaklan\u0131r</p>",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik, siber g\u00fcvenlikte en tehlikeli insan kaynakl\u0131 sald\u0131r\u0131 y\u00f6ntemlerinden biridir. Sald\u0131rganlar, kurbanlar\u0131n psikolojik zay\u0131fl\u0131klar\u0131n\u0131 kullanarak g\u00fcvenlik duvarlar\u0131n\u0131 a\u015fmaya \u00e7al\u0131\u015f\u0131rlar. Phishing, insanlar\u0131 sahte e-postalarla kand\u0131rma; pretexting, ikna edici senaryolarla bilgi toplama; baiting ise cazip g\u00f6r\u00fcnen dijital tuzaklarla g\u00fcvenlik a\u00e7\u0131\u011f\u0131 yaratma teknikleridir.",
+            "slide_image_prompt": "A dark, cyberpunk-style digital illustration showing three menacing shadowy figures representing different social engineering techniques: one with a fishing hook symbolizing phishing, another with a theatrical mask for pretexting, and the third with a tempting digital bait. The background should have fragmented digital networks and a sense of psychological manipulation. Use a color palette of deep blues, dark grays, and occasional sharp red highlights to create tension and danger. Render in a high-contrast, slightly gritty graphic novel style that emphasizes the psychological warfare aspect of social engineering."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "While the content is generally well-structured and informative, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned, presenting a clear message about social engineering techniques.\n- The voiceover provides more context and detail, which is good, but it could be more tightly connected to the bullet points on screen.\n\n2. Multimedia Design (25/30):\n- The balance between onscreen and voiceover text is good, with concise bullet points on screen and more detailed explanation in the voiceover.\n- The image prompt is highly relevant and enhances the message effectively.\n- Consider adding a brief explanation of each technique on screen to improve immediate understanding.\n\n3. Technical Quality (28/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific, though it could benefit from mentioning the need for text elements (e.g., labels for each technique).\n- There's a minor language inconsistency: the onscreen text uses 'manipulation' in English, while the rest is in Turkish.\n\nOverall, the content is strong but needs minor refinements to achieve full marks. Focus on tightening the connection between onscreen text and voiceover, ensuring language consistency, and slightly adjusting the image prompt to include text elements.",
+            "score": 88
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendisli\u011fin Temel Teknikleri</h2><ul><li>Phishing (Kimlik Av\u0131): Sahte e-postalarla kand\u0131rma</li><li>Pretexting (Senaryolu Manip\u00fclasyon): \u0130kna edici senaryolarla bilgi toplama</li><li>Baiting (Tuzaklama): Cazip dijital tuzaklarla g\u00fcvenlik a\u00e7\u0131\u011f\u0131 yaratma</li></ul><p>\ud83d\udea8 Dikkat: Bu Teknikler \u0130nsanlar\u0131 Manip\u00fcle Etmeye Odaklan\u0131r</p>",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik, siber g\u00fcvenlikte en tehlikeli insan kaynakl\u0131 sald\u0131r\u0131 y\u00f6ntemlerinden biridir. Sald\u0131rganlar, kurbanlar\u0131n psikolojik zay\u0131fl\u0131klar\u0131n\u0131 kullanarak g\u00fcvenlik duvarlar\u0131n\u0131 a\u015fmaya \u00e7al\u0131\u015f\u0131rlar. Ekranda g\u00f6rd\u00fc\u011f\u00fcn\u00fcz \u00fc\u00e7 temel teknik \u015funlard\u0131r: Phishing, yani kimlik av\u0131, sahte e-postalarla insanlar\u0131 kand\u0131rma y\u00f6ntemidir. Pretexting, yani senaryolu manip\u00fclasyon, ikna edici hikayelerle bilgi toplama tekni\u011fidir. Son olarak baiting, yani tuzaklama, cazip g\u00f6r\u00fcnen dijital tuzaklarla g\u00fcvenlik a\u00e7\u0131\u011f\u0131 yaratma y\u00f6ntemidir. Bu tekniklerin hepsi, insanlar\u0131 manip\u00fcle etmeye odaklan\u0131r ve b\u00fcy\u00fck tehlike arz eder.",
+            "slide_image_prompt": "Create a dark, cyberpunk-style digital illustration showing three menacing shadowy figures representing different social engineering techniques: one with a fishing hook symbolizing phishing, another with a theatrical mask for pretexting, and the third with a tempting digital bait. The background should have fragmented digital networks and a sense of psychological manipulation. Use a color palette of deep blues, dark grays, and occasional sharp red highlights to create tension and danger. Render in a high-contrast, slightly gritty graphic novel style that emphasizes the psychological warfare aspect of social engineering. Include clear, legible Turkish labels for each technique: 'Phishing', 'Pretexting', and 'Baiting' near their respective figures."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good.\n- The message is clear, but the voiceover could be more concise to match the onscreen text better.\n- The level of detail is appropriate, but the voiceover provides more information than the onscreen text.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is slightly off. The voiceover contains more information than what's displayed on screen.\n- Onscreen text is concise and well-organized.\n- The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (29/30):\n- HTML markup is used correctly.\n- The image prompt is clear and specific.\n- Language is consistent, but there's a minor discrepancy in terminology between 'Kimlik Av\u0131' (onscreen) and 'kimlik av\u0131' (voiceover).\n- The tone is professional throughout.\n\nTo improve:\n1. Align the voiceover more closely with the onscreen text, possibly adding a brief explanation of each technique on screen.\n2. Consider adding a short introduction to social engineering in the onscreen text to match the voiceover.\n3. Ensure consistent capitalization of terms across onscreen text and voiceover.\n4. Consider adding a brief call-to-action or preventive measure on the slide to make it more actionable for the audience.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendisli\u011fin Temel Teknikleri</h2><p>Siber g\u00fcvenlikte en tehlikeli insan kaynakl\u0131 sald\u0131r\u0131 y\u00f6ntemleri:</p><ul><li>Phishing (Kimlik Av\u0131): Sahte e-postalarla kand\u0131rma</li><li>Pretexting (Senaryolu Manip\u00fclasyon): \u0130kna edici senaryolarla bilgi toplama</li><li>Baiting (Tuzaklama): Cazip dijital tuzaklarla g\u00fcvenlik a\u00e7\u0131\u011f\u0131 yaratma</li></ul><p>\ud83d\udea8 Dikkat: Bu teknikler insanlar\u0131 manip\u00fcle etmeye odaklan\u0131r</p><p>\ud83d\udca1 \u00d6nlem: \u015e\u00fcpheli ileti\u015fimleri do\u011frulay\u0131n, bilgi payla\u015f\u0131m\u0131nda dikkatli olun</p>",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik, siber g\u00fcvenlikte en tehlikeli insan kaynakl\u0131 sald\u0131r\u0131 y\u00f6ntemlerinden biridir. Sald\u0131rganlar, kurbanlar\u0131n psikolojik zay\u0131fl\u0131klar\u0131n\u0131 kullanarak g\u00fcvenlik duvarlar\u0131n\u0131 a\u015fmaya \u00e7al\u0131\u015f\u0131rlar. Ekranda g\u00f6rd\u00fc\u011f\u00fcn\u00fcz \u00fc\u00e7 temel teknik \u015funlard\u0131r: Phishing, yani Kimlik Av\u0131, sahte e-postalarla insanlar\u0131 kand\u0131rma y\u00f6ntemidir. Pretexting, yani Senaryolu Manip\u00fclasyon, ikna edici hikayelerle bilgi toplama tekni\u011fidir. Son olarak Baiting, yani Tuzaklama, cazip g\u00f6r\u00fcnen dijital tuzaklarla g\u00fcvenlik a\u00e7\u0131\u011f\u0131 yaratma y\u00f6ntemidir. Bu tekniklerin hepsi, insanlar\u0131 manip\u00fcle etmeye odaklan\u0131r ve b\u00fcy\u00fck tehlike arz eder. Kendinizi korumak i\u00e7in, \u015f\u00fcpheli ileti\u015fimleri her zaman do\u011frulay\u0131n ve bilgi payla\u015f\u0131rken dikkatli olun.",
+            "slide_image_prompt": "Create a dark, cyberpunk-style digital illustration showing three menacing shadowy figures representing different social engineering techniques: one with a fishing hook symbolizing Phishing, another with a theatrical mask for Pretexting, and the third with a tempting digital bait for Baiting. The background should have fragmented digital networks and a sense of psychological manipulation. Use a color palette of deep blues, dark grays, and occasional sharp red highlights to create tension and danger. Render in a high-contrast, slightly gritty graphic novel style that emphasizes the psychological warfare aspect of social engineering. Include clear, legible Turkish labels for each technique: 'Phishing (Kimlik Av\u0131)', 'Pretexting (Senaryolu Manip\u00fclasyon)', and 'Baiting (Tuzaklama)' near their respective figures. Add a small shield icon in the bottom right corner to represent protection measures."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear, concise, and effectively communicates the key points about social engineering techniques. The content demonstrates a good balance between onscreen text and voiceover, with the voiceover providing additional context and explanation. The image prompt is detailed and relevant, enhancing the overall message. The use of HTML markup is correct, and the language is consistent and professional throughout. To make it absolutely perfect, consider adding a brief mention of the shield icon in the voiceover to tie it more closely with the image prompt.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "Create a dark, cyberpunk-style digital illustration showing three menacing shadowy figures representing different social engineering techniques: one with a fishing hook symbolizing Phishing, another with a theatrical mask for Pretexting, and the third with a tempting digital bait for Baiting. The background should have fragmented digital networks and a sense of psychological manipulation. Use a color palette of deep blues, dark grays, and occasional sharp red highlights to create tension and danger. Render in a high-contrast, slightly gritty graphic novel style that emphasizes the psychological warfare aspect of social engineering. Include clear, legible Turkish labels for each technique: 'Phishing (Kimlik Av\u0131)', 'Pretexting (Senaryolu Manip\u00fclasyon)', and 'Baiting (Tuzaklama)' near their respective figures. Add a small shield icon in the bottom right corner to represent protection measures.",
+            "image_url": "https://v3.fal.media/files/elephant/5emtN50KlqNFbbBolVcUl.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "1. **Prompt Alignment (35/40)**: The illustration aligns well with the given cyberpunk theme, depicting three shadowy figures representing different social engineering techniques. The icons and Turkish labels are correctly positioned, although some text is misspelled. The color palette of deep blues, dark grays, and red highlights is appropriate, and the gritty graphic novel style fits the prompt.\n\n2. **Visual Quality (25/30)**: The overall resolution and clarity are good, but some text elements are not as clear as they should be. The color balance and contrast work well to emphasize tension and danger.\n\n3. **Presentation Suitability (25/30)**: While the image aligns with the presentation's theme, the typos in the labels detract from clarity and professionalism. The shield icon is correctly placed, symbolizing protection, and the design successfully supports the slide message.",
+            "suggestions": "- Correct the typos in the Turkish labels for improved clarity. Ensure spellings such as 'Kimlik Av\u0131' and 'Senaryolu Manip\u00fclasyon' are correct.\n- Enhance text readability to ensure clarity against the dark background.\n- Recheck the alignment and spacing of textual elements for a more polished look.",
+            "current_prompt": "Create a dark, cyberpunk-style digital illustration showing three menacing shadowy figures representing different social engineering techniques: one with a fishing hook symbolizing Phishing, another with a theatrical mask for Pretexting, and the third with a tempting digital bait for Baiting. The background should have fragmented digital networks and a sense of psychological manipulation. Use a color palette of deep blues, dark grays, and occasional sharp red highlights to create tension and danger. Render in a high-contrast, slightly gritty graphic novel style that emphasizes the psychological warfare aspect of social engineering. Include clear, legible Turkish labels for each technique: 'Phishing (Kimlik Av\u0131)', 'Pretexting (Senaryolu Manip\u00fclasyon)', and 'Baiting (Tuzaklama)' near their respective figures. Add a small shield icon in the bottom right corner to represent protection measures.",
+            "new_prompt": "Create a minimalist digital illustration with a dark cyberpunk theme. Show three simple, iconic symbols representing social engineering techniques: a stylized fishing hook for Phishing, a basic theatrical mask for Pretexting, and a simple digital lure for Baiting. Arrange these symbols in a triangular composition against a plain, deep blue background. Use high contrast with sharp red highlights to emphasize danger. Employ clean, vector-style graphics with smooth edges and flat colors. Avoid any text or complex figures. Include a small, white shield icon in the bottom right corner to represent protection measures. Ensure all elements are clearly visible and distinct, with ample negative space around each symbol. Use dramatic side lighting to create a sense of depth and mystery. Render in high resolution with crisp, clear lines and shapes."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist digital illustration with a dark cyberpunk theme. Show three simple, iconic symbols representing social engineering techniques: a stylized fishing hook for Phishing, a basic theatrical mask for Pretexting, and a simple digital lure for Baiting. Arrange these symbols in a triangular composition against a plain, deep blue background. Use high contrast with sharp red highlights to emphasize danger. Employ clean, vector-style graphics with smooth edges and flat colors. Avoid any text or complex figures. Include a small, white shield icon in the bottom right corner to represent protection measures. Ensure all elements are clearly visible and distinct, with ample negative space around each symbol. Use dramatic side lighting to create a sense of depth and mystery. Render in high resolution with crisp, clear lines and shapes.",
+            "image_url": "https://v3.fal.media/files/lion/ZhNqR-MUrWmUw_Xoyowup.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 90,
+            "feedback": "### Critical Issues:\n1. **Matches Prompt**: The image matches the provided prompt well, featuring three symbols representing social engineering techniques arranged in a triangular composition. The dark cyberpunk theme with high contrast and sharp red highlights is consistent with the prompt.\n2. **Resolution**: The resolution appears high, and the image is clear without any technical rendering problems.\n3. **Content**: Does not contain any inappropriate content nor any celebrity likenesses.\n4. **Complexity**: Image is not overly complex and avoids unnecessary elements.\n5. **Copyright/Watermarks**: No visible copyright or watermarks.\n\n### Scoring Criteria:\n1. **Prompt Alignment (35/40)**:\n   - The design is minimalist and vector-style, with smooth edges and flat colors.\n   - Proper visual representation of phishing, pretexting, and baiting techniques.\n   - The shield icon is present in the bottom right corner.\n   - The symbols are arranged horizontally rather than in the specified triangular composition, which impacts full prompt accuracy.\n\n2. **Visual Quality (28/30)**:\n   - High resolution with crisp and clear lines.\n   - Effective use of high contrast between symbols and background.\n   - The use of lighting is subtle and maintains the dramatic effect.\n\n3. **Presentation Suitability (27/30)**:\n   - Fits the context of discussing social engineering in a cybersecurity presentation.\n   - The image is simple yet effective at conveying its core message.\n   - Clear focus is maintained on key symbols with ample negative space.\n\n### Overall:\n- **Score**: 90/100\n- **Status**: Valid\n\n### Suggestions:\n- Adjust the composition to better reflect the triangular arrangement as specified in the prompt to achieve full marks in prompt alignment.",
+            "suggestions": "Consider arranging the symbols in a triangular composition as per the original prompt to improve alignment with the requested design.",
+            "current_prompt": "Create a minimalist digital illustration with a dark cyberpunk theme. Show three simple, iconic symbols representing social engineering techniques: a stylized fishing hook for Phishing, a basic theatrical mask for Pretexting, and a simple digital lure for Baiting. Arrange these symbols in a triangular composition against a plain, deep blue background. Use high contrast with sharp red highlights to emphasize danger. Employ clean, vector-style graphics with smooth edges and flat colors. Avoid any text or complex figures. Include a small, white shield icon in the bottom right corner to represent protection measures. Ensure all elements are clearly visible and distinct, with ample negative space around each symbol. Use dramatic side lighting to create a sense of depth and mystery. Render in high resolution with crisp, clear lines and shapes.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>2020 Twitter Hack: Sosyal M\u00fchendisli\u011fin Ger\u00e7ek D\u00fcnya \u00d6rne\u011fi</h2><ul><li>Y\u00fcksek Profilli Hesaplar\u0131 Ele Ge\u00e7irme</li><li>Siber G\u00fcvenli\u011fin Zay\u0131f Noktalar\u0131</li><li>\u0130nsan Fakt\u00f6r\u00fcn\u00fcn Rol\u00fc</li></ul>",
+            "slide_voiceover_text": "2020 y\u0131l\u0131nda ger\u00e7ekle\u015fen Twitter hack'i, sosyal m\u00fchendisli\u011fin ne kadar tehlikeli olabilece\u011finin \u00e7arp\u0131c\u0131 bir \u00f6rne\u011fidir. Sald\u0131rganlar, \u015firket i\u00e7i sistemlere sosyal m\u00fchendislik teknikleri kullanarak s\u0131zd\u0131lar ve d\u00fcnya \u00e7ap\u0131nda \u00fcnl\u00fc ki\u015filerin hesaplar\u0131n\u0131 ele ge\u00e7irdiler. Bu sald\u0131r\u0131, teknolojik g\u00fcvenlik \u00f6nlemlerinin yan\u0131 s\u0131ra insan fakt\u00f6r\u00fcn\u00fcn de ne kadar kritik oldu\u011funu g\u00f6sterdi.",
+            "slide_image_prompt": "A dramatic digital illustration showing a hacked computer screen with Twitter's logo, surrounded by shadowy figures representing hackers. The image should have a dark, cyberpunk-style color palette with blues and blacks, highlighting digital vulnerability. Include subtle visual metaphors of social engineering like broken padlocks or digital chains being manipulated. Use a cinematic, slightly tilted perspective to create tension and emphasize the dramatic nature of the cyber attack."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align well with the slide focus and presentation title. The content effectively communicates the importance of the 2020 Twitter hack as an example of social engineering. To further enhance the slide, consider adding a brief mention of the specific social engineering techniques used in the hack within the voiceover text. Additionally, you could include a statistic or impact statement in the onscreen text to quantify the scale of the attack.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A dramatic digital illustration showing a hacked computer screen with Twitter's logo, surrounded by shadowy figures representing hackers. The image should have a dark, cyberpunk-style color palette with blues and blacks, highlighting digital vulnerability. Include subtle visual metaphors of social engineering like broken padlocks or digital chains being manipulated. Use a cinematic, slightly tilted perspective to create tension and emphasize the dramatic nature of the cyber attack.",
+            "image_url": "https://v3.fal.media/files/penguin/mLKK0mwC8sZeqXUb_lZ07.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image aligns well with the original prompt, capturing the dramatic, cyberpunk aesthetic. The use of blue and black colors enhances the dark, digital theme, and the inclusion of shadowy hacker figures and subtly placed metaphors (chains, padlocks) effectively communicate the concept of social engineering and vulnerability. The composition is visually appealing with a slight tilt, adding tension to the scene.\n\nHowever, the presence of explicit writing or numerical data on the screen could potentially be considered as text, which is a critical issue per the guidelines. Ensure any visible text is part of the visual metaphor rather than legible writing.\n\nThe image quality is high, with clear resolution and depth from appropriate lighting and shadow use. Overall, the image is suitable for presentations, maintaining focus on key elements without over-cluttering the scene.",
+            "suggestions": "To improve, ensure any numerical or textual elements are abstract rather than discernible to avoid critical issues related to text inclusion. Emphasize maintaining a balance between illustration and textual elements to keep focus on the visual metaphor.",
+            "current_prompt": "A dramatic digital illustration showing a hacked computer screen with Twitter's logo, surrounded by shadowy figures representing hackers. The image should have a dark, cyberpunk-style color palette with blues and blacks, highlighting digital vulnerability. Include subtle visual metaphors of social engineering like broken padlocks or digital chains being manipulated. Use a cinematic, slightly tilted perspective to create tension and emphasize the dramatic nature of the cyber attack.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Sosyal M\u00fchendislik Sald\u0131r\u0131lar\u0131ndan Korunma Y\u00f6ntemleri</h2><ul><li>\ud83d\udd0d Fark\u0131ndal\u0131k E\u011fitimi</li><li>\ud83d\udd10 G\u00fc\u00e7l\u00fc Kimlik Do\u011frulama</li><li>\ud83d\udd75\ufe0f \u015e\u00fcpheci Yakla\u015f\u0131m</li></ul>",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik sald\u0131r\u0131lar\u0131na kar\u015f\u0131 \u00fc\u00e7 temel savunma mekanizmas\u0131 bulunmaktad\u0131r. \u00d6ncelikle, \u00e7al\u0131\u015fanlar\u0131n ve bireylerin sosyal m\u00fchendislik tehlikeleri konusunda s\u00fcrekli e\u011fitilmesi kritik \u00f6neme sahiptir. \u0130kinci olarak, \u00e7ok fakt\u00f6rl\u00fc kimlik do\u011frulama sistemleri kullanarak yetkisiz eri\u015fimlerin \u00f6n\u00fcne ge\u00e7ebiliriz. Son olarak, her t\u00fcrl\u00fc dijital ileti\u015fimde ve fiziksel etkile\u015fimde \u015f\u00fcpheci bir bak\u0131\u015f a\u00e7\u0131s\u0131 benimsemek, potansiyel tehditleri erkenden tespit etmemize yard\u0131mc\u0131 olacakt\u0131r.",
+            "slide_image_prompt": "A digital security illustration showing three interconnected shields, each representing awareness, strong authentication, and skeptical approach. The background is a subtle network of digital connections. Use a modern, clean infographic style with a color palette of blues and grays, symbolizing technology and security. Include subtle icons representing education, lock/key, and a detective/magnifying glass within each shield. Flat design with a slight 3D depth effect, conveying professionalism and protection."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and concise, with appropriate detail in the voiceover. The multimedia design is well-balanced, with concise onscreen text and a comprehensive voiceover. The image prompt is specific and relevant, enhancing the overall message. The technical quality is high, with correct HTML markup and consistent language use. To further improve, consider adding a brief mention of real-world examples in the voiceover to make the content more relatable.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A digital security illustration showing three interconnected shields, each representing awareness, strong authentication, and skeptical approach. The background is a subtle network of digital connections. Use a modern, clean infographic style with a color palette of blues and grays, symbolizing technology and security. Include subtle icons representing education, lock/key, and a detective/magnifying glass within each shield. Flat design with a slight 3D depth effect, conveying professionalism and protection.",
+            "image_url": "https://v3.fal.media/files/koala/l0D0zm0y4KoRsFOqtCAMw.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "1. **Prompt Alignment (30/40):** \n   - The image generally matches the prompt, with three interconnected shields and a background of digital connections in blues and grays.\n   - The shields include icons representing awareness, strong authentication, and a skeptical approach, although the latter isn\u2019t clearly represented due to the text issue.\n   - The style aligns with modern, clean infographic design with some 3D depth.\n\n2. **Visual Quality (25/30):** \n   - The resolution is adequate for presentation purposes.\n   - Colors are balanced, fitting the technological theme.\n   - The design appears professional.\n\n3. **Presentation Suitability (20/30):** \n   - The design fits the general theme of digital security for presentations.\n   - It supports the slide message but is compromised by text issues ('Syepictitice').\n   - Focus on key messages is somewhat hindered by incorrect text.\n\n**Critical Issues:**\n- Contains text ('Syepictitice') that appears to be an error.\n- The image contains text, which is not ideal for a universal infographic style.",
+            "suggestions": "- Correct inconsistencies in text labeling, ensuring clarity and proper messaging.\n- Consider removing text entirely or ensuring it is accurate and relevant to all audiences.\n- Improve the representation of the skeptical approach with more precise iconography and terminology.\n- Enhance the simplicity to make sure elements directly correlate with the key presentation message.",
+            "current_prompt": "A digital security illustration showing three interconnected shields, each representing awareness, strong authentication, and skeptical approach. The background is a subtle network of digital connections. Use a modern, clean infographic style with a color palette of blues and grays, symbolizing technology and security. Include subtle icons representing education, lock/key, and a detective/magnifying glass within each shield. Flat design with a slight 3D depth effect, conveying professionalism and protection.",
+            "new_prompt": "A minimalist digital security illustration featuring three interconnected shield icons arranged in a triangular formation. Each shield represents a key security concept: awareness (symbolized by an eye icon), strong authentication (represented by a simplified key icon), and skeptical approach (depicted by a magnifying glass icon). The shields are rendered in a flat design style with subtle 3D depth effect, using a modern color palette of cool blues and neutral grays. The background showcases a subtle, abstract pattern of faint lines suggesting digital connections. The overall composition should be clean, uncluttered, and easily readable from a distance, with high contrast between the shields and the background. Lighting should be even and soft to enhance visibility. The image should be high-resolution and crisp, suitable for professional presentation use."
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist digital security illustration featuring three interconnected shield icons arranged in a triangular formation. Each shield represents a key security concept: awareness (symbolized by an eye icon), strong authentication (represented by a simplified key icon), and skeptical approach (depicted by a magnifying glass icon). The shields are rendered in a flat design style with subtle 3D depth effect, using a modern color palette of cool blues and neutral grays. The background showcases a subtle, abstract pattern of faint lines suggesting digital connections. The overall composition should be clean, uncluttered, and easily readable from a distance, with high contrast between the shields and the background. Lighting should be even and soft to enhance visibility. The image should be high-resolution and crisp, suitable for professional presentation use.",
+            "image_url": "https://v3.fal.media/files/koala/rbdyvhEACytnBg2aSkDex.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 94,
+            "feedback": "### Feedback:\n1. **Prompt Alignment (38/40):**\n   - The image aligns well with the specified visual style of a minimalist digital security illustration. \n   - Contains the three interconnected shield icons, each representing awareness, strong authentication, and a skeptical approach. \n   - Symbols (eye, lock, magnifying glass) accurately represent their concepts.\n   - Composition is clean and follows the requested triangular arrangement.\n\n2. **Visual Quality (28/30):**\n   - High resolution and clarity are maintained, suitable for presentation use.\n   - Modern color palette of cool blues and neutral grays enhances visual appeal.\n   - Subtle 3D depth effect and even lighting contribute to professionalism.\n\n3. **Presentation Suitability (28/30):**\n   - Fits well within a presentation context, supports the slide message effectively.\n   - Maintains simplicity and presents a focused message through minimalist design.\n   - Abstract pattern background appropriately suggests digital connections without distraction.\n\n### Overall Score: 94/100.\n### Valid/Invalid: Valid\n\n### Suggested Improvements:\n- Consider enhancing the contrast between the shields and the background slightly more for increased visual impact from a greater distance.\n- Minor adjustment to the positioning of the shields could improve balance slightly, although the current layout is already effective.",
+            "suggestions": "- Enhance contrast for greater visibility.\n- Slight repositioning might enhance visual balance.",
+            "current_prompt": "A minimalist digital security illustration featuring three interconnected shield icons arranged in a triangular formation. Each shield represents a key security concept: awareness (symbolized by an eye icon), strong authentication (represented by a simplified key icon), and skeptical approach (depicted by a magnifying glass icon). The shields are rendered in a flat design style with subtle 3D depth effect, using a modern color palette of cool blues and neutral grays. The background showcases a subtle, abstract pattern of faint lines suggesting digital connections. The overall composition should be clean, uncluttered, and easily readable from a distance, with high contrast between the shields and the background. Lighting should be even and soft to enhance visibility. The image should be high-resolution and crisp, suitable for professional presentation use.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "Dijital G\u00fcvenlikte Proaktif Yakla\u015f\u0131m:\n\u2022 Bireysel Fark\u0131ndal\u0131k\n\u2022 Kurumsal Stratejiler\n\u2022 S\u00fcrekli E\u011fitim",
+            "slide_voiceover_text": "Sosyal m\u00fchendislik tehditlerine kar\u015f\u0131 etkili m\u00fccadele, hem bireysel hem de kurumsal d\u00fczeyde proaktif bir yakla\u015f\u0131m gerektirir. Ki\u015fisel fark\u0131ndal\u0131\u011f\u0131m\u0131z\u0131 art\u0131rarak, kurumlarda g\u00fcvenlik k\u00fclt\u00fcr\u00fcn\u00fc geli\u015ftirerek ve s\u00fcrekli e\u011fitimle donanarak dijital g\u00fcvenli\u011fimizi g\u00fc\u00e7lendirebiliriz. Her birey ve her kurum, bu m\u00fccadelede kritik bir rol oynamaktad\u0131r.",
+            "slide_image_prompt": "A powerful, symbolic digital safety visualization showing a shield made of interconnected human silhouettes, protecting a central digital network. The shield is composed of diverse people representing different ages and backgrounds, symbolizing collective digital defense. Use a modern, clean design with a color palette of blues and whites, suggesting technology and security. The background should have subtle digital circuit patterns, emphasizing the technological context. The image should convey strength, unity, and proactive protection against cyber threats, with a slightly futuristic and inspirational visual style."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and fully aligned with the presentation's focus. The onscreen text, voiceover, and image prompt work together seamlessly to convey a clear and coherent message about proactive digital security. The content is well-structured, with the onscreen text providing key points that are elaborated in the voiceover. The image prompt is particularly strong, offering a visually compelling representation of collective digital defense that perfectly complements the textual content. The language is consistent and professional throughout. To achieve absolute perfection, consider adding a brief mention of specific tools or technologies in the voiceover that can aid in implementing the strategies mentioned.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A powerful, symbolic digital safety visualization showing a shield made of interconnected human silhouettes, protecting a central digital network. The shield is composed of diverse people representing different ages and backgrounds, symbolizing collective digital defense. Use a modern, clean design with a color palette of blues and whites, suggesting technology and security. The background should have subtle digital circuit patterns, emphasizing the technological context. The image should convey strength, unity, and proactive protection against cyber threats, with a slightly futuristic and inspirational visual style.",
+            "image_url": "https://v3.fal.media/files/elephant/NLlSaOYWTf6mAz1-1FaCE.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "1. **Prompt Alignment:** \n   - Visual style matches the specified clean and modern design with blue and white colors.\n   - Includes a shield and diverse silhouettes; however, the central digital network is not emphasized.\n   - Text within the shield ('ERGXT') is against prompt requirements, which specified no text. \n\n2. **Visual Quality:**\n   - Good resolution and clarity.\n   - Appropriate color balance and contrast.\n   - Lighting and shadows are handled well to visualize depth.\n\n3. **Presentation Suitability:**\n   - Fits the context of digital safety, enhancing the message of collective defense through diversity.\n   - The presence of text could distract from the focus on digital defense.\n   - Maintains simplicity, but the inclusion of a non-specific element (text in the center) might confuse the message.\n\n**Critical Issues:**\n- Presence of text within the image ('ERGXT'), violating criteria for no text.",
+            "suggestions": "To enhance the prompt:\n- Specify that no text should be integrated into the design to avoid distractions from the visual message.\n- Emphasize the importance of showing the central digital network to better match the prompt.\n- Consider a more explicit representation of the interconnected digital network within the shield to reinforce the central theme.",
+            "current_prompt": "A powerful, symbolic digital safety visualization showing a shield made of interconnected human silhouettes, protecting a central digital network. The shield is composed of diverse people representing different ages and backgrounds, symbolizing collective digital defense. Use a modern, clean design with a color palette of blues and whites, suggesting technology and security. The background should have subtle digital circuit patterns, emphasizing the technological context. The image should convey strength, unity, and proactive protection against cyber threats, with a slightly futuristic and inspirational visual style.",
+            "new_prompt": "A minimalist digital safety visualization featuring a shield composed of interconnected, abstract human silhouettes. The shield is formed by simple, geometric shapes representing diverse people. At the center of the shield, depict a stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. Use a clean, modern design with a predominantly blue and white color scheme. The background should be a subtle gradient from light to dark blue, with faint, geometric circuit patterns. Emphasize a sense of unity and strength through the arrangement of the silhouettes. Ensure high contrast between the shield and the central network for clarity. The overall composition should be centered and symmetrical, conveying a sense of balance and security. Use soft, diffused lighting to create a slightly futuristic atmosphere. The image should be high-resolution and crisp, suitable for a professional presentation. Absolutely no text or recognizable figures should be included in the design."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist digital safety visualization featuring a shield composed of interconnected, abstract human silhouettes. The shield is formed by simple, geometric shapes representing diverse people. At the center of the shield, depict a stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. Use a clean, modern design with a predominantly blue and white color scheme. The background should be a subtle gradient from light to dark blue, with faint, geometric circuit patterns. Emphasize a sense of unity and strength through the arrangement of the silhouettes. Ensure high contrast between the shield and the central network for clarity. The overall composition should be centered and symmetrical, conveying a sense of balance and security. Use soft, diffused lighting to create a slightly futuristic atmosphere. The image should be high-resolution and crisp, suitable for a professional presentation. Absolutely no text or recognizable figures should be included in the design.",
+            "image_url": "https://v3.fal.media/files/lion/eS-jpItXafXQcrGJVqCaJ.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "1. **Prompt Alignment (35/40):**\n   - The image closely matches the visual style described, featuring a minimalist design with silhouettes forming a shield.\n   - Includes a centralized network of glowing lines and nodes as requested.\n   - The color scheme is predominantly blue and white with a gradient background, aligning well with the prompt.\n   - The arrangement conveys unity and strength, with a clear focus on balance and security.\n\n2. **Visual Quality (25/30):**\n   - The resolution is good; however, a slight increase in sharpness would enhance clarity.\n   - The color balance and contrast are effective, with a noticeable distinction between the shield and network.\n   - Lighting is soft and futuristic but could be a bit more diffused.\n\n3. **Presentation Suitability (25/30):**\n   - The image fits a professional presentation context, emphasizing digital safety effectively.\n   - Maintains simplicity while conveying the message clearly. \n   - The minimalist and modern elements support the expected presentation theme well.\n\n**Total Score: 85/100**\n\n**Summary:** The image is visually compelling and largely matches the prompt. Minor improvements in image sharpness and lighting diffusion are suggested to enhance overall quality and presentation suitability.",
+            "suggestions": "- Enhance the sharpness of the silhouettes for better clarity.\n- Slightly increase the diffusion of lighting to emphasize the futuristic effect more.\n- Ensure the central network stands out even more by potentially using a more luminous glow.",
+            "current_prompt": "A minimalist digital safety visualization featuring a shield composed of interconnected, abstract human silhouettes. The shield is formed by simple, geometric shapes representing diverse people. At the center of the shield, depict a stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. Use a clean, modern design with a predominantly blue and white color scheme. The background should be a subtle gradient from light to dark blue, with faint, geometric circuit patterns. Emphasize a sense of unity and strength through the arrangement of the silhouettes. Ensure high contrast between the shield and the central network for clarity. The overall composition should be centered and symmetrical, conveying a sense of balance and security. Use soft, diffused lighting to create a slightly futuristic atmosphere. The image should be high-resolution and crisp, suitable for a professional presentation. Absolutely no text or recognizable figures should be included in the design.",
+            "new_prompt": "Create a minimalist digital safety visualization centered on a shield composed of interconnected, abstract human silhouettes. The shield should be formed by simple, crisp geometric shapes representing diverse people, with enhanced sharpness for better clarity. At the heart of the shield, depict a highly luminous, stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. This central network should have increased contrast and brightness to stand out prominently. Use a clean, modern design with a predominantly blue and white color scheme. The background should feature a subtle gradient from light to dark blue, with very faint, geometric circuit patterns. Emphasize unity and strength through the symmetrical arrangement of the silhouettes. Employ soft, highly diffused lighting to create an enhanced futuristic atmosphere, with a gentle bloom effect around the glowing elements. The overall composition should be perfectly centered and balanced, conveying a strong sense of security. Ensure the image is rendered in high resolution with impeccable crispness, optimized for professional presentation use. The design should be entirely abstract, without any text, recognizable figures, or complex elements that could distract from the core message of digital protection and unity."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist digital safety visualization centered on a shield composed of interconnected, abstract human silhouettes. The shield should be formed by simple, crisp geometric shapes representing diverse people, with enhanced sharpness for better clarity. At the heart of the shield, depict a highly luminous, stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. This central network should have increased contrast and brightness to stand out prominently. Use a clean, modern design with a predominantly blue and white color scheme. The background should feature a subtle gradient from light to dark blue, with very faint, geometric circuit patterns. Emphasize unity and strength through the symmetrical arrangement of the silhouettes. Employ soft, highly diffused lighting to create an enhanced futuristic atmosphere, with a gentle bloom effect around the glowing elements. The overall composition should be perfectly centered and balanced, conveying a strong sense of security. Ensure the image is rendered in high resolution with impeccable crispness, optimized for professional presentation use. The design should be entirely abstract, without any text, recognizable figures, or complex elements that could distract from the core message of digital protection and unity.",
+            "image_url": "https://v3.fal.media/files/rabbit/5GSDaYqcCSCxhG_jp0c2C.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "1. **CRITICAL ISSUES:**\n   - The image does not appear to have any critical issues such as text, celebrity likeness, inappropriate content, or technical problems.\n\n2. **Prompt Alignment (35/40):**\n   - The image successfully uses interconnected silhouettes to form a shield and includes a network of glowing lines and nodes. However, the silhouettes could be more distinctly geometric to match the request.\n   - The symmetry and arrangement suggest unity and strength, aligning well with the concept.\n   - The image employs a blue and white color scheme effectively.\n\n3. **Visual Quality (28/30):**\n   - The resolution is high with sharp, crisp visuals appropriate for presentations.\n   - The lighting is soft and diffused, creating a futuristic feel, but the bloom effect might be slightly excessive, potentially affecting clarity.\n   - Color balance is well maintained, enhancing contrast and brightness.\n\n4. **Presentation Suitability (29/30):**\n   - The design fits the context of digital safety and protection, centered appropriately.\n   - It maintains simplicity with minimalistic features, ensuring focus on the core message.\n\nOverall, the image effectively communicates digital protection and unity, with only minor areas for enhancement regarding silhouette geometry and bloom effect.",
+            "suggestions": "- Refine the geometric design of silhouettes to more closely match the specified prompt.\n- Slightly reduce the bloom effect around the glowing elements to preserve clarity and crispness, improving the overall aesthetic.",
+            "current_prompt": "Create a minimalist digital safety visualization centered on a shield composed of interconnected, abstract human silhouettes. The shield should be formed by simple, crisp geometric shapes representing diverse people, with enhanced sharpness for better clarity. At the heart of the shield, depict a highly luminous, stylized network of glowing lines and nodes, symbolizing a protected digital infrastructure. This central network should have increased contrast and brightness to stand out prominently. Use a clean, modern design with a predominantly blue and white color scheme. The background should feature a subtle gradient from light to dark blue, with very faint, geometric circuit patterns. Emphasize unity and strength through the symmetrical arrangement of the silhouettes. Employ soft, highly diffused lighting to create an enhanced futuristic atmosphere, with a gentle bloom effect around the glowing elements. The overall composition should be perfectly centered and balanced, conveying a strong sense of security. Ensure the image is rendered in high resolution with impeccable crispness, optimized for professional presentation use. The design should be entirely abstract, without any text, recognizable figures, or complex elements that could distract from the core message of digital protection and unity.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

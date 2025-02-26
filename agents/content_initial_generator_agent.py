@@ -18,7 +18,7 @@ def call_content_initial_generator_agent( presentation_title : str, slide_outlin
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
     
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20241022",
+        model="claude-3-7-sonnet-20250219",
         messages=[
             {
                 "role": "system",

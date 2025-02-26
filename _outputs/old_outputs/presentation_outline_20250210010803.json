@@ -1,0 +1,350 @@
+{
+   "timestamp": "20250210010803",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+            "slide_outlines": [
+               {
+                  "slide_title": "Etkili \u0130leti\u015fim ve Networking'in \u00d6nemi",
+                  "slide_focus": "\u0130\u015f hayat\u0131nda ba\u015far\u0131l\u0131 olmak i\u00e7in etkili ileti\u015fim ve networking becerilerinin kritik rol\u00fcn\u00fc vurgulayarak izleyicileri konuya \u00e7ekin.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fimin Temel Unsurlar\u0131",
+                  "slide_focus": "Aktif dinleme, a\u00e7\u0131k ve net konu\u015fma, beden dili ve empati gibi etkili ileti\u015fimin temel unsurlar\u0131n\u0131 a\u00e7\u0131klay\u0131n.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "\u0130\u015f Ortam\u0131nda \u0130leti\u015fim Stratejileri",
+                  "slide_focus": "Toplant\u0131larda, e-postalarda ve y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerde kullan\u0131labilecek pratik ileti\u015fim stratejilerini \u00f6rneklerle g\u00f6sterin.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Networking'in G\u00fcc\u00fc ve Teknikleri",
+                  "slide_focus": "Profesyonel a\u011f olu\u015fturman\u0131n \u00f6nemini vurgulay\u0131n ve etkili networking i\u00e7in kullan\u0131labilecek teknikleri ve ara\u00e7lar\u0131 tan\u0131t\u0131n.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Etkili \u0130leti\u015fim ve Networking ile Kariyer Geli\u015ftirme",
+                  "slide_focus": "Etkili ileti\u015fim ve networking becerilerinin kariyer geli\u015fimine nas\u0131l katk\u0131 sa\u011flad\u0131\u011f\u0131n\u0131 \u00f6zetleyin ve izleyicileri harekete ge\u00e7meye te\u015fvik edin.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Sunum tasla\u011f\u0131 olduk\u00e7a iyi organize edilmi\u015f g\u00f6r\u00fcn\u00fcyor. Giri\u015f (\u00d6nemi) ve sonu\u00e7 (Kariyer Geli\u015ftirme) k\u0131s\u0131mlar\u0131 olmas\u0131, mant\u0131kl\u0131 bir ak\u0131\u015f sa\u011flamas\u0131 ve her slayt\u0131n tek bir ana fikir i\u00e7ermesi g\u00fc\u00e7l\u00fc yanlar. Slaytlarda net, eyleme ge\u00e7irilebilir odaklar var ve i\u015f hayat\u0131nda uygulanabilir \u00f6rnekler verilmi\u015f. Bu da\u011f\u0131l\u0131m sunumun dinleyiciler taraf\u0131ndan kolayca takip edilmesini sa\u011flayacakt\u0131r.",
+               "score": 93
+            },
+            "tested_outline": {
+               "presentation_title": "\u0130\u015f Hayat\u0131nda Etkili \u0130leti\u015fim Y\u00f6netimi ve Networking Teknikleri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fim ve Networking'in \u00d6nemi",
+                     "slide_focus": "\u0130\u015f hayat\u0131nda ba\u015far\u0131l\u0131 olmak i\u00e7in etkili ileti\u015fim ve networking becerilerinin kritik rol\u00fcn\u00fc vurgulayarak izleyicileri konuya \u00e7ekin.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fimin Temel Unsurlar\u0131",
+                     "slide_focus": "Aktif dinleme, a\u00e7\u0131k ve net konu\u015fma, beden dili ve empati gibi etkili ileti\u015fimin temel unsurlar\u0131n\u0131 a\u00e7\u0131klay\u0131n.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "\u0130\u015f Ortam\u0131nda \u0130leti\u015fim Stratejileri",
+                     "slide_focus": "Toplant\u0131larda, e-postalarda ve y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerde kullan\u0131labilecek pratik ileti\u015fim stratejilerini \u00f6rneklerle g\u00f6sterin.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Networking'in G\u00fcc\u00fc ve Teknikleri",
+                     "slide_focus": "Profesyonel a\u011f olu\u015fturman\u0131n \u00f6nemini vurgulay\u0131n ve etkili networking i\u00e7in kullan\u0131labilecek teknikleri ve ara\u00e7lar\u0131 tan\u0131t\u0131n.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Etkili \u0130leti\u015fim ve Networking ile Kariyer Geli\u015ftirme",
+                     "slide_focus": "Etkili ileti\u015fim ve networking becerilerinin kariyer geli\u015fimine nas\u0131l katk\u0131 sa\u011flad\u0131\u011f\u0131n\u0131 \u00f6zetleyin ve izleyicileri harekete ge\u00e7meye te\u015fvik edin.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fim ve Networking'in \u0130\u015f Hayat\u0131ndaki Kritik Rol\u00fc</h2><ul><li>\ud83e\udd1d Ba\u015far\u0131n\u0131n Anahtar\u0131: \u0130leti\u015fim Becerileri</li><li>\ud83c\udf10 Networking: F\u0131rsatlar\u0131n Kap\u0131s\u0131</li><li>\ud83d\udca1 Profesyonel Geli\u015fimin Temel Ta\u015f\u0131</li></ul>",
+            "slide_voiceover_text": "Sevgili kat\u0131l\u0131mc\u0131lar, i\u015f d\u00fcnyas\u0131nda ba\u015far\u0131l\u0131 olmak art\u0131k sadece teknik bilgi ve yetenekle s\u0131n\u0131rl\u0131 de\u011fil. Etkili ileti\u015fim ve networking, kariyerinizin en g\u00fc\u00e7l\u00fc silahlar\u0131 haline gelmi\u015ftir. \u0130yi bir ileti\u015fimci olarak, sadece bilginizi payla\u015fmakla kalmaz, ayn\u0131 zamanda ili\u015fkiler kurarak f\u0131rsatlar yarat\u0131rs\u0131n\u0131z. Networking, size sadece i\u015f ba\u011flant\u0131lar\u0131 de\u011fil, ayn\u0131 zamanda s\u00fcrekli \u00f6\u011frenme ve geli\u015fme imkan\u0131 sa\u011flar.",
+            "slide_image_prompt": "A professional networking scene showing diverse business people connecting and communicating, with holographic network lines connecting them, in a modern, bright office environment. Use a clean, contemporary style with soft blue and white tones. Emphasize human connections through body language and engaging interactions. Include a mix of ages, genders, and professional backgrounds to represent inclusivity. Photorealistic digital illustration with depth and subtle corporate aesthetic."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt align well, delivering a clear message about the importance of effective communication and networking in professional life. The content is well-structured and engaging. To further enhance the slide, consider adding a brief statistic or quote about the impact of networking on career success to make the message even more compelling.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A professional networking scene showing diverse business people connecting and communicating, with holographic network lines connecting them, in a modern, bright office environment. Use a clean, contemporary style with soft blue and white tones. Emphasize human connections through body language and engaging interactions. Include a mix of ages, genders, and professional backgrounds to represent inclusivity. Photorealistic digital illustration with depth and subtle corporate aesthetic.",
+            "image_url": "https://v3.fal.media/files/panda/GF8zpRxTxIgr8kiCV-aDF.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A professional networking scene showing diverse business people connecting and communicating, with holographic network lines connecting them, in a modern, bright office environment. Use a clean, contemporary style with soft blue and white tones. Emphasize human connections through body language and engaging interactions. Include a mix of ages, genders, and professional backgrounds to represent inclusivity. Photorealistic digital illustration with depth and subtle corporate aesthetic.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili \u0130leti\u015fimin 4 Temel Unsuru</h2><ul><li>\ud83e\uddcf Aktif Dinleme</li><li>\ud83d\udcac A\u00e7\u0131k ve Net \u0130fade</li><li>\ud83e\udd32 Empati Kurma</li><li>\ud83e\uddcd Beden Dili Fark\u0131ndal\u0131\u011f\u0131</li></ul>",
+            "slide_voiceover_text": "Etkili ileti\u015fim, profesyonel hayatta ba\u015far\u0131n\u0131n anahtar\u0131d\u0131r. D\u00f6rt temel unsur ileti\u015fim becerilerinizi g\u00fc\u00e7lendirir: Birincisi, konu\u015fan\u0131 ger\u00e7ekten dinlemek ve anlamak i\u00e7in aktif dinleme yap\u0131n. \u0130kincisi, d\u00fc\u015f\u00fcncelerinizi a\u00e7\u0131k, net ve anla\u015f\u0131l\u0131r bir \u015fekilde ifade edin. \u00dc\u00e7\u00fcnc\u00fcs\u00fc, kar\u015f\u0131n\u0131zdaki ki\u015finin duygular\u0131n\u0131 ve bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlamaya \u00e7al\u0131\u015farak empati kurun. Son olarak, beden dilinizin iletmek istedi\u011finiz mesaj\u0131 destekledi\u011finden emin olun.",
+            "slide_image_prompt": "A professional business setting with four distinct quadrants, each representing a key communication skill. Show diverse professionals demonstrating active listening, clear speaking, empathy, and body language awareness. Use a clean, modern corporate design with soft, professional colors. Include subtle visual metaphors for each skill: an ear for listening, speech bubbles for clear communication, interlinked hands for empathy, and a silhouette with expressive gestures for body language. Photorealistic style with a corporate training workshop atmosphere."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and well-aligned with the presentation focus. The onscreen text, voiceover, and image prompt work together cohesively to convey the message of effective communication. The four key elements are clearly presented and explained. The onscreen text is concise and uses emojis effectively to enhance visual appeal. The voiceover provides more detailed explanations, complementing the onscreen text well. The image prompt is detailed and relevant, promising to create a visual that will reinforce the content. Minor suggestion: Consider adding a brief mention of how these elements contribute to networking in the voiceover to tie it more closely to the presentation title.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A professional business setting with four distinct quadrants, each representing a key communication skill. Show diverse professionals demonstrating active listening, clear speaking, empathy, and body language awareness. Use a clean, modern corporate design with soft, professional colors. Include subtle visual metaphors for each skill: an ear for listening, speech bubbles for clear communication, interlinked hands for empathy, and a silhouette with expressive gestures for body language. Photorealistic style with a corporate training workshop atmosphere.",
+            "image_url": "https://v3.fal.media/files/monkey/oqz8R6A7Dor40gZ4nR_r6.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "A professional business setting with four distinct quadrants, each representing a key communication skill. Show diverse professionals demonstrating active listening, clear speaking, empathy, and body language awareness. Use a clean, modern corporate design with soft, professional colors. Include subtle visual metaphors for each skill: an ear for listening, speech bubbles for clear communication, interlinked hands for empathy, and a silhouette with expressive gestures for body language. Photorealistic style with a corporate training workshop atmosphere.",
+            "new_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a person leaning forward attentively. In the top-right, represent clear speaking with stylized speech bubbles emanating from a person's silhouette. Bottom-left shows empathy using two abstract figures with interlinked hands. Bottom-right illustrates body language awareness with a simplified human figure striking an open, confident pose. Each quadrant should have a subtle gradient background to differentiate it. Use flat design style with clean lines and simple shapes. Ensure high contrast and clarity for presentation visibility. Lighting should be even across the image to maintain a professional, polished look."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a person leaning forward attentively. In the top-right, represent clear speaking with stylized speech bubbles emanating from a person's silhouette. Bottom-left shows empathy using two abstract figures with interlinked hands. Bottom-right illustrates body language awareness with a simplified human figure striking an open, confident pose. Each quadrant should have a subtle gradient background to differentiate it. Use flat design style with clean lines and simple shapes. Ensure high contrast and clarity for presentation visibility. Lighting should be even across the image to maintain a professional, polished look.",
+            "image_url": "https://v3.fal.media/files/kangaroo/a09SFtYZWxS82bEKWWtqi.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a person leaning forward attentively. In the top-right, represent clear speaking with stylized speech bubbles emanating from a person's silhouette. Bottom-left shows empathy using two abstract figures with interlinked hands. Bottom-right illustrates body language awareness with a simplified human figure striking an open, confident pose. Each quadrant should have a subtle gradient background to differentiate it. Use flat design style with clean lines and simple shapes. Ensure high contrast and clarity for presentation visibility. Lighting should be even across the image to maintain a professional, polished look.",
+            "new_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. In the top-right, represent clear speaking with bold, stylized speech bubbles emanating from a person's silhouette, with the bubbles increasing in size to emphasize clarity. Bottom-left shows empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right illustrates body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines to indicate awareness. Each quadrant should have a subtle gradient background to differentiate it, transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds for presentation visibility. Apply even, soft lighting across the image to maintain a professional, polished look. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. In the top-right, represent clear speaking with bold, stylized speech bubbles emanating from a person's silhouette, with the bubbles increasing in size to emphasize clarity. Bottom-left shows empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right illustrates body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines to indicate awareness. Each quadrant should have a subtle gradient background to differentiate it, transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds for presentation visibility. Apply even, soft lighting across the image to maintain a professional, polished look. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill.",
+            "image_url": "https://v3.fal.media/files/koala/bdzy5Tk9wwtXM4ZHudQ5L.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). In the top-left quadrant, depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. In the top-right, represent clear speaking with bold, stylized speech bubbles emanating from a person's silhouette, with the bubbles increasing in size to emphasize clarity. Bottom-left shows empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right illustrates body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines to indicate awareness. Each quadrant should have a subtle gradient background to differentiate it, transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds for presentation visibility. Apply even, soft lighting across the image to maintain a professional, polished look. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill.",
+            "new_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_4",
+         "data": {
+            "image_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants.",
+            "image_url": "https://v3.fal.media/files/monkey/yhPHJhrK-sWB7RmAW8Yxu.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_4",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants.",
+            "new_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges, enhancing visual interest. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants. The overall image should be suitable for a professional presentation, with a resolution of at least 1920x1080 pixels and a 16:9 aspect ratio."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_5",
+         "data": {
+            "image_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges, enhancing visual interest. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants. The overall image should be suitable for a professional presentation, with a resolution of at least 1920x1080 pixels and a 16:9 aspect ratio.",
+            "image_url": "https://v3.fal.media/files/lion/wM7865yuNsyZcOCcvfaWY.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_5",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified ear icon and a silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges, enhancing visual interest. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply even, soft lighting across the image. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants. The overall image should be suitable for a professional presentation, with a resolution of at least 1920x1080 pixels and a 16:9 aspect ratio.",
+            "new_prompt": "Create a corporate training image with four distinct quadrants, each representing a key communication skill. Use a clean, minimalist design with soft, professional colors (light blues, grays, and whites). Top-left quadrant: depict active listening with a simplified, large ear icon and a small silhouette of a person leaning forward attentively. Top-right: represent clear speaking with concentric circles emanating from a person's silhouette, increasing in size to emphasize clarity. Bottom-left: show empathy using two abstract figures with clearly interlinked hands and subtle heart shapes between them. Bottom-right: illustrate body language awareness with a simplified human figure in an open, confident pose, surrounded by subtle motion lines. Each quadrant should have a gradient background transitioning from lighter shades in the center to slightly darker shades at the edges, enhancing visual interest. Use flat design style with clean lines and simple shapes. Ensure high contrast between elements and backgrounds. Apply soft, even lighting across the image to create a cohesive look. Avoid any text or complex details, focusing solely on clear, iconic representations of each communication skill. Maintain consistent style and level of detail across all quadrants, using only simple geometric shapes and lines. The overall image should be suitable for a professional presentation, with a resolution of 1920x1080 pixels and a 16:9 aspect ratio. Ensure that each quadrant's icon is centered and occupies approximately 60% of its space for clear visibility."
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f Ortam\u0131nda Etkili \u0130leti\u015fim Stratejileri</h2><ul><li>\ud83d\udcc5 Toplant\u0131larda Profesyonel \u0130leti\u015fim</li><li>\u2709\ufe0f E-posta Yaz\u0131\u015fmalar\u0131nda Netlik</li><li>\ud83d\udc65 Y\u00fcz Y\u00fcze G\u00f6r\u00fc\u015fmelerde \u0130leti\u015fim Teknikleri</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131l\u0131 ileti\u015fim, sadece bilgiyi aktarmaktan ibaret de\u011fildir. Toplant\u0131larda net ve \u00f6zl\u00fc konu\u015fma, e-postalarda profesyonel ve a\u00e7\u0131k bir dil kullanma ve y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerde do\u011fru ileti\u015fim teknikleri sergileme, kariyerinizde fark yaratman\u0131z\u0131 sa\u011flayacakt\u0131r. Her ileti\u015fim kanal\u0131nda farkl\u0131 stratejiler uygulamak, profesyonel ili\u015fkilerinizi g\u00fc\u00e7lendirecek ve i\u015f hedeflerinize ula\u015fman\u0131zda size avantaj sa\u011flayacakt\u0131r.",
+            "slide_image_prompt": "A modern, professional business communication scene showing three distinct communication scenarios: 1) A diverse group in a meeting room with people actively listening and engaging, 2) A close-up of hands typing a professional email on a sleek laptop, 3) Two professionals having an attentive one-on-one conversation. Use a clean, corporate color palette with blues and grays, minimal design, soft lighting, and a split-screen or collage style to represent different communication contexts. Photorealistic illustration with a contemporary corporate design aesthetic."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and aligned with the presentation topic. However, there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are well-aligned and convey a clear message.\n- The voiceover could benefit from more specific examples to illustrate the strategies mentioned.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- The onscreen text is concise and uses appropriate icons.\n- The image prompt is relevant and enhances the content.\n\n3. Technical Quality (27/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific.\n- Consider adding more specific language in the voiceover to match the level of detail in the onscreen text.\n\nTo improve:\n- Add specific examples in the voiceover for each communication scenario (meetings, emails, face-to-face).\n- Ensure perfect alignment between the bullet points in the onscreen text and the content of the voiceover.\n- Consider adding a brief mention of the importance of non-verbal communication in the voiceover, especially for face-to-face interactions.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f Ortam\u0131nda Etkili \u0130leti\u015fim Stratejileri</h2><ul><li>\ud83d\udcc5 Toplant\u0131larda Profesyonel \u0130leti\u015fim</li><li>\u2709\ufe0f E-posta Yaz\u0131\u015fmalar\u0131nda Netlik</li><li>\ud83d\udc65 Y\u00fcz Y\u00fcze G\u00f6r\u00fc\u015fmelerde \u0130leti\u015fim Teknikleri</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131l\u0131 ileti\u015fim, sadece bilgiyi aktarmaktan ibaret de\u011fildir. Her ileti\u015fim kanal\u0131nda farkl\u0131 stratejiler uygulamak, profesyonel ili\u015fkilerinizi g\u00fc\u00e7lendirecek ve i\u015f hedeflerinize ula\u015fman\u0131zda size avantaj sa\u011flayacakt\u0131r. Toplant\u0131larda, \u00f6rne\u011fin 'STAR' metodunu kullanarak net ve \u00f6zl\u00fc konu\u015fmay\u0131 \u00f6\u011frenin: Situation (Durum), Task (G\u00f6rev), Action (Eylem) ve Result (Sonu\u00e7) yap\u0131s\u0131n\u0131 takip edin. E-postalarda, konu sat\u0131r\u0131n\u0131 etkili kullanma ve ana mesaj\u0131 ilk paragrafta belirtme gibi tekniklerle profesyonel ve a\u00e7\u0131k bir dil kullan\u0131n. Y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerde ise, aktif dinleme ve g\u00f6z temas\u0131 kurma gibi s\u00f6zel olmayan ileti\u015fim becerilerini de kullanarak, kar\u015f\u0131n\u0131zdakiyle empati kurun ve beden dilinize dikkat edin. Bu stratejileri uygulayarak, kariyerinizde fark yaratabilir ve etkili bir ileti\u015fimci olarak tan\u0131nabilirsiniz.",
+            "slide_image_prompt": "A modern, professional business communication scene showing three distinct communication scenarios: 1) A diverse group in a meeting room with people actively listening and one person presenting using visual aids, demonstrating the STAR method, 2) A close-up of hands typing a professional email on a sleek laptop, with a clear subject line and well-structured paragraphs visible on the screen, 3) Two professionals having an attentive one-on-one conversation, maintaining eye contact and showing open body language. Use a clean, corporate color palette with blues and grays, minimal design, soft lighting, and a split-screen or collage style to represent different communication contexts. Photorealistic illustration with a contemporary corporate design aesthetic."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is well-structured and informative, but there are areas for improvement to achieve full marks. The onscreen text could be more detailed to better align with the voiceover content. For example, including brief mentions of the STAR method for meetings, email subject line importance, and non-verbal communication cues for face-to-face interactions would enhance coherence. The voiceover provides excellent detail, but could benefit from a more concise introduction to match the slide's focus. The image prompt is comprehensive and aligns well with the content, but could be more specific about the STAR method visualization. To reach a perfect score, ensure all elements are fully aligned and equally detailed across onscreen text, voiceover, and image prompt.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f Ortam\u0131nda Etkili \u0130leti\u015fim Stratejileri</h2><ul><li>\ud83d\udcc5 Toplant\u0131larda Profesyonel \u0130leti\u015fim: STAR Metodu</li><li>\u2709\ufe0f E-posta Yaz\u0131\u015fmalar\u0131nda Netlik: Etkili Konu Sat\u0131r\u0131</li><li>\ud83d\udc65 Y\u00fcz Y\u00fcze G\u00f6r\u00fc\u015fmelerde \u0130leti\u015fim Teknikleri: S\u00f6zel Olmayan \u0130pu\u00e7lar\u0131</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f ortam\u0131nda etkili ileti\u015fim, kariyerinizde fark yaratman\u0131n anahtar\u0131d\u0131r. Her ileti\u015fim kanal\u0131 i\u00e7in \u00f6zel stratejiler geli\u015ftirmek \u00f6nemlidir. Toplant\u0131larda, 'STAR' metodunu kullanarak net ve \u00f6zl\u00fc konu\u015fun: Situation (Durum), Task (G\u00f6rev), Action (Eylem) ve Result (Sonu\u00e7) yap\u0131s\u0131n\u0131 takip edin. E-postalarda, konu sat\u0131r\u0131n\u0131 etkili kullan\u0131n ve ana mesaj\u0131 ilk paragrafta belirtin. Bu, profesyonel ve a\u00e7\u0131k bir dil kullanman\u0131z\u0131 sa\u011flar. Y\u00fcz y\u00fcze g\u00f6r\u00fc\u015fmelerde, aktif dinleme ve g\u00f6z temas\u0131 kurma gibi s\u00f6zel olmayan ileti\u015fim becerilerini kullan\u0131n. Kar\u015f\u0131n\u0131zdakiyle empati kurun ve beden dilinize dikkat edin. Bu stratejileri uygulayarak, etkili bir ileti\u015fimci olarak tan\u0131nabilir ve profesyonel ili\u015fkilerinizi g\u00fc\u00e7lendirebilirsiniz.",
+            "slide_image_prompt": "A modern, professional business communication scene showing three distinct communication scenarios in a split-screen layout: 1) A diverse group in a meeting room with one person presenting using a visual aid that clearly shows the STAR method (Situation, Task, Action, Result) written out, 2) A close-up of hands typing a professional email on a sleek laptop, with a clear and concise subject line visible at the top of the screen and well-structured paragraphs below, 3) Two professionals having an attentive one-on-one conversation, maintaining strong eye contact, leaning slightly forward, and showing open body language with uncrossed arms. Use a clean, corporate color palette with blues and grays, minimal design, and soft lighting. Ensure the image has a contemporary corporate design aesthetic with a photorealistic style."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The content is excellent and meets all criteria for a high-quality presentation slide. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and delivered effectively. The content demonstrates a good balance between onscreen text conciseness and voiceover completeness. The image prompt is detailed and relevant, enhancing the overall presentation. The HTML markup is correct, and the language is consistent and professional throughout. To achieve absolute perfection, consider adding a brief mention of the importance of adapting communication styles to different cultural contexts in international business settings.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A modern, professional business communication scene showing three distinct communication scenarios in a split-screen layout: 1) A diverse group in a meeting room with one person presenting using a visual aid that clearly shows the STAR method (Situation, Task, Action, Result) written out, 2) A close-up of hands typing a professional email on a sleek laptop, with a clear and concise subject line visible at the top of the screen and well-structured paragraphs below, 3) Two professionals having an attentive one-on-one conversation, maintaining strong eye contact, leaning slightly forward, and showing open body language with uncrossed arms. Use a clean, corporate color palette with blues and grays, minimal design, and soft lighting. Ensure the image has a contemporary corporate design aesthetic with a photorealistic style.",
+            "image_url": "https://v3.fal.media/files/kangaroo/t7tvZ3yz9PydtjpoRzvhp.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A modern, professional business communication scene showing three distinct communication scenarios in a split-screen layout: 1) A diverse group in a meeting room with one person presenting using a visual aid that clearly shows the STAR method (Situation, Task, Action, Result) written out, 2) A close-up of hands typing a professional email on a sleek laptop, with a clear and concise subject line visible at the top of the screen and well-structured paragraphs below, 3) Two professionals having an attentive one-on-one conversation, maintaining strong eye contact, leaning slightly forward, and showing open body language with uncrossed arms. Use a clean, corporate color palette with blues and grays, minimal design, and soft lighting. Ensure the image has a contemporary corporate design aesthetic with a photorealistic style.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Networking'in Stratejik G\u00fcc\u00fc</h2><ul><li>\u2728 Profesyonel \u0130li\u015fkiler A\u011f\u0131 Olu\u015fturma</li><li>\ud83c\udf10 Dijital ve Y\u00fcz Y\u00fcze Networking Teknikleri</li><li>\ud83e\udd1d Etkili Ba\u011flant\u0131 Kurma Stratejileri</li></ul>",
+            "slide_voiceover_text": "Networking, modern i\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n anahtar\u0131d\u0131r. Sadece tan\u0131\u015fmak de\u011fil, kal\u0131c\u0131 ve de\u011ferli profesyonel ili\u015fkiler in\u015fa etmek \u00f6nemlidir. Do\u011fru networking teknikleri, kariyer f\u0131rsatlar\u0131n\u0131 geni\u015fletir, bilgi payla\u015f\u0131m\u0131n\u0131 art\u0131r\u0131r ve profesyonel geli\u015fiminize stratejik bir boyut katar.",
+            "slide_image_prompt": "A professional networking scene showing diverse business people connecting, with holographic network lines connecting their silhouettes. The image should have a modern, sleek design with a blue and silver color palette, representing technology and connection. Show people in business attire engaging in conversation, with digital networking icons and connection points subtly integrated into the background. Use a clean, contemporary visual style that emphasizes connectivity and professional interaction."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and aligns perfectly with the presentation's focus on effective communication and networking techniques in professional life. The onscreen text, voiceover, and image prompt are coherent and reinforce each other well. The content is clear, concise, and effectively conveys the importance of networking. The image prompt is particularly well-designed, visually representing the concepts discussed. To further enhance the slide, consider adding a brief mention of a specific networking tool or platform in the voiceover to provide a concrete example for the audience.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A professional networking scene showing diverse business people connecting, with holographic network lines connecting their silhouettes. The image should have a modern, sleek design with a blue and silver color palette, representing technology and connection. Show people in business attire engaging in conversation, with digital networking icons and connection points subtly integrated into the background. Use a clean, contemporary visual style that emphasizes connectivity and professional interaction.",
+            "image_url": "https://v3.fal.media/files/rabbit/wbKPjgpNc0g8YYa4TuvXd.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A professional networking scene showing diverse business people connecting, with holographic network lines connecting their silhouettes. The image should have a modern, sleek design with a blue and silver color palette, representing technology and connection. Show people in business attire engaging in conversation, with digital networking icons and connection points subtly integrated into the background. Use a clean, contemporary visual style that emphasizes connectivity and professional interaction.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Kariyer Geli\u015fiminde \u0130leti\u015fim ve Networking'in G\u00fcc\u00fc</h2><ul><li>\ud83e\udd1d Profesyonel \u0130li\u015fkiler A\u011f\u0131 Olu\u015fturun</li><li>\ud83d\udca1 F\u0131rsatlar\u0131 Yakalay\u0131n</li><li>\ud83d\ude80 Kariyer Basamaklar\u0131n\u0131 H\u0131zland\u0131r\u0131n</li><li>\ud83c\udf1f Ki\u015fisel Markan\u0131z\u0131 G\u00fc\u00e7lendirin</li></ul>",
+            "slide_voiceover_text": "Sevgili profesyonel arkada\u015flar, etkili ileti\u015fim ve networking, kariyer yolculu\u011funuzda size a\u00e7\u0131lacak en g\u00fc\u00e7l\u00fc kap\u0131lard\u0131r. Do\u011fru ba\u011flant\u0131lar kurmak, sadece i\u015f f\u0131rsatlar\u0131 yaratmakla kalmaz, ayn\u0131 zamanda ki\u015fisel ve profesyonel geli\u015fiminize de b\u00fcy\u00fck katk\u0131 sa\u011flar. Her bir profesyonel ili\u015fki, potansiyel bir ment\u00f6r, i\u015f orta\u011f\u0131 veya gelecekteki bir f\u0131rsat\u0131n ba\u015flang\u0131c\u0131 olabilir.",
+            "slide_image_prompt": "A dynamic professional networking scene showing diverse business people connecting, with holographic network lines connecting them, set in a modern, sleek office environment. Use a vibrant color palette with blues and oranges, emphasizing connection and energy. The image should depict people of different ages and backgrounds shaking hands, exchanging business cards, and engaging in meaningful conversations. Photorealistic style with a slightly futuristic touch, showing the power of human connections in a professional setting."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the message of leveraging communication and networking for career development. The onscreen text uses concise bullet points with relevant emojis, making it visually appealing and easy to grasp. The voiceover expands on these points, providing more context and motivation. The image prompt perfectly complements the content, visualizing a diverse networking scene that reinforces the slide's message. To further enhance the content, consider adding a brief call-to-action in the voiceover, encouraging listeners to start implementing these networking strategies immediately.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A dynamic professional networking scene showing diverse business people connecting, with holographic network lines connecting them, set in a modern, sleek office environment. Use a vibrant color palette with blues and oranges, emphasizing connection and energy. The image should depict people of different ages and backgrounds shaking hands, exchanging business cards, and engaging in meaningful conversations. Photorealistic style with a slightly futuristic touch, showing the power of human connections in a professional setting.",
+            "image_url": "https://v3.fal.media/files/lion/7042doOdRB_7DK5e3abuv.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A dynamic professional networking scene showing diverse business people connecting, with holographic network lines connecting them, set in a modern, sleek office environment. Use a vibrant color palette with blues and oranges, emphasizing connection and energy. The image should depict people of different ages and backgrounds shaking hands, exchanging business cards, and engaging in meaningful conversations. Photorealistic style with a slightly futuristic touch, showing the power of human connections in a professional setting.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

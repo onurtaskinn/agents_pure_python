@@ -1,0 +1,542 @@
+{
+   "timestamp": "20250221095027",
+   "process_steps": [
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Profesyonel Ba\u015far\u0131n\u0131n Anahtar\u0131: Etkili \u0130leti\u015fim ve Networking Stratejileri",
+            "slide_outlines": [
+               {
+                  "slide_title": "\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                  "slide_focus": "Etkili ileti\u015fim ve networking, kariyer ba\u015far\u0131s\u0131n\u0131n temel ta\u015flar\u0131d\u0131r ve profesyonel geli\u015fiminizi h\u0131zland\u0131r\u0131r.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Geli\u015ftirin: Aktif Dinleme Becerileri",
+                  "slide_focus": "Aktif dinleme, i\u015f ili\u015fkilerini g\u00fc\u00e7lendirir ve yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nleyerek verimlili\u011fi art\u0131r\u0131r.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Uygulay\u0131n: Etkili S\u00f6zs\u00fcz \u0130leti\u015fim Teknikleri",
+                  "slide_focus": "Beden dili ve ses tonu, mesaj\u0131n\u0131z\u0131n etkisini art\u0131rarak profesyonel imaj\u0131n\u0131z\u0131 g\u00fc\u00e7lendirir.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Olu\u015fturun: Stratejik Networking Plan\u0131",
+                  "slide_focus": "Hedefli networking stratejileri, kariyer f\u0131rsatlar\u0131n\u0131 art\u0131r\u0131r ve i\u015f d\u00fcnyas\u0131nda g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc y\u00fckseltir.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Harekete Ge\u00e7in: \u0130leti\u015fim ve Networking Yol Haritan\u0131z",
+                  "slide_focus": "\u00d6\u011frenilen teknikleri g\u00fcnl\u00fck i\u015f ya\u015fam\u0131na entegre etmek, uzun vadeli profesyonel ba\u015far\u0131 i\u00e7in kritik \u00f6neme sahiptir.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "This outline effectively presents a clear introduction and a compelling conclusion. Each slide focuses on a distinct, relevant concept that supports the central theme of effective communication and networking. The content is actionable, with specific techniques on active listening and nonverbal cues, although additional real-world examples could further strengthen audience engagement. The flow is logical and practical for typical business scenarios.\n\nBreakdown by criteria:\n\u2022 Structure (38/40): Slides progress logically, with a strong opening and concluding action plan.\n\u2022 Content (35/40): Focus statements are specific and actionable, showing good coverage of communication and networking strategies.\n\u2022 Practicality (18/20): The recommended techniques seem feasible within a typical presentation timeframe and audience scope.\n\nOverall Score: 91",
+               "score": 91
+            },
+            "tested_outline": {
+               "presentation_title": "Profesyonel Ba\u015far\u0131n\u0131n Anahtar\u0131: Etkili \u0130leti\u015fim ve Networking Stratejileri",
+               "slide_outlines": [
+                  {
+                     "slide_title": "\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin G\u00fcc\u00fcn\u00fc Ke\u015ffedin",
+                     "slide_focus": "Etkili ileti\u015fim ve networking, kariyer ba\u015far\u0131s\u0131n\u0131n temel ta\u015flar\u0131d\u0131r ve profesyonel geli\u015fiminizi h\u0131zland\u0131r\u0131r.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Geli\u015ftirin: Aktif Dinleme Becerileri",
+                     "slide_focus": "Aktif dinleme, i\u015f ili\u015fkilerini g\u00fc\u00e7lendirir ve yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nleyerek verimlili\u011fi art\u0131r\u0131r.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Uygulay\u0131n: Etkili S\u00f6zs\u00fcz \u0130leti\u015fim Teknikleri",
+                     "slide_focus": "Beden dili ve ses tonu, mesaj\u0131n\u0131z\u0131n etkisini art\u0131rarak profesyonel imaj\u0131n\u0131z\u0131 g\u00fc\u00e7lendirir.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Olu\u015fturun: Stratejik Networking Plan\u0131",
+                     "slide_focus": "Hedefli networking stratejileri, kariyer f\u0131rsatlar\u0131n\u0131 art\u0131r\u0131r ve i\u015f d\u00fcnyas\u0131nda g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc y\u00fckseltir.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Harekete Ge\u00e7in: \u0130leti\u015fim ve Networking Yol Haritan\u0131z",
+                     "slide_focus": "\u00d6\u011frenilen teknikleri g\u00fcnl\u00fck i\u015f ya\u015fam\u0131na entegre etmek, uzun vadeli profesyonel ba\u015far\u0131 i\u00e7in kritik \u00f6neme sahiptir.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin G\u00fcc\u00fc:\n\u2022 Networking = Profesyonel Ba\u015far\u0131n\u0131n Anahtar\u0131\n\u2022 Etkili \u0130leti\u015fim Stratejileri\n\u2022 Kariyer Geli\u015fimini H\u0131zland\u0131rma Y\u00f6ntemleri",
+            "slide_voiceover_text": "Profesyonel d\u00fcnyada ba\u015far\u0131n\u0131n en kritik bile\u015fenlerinden biri g\u00fc\u00e7l\u00fc bir ileti\u015fim a\u011f\u0131 ve etkili ileti\u015fim becerisidir. Networking sadece tan\u0131\u015fmak de\u011fil, anlaml\u0131 ili\u015fkiler kurmak ve s\u00fcrd\u00fcrmektir. Her ba\u011flant\u0131n\u0131z, potansiyel bir f\u0131rsat, bilgi kayna\u011f\u0131 veya destek mekanizmas\u0131 olabilir. Do\u011fru ileti\u015fim stratejileriyle kariyer yolunuzda h\u0131zla ilerleyebilir, profesyonel hedefinize daha kolay ula\u015fabilirsiniz.",
+            "slide_image_prompt": "A professional networking scene depicting diverse business people connecting, shaking hands, and exchanging business cards in a modern, elegant office environment. Use a warm color palette with blues and soft oranges. Show people of different ages and backgrounds collaborating, with subtle visual metaphors of connection like interconnected network lines or bridges between people. Photorealistic style with soft lighting, emphasizing professional yet friendly atmosphere. Include elements that symbolize communication and growth, such as subtle growth charts or communication icons in the background."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The alignment between elements is strong, but the onscreen text could better reflect the detailed networking aspects mentioned in the voiceover.\n   - The message is clear, but could be more tightly focused.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good, but the onscreen text could be more concise.\n   - The image prompt is relevant and enhancing, but could include more specific elements related to communication strategies.\n\n3. Technical Quality (29/30):\n   - The language is consistent and professional.\n   - The image prompt is clear but could be more specific about the communication elements to be included.\n\nTotal Score: 95/100. While the content is of high quality, it falls short of the perfect score required for validity. To improve:\n- Refine onscreen text to more closely match voiceover content.\n- Make onscreen bullet points more concise.\n- Enhance image prompt with more specific communication-related elements.\n- Tighten overall focus of the slide to align more precisely with the slide title.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin G\u00fcc\u00fc</h2><ul><li>Stratejik Networking: Kariyer Kataliz\u00f6r\u00fc</li><li>Etkili \u0130leti\u015fim: F\u0131rsatlar\u0131 A\u00e7\u0131\u011fa \u00c7\u0131karma</li><li>Anlaml\u0131 Ba\u011flant\u0131lar: Profesyonel Geli\u015fimin Anahtar\u0131</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n temelinde g\u00fc\u00e7l\u00fc bir ileti\u015fim a\u011f\u0131 ve etkili ileti\u015fim becerileri yatar. Stratejik networking, sadece tan\u0131\u015fmaktan \u00f6te, anlaml\u0131 ve s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fkiler kurmakt\u0131r. Her ba\u011flant\u0131n\u0131z, potansiyel bir f\u0131rsat, de\u011ferli bir bilgi kayna\u011f\u0131 veya g\u00fc\u00e7l\u00fc bir destek mekanizmas\u0131 olabilir. Etkili ileti\u015fim stratejileri, bu ba\u011flant\u0131lar\u0131n de\u011ferini maksimize eder ve kariyer yolculu\u011funuzda sizi h\u0131zla ileriye ta\u015f\u0131r. Anlaml\u0131 ba\u011flant\u0131lar kurarak ve bunlar\u0131 ustaca y\u00f6neterek, profesyonel hedeflerinize daha kolay ve h\u0131zl\u0131 ula\u015fabilir, s\u00fcrekli geli\u015fim f\u0131rsatlar\u0131 yakalayabilirsiniz.",
+            "slide_image_prompt": "Create a dynamic professional networking scene in a modern, open-plan office environment. Show diverse business people actively engaging in various forms of communication: some shaking hands, others in animated discussion, and a few exchanging digital contact information via smartphones. Include visual elements that represent effective communication strategies, such as a whiteboard with a mind map of networking tips, speech bubbles floating above conversations, and subtle infographics on the benefits of networking. Use a warm color palette dominated by blues and soft oranges to create a professional yet inviting atmosphere. Incorporate metaphorical elements like interconnected nodes or a bridge in the background to symbolize the power of connections. Ensure the image captures both the energy of active networking and the strategic nature of building professional relationships. The style should be photorealistic with soft, flattering lighting to emphasize the professional yet friendly ambiance."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The alignment between onscreen text, voiceover, and image prompt is strong, but the image prompt could more explicitly mention the three bullet points from the onscreen text.\n   - The message delivery is clear, but the voiceover could be more tightly structured around the three main points.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good, but the onscreen text could be slightly more concise.\n   - The voiceover is comprehensive but could be more concise to improve retention.\n   - The image prompt is relevant and enhancing, but could be more specific about representing the three main points.\n\n3. Technical Quality (29/30):\n   - HTML markup is correct, but the use of <h2> for the main title might be better as <h1> for accessibility.\n   - The image prompt is clear and specific but could benefit from mentioning how to visually represent the three main points from the onscreen text.\n   - Language consistency and professional tone are maintained throughout.\n\nTotal Score: 95/100",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h1>\u0130\u015f D\u00fcnyas\u0131nda \u0130leti\u015fimin G\u00fcc\u00fc</h1><ul><li>Stratejik Networking: Kariyer Kataliz\u00f6r\u00fc</li><li>Etkili \u0130leti\u015fim: F\u0131rsatlar\u0131 A\u00e7\u0131\u011fa \u00c7\u0131karma</li><li>Anlaml\u0131 Ba\u011flant\u0131lar: Profesyonel Geli\u015fimin Anahtar\u0131</li></ul>",
+            "slide_voiceover_text": "\u0130\u015f d\u00fcnyas\u0131nda ba\u015far\u0131n\u0131n temelinde \u00fc\u00e7 \u00f6nemli unsur yatar: stratejik networking, etkili ileti\u015fim ve anlaml\u0131 ba\u011flant\u0131lar. Stratejik networking, kariyer kataliz\u00f6r\u00fc olarak i\u015flev g\u00f6r\u00fcr; sadece tan\u0131\u015fmaktan \u00f6te, s\u00fcrd\u00fcr\u00fclebilir profesyonel ili\u015fkiler kurmay\u0131 hedefler. Etkili ileti\u015fim, f\u0131rsatlar\u0131 a\u00e7\u0131\u011fa \u00e7\u0131karman\u0131n anahtar\u0131d\u0131r; her etkile\u015fimi potansiyel bir f\u0131rsata d\u00f6n\u00fc\u015ft\u00fcr\u00fcr. Son olarak, anlaml\u0131 ba\u011flant\u0131lar kurmak ve bunlar\u0131 ustaca y\u00f6netmek, profesyonel geli\u015fiminizin h\u0131zland\u0131r\u0131c\u0131s\u0131d\u0131r. Bu \u00fc\u00e7 unsuru ba\u015far\u0131yla uygulayarak, kariyer hedeflerinize daha h\u0131zl\u0131 ula\u015fabilir ve s\u00fcrekli geli\u015fim f\u0131rsatlar\u0131 yakalayabilirsiniz.",
+            "slide_image_prompt": "Create a dynamic professional networking scene in a modern, open-plan office environment. The image should clearly illustrate the three main points from the slide: 1. Stratejik Networking: Show a group of diverse professionals engaged in a networking event, with visible name tags and business card exchanges to represent strategic connections. 2. Etkili \u0130leti\u015fim: Depict two people in an animated discussion with speech bubbles containing keywords like 'opportunity' and 'collaboration' to symbolize effective communication unveiling opportunities. 3. Anlaml\u0131 Ba\u011flant\u0131lar: Illustrate a mentorship scene with an experienced professional guiding a younger colleague, representing meaningful connections as key to professional growth. Include a central digital display showing these three concepts interconnected. Use a warm color palette dominated by blues and soft oranges to create a professional yet inviting atmosphere. Incorporate subtle infographics on the benefits of networking. The style should be photorealistic with soft, flattering lighting to emphasize the professional yet friendly ambiance. Ensure the image captures both the energy of active networking and the strategic nature of building professional relationships."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content demonstrates excellent coherence, multimedia design, and technical quality. The onscreen text, voiceover, and image prompt are well-aligned and reinforce the main message effectively. The content is clear, logically structured, and maintains a professional tone throughout. The HTML markup is correct, and the image prompt is detailed and specific, perfectly illustrating the key points. However, to maintain the highest standards, consider the following minor suggestions for future improvements: 1) The voiceover could be slightly more concise to match the brevity of the onscreen text. 2) The image prompt, while comprehensive, could be simplified slightly to ensure easier visualization and creation.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "Create a dynamic professional networking scene in a modern, open-plan office environment. The image should clearly illustrate the three main points from the slide: 1. Stratejik Networking: Show a group of diverse professionals engaged in a networking event, with visible name tags and business card exchanges to represent strategic connections. 2. Etkili \u0130leti\u015fim: Depict two people in an animated discussion with speech bubbles containing keywords like 'opportunity' and 'collaboration' to symbolize effective communication unveiling opportunities. 3. Anlaml\u0131 Ba\u011flant\u0131lar: Illustrate a mentorship scene with an experienced professional guiding a younger colleague, representing meaningful connections as key to professional growth. Include a central digital display showing these three concepts interconnected. Use a warm color palette dominated by blues and soft oranges to create a professional yet inviting atmosphere. Incorporate subtle infographics on the benefits of networking. The style should be photorealistic with soft, flattering lighting to emphasize the professional yet friendly ambiance. Ensure the image captures both the energy of active networking and the strategic nature of building professional relationships.",
+            "image_url": "https://fal.media/files/elephant/g4wEkQlIcAZsp32Bz3Vea_85987fa290d5414baa01b9be6840b8f0.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image successfully captures a dynamic professional networking scene in a modern, open-plan office environment. It aligns well with the prompt, showcasing diverse professionals engaged in various networking activities. The central digital display effectively illustrates the interconnected concepts of strategic networking, effective communication, and meaningful connections. The warm color palette dominated by blues and soft oranges creates a professional yet inviting atmosphere. However, there are a few minor deviations from the prompt and some elements that could be improved for better presentation suitability.",
+            "suggestions": "To improve the image for presentation purposes:\n1. Remove or simplify some of the text elements on the digital display to reduce complexity.\n2. Add more obvious name tags and business card exchanges to better represent strategic networking.\n3. Include clearer speech bubbles with keywords like 'opportunity' and 'collaboration' to emphasize effective communication.\n4. Highlight a specific mentorship scene to better illustrate meaningful connections.\n5. Incorporate subtle infographics on the benefits of networking, as mentioned in the prompt.",
+            "current_prompt": "Create a dynamic professional networking scene in a modern, open-plan office environment. The image should clearly illustrate the three main points from the slide: 1. Stratejik Networking: Show a group of diverse professionals engaged in a networking event, with visible name tags and business card exchanges to represent strategic connections. 2. Etkili \u0130leti\u015fim: Depict two people in an animated discussion with speech bubbles containing keywords like 'opportunity' and 'collaboration' to symbolize effective communication unveiling opportunities. 3. Anlaml\u0131 Ba\u011flant\u0131lar: Illustrate a mentorship scene with an experienced professional guiding a younger colleague, representing meaningful connections as key to professional growth. Include a central digital display showing these three concepts interconnected. Use a warm color palette dominated by blues and soft oranges to create a professional yet inviting atmosphere. Incorporate subtle infographics on the benefits of networking. The style should be photorealistic with soft, flattering lighting to emphasize the professional yet friendly ambiance. Ensure the image captures both the energy of active networking and the strategic nature of building professional relationships.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Aktif Dinleme Becerileri: \u0130leti\u015fimin G\u00fc\u00e7l\u00fc Anahtar\u0131</h2><ul><li>\u2713 Tam Odaklanma</li><li>\u2713 Empati Kurma</li><li>\u2713 Geri Bildirim Verme</li><li>\u2713 Soru Sorma</li></ul><p><strong>Sonu\u00e7: Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri</strong></p>",
+            "slide_voiceover_text": "Aktif dinleme, profesyonel ba\u015far\u0131n\u0131n temel ta\u015flar\u0131ndan biridir. Bu beceri, sadece konu\u015fulanlar\u0131 i\u015fitmek de\u011fil, ger\u00e7ekten anlamak demektir. Tam odaklanarak, konu\u015fan\u0131n hem s\u00f6ylediklerini hem de s\u00f6ylemediklerini alg\u0131layabilirsiniz. Empati kurarak, kar\u015f\u0131n\u0131zdakinin perspektifini anlamak, ileti\u015fimin kalitesini art\u0131r\u0131r. Do\u011fru sorular sorarak ve yap\u0131c\u0131 geri bildirim vererek, i\u015f ili\u015fkilerinizi g\u00fc\u00e7lendirebilir ve verimlili\u011fi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilirsiniz.",
+            "slide_image_prompt": "A professional office setting with two people engaged in an intense, focused conversation. One person is listening carefully, leaning slightly forward, making eye contact, with a thoughtful expression. The other person is speaking, using hand gestures to emphasize points. The scene should have a warm, collaborative tone with soft, professional lighting. Use a realistic, slightly stylized illustration style with muted corporate colors like blues and grays, highlighting the nuances of active listening and professional communication."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The image prompt could better emphasize the 'Sonu\u00e7: Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri' mentioned in the onscreen text.\n   - The voiceover doesn't explicitly mention 'Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri' as a result.\n\n2. Multimedia Design (28/30):\n   - The onscreen text could be more concise, particularly the title which is somewhat redundant with the slide title.\n   - The image prompt, while detailed, could more explicitly show the four key points listed in the onscreen text.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct, but the use of <h2> for the title might be too large for a slide, considering there's already a slide title.\n   - The image prompt is very detailed but could be more specific about showing the four key points of active listening mentioned in the bullet points.\n\nTotal Score: 95/100",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h3>Aktif Dinleme: \u0130\u015f Ba\u015far\u0131s\u0131n\u0131n Anahtar\u0131</h3><ul><li>\u2713 Tam Odaklanma</li><li>\u2713 Empati Kurma</li><li>\u2713 Geri Bildirim Verme</li><li>\u2713 Soru Sorma</li></ul><p><strong>Sonu\u00e7: Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri ve Artan Verimlilik</strong></p>",
+            "slide_voiceover_text": "Aktif dinleme, profesyonel ba\u015far\u0131n\u0131n temel ta\u015flar\u0131ndan biridir. Bu beceri, sadece duymak de\u011fil, ger\u00e7ekten anlamakt\u0131r. Tam odaklanma, empati kurma, do\u011fru sorular sorma ve yap\u0131c\u0131 geri bildirim verme, aktif dinlemenin d\u00f6rt ana bile\u015fenidir. Bu becerileri geli\u015ftirerek, i\u015f ili\u015fkilerinizi g\u00fc\u00e7lendirebilir, yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nleyebilir ve verimlili\u011fi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilirsiniz. Sonu\u00e7 olarak, aktif dinleme becerileri, daha g\u00fc\u00e7l\u00fc i\u015f ili\u015fkileri ve artan verimlilik sa\u011flayarak profesyonel ba\u015far\u0131n\u0131z\u0131 destekler.",
+            "slide_image_prompt": "A professional office setting with two people demonstrating active listening skills. The listener is fully focused, making eye contact, and leaning slightly forward. The speaker is using hand gestures. Around them, four subtle visual cues represent the key points: 1) A magnifying glass for 'Tam Odaklanma', 2) Two silhouettes merging for 'Empati Kurma', 3) A speech bubble with checkmark for 'Geri Bildirim Verme', and 4) A question mark for 'Soru Sorma'. In the background, show a graph trending upwards and a handshake icon, symbolizing 'Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri ve Artan Verimlilik'. Use a realistic, slightly stylized illustration style with muted corporate colors like blues and grays, emphasizing a warm, collaborative atmosphere with soft, professional lighting."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n- The alignment between onscreen text, voiceover, and image prompt is excellent.\n- The message is clear and well-delivered.\n- There's an appropriate level of detail.\n- The flow of information is logical.\n- Minor point deduction: The voiceover could mention the 'four main components' before listing them to enhance clarity.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-structured.\n- Voiceover is complete and informative.\n- Image prompt is relevant and enhances the content.\n- Minor point deduction: The image prompt could be more concise while maintaining its descriptive nature.\n\n3. Technical Quality (29/30):\n- HTML markup is correctly used.\n- Image prompt is clear and specific.\n- Language consistency is maintained.\n- Professional tone is evident throughout.\n- Minor point deduction: The use of checkmark emoji (\u2713) in HTML might not render consistently across all platforms. Consider using a more universal symbol or HTML entity.\n\nTotal Score: 95/100\n\nWhile the content is of high quality, it falls short of the perfect score required for validity due to minor issues in each category.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h3>Aktif Dinleme: \u0130\u015f Ba\u015far\u0131s\u0131n\u0131n Anahtar\u0131</h3><ul><li>&bull; Tam Odaklanma</li><li>&bull; Empati Kurma</li><li>&bull; Geri Bildirim Verme</li><li>&bull; Soru Sorma</li></ul><p><strong>Sonu\u00e7: Daha G\u00fc\u00e7l\u00fc \u0130\u015f \u0130li\u015fkileri ve Artan Verimlilik</strong></p>",
+            "slide_voiceover_text": "Aktif dinleme, profesyonel ba\u015far\u0131n\u0131n temel ta\u015flar\u0131ndan biridir. Bu beceri, sadece duymak de\u011fil, ger\u00e7ekten anlamakt\u0131r. Aktif dinlemenin d\u00f6rt ana bile\u015feni vard\u0131r: tam odaklanma, empati kurma, do\u011fru sorular sorma ve yap\u0131c\u0131 geri bildirim verme. Tam odaklanma ile konu\u015fmac\u0131ya t\u00fcm dikkatinizi verirsiniz. Empati kurarak kar\u015f\u0131n\u0131zdakinin bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlamaya \u00e7al\u0131\u015f\u0131rs\u0131n\u0131z. Do\u011fru sorular sorarak daha derin bir anlay\u0131\u015f geli\u015ftirirsiniz. Son olarak, yap\u0131c\u0131 geri bildirim vererek ileti\u015fimi peki\u015ftirirsiniz. Bu becerileri geli\u015ftirerek, i\u015f ili\u015fkilerinizi g\u00fc\u00e7lendirebilir, yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nleyebilir ve verimlili\u011fi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilirsiniz. Sonu\u00e7 olarak, aktif dinleme becerileri, daha g\u00fc\u00e7l\u00fc i\u015f ili\u015fkileri ve artan verimlilik sa\u011flayarak profesyonel ba\u015far\u0131n\u0131z\u0131 destekler.",
+            "slide_image_prompt": "A professional office setting with two people demonstrating active listening. The listener is fully focused, making eye contact, and leaning slightly forward. The speaker is gesturing. Four icons represent key points: 1) An eye for 'Tam Odaklanma', 2) A heart for 'Empati Kurma', 3) A speech bubble for 'Geri Bildirim Verme', and 4) A question mark for 'Soru Sorma'. Background shows an upward trending graph and a handshake icon. Use a realistic style with muted corporate colors, emphasizing a warm, collaborative atmosphere."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content demonstrates high quality in many aspects but falls short of perfection due to minor issues. The main concerns are:\n\n1. Content Coherence (-2 points): \n   - The voiceover mentions 'do\u011fru sorular sorma' while the onscreen text lists 'Soru Sorma'. This slight inconsistency could be improved for perfect alignment.\n\n2. Multimedia Design (-1 point):\n   - The onscreen text could be more concise. The use of bullet points is good, but the header and conclusion could be shortened for better visual impact.\n\n3. Technical Quality (-1 point):\n   - The HTML markup uses <h3> for the main title. For better semantic structure, <h1> or <h2> might be more appropriate for the slide's main heading.\n\nDespite these minor issues, the content is generally of high quality. The message is clear and well-aligned across all elements. The image prompt is detailed and relevant, enhancing the slide's message. The voiceover provides comprehensive information that complements the onscreen text well. The language is consistent and professional throughout.",
+            "score": 96
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Aktif Dinleme: \u0130\u015f Ba\u015far\u0131s\u0131n\u0131n Anahtar\u0131</h2><ul><li>Tam Odaklanma</li><li>Empati Kurma</li><li>Do\u011fru Sorular Sorma</li><li>Yap\u0131c\u0131 Geri Bildirim</li></ul><p>G\u00fc\u00e7l\u00fc \u0130li\u015fkiler, Y\u00fcksek Verimlilik</p>",
+            "slide_voiceover_text": "Aktif dinleme, profesyonel ba\u015far\u0131n\u0131n temel ta\u015f\u0131d\u0131r. Bu beceri, sadece duymak de\u011fil, ger\u00e7ekten anlamakt\u0131r. Aktif dinlemenin d\u00f6rt ana bile\u015feni vard\u0131r: tam odaklanma, empati kurma, do\u011fru sorular sorma ve yap\u0131c\u0131 geri bildirim verme. Tam odaklanma ile konu\u015fmac\u0131ya t\u00fcm dikkatinizi verirsiniz. Empati kurarak kar\u015f\u0131n\u0131zdakinin bak\u0131\u015f a\u00e7\u0131s\u0131n\u0131 anlamaya \u00e7al\u0131\u015f\u0131rs\u0131n\u0131z. Do\u011fru sorular sorarak daha derin bir anlay\u0131\u015f geli\u015ftirirsiniz. Son olarak, yap\u0131c\u0131 geri bildirim vererek ileti\u015fimi peki\u015ftirirsiniz. Bu becerileri geli\u015ftirerek, i\u015f ili\u015fkilerinizi g\u00fc\u00e7lendirebilir, yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 \u00f6nleyebilir ve verimlili\u011fi \u00f6nemli \u00f6l\u00e7\u00fcde art\u0131rabilirsiniz. Sonu\u00e7 olarak, aktif dinleme becerileri, daha g\u00fc\u00e7l\u00fc i\u015f ili\u015fkileri ve artan verimlilik sa\u011flayarak profesyonel ba\u015far\u0131n\u0131z\u0131 destekler.",
+            "slide_image_prompt": "A professional office setting with two people demonstrating active listening. The listener is fully focused, making eye contact, and leaning slightly forward. The speaker is gesturing animatedly. Four icons float above the scene, each connected to the listener with a subtle line: 1) An eye icon for 'Tam Odaklanma', 2) A heart icon for 'Empati Kurma', 3) A question mark icon for 'Do\u011fru Sorular Sorma', and 4) A speech bubble icon for 'Yap\u0131c\u0131 Geri Bildirim'. In the background, a subtle upward trending graph and a handshake icon symbolize improved relationships and productivity. Use a realistic style with muted corporate colors, emphasizing a warm, collaborative atmosphere. The overall composition should be clean and uncluttered, allowing the active listening demonstration to be the focal point."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_3",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The alignment between onscreen text, voiceover, and image prompt is generally good, but the voiceover includes more detail than the onscreen text, which could be slightly overwhelming.\n   - The message is clear, but the voiceover could be more concise to match the bullet points on screen.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is slightly off, with the voiceover providing significantly more information.\n   - The onscreen text is concise, which is good.\n   - The voiceover is complete but could be more focused.\n   - The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct, but the use of <h2> for the main title might be better as <h1> for accessibility purposes.\n   - The image prompt is clear and specific.\n   - Language consistency is maintained throughout.\n   - The professional tone is appropriate.\n\nTotal Score: 95/100\n\nWhile the content is of high quality, it falls short of the perfect score required for validity. To improve, consider:\n- Aligning the detail level between onscreen text and voiceover more closely.\n- Condensing the voiceover slightly to match the conciseness of the onscreen points.\n- Using <h1> instead of <h2> for the main slide title in the HTML markup.",
+            "score": 95
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A professional office setting with two people demonstrating active listening. The listener is fully focused, making eye contact, and leaning slightly forward. The speaker is gesturing animatedly. Four icons float above the scene, each connected to the listener with a subtle line: 1) An eye icon for 'Tam Odaklanma', 2) A heart icon for 'Empati Kurma', 3) A question mark icon for 'Do\u011fru Sorular Sorma', and 4) A speech bubble icon for 'Yap\u0131c\u0131 Geri Bildirim'. In the background, a subtle upward trending graph and a handshake icon symbolize improved relationships and productivity. Use a realistic style with muted corporate colors, emphasizing a warm, collaborative atmosphere. The overall composition should be clean and uncluttered, allowing the active listening demonstration to be the focal point.",
+            "image_url": "https://fal.media/files/rabbit/V_2xcgtyoEp6VwjbFr2we_ac1829225fda43fd8aef1635c0b7b023.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 75,
+            "feedback": "The image aligns well with the prompt in many aspects, but has some deviations and issues. The overall scene depicts a professional office setting with two people in conversation, which matches the prompt. The style is realistic with muted corporate colors, creating a warm, collaborative atmosphere. The composition is clean and uncluttered, focusing on the conversation. However, there are some critical issues: The image contains text within it ('Tam Odaklanma, Empati Kurma'), which violates a critical requirement. The icons don't exactly match those specified in the prompt. For example, there's no speech bubble icon for 'Yap\u0131c\u0131 Geri Bildirim'. The background elements (upward trending graph and handshake icon) are missing. The positioning of the participants doesn't clearly show one as a listener and one as a speaker; both appear to be speaking.",
+            "suggestions": "To improve the image: Remove all text from the image. Adjust the icons to match exactly those specified in the prompt: eye, heart, question mark, and speech bubble. Include the subtle upward trending graph and handshake icon in the background. Adjust the postures of the participants to clearly show one as an active listener (leaning forward, making eye contact) and one as an animated speaker. Ensure all four specified icons are present and connected to the listener. Consider adding more subtle office background elements to enhance the professional setting.",
+            "current_prompt": "A professional office setting with two people demonstrating active listening. The listener is fully focused, making eye contact, and leaning slightly forward. The speaker is gesturing animatedly. Four icons float above the scene, each connected to the listener with a subtle line: 1) An eye icon for 'Tam Odaklanma', 2) A heart icon for 'Empati Kurma', 3) A question mark icon for 'Do\u011fru Sorular Sorma', and 4) A speech bubble icon for 'Yap\u0131c\u0131 Geri Bildirim'. In the background, a subtle upward trending graph and a handshake icon symbolize improved relationships and productivity. Use a realistic style with muted corporate colors, emphasizing a warm, collaborative atmosphere. The overall composition should be clean and uncluttered, allowing the active listening demonstration to be the focal point.",
+            "new_prompt": "A minimalist office setting with two people demonstrating active listening. The listener, on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, a simple upward trending line graph and a basic handshake symbol are faintly visible. Use a clean, vector-like style with a muted color palette dominated by soft blues and grays. Emphasize a warm, collaborative atmosphere through soft, diffused lighting. The composition should be uncluttered, with the two figures occupying the central two-thirds of the image. Ensure high clarity and simplicity suitable for a presentation visual."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist office setting with two people demonstrating active listening. The listener, on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, a simple upward trending line graph and a basic handshake symbol are faintly visible. Use a clean, vector-like style with a muted color palette dominated by soft blues and grays. Emphasize a warm, collaborative atmosphere through soft, diffused lighting. The composition should be uncluttered, with the two figures occupying the central two-thirds of the image. Ensure high clarity and simplicity suitable for a presentation visual.",
+            "image_url": "https://fal.media/files/panda/pjMsue_lXvF2hirDDeWCB_5d056b7152a64a9ebf6d67fdab337449.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": false,
+            "score": 85,
+            "feedback": "The image generally aligns with the prompt and presentation requirements, but there are some discrepancies and areas for improvement. The overall composition is clean and suitable for a presentation slide, with two people engaged in conversation and relevant icons floating above. However, the image deviates from the prompt in several ways: the style is more illustrative than vector-like, the color palette includes more warm tones than specified, and the background elements (graph and handshake) are missing. The image also includes additional elements not mentioned in the prompt, such as the desk lamp, plant, and smiling sun icon.",
+            "suggestions": "To better match the original prompt: 1) Adjust the art style to be more vector-like and less illustrative. 2) Use a color palette dominated by soft blues and grays as specified. 3) Include the faint upward trending line graph and handshake symbol in the background. 4) Remove extra elements like the desk lamp, plant, and smiling sun icon. 5) Adjust the positioning of the figures to occupy the central two-thirds of the image. 6) Ensure the listener is on the right and leaning forward more noticeably. 7) Make the connection lines between icons and the listener more subtle.",
+            "current_prompt": "A minimalist office setting with two people demonstrating active listening. The listener, on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, a simple upward trending line graph and a basic handshake symbol are faintly visible. Use a clean, vector-like style with a muted color palette dominated by soft blues and grays. Emphasize a warm, collaborative atmosphere through soft, diffused lighting. The composition should be uncluttered, with the two figures occupying the central two-thirds of the image. Ensure high clarity and simplicity suitable for a presentation visual.",
+            "new_prompt": "Create a minimalist office setting with two people demonstrating active listening, using a clean, vector-style illustration. The listener, positioned on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Both figures should occupy the central two-thirds of the image. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, include a faint, simple upward trending line graph and a basic handshake symbol. Use a muted color palette dominated by soft blues and grays, with no warm tones. Apply soft, diffused lighting to create a collaborative atmosphere. Ensure high clarity and simplicity suitable for a presentation visual, with no text, writing, or additional elements beyond those specified. The composition should be uncluttered and focused solely on the interaction between the two figures and the supporting visual elements."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist office setting with two people demonstrating active listening, using a clean, vector-style illustration. The listener, positioned on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Both figures should occupy the central two-thirds of the image. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, include a faint, simple upward trending line graph and a basic handshake symbol. Use a muted color palette dominated by soft blues and grays, with no warm tones. Apply soft, diffused lighting to create a collaborative atmosphere. Ensure high clarity and simplicity suitable for a presentation visual, with no text, writing, or additional elements beyond those specified. The composition should be uncluttered and focused solely on the interaction between the two figures and the supporting visual elements.",
+            "image_url": "https://fal.media/files/koala/L_vwT2wXcZeDHnjZSm-Q6_4dd1d5e1e0224fbba1d0c132ba11b0f5.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image successfully captures the essence of active listening in a minimalist office setting. It features two people engaged in conversation, with clean vector-style illustrations. The color palette is predominantly blue and gray, aligning with the prompt. The icons (eye, heart, question mark) are present above the scene, connecting to the figures. A simple line graph is included in the background. However, there are some deviations from the original prompt and minor issues to address.",
+            "suggestions": "To fully align with the prompt: 1) Adjust the positioning of the figures so the listener is on the right and the speaker on the left. 2) Include a speech bubble icon and ensure all four icons are monochromatic. 3) Add a subtle handshake symbol in the background. 4) Remove the small plants, as they weren't specified in the prompt. 5) Ensure the figures occupy the central two-thirds of the image. 6) Make the connection lines between icons and the listener more subtle.",
+            "current_prompt": "Create a minimalist office setting with two people demonstrating active listening, using a clean, vector-style illustration. The listener, positioned on the right, leans forward attentively, making direct eye contact. The speaker, on the left, gestures expressively. Both figures should occupy the central two-thirds of the image. Above the scene, four simple, monochromatic icons float: an eye, a heart, a question mark, and a speech bubble. Each icon connects to the listener with a thin, subtle line. In the background, include a faint, simple upward trending line graph and a basic handshake symbol. Use a muted color palette dominated by soft blues and grays, with no warm tones. Apply soft, diffused lighting to create a collaborative atmosphere. Ensure high clarity and simplicity suitable for a presentation visual, with no text, writing, or additional elements beyond those specified. The composition should be uncluttered and focused solely on the interaction between the two figures and the supporting visual elements.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Etkili S\u00f6zs\u00fcz \u0130leti\u015fim Teknikleri</h2><ul><li>Beden Dilini G\u00fc\u00e7lendirin</li><li>Ses Tonunu Kontrol Edin</li><li>Profesyonel Duru\u015f Sergileyin</li></ul>",
+            "slide_voiceover_text": "Profesyonel ba\u015far\u0131da s\u00f6zs\u00fcz ileti\u015fim kritik bir rol oynar. Beden diliniz ve ses tonunuz, s\u00f6zlerinizden daha fazlas\u0131n\u0131 ifade edebilir. Dikkat \u00e7eken bir duru\u015f, \u00f6zg\u00fcvenli bir ses tonu ve a\u00e7\u0131k beden dili, kar\u015f\u0131n\u0131zdaki ki\u015fide g\u00fcven ve inand\u0131r\u0131c\u0131l\u0131k yarat\u0131r. \u0130\u015f d\u00fcnyas\u0131nda, ne s\u00f6yledi\u011finiz kadar nas\u0131l s\u00f6yledi\u011finiz de \u00f6nemlidir.",
+            "slide_image_prompt": "A professional business setting with a confident person standing in the center, demonstrating excellent body language. The person is wearing a well-fitted business suit, standing upright with open posture, making direct eye contact. Background shows a modern office or conference room. Use a photorealistic style with soft, professional lighting that emphasizes body language and non-verbal communication cues. Include subtle visual elements that highlight confidence and communication effectiveness."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content demonstrates strong coherence and alignment between the slide title, onscreen text, voiceover, and image prompt. The message is clear and focused on effective non-verbal communication techniques. However, there are a few minor issues that prevent it from achieving a perfect score:\n\n1. The onscreen text could be more concise. The <h2> tag for the title is redundant since the slide title is already provided separately.\n\n2. The image prompt, while detailed, could be more specific about the subtle visual elements that highlight confidence and communication effectiveness.\n\n3. The voiceover text, while comprehensive, could be slightly more concise to match the brevity of the onscreen bullet points.\n\n4. There's a minor language inconsistency: the slide title uses 'Uygulay\u0131n' (Apply), but this action verb isn't reflected in the onscreen text or voiceover.\n\nDespite these minor issues, the overall quality of the content is high, with strong alignment between elements and a clear, professional message.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<ul><li>G\u00fc\u00e7l\u00fc Beden Dili Sergileyin</li><li>Ses Tonunuzu Etkili Kullan\u0131n</li><li>Profesyonel Duru\u015funuzu Koruyun</li></ul>",
+            "slide_voiceover_text": "Etkili s\u00f6zs\u00fcz ileti\u015fim, profesyonel ba\u015far\u0131n\u0131z\u0131n anahtar\u0131d\u0131r. Beden diliniz ve ses tonunuz, s\u00f6zlerinizden daha g\u00fc\u00e7l\u00fc mesajlar iletebilir. Uygulay\u0131n: G\u00fc\u00e7l\u00fc bir duru\u015f benimseyin, sesinizi \u00f6zg\u00fcvenle kullan\u0131n ve a\u00e7\u0131k beden dili sergileyin. Bu teknikler, i\u015f ortam\u0131nda g\u00fcvenilirli\u011finizi ve etkinizi art\u0131racakt\u0131r. Unutmay\u0131n, ne s\u00f6yledi\u011finiz kadar nas\u0131l s\u00f6yledi\u011finiz de \u00f6nemlidir.",
+            "slide_image_prompt": "A professional business setting with a confident person demonstrating excellent non-verbal communication skills. The individual is wearing a well-fitted business suit, standing upright with open posture, and making direct eye contact with an unseen audience. Their hands are positioned in a gesture of explanation, showing engagement. The background is a modern conference room with subtle visual cues of success such as awards on shelves or a chart with positive growth. Use a photorealistic style with soft, professional lighting that emphasizes the person's confident stance, facial expression, and hand gestures. Include visual elements that subtly highlight effective communication, such as attentive listeners in the background or a podium with a microphone nearby."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content demonstrates strong alignment between onscreen text, voiceover, and image prompt, delivering a clear and coherent message about effective non-verbal communication. However, there are a few minor issues that prevent it from achieving a perfect score:\n\n1. The onscreen text could be more concise. The bullet points are good, but they could be shortened for better visual impact.\n2. The image prompt, while detailed and relevant, is slightly too long and complex. It could be simplified for easier visualization.\n3. The voiceover text, while comprehensive, could be more concise to match the brevity of the onscreen text.\n4. There's a minor language inconsistency: the presentation title uses 'Networking' in English, while the rest of the content is in Turkish.\n\nDespite these minor issues, the overall quality of the content is high, with strong coherence, appropriate detail, and professional tone.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<ul><li>G\u00fc\u00e7l\u00fc Duru\u015f</li><li>Etkili Ses Tonu</li><li>A\u00e7\u0131k Beden Dili</li></ul>",
+            "slide_voiceover_text": "Etkili s\u00f6zs\u00fcz ileti\u015fim, profesyonel ba\u015far\u0131n\u0131z\u0131n anahtar\u0131d\u0131r. Beden diliniz ve ses tonunuz, s\u00f6zlerinizden daha g\u00fc\u00e7l\u00fc mesajlar iletebilir. G\u00fc\u00e7l\u00fc bir duru\u015f benimseyin, sesinizi \u00f6zg\u00fcvenle kullan\u0131n ve a\u00e7\u0131k beden dili sergileyin. Bu teknikler, i\u015f ortam\u0131nda g\u00fcvenilirli\u011finizi ve etkinizi art\u0131racakt\u0131r. Ne s\u00f6yledi\u011finiz kadar nas\u0131l s\u00f6yledi\u011finiz de \u00f6nemlidir.",
+            "slide_image_prompt": "A confident business professional demonstrating effective non-verbal communication in a modern conference room. The person stands with an upright posture, makes direct eye contact, and uses expressive hand gestures. They wear a well-fitted business suit. The background shows attentive listeners and a podium with a microphone. Use soft, professional lighting to highlight the person's confident stance and facial expression."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good, but the image prompt could more explicitly mention the three bullet points.\n   - The message is clear and well-delivered.\n   - The level of detail is appropriate.\n   - The information flows logically.\n\n2. Multimedia Design (28/30):\n   - There's a good balance between onscreen and voiceover text.\n   - Onscreen text is concise and bullet-pointed.\n   - Voiceover is complete and provides additional context.\n   - The image prompt is relevant but could be more specific to the bullet points.\n\n3. Technical Quality (29/30):\n   - HTML markup for the unordered list is correct.\n   - The image prompt is clear but could be more specific to the bullet points.\n   - Language is consistent throughout.\n   - The tone is professional.\n\nTotal Score: 95/100\n\nWhile the content is of high quality, it falls short of the perfect score required for validity. The main areas for improvement are:\n1. Explicitly mentioning the three bullet points in the image prompt.\n2. Ensuring the image prompt fully aligns with all aspects of the onscreen text and voiceover.\n3. Fine-tuning the language for absolute perfection in coherence and technical quality.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_3_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<ul><li>G\u00fc\u00e7l\u00fc Duru\u015f: Dik ve \u00d6zg\u00fcvenli</li><li>Etkili Ses Tonu: Net ve \u0130fadeli</li><li>A\u00e7\u0131k Beden Dili: G\u00f6z Temas\u0131 ve El Hareketleri</li></ul>",
+            "slide_voiceover_text": "Etkili s\u00f6zs\u00fcz ileti\u015fim, profesyonel ba\u015far\u0131n\u0131z\u0131n temel ta\u015f\u0131d\u0131r. Beden diliniz ve ses tonunuz, s\u00f6zlerinizden daha g\u00fc\u00e7l\u00fc mesajlar iletebilir. G\u00fc\u00e7l\u00fc bir duru\u015f benimseyin; dik durun ve \u00f6zg\u00fcveninizi yans\u0131t\u0131n. Sesinizi net ve ifadeli bir \u015fekilde kullan\u0131n, tonlaman\u0131za dikkat edin. A\u00e7\u0131k beden dili i\u00e7in g\u00f6z temas\u0131 kurun ve anlaml\u0131 el hareketleri kullan\u0131n. Bu teknikler, i\u015f ortam\u0131nda g\u00fcvenilirli\u011finizi ve etkinizi art\u0131racakt\u0131r. Unutmay\u0131n, ne s\u00f6yledi\u011finiz kadar nas\u0131l s\u00f6yledi\u011finiz ve kendinizi nas\u0131l ifade etti\u011finiz de kritik \u00f6neme sahiptir.",
+            "slide_image_prompt": "A confident business professional demonstrating effective non-verbal communication techniques in a modern conference room. The person stands with an upright, strong posture (demonstrating 'G\u00fc\u00e7l\u00fc Duru\u015f'), makes direct eye contact, and uses expressive hand gestures (illustrating 'A\u00e7\u0131k Beden Dili'). They are speaking into a microphone, with their mouth open and facial expressions engaged, suggesting clear and expressive speech (representing 'Etkili Ses Tonu'). They wear a well-fitted business suit. The background shows attentive listeners reacting positively to the speaker's presence. Use soft, professional lighting to highlight the person's confident stance, facial expression, and hand gestures. Include visual cues for all three bullet points: strong posture, effective voice, and open body language."
+         }
+      },
+      {
+         "step": "tester_content_slide_3_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content demonstrates excellent coherence, multimedia design, and technical quality. The onscreen text, voiceover, and image prompt are well-aligned and reinforce the main message effectively. The content is clear, concise, and logically structured. The multimedia elements are balanced, with the onscreen text providing key points and the voiceover expanding on them. The image prompt is detailed and relevant, enhancing the overall message. Technical aspects, including HTML markup and language consistency, are executed correctly. The professional tone is maintained throughout.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A confident business professional demonstrating effective non-verbal communication techniques in a modern conference room. The person stands with an upright, strong posture (demonstrating 'G\u00fc\u00e7l\u00fc Duru\u015f'), makes direct eye contact, and uses expressive hand gestures (illustrating 'A\u00e7\u0131k Beden Dili'). They are speaking into a microphone, with their mouth open and facial expressions engaged, suggesting clear and expressive speech (representing 'Etkili Ses Tonu'). They wear a well-fitted business suit. The background shows attentive listeners reacting positively to the speaker's presence. Use soft, professional lighting to highlight the person's confident stance, facial expression, and hand gestures. Include visual cues for all three bullet points: strong posture, effective voice, and open body language.",
+            "image_url": "https://fal.media/files/kangaroo/4FxU7L_ySPmN4h87UqxpG_2f14f507c23e456f8f1a60fb088bd703.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 95,
+            "feedback": "The image successfully meets most of the criteria outlined in the prompt and is suitable for a presentation slide. It depicts a confident business professional demonstrating effective non-verbal communication techniques in a modern conference room setting. The speaker's posture is upright and strong, illustrating 'G\u00fc\u00e7l\u00fc Duru\u015f'. He makes expressive hand gestures, demonstrating 'A\u00e7\u0131k Beden Dili'. The speaker is using a microphone and his facial expression suggests clear and expressive speech, representing 'Etkili Ses Tonu'. The background shows attentive listeners reacting positively to the speaker. The lighting is soft and professional, highlighting the speaker's confident stance and gestures. The image quality, resolution, and composition are excellent, making it visually appealing and suitable for a presentation.",
+            "suggestions": "To fully align with the prompt, consider adjusting the following: 1. Emphasize direct eye contact with the audience more clearly. 2. Ensure the speaker's mouth is more visibly open to better illustrate clear speech. 3. Include more obvious visual cues for the three bullet points mentioned in the prompt (strong posture, effective voice, and open body language). 4. While the current setting is appropriate, a more traditional conference room might better match the exact description in the prompt.",
+            "current_prompt": "A confident business professional demonstrating effective non-verbal communication techniques in a modern conference room. The person stands with an upright, strong posture (demonstrating 'G\u00fc\u00e7l\u00fc Duru\u015f'), makes direct eye contact, and uses expressive hand gestures (illustrating 'A\u00e7\u0131k Beden Dili'). They are speaking into a microphone, with their mouth open and facial expressions engaged, suggesting clear and expressive speech (representing 'Etkili Ses Tonu'). They wear a well-fitted business suit. The background shows attentive listeners reacting positively to the speaker's presence. Use soft, professional lighting to highlight the person's confident stance, facial expression, and hand gestures. Include visual cues for all three bullet points: strong posture, effective voice, and open body language.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Stratejik Networking Plan\u0131 Olu\u015fturma Ad\u0131mlar\u0131</h2><ul><li>\ud83c\udfaf Net Hedeflerinizi Belirleyin</li><li>\ud83e\udd1d Do\u011fru Ba\u011flant\u0131lar\u0131 Tan\u0131mlay\u0131n</li><li>\ud83d\udcc5 D\u00fczenli \u0130leti\u015fim Plan\u0131 Yap\u0131n</li><li>\ud83d\udca1 Kar\u015f\u0131l\u0131kl\u0131 De\u011fer Yarat\u0131n</li></ul>",
+            "slide_voiceover_text": "Etkili bir networking stratejisi, rastgele de\u011fil, bilin\u00e7li ve hedefli olmal\u0131d\u0131r. Kariyer hedefinize ula\u015fmak i\u00e7in net bir plan olu\u015fturmak zorundas\u0131n\u0131z. \u00d6ncelikle net hedeflerinizi belirleyin, sonra bu hedeflere ula\u015ft\u0131racak do\u011fru profesyonel ba\u011flant\u0131lar\u0131 tan\u0131mlay\u0131n. D\u00fczenli ve planl\u0131 bir ileti\u015fim yakla\u015f\u0131m\u0131 izleyin ve her networking ili\u015fkinizde kar\u015f\u0131l\u0131kl\u0131 de\u011fer yaratmaya odaklan\u0131n.",
+            "slide_image_prompt": "A professional networking visualization showing a strategic mind map with interconnected professional silhouettes, connected by glowing lines representing relationships. The background is a clean, modern office setting with a subtle grid pattern. Use a color palette of blues and grays, with strategic connection points highlighted in a warm orange. The image should convey precision, strategy, and professional connectivity, with a contemporary and minimalist design style."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is very close to meeting all standards but falls short in a few areas. The main issues are:\n\n1. Onscreen text uses HTML tags, which may not be appropriate for all presentation software. Consider using native formatting instead.\n2. The voiceover text is slightly longer than ideal, potentially causing timing issues during presentation.\n3. The image prompt, while detailed, could be more concise and focused on the key elements.\n4. There's a minor language inconsistency: 'Olu\u015fturun' in the slide title vs. 'Olu\u015fturma' in the onscreen text.\n\nPositive aspects include strong alignment between all content elements, clear messaging, and a logical flow of information. The networking strategy is well-presented and the visual concept enhances the message effectively.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Stratejik Networking Plan\u0131 Olu\u015fturun</h2><ul><li>\ud83c\udfaf Net Hedefler Belirleyin</li><li>\ud83e\udd1d Do\u011fru Ba\u011flant\u0131lar\u0131 Tan\u0131mlay\u0131n</li><li>\ud83d\udcc5 D\u00fczenli \u0130leti\u015fim Planlay\u0131n</li><li>\ud83d\udca1 Kar\u015f\u0131l\u0131kl\u0131 De\u011fer Yarat\u0131n</li></ul>",
+            "slide_voiceover_text": "Etkili networking, bilin\u00e7li ve hedefli bir strateji gerektirir. Kariyer hedefinize ula\u015fmak i\u00e7in net bir plan olu\u015fturun. \u0130lk ad\u0131m, hedeflerinizi belirlemek ve bu hedeflere ula\u015ft\u0131racak do\u011fru profesyonel ba\u011flant\u0131lar\u0131 tan\u0131mlamakt\u0131r. D\u00fczenli ileti\u015fim planlay\u0131n ve her ili\u015fkide kar\u015f\u0131l\u0131kl\u0131 de\u011fer yaratmaya odaklan\u0131n. Bu stratejik yakla\u015f\u0131m, kariyer f\u0131rsatlar\u0131n\u0131z\u0131 art\u0131racak ve i\u015f d\u00fcnyas\u0131ndaki g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc y\u00fckseltecektir.",
+            "slide_image_prompt": "Create a strategic networking mind map with professional silhouettes connected by glowing lines. Use a modern office background with a subtle grid. Color scheme: blues and grays with key points in warm orange. Style: contemporary and minimalist, emphasizing precision and professional connectivity."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several minor issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (38/40):\n   - The image prompt could more explicitly mention the bullet points from the onscreen text for tighter alignment.\n   - The voiceover text could be more concise to match the brevity of the onscreen points.\n\n2. Multimedia Design (28/30):\n   - The onscreen text is concise and well-structured, but could use more descriptive emojis for 'Do\u011fru Ba\u011flant\u0131lar\u0131 Tan\u0131mlay\u0131n' and 'D\u00fczenli \u0130leti\u015fim Planlay\u0131n'.\n   - The voiceover provides good detail but could be more tightly structured around the bullet points.\n\n3. Technical Quality (29/30):\n   - The HTML markup is correct, but could benefit from additional semantic tags like <strong> for emphasis.\n   - The image prompt is detailed but could specify the exact placement of the warm orange color for key points.\n\nOverall, the content is high-quality and coherent, but falls short of perfection due to these minor issues.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Stratejik Networking Plan\u0131 Olu\u015fturun</h2><ul><li>\ud83c\udfaf <strong>Net Hedefler Belirleyin</strong></li><li>\ud83d\udd0d <strong>Do\u011fru Ba\u011flant\u0131lar\u0131 Tan\u0131mlay\u0131n</strong></li><li>\ud83d\uddd3\ufe0f <strong>D\u00fczenli \u0130leti\u015fim Planlay\u0131n</strong></li><li>\ud83d\udca1 <strong>Kar\u015f\u0131l\u0131kl\u0131 De\u011fer Yarat\u0131n</strong></li></ul>",
+            "slide_voiceover_text": "Etkili networking, bilin\u00e7li bir strateji gerektirir. Kariyer hedefinize ula\u015fmak i\u00e7in \u015fu ad\u0131mlar\u0131 izleyin: \u00d6ncelikle, net hedefler belirleyin. Ard\u0131ndan, bu hedeflere ula\u015ft\u0131racak do\u011fru profesyonel ba\u011flant\u0131lar\u0131 titizlikle tan\u0131mlay\u0131n. D\u00fczenli ileti\u015fim i\u00e7in bir takvim olu\u015fturun ve her etkile\u015fimde kar\u015f\u0131l\u0131kl\u0131 de\u011fer yaratmaya odaklan\u0131n. Bu stratejik yakla\u015f\u0131m, kariyer f\u0131rsatlar\u0131n\u0131z\u0131 art\u0131racak ve i\u015f d\u00fcnyas\u0131ndaki g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc y\u00fckseltecektir.",
+            "slide_image_prompt": "Create a strategic networking mind map with professional silhouettes connected by glowing lines. Use a modern office background with a subtle grid. Color scheme: blues and grays with key points in warm orange. Style: contemporary and minimalist, emphasizing precision and professional connectivity. Include four main branches corresponding to the bullet points: 'Net Hedefler' (with a target icon), 'Do\u011fru Ba\u011flant\u0131lar' (with a magnifying glass icon), 'D\u00fczenli \u0130leti\u015fim' (with a calendar icon), and 'Kar\u015f\u0131l\u0131kl\u0131 De\u011fer' (with a lightbulb icon). Each branch should be highlighted in warm orange."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content demonstrates strong coherence and alignment between onscreen text, voiceover, and image prompt. The message is clear and well-structured. However, there are a few minor issues that prevent it from achieving a perfect score:\n\n1. The onscreen text uses HTML markup, which may not be appropriate for all presentation software. Consider using plain text or platform-specific formatting.\n2. The image prompt, while detailed, could benefit from specifying the exact placement of the four main branches in relation to the central concept.\n3. The voiceover text, while comprehensive, could be slightly more concise to better match the brevity of the onscreen bullet points.\n4. The use of emojis in the onscreen text, while engaging, may not be considered fully professional in all contexts.\n\nDespite these minor issues, the overall quality of the content is high, with a clear focus on strategic networking and well-aligned multimedia elements.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Stratejik Networking Plan\u0131 Olu\u015fturun</h2><ul><li><strong>Net Hedefler Belirleyin</strong></li><li><strong>Do\u011fru Ba\u011flant\u0131lar\u0131 Tan\u0131mlay\u0131n</strong></li><li><strong>D\u00fczenli \u0130leti\u015fim Planlay\u0131n</strong></li><li><strong>Kar\u015f\u0131l\u0131kl\u0131 De\u011fer Yarat\u0131n</strong></li></ul>",
+            "slide_voiceover_text": "Etkili networking, stratejik bir yakla\u015f\u0131m gerektirir. Kariyer hedefinize ula\u015fmak i\u00e7in d\u00f6rt kritik ad\u0131m izleyin: \u00d6ncelikle, net hedefler belirleyin. Ard\u0131ndan, bu hedeflere ula\u015ft\u0131racak do\u011fru profesyonel ba\u011flant\u0131lar\u0131 tan\u0131mlay\u0131n. D\u00fczenli ileti\u015fim i\u00e7in bir plan olu\u015fturun ve her etkile\u015fimde kar\u015f\u0131l\u0131kl\u0131 de\u011fer yaratmaya odaklan\u0131n. Bu stratejik yakla\u015f\u0131m, kariyer f\u0131rsatlar\u0131n\u0131z\u0131 art\u0131racak ve i\u015f d\u00fcnyas\u0131ndaki g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fc y\u00fckseltecektir.",
+            "slide_image_prompt": "Create a strategic networking mind map centered on a professional silhouette in the middle of the image. Use a modern office background with a subtle grid. Color scheme: blues and grays with key points in warm orange. Style: contemporary and minimalist, emphasizing precision and professional connectivity. Include four main branches radiating from the center, equally spaced and highlighted in warm orange: 'Net Hedefler' at the top (with a target icon), 'Do\u011fru Ba\u011flant\u0131lar' on the right (with a magnifying glass icon), 'D\u00fczenli \u0130leti\u015fim' at the bottom (with a calendar icon), and 'Kar\u015f\u0131l\u0131kl\u0131 De\u011fer' on the left (with a lightbulb icon). Connect these main branches to smaller nodes with glowing lines to represent sub-strategies or benefits of each main point. Ensure the layout is balanced and the text is clearly legible."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content demonstrates excellent coherence, multimedia design, and technical quality. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points of creating a strategic networking plan. The content is logically structured, presenting four clear steps for effective networking. The HTML markup is correct, and the language is consistent throughout. The image prompt is detailed and aligns perfectly with the text content, enhancing the overall message. The voiceover expands on the onscreen text appropriately, providing additional context without being redundant. The professional tone is maintained throughout, and the content is tailored to the slide's focus on strategic networking for career advancement.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "Create a strategic networking mind map centered on a professional silhouette in the middle of the image. Use a modern office background with a subtle grid. Color scheme: blues and grays with key points in warm orange. Style: contemporary and minimalist, emphasizing precision and professional connectivity. Include four main branches radiating from the center, equally spaced and highlighted in warm orange: 'Net Hedefler' at the top (with a target icon), 'Do\u011fru Ba\u011flant\u0131lar' on the right (with a magnifying glass icon), 'D\u00fczenli \u0130leti\u015fim' at the bottom (with a calendar icon), and 'Kar\u015f\u0131l\u0131kl\u0131 De\u011fer' on the left (with a lightbulb icon). Connect these main branches to smaller nodes with glowing lines to represent sub-strategies or benefits of each main point. Ensure the layout is balanced and the text is clearly legible.",
+            "image_url": "https://fal.media/files/elephant/RtHyTJx3zf8iFtwH4b0MG_96a27c40f7654ad995aa02f9a656c5e7.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image largely aligns with the prompt and presentation requirements, but has a few minor issues:\n\n1. The image generally matches the specified visual style with a modern office background and professional silhouette.\n2. The color scheme uses blues and grays with warm orange accents as requested.\n3. The layout includes a central figure with radiating branches, though there are 6 branches instead of the requested 4.\n4. Some branch labels differ slightly from those specified ('Duzenu Balantilar' instead of 'Do\u011fru Ba\u011flant\u0131lar', 'Karshilki' instead of 'Kar\u015f\u0131l\u0131kl\u0131 De\u011fer').\n5. The specified icons (target, magnifying glass, calendar, lightbulb) are not clearly visible.\n6. The image maintains a contemporary and minimalist style emphasizing professional connectivity.\n7. The composition is balanced and text is clearly legible.\n8. The image quality, resolution, and visual elements are suitable for a presentation slide.",
+            "suggestions": "To improve the image:\n1. Adjust the number of branches to exactly 4 as specified in the prompt.\n2. Correct the branch labels to match the exact wording provided.\n3. Add or make more prominent the requested icons for each main branch.\n4. Consider adding subtle connecting lines between the main branches and potential sub-nodes to fully match the prompt description.\n5. Ensure all text is in Turkish as per the original prompt.",
+            "current_prompt": "Create a strategic networking mind map centered on a professional silhouette in the middle of the image. Use a modern office background with a subtle grid. Color scheme: blues and grays with key points in warm orange. Style: contemporary and minimalist, emphasizing precision and professional connectivity. Include four main branches radiating from the center, equally spaced and highlighted in warm orange: 'Net Hedefler' at the top (with a target icon), 'Do\u011fru Ba\u011flant\u0131lar' on the right (with a magnifying glass icon), 'D\u00fczenli \u0130leti\u015fim' at the bottom (with a calendar icon), and 'Kar\u015f\u0131l\u0131kl\u0131 De\u011fer' on the left (with a lightbulb icon). Connect these main branches to smaller nodes with glowing lines to represent sub-strategies or benefits of each main point. Ensure the layout is balanced and the text is clearly legible.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Networking Yol Haritan\u0131z: Hemen Uygulay\u0131n</h2><ul><li>\u00d6\u011frenilen Teknikleri Hayata Ge\u00e7irin</li><li>G\u00fcnl\u00fck Rutin \u0130\u00e7inde Stratejik Ad\u0131mlar</li><li>S\u00fcrekli Geli\u015fim Hedefi</li></ul>",
+            "slide_voiceover_text": "Ba\u015far\u0131l\u0131 networking, \u00f6\u011frendi\u011finiz teknikleri g\u00fcnl\u00fck i\u015f ya\u015fam\u0131n\u0131za sistemli bir \u015fekilde entegre etmekle m\u00fcmk\u00fcnd\u00fcr. Her g\u00fcn k\u00fc\u00e7\u00fck ama anlaml\u0131 ad\u0131mlar atarak profesyonel a\u011f\u0131n\u0131z\u0131 geni\u015fletebilir ve kariyerinize de\u011fer katabilirsiniz. Unutmay\u0131n, networking bir beceridir ve pratikle m\u00fckemmelle\u015fir.",
+            "slide_image_prompt": "A professional roadmap illustration showing a person climbing steps of a career ladder, with networking icons like business cards, handshakes, and connection lines. Each step represents a progressive networking technique. Use a modern, clean design with a color palette of blues and grays, symbolizing professionalism and strategic growth. The image should convey movement, progress, and interconnectedness."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content demonstrates strong coherence and alignment between elements, but falls short in a few key areas. The onscreen text uses HTML markup, which is appropriate, but the <h2> tag is not closed properly. The voiceover text is well-written and complements the onscreen content, but it could be more concise to match the bullet points better. The image prompt is detailed and relevant, but it could benefit from more specific instructions on how to represent the 'steps of a career ladder' in relation to the listed networking techniques. While the overall message is clear and the content is generally high-quality, these small issues prevent it from achieving a perfect score.",
+            "score": 95
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Networking Yol Haritan\u0131z: Hemen Uygulay\u0131n</h2><ul><li>Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin</li><li>Stratejik Ad\u0131mlarla \u0130lerleyin</li><li>S\u00fcrekli Geli\u015fim Hedefleyin</li></ul>",
+            "slide_voiceover_text": "Etkili networking, \u00f6\u011frendi\u011finiz teknikleri g\u00fcnl\u00fck i\u015f ya\u015fam\u0131n\u0131za sistemli bir \u015fekilde entegre etmekle ba\u015flar. Her g\u00fcn k\u00fc\u00e7\u00fck ama stratejik ad\u0131mlar atarak profesyonel a\u011f\u0131n\u0131z\u0131 geni\u015fletin. S\u00fcrekli geli\u015fim hedefiyle, networking becerilerinizi d\u00fczenli olarak pratik yaparak m\u00fckemmelle\u015ftirin. Bu yakla\u015f\u0131m, uzun vadeli profesyonel ba\u015far\u0131n\u0131z i\u00e7in kritik \u00f6neme sahiptir.",
+            "slide_image_prompt": "Create a professional roadmap illustration showing a person climbing a career ladder. The ladder should have three distinct steps, each representing a networking technique from the slide: 'G\u00fcnl\u00fck Entegrasyon', 'Stratejik \u0130lerleme', and 'S\u00fcrekli Geli\u015fim'. On each step, include relevant networking icons: a calendar for daily integration, a compass for strategic progress, and a growth chart for continuous improvement. Use a modern, clean design with a color palette of blues and grays to symbolize professionalism. Include connection lines emanating from the person to represent their expanding network. The overall image should convey a sense of upward movement, strategic growth, and interconnectedness in a professional context."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several quality issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good, but not perfect.\n   - The voiceover expands on the onscreen text well, but could be more tightly aligned with the bullet points.\n   - The image prompt generally matches the content, but doesn't explicitly mention 'Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin' as in the onscreen text.\n\n2. Multimedia Design (27/30):\n   - The balance between onscreen and voiceover text is good, but the voiceover could be more concise.\n   - The onscreen text is appropriately concise, using bullet points effectively.\n   - The image prompt is relevant and enhances the content, but could be more specific about daily integration.\n\n3. Technical Quality (28/30):\n   - The HTML markup is correct, but the use of <h2> for the title might be too large for a slide; <h3> might be more appropriate.\n   - The image prompt is clear and specific, but could benefit from mentioning the exact Turkish phrases used in the bullet points.\n   - Language consistency is maintained well between Turkish and English elements.\n   - The professional tone is appropriate throughout.\n\nOverall, while the content is of high quality, it falls short of perfection due to minor misalignments and missed opportunities for tighter integration between elements.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h3>Networking Yol Haritan\u0131z: Hemen Uygulay\u0131n</h3><ul><li>Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin</li><li>Stratejik Ad\u0131mlarla \u0130lerleyin</li><li>S\u00fcrekli Geli\u015fim Hedefleyin</li></ul>",
+            "slide_voiceover_text": "Etkili networking, \u00f6\u011frendi\u011finiz teknikleri g\u00fcnl\u00fck i\u015f rutininize entegre etmekle ba\u015flar. 'Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin': Her g\u00fcn en az bir networking aktivitesi planlay\u0131n. 'Stratejik Ad\u0131mlarla \u0130lerleyin': Hedeflerinize y\u00f6nelik bilin\u00e7li ba\u011flant\u0131lar kurun. 'S\u00fcrekli Geli\u015fim Hedefleyin': Networking becerilerinizi d\u00fczenli olarak de\u011ferlendirin ve geli\u015ftirin. Bu \u00fc\u00e7 ad\u0131ml\u0131 yakla\u015f\u0131m, uzun vadeli profesyonel ba\u015far\u0131n\u0131z i\u00e7in temel olu\u015fturacakt\u0131r.",
+            "slide_image_prompt": "Create a professional roadmap illustration showing a person climbing a career ladder. The ladder should have three distinct steps, each labeled with the exact Turkish phrases from the slide: 'Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin', 'Stratejik Ad\u0131mlarla \u0130lerleyin', and 'S\u00fcrekli Geli\u015fim Hedefleyin'. On the first step, include a calendar icon with daily networking tasks. On the second step, show a compass pointing towards strategic connections. On the third step, display a growth chart representing continuous improvement. Use a modern, clean design with a color palette of blues and grays. The person should be shown interacting with network nodes at each level, symbolizing expanding professional connections. The overall image should convey a sense of upward movement, strategic growth, and daily commitment to networking in a professional context."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content has several strengths but also some notable issues that prevent it from achieving a perfect score:\n\n1. Content Coherence (35/40 points):\n- The alignment between onscreen text, voiceover, and image prompt is strong.\n- The message is clear and well-delivered.\n- There's an appropriate level of detail.\n- The flow of information is logical.\n- Minor point deduction for not explicitly mentioning 'uzun vadeli profesyonel ba\u015far\u0131' in the onscreen text, which is mentioned in the slide focus.\n\n2. Multimedia Design (28/30 points):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-structured.\n- Voiceover provides complete information.\n- Image prompt is highly relevant and enhances the content.\n- Minor deduction for not including 'uzun vadeli profesyonel ba\u015far\u0131' in the image prompt.\n\n3. Technical Quality (28/30 points):\n- HTML markup is correctly used.\n- Image prompt is clear and specific.\n- Language consistency is maintained.\n- Professional tone is evident throughout.\n- Minor deduction for not using more semantic HTML tags like <ol> instead of <ul> for the numbered list in the voiceover.\n\nTotal Score: 91/100\n\nWhile the content is of high quality, it falls short of the perfect score required for validity. The main areas for improvement are:\n1. Explicitly mentioning 'uzun vadeli profesyonel ba\u015far\u0131' in the onscreen text and image prompt to fully align with the slide focus.\n2. Using more semantic HTML structure for the numbered list in the voiceover.\n3. Ensuring every aspect of the slide focus is represented equally across all content elements.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h3>Networking Yol Haritan\u0131z: Uzun Vadeli Ba\u015far\u0131 \u0130\u00e7in</h3><ol><li>Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin</li><li>Stratejik Ad\u0131mlarla \u0130lerleyin</li><li>S\u00fcrekli Geli\u015fim Hedefleyin</li></ol><p>Bu ad\u0131mlar, uzun vadeli profesyonel ba\u015far\u0131n\u0131z\u0131n anahtar\u0131d\u0131r.</p>",
+            "slide_voiceover_text": "Etkili networking ve uzun vadeli profesyonel ba\u015far\u0131, \u00f6\u011frendi\u011finiz teknikleri g\u00fcnl\u00fck i\u015f rutininize entegre etmekle ba\u015flar. \u0130\u015fte \u00fc\u00e7 ad\u0131ml\u0131 yol haritan\u0131z:\n\n1. 'Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin': Her g\u00fcn en az bir networking aktivitesi planlay\u0131n. Bu, e-posta g\u00f6ndermek, bir ba\u011flant\u0131y\u0131 aramak veya bir etkinli\u011fe kat\u0131lmak olabilir.\n\n2. 'Stratejik Ad\u0131mlarla \u0130lerleyin': Hedeflerinize y\u00f6nelik bilin\u00e7li ba\u011flant\u0131lar kurun. Kariyer hedeflerinizle uyumlu ki\u015filerle ileti\u015fim kurmaya \u00f6ncelik verin.\n\n3. 'S\u00fcrekli Geli\u015fim Hedefleyin': Networking becerilerinizi d\u00fczenli olarak de\u011ferlendirin ve geli\u015ftirin. Geri bildirim al\u0131n ve yeni ileti\u015fim teknikleri \u00f6\u011frenin.\n\nBu \u00fc\u00e7 ad\u0131ml\u0131 yakla\u015f\u0131m\u0131 tutarl\u0131 bir \u015fekilde uygulayarak, uzun vadeli profesyonel ba\u015far\u0131n\u0131z i\u00e7in sa\u011flam bir temel olu\u015fturacaks\u0131n\u0131z.",
+            "slide_image_prompt": "Create a professional roadmap illustration showing a person climbing a career ladder towards 'Uzun Vadeli Profesyonel Ba\u015far\u0131' (Long-Term Professional Success) written at the top. The ladder should have three distinct steps, each labeled with the exact Turkish phrases from the slide: '1. Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin', '2. Stratejik Ad\u0131mlarla \u0130lerleyin', and '3. S\u00fcrekli Geli\u015fim Hedefleyin'. On the first step, include a calendar icon with daily networking tasks. On the second step, show a compass pointing towards strategic connections. On the third step, display a growth chart representing continuous improvement. Use a modern, clean design with a color palette of blues and grays. The person should be shown interacting with network nodes at each level, symbolizing expanding professional connections. The overall image should convey a sense of upward movement, strategic growth, and daily commitment to networking in a professional context, all leading to long-term success."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content demonstrates excellent coherence, multimedia design, and technical quality. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear, consistent message about the three-step roadmap for networking and long-term professional success. The content is logically structured and provides an appropriate level of detail. The multimedia elements complement each other effectively, with concise onscreen text and a comprehensive voiceover. The image prompt is highly relevant and enhances the overall message. Technical aspects, including HTML markup and language consistency, are handled correctly. The professional tone is maintained throughout.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "Create a professional roadmap illustration showing a person climbing a career ladder towards 'Uzun Vadeli Profesyonel Ba\u015far\u0131' (Long-Term Professional Success) written at the top. The ladder should have three distinct steps, each labeled with the exact Turkish phrases from the slide: '1. Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin', '2. Stratejik Ad\u0131mlarla \u0130lerleyin', and '3. S\u00fcrekli Geli\u015fim Hedefleyin'. On the first step, include a calendar icon with daily networking tasks. On the second step, show a compass pointing towards strategic connections. On the third step, display a growth chart representing continuous improvement. Use a modern, clean design with a color palette of blues and grays. The person should be shown interacting with network nodes at each level, symbolizing expanding professional connections. The overall image should convey a sense of upward movement, strategic growth, and daily commitment to networking in a professional context, all leading to long-term success.",
+            "image_url": "https://fal.media/files/kangaroo/BOmxlxRozwj0PPrVdQEzh_ae880efa1249451cb2052690e9ccce1e.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "score": 65,
+            "feedback": "The image generally aligns with the prompt, but there are several issues that need to be addressed. The image shows a person climbing stairs towards professional success, with network nodes and icons representing different stages. However, there are critical issues with text in the image and some missing elements.\n\nCritical Issues:\n1. Contains text within the image (automatic rejection)\n2. Does not fully match the provided prompt (missing some key elements)\n\nOther issues:\n- The ladder has only two distinct steps instead of three as requested\n- The Turkish phrases for each step are not exactly as specified in the prompt\n- Missing compass icon on the second step\n- Missing growth chart on the third step\n- The color palette includes orange, which wasn't specified in the prompt\n- The person is not clearly interacting with network nodes at each level",
+            "suggestions": "To improve the image:\n1. Remove all text from the image\n2. Include three distinct steps on the ladder\n3. Add the missing compass and growth chart icons\n4. Ensure the person is interacting with network nodes at each level\n5. Adjust the color palette to use only blues and grays as specified\n6. Simplify the network nodes to make them less complex\n7. Ensure the calendar icon is clearly visible on the first step\n8. Make sure the overall composition is cleaner and more focused on the key elements",
+            "current_prompt": "Create a professional roadmap illustration showing a person climbing a career ladder towards 'Uzun Vadeli Profesyonel Ba\u015far\u0131' (Long-Term Professional Success) written at the top. The ladder should have three distinct steps, each labeled with the exact Turkish phrases from the slide: '1. Teknikleri G\u00fcnl\u00fck Rutine Entegre Edin', '2. Stratejik Ad\u0131mlarla \u0130lerleyin', and '3. S\u00fcrekli Geli\u015fim Hedefleyin'. On the first step, include a calendar icon with daily networking tasks. On the second step, show a compass pointing towards strategic connections. On the third step, display a growth chart representing continuous improvement. Use a modern, clean design with a color palette of blues and grays. The person should be shown interacting with network nodes at each level, symbolizing expanding professional connections. The overall image should convey a sense of upward movement, strategic growth, and daily commitment to networking in a professional context, all leading to long-term success.",
+            "new_prompt": "Create a minimalist illustration of a person climbing a simplified, three-step ladder against a clean white background. The ladder should be a sleek, modern design in light gray. Each step is represented by a flat platform with a subtle gradient from light to dark blue. The person, depicted as a simplified silhouette in navy blue, is shown in a climbing pose. On the first step, place a simple calendar icon in light blue. On the second step, include a basic compass icon pointing upwards in medium blue. On the third step, add a simple upward-trending line graph in dark blue. Floating around each step are 3-4 small, geometric network nodes in various shades of blue, connected by thin gray lines. The person's arms should be slightly extended, giving the impression of interaction with these nodes. The overall composition should be centered and occupy about 80% of the image area, conveying a sense of upward movement and professional growth. Use high-quality vector-style graphics for a crisp, professional appearance."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist illustration of a person climbing a simplified, three-step ladder against a clean white background. The ladder should be a sleek, modern design in light gray. Each step is represented by a flat platform with a subtle gradient from light to dark blue. The person, depicted as a simplified silhouette in navy blue, is shown in a climbing pose. On the first step, place a simple calendar icon in light blue. On the second step, include a basic compass icon pointing upwards in medium blue. On the third step, add a simple upward-trending line graph in dark blue. Floating around each step are 3-4 small, geometric network nodes in various shades of blue, connected by thin gray lines. The person's arms should be slightly extended, giving the impression of interaction with these nodes. The overall composition should be centered and occupy about 80% of the image area, conveying a sense of upward movement and professional growth. Use high-quality vector-style graphics for a crisp, professional appearance.",
+            "image_url": "https://fal.media/files/panda/71u-NK79qDWb4oua27fRu_2c45b202a6ce4d3692e6e9f257e5fd4d.jpg",
+            "model": "fal-ai/flux-pro/v1.1",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": true,
+            "score": 92,
+            "feedback": "The image aligns well with the prompt and presentation requirements, but has some minor deviations. It depicts a person climbing a staircase with icons and network nodes, conveying professional growth. However, there are a few discrepancies:\n\n1. The ladder is represented as stairs instead of a three-step ladder.\n2. The background is not pure white but has a very light blue tint.\n3. The person is not a simplified silhouette but a more detailed illustration.\n4. The icons (calendar, compass, graph) are present but not exactly as described in the prompt.\n5. The network nodes are not equally distributed around each step.\n\nDespite these minor issues, the image maintains high quality and suitability for a presentation slide. It effectively communicates the concept of progress and growth in a professional context.",
+            "suggestions": "To improve the image and align it more closely with the original prompt:\n\n1. Replace the stairs with a three-step ladder design.\n2. Use a pure white background.\n3. Simplify the person into a navy blue silhouette.\n4. Adjust the icons to match the prompt more precisely (e.g., compass pointing upwards).\n5. Distribute the network nodes more evenly around each step.\n6. Ensure the person's pose suggests interaction with the network nodes.\n7. Center the composition and adjust its size to occupy about 80% of the image area.",
+            "current_prompt": "Create a minimalist illustration of a person climbing a simplified, three-step ladder against a clean white background. The ladder should be a sleek, modern design in light gray. Each step is represented by a flat platform with a subtle gradient from light to dark blue. The person, depicted as a simplified silhouette in navy blue, is shown in a climbing pose. On the first step, place a simple calendar icon in light blue. On the second step, include a basic compass icon pointing upwards in medium blue. On the third step, add a simple upward-trending line graph in dark blue. Floating around each step are 3-4 small, geometric network nodes in various shades of blue, connected by thin gray lines. The person's arms should be slightly extended, giving the impression of interaction with these nodes. The overall composition should be centered and occupy about 80% of the image area, conveying a sense of upward movement and professional growth. Use high-quality vector-style graphics for a crisp, professional appearance.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

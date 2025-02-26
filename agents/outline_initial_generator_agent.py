@@ -17,7 +17,7 @@ def call_outline_initial_generator_agent(topic_count: TopicCount) -> Presentatio
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
     
     AI_Response = client.chat.completions.create(
-        model="claude-3-5-sonnet-20241022",
+        model="claude-3-7-sonnet-20250219",
         # model = "claude-3-haiku-20240307",
         messages=[
             {

@@ -1,0 +1,581 @@
+{
+   "timestamp": "20250210050645",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "Ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131na etkisi",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Ge\u00e7 Uyuman\u0131n Gizli Tehlikeleri",
+                  "slide_focus": "Ge\u00e7 uyuma al\u0131\u015fkanl\u0131\u011f\u0131, sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilir.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Biyolojik Saat Bozuklu\u011fu",
+                  "slide_focus": "Ge\u00e7 uyumak, v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere neden olur.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Metabolizma ve Kilo \u00dczerindeki Etkileri",
+                  "slide_focus": "D\u00fczensiz uyku saatleri, metabolizmay\u0131 yava\u015flat\u0131r ve kilo al\u0131m\u0131n\u0131 tetikler.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans",
+                  "slide_focus": "Ge\u00e7 uyumak, konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131r\u0131r.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                  "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeni, genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 iyile\u015ftirir ve ya\u015fam kalitemizi art\u0131r\u0131r.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "Your outline lacks a clear introduction and conclusion slide, which is a critical issue. Including both an opening overview and a final summary will help establish and reinforce your main points.",
+               "score": 65
+            },
+            "tested_outline": {
+               "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Ge\u00e7 Uyuman\u0131n Gizli Tehlikeleri",
+                     "slide_focus": "Ge\u00e7 uyuma al\u0131\u015fkanl\u0131\u011f\u0131, sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilir.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Biyolojik Saat Bozuklu\u011fu",
+                     "slide_focus": "Ge\u00e7 uyumak, v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere neden olur.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Metabolizma ve Kilo \u00dczerindeki Etkileri",
+                     "slide_focus": "D\u00fczensiz uyku saatleri, metabolizmay\u0131 yava\u015flat\u0131r ve kilo al\u0131m\u0131n\u0131 tetikler.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans",
+                     "slide_focus": "Ge\u00e7 uyumak, konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131r\u0131r.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                     "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeni, genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 iyile\u015ftirir ve ya\u015fam kalitemizi art\u0131r\u0131r.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_1",
+         "data": {
+            "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Giri\u015f: Ge\u00e7 Uyuman\u0131n \u00d6nemi",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131 \u00fczerindeki \u00e7ok y\u00f6nl\u00fc etkilerini ve bu sunumun ana hatlar\u0131n\u0131 tan\u0131taca\u011f\u0131z.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Ge\u00e7 Uyuman\u0131n Gizli Tehlikeleri",
+                  "slide_focus": "Ge\u00e7 uyuma al\u0131\u015fkanl\u0131\u011f\u0131, sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilir.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Biyolojik Saat Bozuklu\u011fu",
+                  "slide_focus": "Ge\u00e7 uyumak, v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere neden olur.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Metabolizma ve Kilo \u00dczerindeki Etkileri",
+                  "slide_focus": "D\u00fczensiz uyku saatleri, metabolizmay\u0131 yava\u015flat\u0131r ve kilo al\u0131m\u0131n\u0131 tetikler.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans",
+                  "slide_focus": "Ge\u00e7 uyumak, konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131r\u0131r.",
+                  "slide_number": 5
+               },
+               {
+                  "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                  "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeni, genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 iyile\u015ftirir ve ya\u015fam kalitemizi art\u0131r\u0131r.",
+                  "slide_number": 6
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Erken Uyuman\u0131n Faydalar\u0131",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n zararlar\u0131n\u0131 \u00f6zetleyerek, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131n\u0131n sa\u011fl\u0131\u011f\u0131m\u0131z \u00fczerindeki olumlu etkilerini vurgulayaca\u011f\u0131z.",
+                  "slide_number": 7
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_1",
+         "data": {
+            "validation_feedback": {
+               "is_valid": false,
+               "feedback": "There are 7 slides in the previous outline, but the user has requested 5 slides. Therefore remove 2 slides",
+               "score": 0
+            },
+            "tested_outline": {
+               "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Giri\u015f: Ge\u00e7 Uyuman\u0131n \u00d6nemi",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131 \u00fczerindeki \u00e7ok y\u00f6nl\u00fc etkilerini ve bu sunumun ana hatlar\u0131n\u0131 tan\u0131taca\u011f\u0131z.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Ge\u00e7 Uyuman\u0131n Gizli Tehlikeleri",
+                     "slide_focus": "Ge\u00e7 uyuma al\u0131\u015fkanl\u0131\u011f\u0131, sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilir.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Biyolojik Saat Bozuklu\u011fu",
+                     "slide_focus": "Ge\u00e7 uyumak, v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere neden olur.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Metabolizma ve Kilo \u00dczerindeki Etkileri",
+                     "slide_focus": "D\u00fczensiz uyku saatleri, metabolizmay\u0131 yava\u015flat\u0131r ve kilo al\u0131m\u0131n\u0131 tetikler.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans",
+                     "slide_focus": "Ge\u00e7 uyumak, konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131r\u0131r.",
+                     "slide_number": 5
+                  },
+                  {
+                     "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                     "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeni, genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 iyile\u015ftirir ve ya\u015fam kalitemizi art\u0131r\u0131r.",
+                     "slide_number": 6
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Erken Uyuman\u0131n Faydalar\u0131",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n zararlar\u0131n\u0131 \u00f6zetleyerek, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131n\u0131n sa\u011fl\u0131\u011f\u0131m\u0131z \u00fczerindeki olumlu etkilerini vurgulayaca\u011f\u0131z.",
+                     "slide_number": 7
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "fixed_result_iteration_2",
+         "data": {
+            "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+            "slide_outlines": [
+               {
+                  "slide_title": "Giri\u015f: Ge\u00e7 Uyuman\u0131n \u00d6nemi ve Gizli Tehlikeleri",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131 \u00fczerindeki \u00e7ok y\u00f6nl\u00fc etkilerini tan\u0131tacak ve sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilece\u011fini vurgulayaca\u011f\u0131z.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere ve metabolizma yava\u015flamas\u0131na neden oldu\u011funu a\u00e7\u0131klayaca\u011f\u0131z.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans Etkileri",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131rd\u0131\u011f\u0131n\u0131 inceleyece\u011fiz.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                  "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeninin genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 nas\u0131l iyile\u015ftirdi\u011fini ve ya\u015fam kalitemizi art\u0131rd\u0131\u011f\u0131n\u0131 anlataca\u011f\u0131z.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "Sonu\u00e7: Erken Uyuman\u0131n Faydalar\u0131",
+                  "slide_focus": "Ge\u00e7 uyuman\u0131n zararlar\u0131n\u0131 \u00f6zetleyerek, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131n\u0131n sa\u011fl\u0131\u011f\u0131m\u0131z \u00fczerindeki olumlu etkilerini vurgulayaca\u011f\u0131z.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result_iteration_2",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Sunum tasla\u011f\u0131 olduk\u00e7a net yap\u0131land\u0131r\u0131lm\u0131\u015f, giri\u015f ve sonu\u00e7 b\u00f6l\u00fcmleri eksiksiz ve mant\u0131ksal ak\u0131\u015f d\u00fczg\u00fcn. Odak noktalar\u0131 anla\u015f\u0131l\u0131r ve her slayt tek bir ana konuya yo\u011funla\u015f\u0131yor. \u0130\u00e7erik da\u011f\u0131l\u0131m\u0131 dengeli ve izleyiciyi bilgilendirerek ikna etme potansiyeli y\u00fcksek. Uygulama ve \u00f6rnekler daha da netle\u015ftirilebilir ancak genel olarak yeterli d\u00fczeyde spesifik ve pratik bilgiler sunuyor.",
+               "score": 92
+            },
+            "tested_outline": {
+               "presentation_title": "Ge\u00e7 Uyuman\u0131n \u0130nsan Sa\u011fl\u0131\u011f\u0131na Etkisi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "Giri\u015f: Ge\u00e7 Uyuman\u0131n \u00d6nemi ve Gizli Tehlikeleri",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131 \u00fczerindeki \u00e7ok y\u00f6nl\u00fc etkilerini tan\u0131tacak ve sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununa yol a\u00e7abilece\u011fini vurgulayaca\u011f\u0131z.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n v\u00fccudumuzun do\u011fal sirkadiyen ritmini bozarak hormonal dengesizliklere ve metabolizma yava\u015flamas\u0131na neden oldu\u011funu a\u00e7\u0131klayaca\u011f\u0131z.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "Zihinsel Sa\u011fl\u0131k ve Performans Etkileri",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n konsantrasyon eksikli\u011fi, haf\u0131za sorunlar\u0131 ve depresyon riskini art\u0131rd\u0131\u011f\u0131n\u0131 inceleyece\u011fiz.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme",
+                     "slide_focus": "D\u00fczenli uyku saatleri ve iyi bir uyku hijyeninin genel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 nas\u0131l iyile\u015ftirdi\u011fini ve ya\u015fam kalitemizi art\u0131rd\u0131\u011f\u0131n\u0131 anlataca\u011f\u0131z.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "Sonu\u00e7: Erken Uyuman\u0131n Faydalar\u0131",
+                     "slide_focus": "Ge\u00e7 uyuman\u0131n zararlar\u0131n\u0131 \u00f6zetleyerek, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131n\u0131n sa\u011fl\u0131\u011f\u0131m\u0131z \u00fczerindeki olumlu etkilerini vurgulayaca\u011f\u0131z.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h1>Ge\u00e7 Uyuman\u0131n Gizli Tehlikeleri</h1><ul><li>Sa\u011fl\u0131k \u00dczerinde \u00c7ok Y\u00f6nl\u00fc Etkiler</li><li>G\u00f6z Ard\u0131 Edilen Riskler</li><li>Sessiz Ama Ciddi Sonu\u00e7lar</li></ul>",
+            "slide_voiceover_text": "G\u00fcn\u00fcm\u00fczde modern ya\u015fam\u0131n h\u0131zl\u0131 temposu i\u00e7inde \u00e7o\u011fumuz ge\u00e7 uyuman\u0131n ger\u00e7ek maliyetinin fark\u0131nda de\u011filiz. Sand\u0131\u011f\u0131m\u0131zdan \u00e7ok daha fazla sa\u011fl\u0131k sorununun kap\u0131m\u0131zda bekliyor olabilece\u011fini bilmiyoruz. Bu sunumda, ge\u00e7 uyuman\u0131n insan sa\u011fl\u0131\u011f\u0131 \u00fczerindeki \u00e7ok boyutlu ve genellikle g\u00f6z ard\u0131 edilen etkilerini detayl\u0131 olarak inceleyece\u011fiz.",
+            "slide_image_prompt": "A split-screen medical illustration showing a human silhouette with half representing a healthy, well-rested body and the other half showing internal health issues caused by chronic late sleeping. Use a clinical, scientific style with soft blue and white color palette, anatomical precision, and subtle visual metaphors representing disrupted circadian rhythms. Include subtle visual elements like clock shadows and biological system breakdowns."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is well-structured and coherent. The onscreen text, voiceover, and image prompt align perfectly with the slide's focus. The content effectively introduces the topic of late sleeping and its hidden dangers to health. The onscreen text is concise and highlights key points, while the voiceover provides more detailed information. The image prompt is highly relevant and creative, effectively visualizing the contrast between a healthy, well-rested body and one affected by late sleeping. To further enhance the slide, consider adding a brief statistic or fact about late sleeping prevalence to create more impact.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen medical illustration showing a human silhouette with half representing a healthy, well-rested body and the other half showing internal health issues caused by chronic late sleeping. Use a clinical, scientific style with soft blue and white color palette, anatomical precision, and subtle visual metaphors representing disrupted circadian rhythms. Include subtle visual elements like clock shadows and biological system breakdowns.",
+            "image_url": "https://v3.fal.media/files/koala/SNgN_0UpTE8egrutzQQh-.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A split-screen medical illustration showing a human silhouette with half representing a healthy, well-rested body and the other half showing internal health issues caused by chronic late sleeping. Use a clinical, scientific style with soft blue and white color palette, anatomical precision, and subtle visual metaphors representing disrupted circadian rhythms. Include subtle visual elements like clock shadows and biological system breakdowns.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri</h2><ul><li>Sirkadiyen Ritim Bozulmas\u0131</li><li>Hormonal Dengesizlikler</li><li>Metabolik Yava\u015flama</li><li>Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyumak, insan v\u00fccudunun do\u011fal biyolojik saatini ciddi \u015fekilde etkilemektedir. Bu durum, v\u00fccudumuzun temel metabolik i\u015flevlerini bozan karma\u015f\u0131k bir s\u00fcre\u00e7 ba\u015flat\u0131r. Sirkadiyen ritmin bozulmas\u0131, ins\u00fclin \u00fcretimi, kortizol sal\u0131n\u0131m\u0131 ve b\u00fcy\u00fcme hormonu gibi kritik hormonlar\u0131n salg\u0131lanma zaman\u0131n\u0131 de\u011fi\u015ftirir. Sonu\u00e7 olarak, metabolizma yava\u015flar, h\u00fccresel enerji \u00fcretimi aksar ve v\u00fccudun do\u011fal yenilenme mekanizmalar\u0131 zarar g\u00f6r\u00fcr.",
+            "slide_image_prompt": "A scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways, metabolic processes, and a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones, emphasizing the interconnection between biological rhythm and metabolic functions. Include subtle visual metaphors of time and biological processes intertwining."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are areas for improvement to achieve full coherence and optimal multimedia design:\n\n1. Content Coherence (35/40):\n   - The alignment between onscreen text, voiceover, and image prompt is good, but could be tightened.\n   - The voiceover could mention 'Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131' to fully align with the onscreen text.\n   - The message is clear, but the level of detail in the voiceover slightly exceeds the onscreen text.\n\n2. Multimedia Design (28/30):\n   - The balance between onscreen and voiceover text is good.\n   - Onscreen text is concise and well-structured.\n   - The voiceover provides comprehensive information.\n   - The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (29/30):\n   - HTML markup is correctly used.\n   - The image prompt is clear and specific.\n   - Language consistency is maintained throughout.\n   - The tone is professional and appropriate for the topic.\n\nTo improve:\n- Add a brief mention of 'Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131' in the voiceover to fully align with the onscreen text.\n- Consider adding one more bullet point to the onscreen text about the disruption of cellular energy production to match the detail level of the voiceover.\n- Slightly refine the image prompt to explicitly mention the slowing of metabolic processes, which is a key point in the content.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri</h2><ul><li>Sirkadiyen Ritim Bozulmas\u0131</li><li>Hormonal Dengesizlikler</li><li>Metabolik Yava\u015flama</li><li>Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131</li><li>H\u00fccresel Enerji \u00dcretiminde Azalma</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyumak, insan v\u00fccudunun do\u011fal biyolojik saatini ciddi \u015fekilde etkilemektedir. Bu durum, v\u00fccudumuzun temel metabolik i\u015flevlerini bozan karma\u015f\u0131k bir s\u00fcre\u00e7 ba\u015flat\u0131r. Sirkadiyen ritmin bozulmas\u0131, ins\u00fclin \u00fcretimi, kortizol sal\u0131n\u0131m\u0131 ve b\u00fcy\u00fcme hormonu gibi kritik hormonlar\u0131n salg\u0131lanma zaman\u0131n\u0131 de\u011fi\u015ftirir. Sonu\u00e7 olarak, metabolizma yava\u015flar, temel metabolik s\u00fcre\u00e7ler aksar, h\u00fccresel enerji \u00fcretimi azal\u0131r ve v\u00fccudun do\u011fal yenilenme mekanizmalar\u0131 zarar g\u00f6r\u00fcr.",
+            "slide_image_prompt": "A scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways, metabolic processes, and a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones, emphasizing the interconnection between biological rhythm and metabolic functions. Include subtle visual metaphors of time and biological processes intertwining. Highlight the slowing of metabolic processes and decreased cellular energy production with dimmed or slowed-down visual elements within the body."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but could be tightened.\n- The voiceover could benefit from a more explicit connection to the bullet points on screen.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is detailed and relevant, enhancing the content effectively.\n\n3. Technical Quality (29/30):\n- The HTML markup is correctly used.\n- The language is consistent and professional.\n- The image prompt is clear and specific, but could include more direct references to the listed bullet points.\n\nTo improve:\n1. Add a brief introduction in the voiceover to explicitly connect to the onscreen bullet points.\n2. Include more specific mentions of 'h\u00fccresel enerji \u00fcretiminde azalma' in the voiceover to match the onscreen text.\n3. Refine the image prompt to explicitly include visual representations of each bullet point listed onscreen.\n\nOverall, the content is of high quality but needs minor adjustments for perfect alignment across all elements.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<h2>Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri</h2><ul><li>Sirkadiyen Ritim Bozulmas\u0131</li><li>Hormonal Dengesizlikler</li><li>Metabolik Yava\u015flama</li><li>Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131</li><li>H\u00fccresel Enerji \u00dcretiminde Azalma</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyumak, insan v\u00fccudunun do\u011fal biyolojik saatini ciddi \u015fekilde etkilemektedir. Bu slaytta, ge\u00e7 uyuman\u0131n biyolojik saat ve metabolizma \u00fczerindeki be\u015f temel etkisini inceleyece\u011fiz. \u0130lk olarak, sirkadiyen ritmin bozulmas\u0131 ger\u00e7ekle\u015fir. Bu durum, v\u00fccudumuzun temel metabolik i\u015flevlerini bozan karma\u015f\u0131k bir s\u00fcre\u00e7 ba\u015flat\u0131r. \u0130kinci olarak, ins\u00fclin \u00fcretimi, kortizol sal\u0131n\u0131m\u0131 ve b\u00fcy\u00fcme hormonu gibi kritik hormonlar\u0131n salg\u0131lanma zaman\u0131 de\u011fi\u015ferek hormonal dengesizlikler ortaya \u00e7\u0131kar. \u00dc\u00e7\u00fcnc\u00fc etki olarak, metabolizma yava\u015flar. D\u00f6rd\u00fcnc\u00fc olarak, temel metabolik s\u00fcre\u00e7ler aksar. Son olarak, h\u00fccresel enerji \u00fcretiminde belirgin bir azalma g\u00f6zlenir. T\u00fcm bu etkiler bir araya geldi\u011finde, v\u00fccudun do\u011fal yenilenme mekanizmalar\u0131 zarar g\u00f6r\u00fcr ve genel sa\u011fl\u0131k olumsuz etkilenir.",
+            "slide_image_prompt": "Create a scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways and metabolic processes. Include a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones. Highlight five key areas corresponding to the bullet points: 1) A disrupted circadian rhythm symbolized by a misaligned sun-moon cycle, 2) Hormonal imbalances represented by irregular hormone molecule symbols, 3) Slowed metabolism depicted by sluggish metabolic pathway arrows, 4) Disrupted core metabolic processes shown as malfunctioning cellular organelles, 5) Decreased cellular energy production illustrated by dimmed mitochondria. Use subtle visual metaphors of time and biological processes intertwining throughout the image. Ensure each element is clearly labeled in Turkish to match the onscreen text."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more tightly structured to match the bullet points.\n- The message is clear, but the voiceover could benefit from transition phrases between points.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is detailed and relevant, enhancing the content effectively.\n- Consider adding brief explanations to the onscreen bullet points for better standalone comprehension.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider using <li> tags for better semantic structure.\n- The image prompt is clear and specific, but ensure all labels are in Turkish to match the onscreen text.\n- The language is consistent and professional throughout.\n\nTo achieve a perfect score:\n- Restructure the voiceover to more closely follow the bullet point order.\n- Add brief explanations to onscreen bullet points.\n- Ensure all image labels are in Turkish.\n- Use <li> tags in the HTML markup for improved structure.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_2_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Biyolojik Saat ve Metabolizma \u00dczerindeki Etkileri</h2><ul><li>Sirkadiyen Ritim Bozulmas\u0131: V\u00fccudun do\u011fal d\u00f6ng\u00fcs\u00fc bozulur</li><li>Hormonal Dengesizlikler: Kritik hormonlar\u0131n salg\u0131lanma zaman\u0131 de\u011fi\u015fir</li><li>Metabolik Yava\u015flama: V\u00fccut fonksiyonlar\u0131 yava\u015flar</li><li>Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131: H\u00fccresel i\u015flevler bozulur</li><li>H\u00fccresel Enerji \u00dcretiminde Azalma: Mitokondri aktivitesi d\u00fc\u015fer</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyumak, insan v\u00fccudunun do\u011fal biyolojik saatini ciddi \u015fekilde etkilemektedir. Bu slaytta, ge\u00e7 uyuman\u0131n biyolojik saat ve metabolizma \u00fczerindeki be\u015f temel etkisini inceleyece\u011fiz. \u0130lk olarak, sirkadiyen ritim bozulur, bu da v\u00fccudumuzun do\u011fal d\u00f6ng\u00fcs\u00fcn\u00fc alt\u00fcst eder. \u0130kinci olarak, hormonal dengesizlikler ortaya \u00e7\u0131kar; ins\u00fclin, kortizol ve b\u00fcy\u00fcme hormonu gibi kritik hormonlar\u0131n salg\u0131lanma zaman\u0131 de\u011fi\u015fir. \u00dc\u00e7\u00fcnc\u00fc etki olarak, metabolizma yava\u015flar, bu da v\u00fccut fonksiyonlar\u0131n\u0131n genel bir yava\u015flamas\u0131na yol a\u00e7ar. D\u00f6rd\u00fcnc\u00fc olarak, temel metabolik s\u00fcre\u00e7ler aksar, h\u00fccresel d\u00fczeyde i\u015flevler bozulur. Son olarak, h\u00fccresel enerji \u00fcretiminde belirgin bir azalma g\u00f6zlenir, mitokondri aktivitesi d\u00fc\u015fer. T\u00fcm bu etkiler bir araya geldi\u011finde, v\u00fccudun do\u011fal yenilenme mekanizmalar\u0131 zarar g\u00f6r\u00fcr ve genel sa\u011fl\u0131k olumsuz etkilenir.",
+            "slide_image_prompt": "Create a scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways and metabolic processes. Include a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones. Highlight five key areas corresponding to the bullet points: 1) 'Sirkadiyen Ritim Bozulmas\u0131' symbolized by a misaligned sun-moon cycle, 2) 'Hormonal Dengesizlikler' represented by irregular hormone molecule symbols, 3) 'Metabolik Yava\u015flama' depicted by sluggish metabolic pathway arrows, 4) 'Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131' shown as malfunctioning cellular organelles, 5) 'H\u00fccresel Enerji \u00dcretiminde Azalma' illustrated by dimmed mitochondria. Use subtle visual metaphors of time and biological processes intertwining throughout the image. Ensure all elements and labels are in Turkish to match the onscreen text."
+         }
+      },
+      {
+         "step": "tester_content_slide_2_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and the level of detail is appropriate. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points and a comprehensive voiceover explanation. The image prompt is detailed and relevant, enhancing the overall presentation. The technical quality is high, with correct HTML markup and consistent use of Turkish language throughout. However, to achieve absolute perfection, consider adding a brief transition sentence in the voiceover to link the list of effects to their health implications more explicitly.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "Create a scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways and metabolic processes. Include a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones. Highlight five key areas corresponding to the bullet points: 1) 'Sirkadiyen Ritim Bozulmas\u0131' symbolized by a misaligned sun-moon cycle, 2) 'Hormonal Dengesizlikler' represented by irregular hormone molecule symbols, 3) 'Metabolik Yava\u015flama' depicted by sluggish metabolic pathway arrows, 4) 'Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131' shown as malfunctioning cellular organelles, 5) 'H\u00fccresel Enerji \u00dcretiminde Azalma' illustrated by dimmed mitochondria. Use subtle visual metaphors of time and biological processes intertwining throughout the image. Ensure all elements and labels are in Turkish to match the onscreen text.",
+            "image_url": "https://v3.fal.media/files/panda/vLtD1PJKHDSgjkuozxpj5.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a scientific medical illustration showing a human silhouette with a visible internal clock mechanism, where gears and biological processes are disrupted and slowing down. Use a cross-section view revealing hormonal pathways and metabolic processes. Include a faded day-night cycle in the background. Employ a clean, medical infographic style with cool blue and soft gray tones. Highlight five key areas corresponding to the bullet points: 1) 'Sirkadiyen Ritim Bozulmas\u0131' symbolized by a misaligned sun-moon cycle, 2) 'Hormonal Dengesizlikler' represented by irregular hormone molecule symbols, 3) 'Metabolik Yava\u015flama' depicted by sluggish metabolic pathway arrows, 4) 'Temel Metabolik S\u00fcre\u00e7lerin Aksamas\u0131' shown as malfunctioning cellular organelles, 5) 'H\u00fccresel Enerji \u00dcretiminde Azalma' illustrated by dimmed mitochondria. Use subtle visual metaphors of time and biological processes intertwining throughout the image. Ensure all elements and labels are in Turkish to match the onscreen text.",
+            "new_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons representing: 1) A misaligned sun and moon symbol for circadian rhythm disruption, 2) An irregular hormone molecule for hormonal imbalances, 3) A slowed-down metabolic pathway arrow, 4) A simplified cell with malfunctioning organelles, and 5) A dimmed mitochondrion for decreased cellular energy production. Arrange these icons in a clockwise manner within the silhouette. Use simple, geometric shapes and minimal detail to keep the design clean and easily comprehensible. Ensure high contrast between elements for clarity. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Lighting should be flat and even to maintain the infographic style. Aim for a high-quality, vector-like appearance suitable for presentation slides."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons representing: 1) A misaligned sun and moon symbol for circadian rhythm disruption, 2) An irregular hormone molecule for hormonal imbalances, 3) A slowed-down metabolic pathway arrow, 4) A simplified cell with malfunctioning organelles, and 5) A dimmed mitochondrion for decreased cellular energy production. Arrange these icons in a clockwise manner within the silhouette. Use simple, geometric shapes and minimal detail to keep the design clean and easily comprehensible. Ensure high contrast between elements for clarity. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Lighting should be flat and even to maintain the infographic style. Aim for a high-quality, vector-like appearance suitable for presentation slides.",
+            "image_url": "https://v3.fal.media/files/penguin/dNU_HMFYHpUhcbqmZAgYy.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons representing: 1) A misaligned sun and moon symbol for circadian rhythm disruption, 2) An irregular hormone molecule for hormonal imbalances, 3) A slowed-down metabolic pathway arrow, 4) A simplified cell with malfunctioning organelles, and 5) A dimmed mitochondrion for decreased cellular energy production. Arrange these icons in a clockwise manner within the silhouette. Use simple, geometric shapes and minimal detail to keep the design clean and easily comprehensible. Ensure high contrast between elements for clarity. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Lighting should be flat and even to maintain the infographic style. Aim for a high-quality, vector-like appearance suitable for presentation slides.",
+            "new_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle label or visual cue to enhance comprehension without text. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_3",
+         "data": {
+            "image_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle label or visual cue to enhance comprehension without text. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides.",
+            "image_url": "https://v3.fal.media/files/monkey/GB-lsmRx3dy__qF31weCP.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 3
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_3",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle label or visual cue to enhance comprehension without text. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides.",
+            "new_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, using lighter shades on one side transitioning to darker shades on the other, without any text labels. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle visual cue to enhance comprehension without text, such as a small clock symbol near the sun/moon, a molecule shape near the hormone icon, a downward arrow near the metabolic pathway, a cell membrane outline for the cell icon, and an energy bolt symbol near the mitochondrion. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_4",
+         "data": {
+            "image_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, using lighter shades on one side transitioning to darker shades on the other, without any text labels. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle visual cue to enhance comprehension without text, such as a small clock symbol near the sun/moon, a molecule shape near the hormone icon, a downward arrow near the metabolic pathway, a cell membrane outline for the cell icon, and an energy bolt symbol near the mitochondrion. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides.",
+            "image_url": "https://v3.fal.media/files/penguin/5yz0Y35fzQrIVuIAnDuFy.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 4
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_4",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a minimalist medical illustration of a human silhouette in profile, with a simplified internal clock mechanism visible inside the torso. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, using lighter shades on one side transitioning to darker shades on the other, without any text labels. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, representing: 1) A misaligned sun and moon symbol with subtle arrows indicating disruption for circadian rhythm issues, 2) An irregular hormone molecule with jagged edges for hormonal imbalances, 3) A slowed-down metabolic pathway arrow with dashed lines, 4) A simplified cell with malfunctioning organelles depicted by irregular shapes inside, and 5) A dimmed mitochondrion with lowered opacity for decreased cellular energy production. Use simple, geometric shapes with minimal detail, ensuring high contrast between elements for clarity. Each icon should have a subtle visual cue to enhance comprehension without text, such as a small clock symbol near the sun/moon, a molecule shape near the hormone icon, a downward arrow near the metabolic pathway, a cell membrane outline for the cell icon, and an energy bolt symbol near the mitochondrion. The overall composition should be centered and balanced, with the silhouette occupying about 70% of the image area. Apply flat, even lighting to maintain the infographic style. Aim for a high-quality, vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides.",
+            "new_prompt": "Create a minimalist medical illustration of a human silhouette in profile, occupying 70% of the image area and centered. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, transitioning from lighter to darker shades. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, each occupying about 15% of the silhouette's area: 1) A stylized sun and moon symbol with subtle arrows indicating disruption, 2) An abstract hormone molecule with jagged edges, 3) A simplified metabolic pathway represented by a curved arrow with dashed segments, 4) A basic cell outline with irregularly shaped internal structures, and 5) A simplified mitochondrion shape with lowered opacity. Use simple geometric shapes with high contrast between elements. Enhance each icon with a subtle visual cue: a tiny clock symbol near the sun/moon, a simplified atom structure near the hormone icon, a small downward arrow near the metabolic pathway, a magnifying glass outline partially overlapping the cell, and a miniature lightning bolt near the mitochondrion. Apply flat, even lighting to maintain an infographic style. Aim for a vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides. Ensure absolutely no text or writing appears in the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_5",
+         "data": {
+            "image_prompt": "Create a minimalist medical illustration of a human silhouette in profile, occupying 70% of the image area and centered. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, transitioning from lighter to darker shades. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, each occupying about 15% of the silhouette's area: 1) A stylized sun and moon symbol with subtle arrows indicating disruption, 2) An abstract hormone molecule with jagged edges, 3) A simplified metabolic pathway represented by a curved arrow with dashed segments, 4) A basic cell outline with irregularly shaped internal structures, and 5) A simplified mitochondrion shape with lowered opacity. Use simple geometric shapes with high contrast between elements. Enhance each icon with a subtle visual cue: a tiny clock symbol near the sun/moon, a simplified atom structure near the hormone icon, a small downward arrow near the metabolic pathway, a magnifying glass outline partially overlapping the cell, and a miniature lightning bolt near the mitochondrion. Apply flat, even lighting to maintain an infographic style. Aim for a vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides. Ensure absolutely no text or writing appears in the image.",
+            "image_url": "https://v3.fal.media/files/elephant/4zA85Mf6qxSnVxyLGXUg9.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 5
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_5",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a minimalist medical illustration of a human silhouette in profile, occupying 70% of the image area and centered. Use a clean, flat design style with a limited color palette of cool blue, soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, transitioning from lighter to darker shades. Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern, each occupying about 15% of the silhouette's area: 1) A stylized sun and moon symbol with subtle arrows indicating disruption, 2) An abstract hormone molecule with jagged edges, 3) A simplified metabolic pathway represented by a curved arrow with dashed segments, 4) A basic cell outline with irregularly shaped internal structures, and 5) A simplified mitochondrion shape with lowered opacity. Use simple geometric shapes with high contrast between elements. Enhance each icon with a subtle visual cue: a tiny clock symbol near the sun/moon, a simplified atom structure near the hormone icon, a small downward arrow near the metabolic pathway, a magnifying glass outline partially overlapping the cell, and a miniature lightning bolt near the mitochondrion. Apply flat, even lighting to maintain an infographic style. Aim for a vector-like appearance with crisp edges and smooth gradients, suitable for presentation slides. Ensure absolutely no text or writing appears in the image.",
+            "new_prompt": "Create a minimalist medical illustration of a human silhouette in profile, occupying 70% of the image area and centered. Use a clean, flat design style with a limited color palette of cool blue (primary color), soft gray, and white. The background should feature a subtle gradient representing a day-night cycle, transitioning from lighter blue (top left) to darker blue (bottom right). Inside the silhouette, include five distinct, simplified icons arranged in a clear clockwise pattern starting from the head area, each occupying about 15% of the silhouette's area: 1) A stylized sun (yellow) and moon (white) symbol with subtle curved arrows indicating disruption, 2) An abstract hormone molecule represented by interconnected hexagons with jagged edges, 3) A simplified metabolic pathway represented by a curved arrow with dashed segments, 4) A basic cell outline (circular) with 3-4 irregularly shaped internal structures, and 5) A simplified mitochondrion shape (oval with internal ridges) with lowered opacity. Use simple geometric shapes with high contrast between elements and the silhouette's interior. Enhance each icon with a subtle visual cue in white: a tiny clock symbol (1 o'clock position) near the sun/moon, a simplified atom structure (3 circles in a triangle) near the hormone icon, a small downward arrow near the metabolic pathway, a magnifying glass outline partially overlapping the cell, and a miniature lightning bolt near the mitochondrion. Apply flat, even lighting to maintain an infographic style. Aim for a vector-like appearance with crisp edges, smooth gradients, and sharp corners where applicable. Ensure absolutely no text or writing appears in the image. The overall composition should be clean, uncluttered, and suitable for presentation slides, with each element clearly distinguishable."
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>Ge\u00e7 Uykular\u0131n Zihinsel Sa\u011fl\u0131\u011fa Olumsuz Etkileri</h2><ul><li>Konsantrasyon Kayb\u0131</li><li>Haf\u0131za Performans\u0131nda D\u00fc\u015f\u00fc\u015f</li><li>Depresyon Riski Art\u0131\u015f\u0131</li></ul>",
+            "slide_voiceover_text": "D\u00fczensiz uyku al\u0131\u015fkanl\u0131klar\u0131 zihinsel sa\u011fl\u0131\u011f\u0131m\u0131z\u0131 derinden etkiliyor. Ge\u00e7 uyumak, beynimizin normal i\u015fleyi\u015fini bozarak konsantrasyon eksikli\u011fi yarat\u0131r, haf\u0131zam\u0131z\u0131 zay\u0131flat\u0131r ve depresyon riskini ciddi oranda y\u00fckseltir. Sa\u011fl\u0131kl\u0131 bir uyku d\u00fczeni, zihinsel performans\u0131m\u0131z\u0131n korunmas\u0131 i\u00e7in kritik \u00f6neme sahiptir.",
+            "slide_image_prompt": "A split-screen illustration showing the brain's cognitive functions. On one side, a vibrant, alert brain with clear neural connections representing healthy sleep patterns. On the other side, a dim, fragmented brain with disconnected neural pathways symbolizing the effects of late sleeping. Use a medical illustration style with soft, scientific color palette of blues and grays. Highlight the contrast between optimal and disrupted mental performance."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is well-structured and coherent. The onscreen text, voiceover, and image prompt align well with the slide's focus. The content effectively communicates the negative effects of late sleeping on mental health. To further improve, consider adding a brief mention of the importance of maintaining a regular sleep schedule in the voiceover text to reinforce the overall message. The image prompt is detailed and relevant, effectively illustrating the contrast between healthy and disrupted sleep patterns on cognitive function.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen illustration showing the brain's cognitive functions. On one side, a vibrant, alert brain with clear neural connections representing healthy sleep patterns. On the other side, a dim, fragmented brain with disconnected neural pathways symbolizing the effects of late sleeping. Use a medical illustration style with soft, scientific color palette of blues and grays. Highlight the contrast between optimal and disrupted mental performance.",
+            "image_url": "https://v3.fal.media/files/kangaroo/5yXxF-iLxoc0yCPhD2a-7.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A split-screen illustration showing the brain's cognitive functions. On one side, a vibrant, alert brain with clear neural connections representing healthy sleep patterns. On the other side, a dim, fragmented brain with disconnected neural pathways symbolizing the effects of late sleeping. Use a medical illustration style with soft, scientific color palette of blues and grays. Highlight the contrast between optimal and disrupted mental performance.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme</h2><ul><li>D\u00fczenli Uyku Saatleri</li><li>\u0130yi Uyku Hijyeni</li><li>Ya\u015fam Kalitesini Art\u0131rma Stratejileri</li></ul>",
+            "slide_voiceover_text": "Sa\u011fl\u0131kl\u0131 bir ya\u015fam i\u00e7in uyku al\u0131\u015fkanl\u0131klar\u0131m\u0131z\u0131 g\u00f6zden ge\u00e7irmek \u00e7ok \u00f6nemlidir. D\u00fczenli uyku saatleri ve iyi bir uyku hijyeni, v\u00fccudumuzun fiziksel ve zihinsel yenilenme s\u00fcrecini destekler. Her gece ayn\u0131 saatte yatmak ve kalkmak, biyolojik saatimizi d\u00fczenler, stres seviyemizi azalt\u0131r ve genel sa\u011fl\u0131k performans\u0131m\u0131z\u0131 art\u0131r\u0131r.",
+            "slide_image_prompt": "A serene bedroom scene at night, showing a perfectly made comfortable bed with soft, clean bedding. A bedside table with a gentle reading lamp, a glass of water, and a sleep tracking device. The room has calming blue and white tones, with moonlight softly filtering through elegant curtains. Illustrate in a clean, modern graphic style that feels peaceful and inviting, emphasizing comfort and healthy sleep environment."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could mention 'ya\u015fam kalitesini art\u0131rma' to better match the onscreen text.\n- The message is clear, but could be more focused on the specific strategies mentioned in the onscreen text.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The voiceover provides good context but could be more aligned with the bullet points.\n- The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (27/30):\n- The HTML markup is correct, but consider adding more semantic elements for better structure.\n- The image prompt is clear and specific, but could include elements related to 'ya\u015fam kalitesini art\u0131rma'.\n- Language consistency is maintained well.\n- The tone is professional and appropriate.\n\nTo improve:\n- Align the voiceover more closely with the onscreen bullet points.\n- Include more specific strategies for improving sleep habits and life quality in the voiceover.\n- Consider adding semantic HTML elements like <nav> or <section> for better structure.\n- Expand the image prompt to include visual elements representing improved life quality due to good sleep habits.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Sa\u011fl\u0131kl\u0131 Uyku Al\u0131\u015fkanl\u0131klar\u0131 Geli\u015ftirme</h2><nav><ul><li>D\u00fczenli Uyku Saatleri</li><li>\u0130yi Uyku Hijyeni</li><li>Ya\u015fam Kalitesini Art\u0131rma Stratejileri</li></ul></nav>",
+            "slide_voiceover_text": "Sa\u011fl\u0131kl\u0131 bir ya\u015fam i\u00e7in uyku al\u0131\u015fkanl\u0131klar\u0131m\u0131z\u0131 geli\u015ftirmek \u00e7ok \u00f6nemlidir. D\u00fczenli uyku saatleri, v\u00fccudumuzun biyolojik saatini d\u00fczenler ve stres seviyemizi azalt\u0131r. \u0130yi bir uyku hijyeni, \u00f6rne\u011fin rahat bir yatak ortam\u0131 ve uyku \u00f6ncesi rutinler, fiziksel ve zihinsel yenilenme s\u00fcrecimizi destekler. Bu al\u0131\u015fkanl\u0131klar, enerji seviyemizi y\u00fckseltir, odaklanma yetene\u011fimizi art\u0131r\u0131r ve genel ya\u015fam kalitemizi iyile\u015ftirir. \u00d6rne\u011fin, d\u00fczenli egzersiz yapma ve ak\u015famlar\u0131 teknoloji kullan\u0131m\u0131n\u0131 s\u0131n\u0131rlama gibi stratejiler, uyku kalitemizi ve dolay\u0131s\u0131yla ya\u015fam memnuniyetimizi art\u0131r\u0131r.",
+            "slide_image_prompt": "A split-screen image showing two contrasting bedroom scenes. On the left, a serene bedroom at night with a perfectly made comfortable bed, soft lighting, and calming blue tones. On the right, a bright daytime scene showing an energetic person starting their day, looking refreshed and happy. The bedroom side includes a sleep tracking device and a glass of water on the bedside table. The daytime side shows the person engaged in a healthy activity like yoga or reading, emphasizing the improved quality of life. Use a clean, modern graphic style that connects good sleep habits with enhanced daily living."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear and delivered effectively. The content provides an appropriate level of detail and flows logically. The multimedia design shows a good balance between onscreen and voiceover text, with concise bullet points and a comprehensive voiceover explanation. The image prompt is highly relevant and enhances the message. The technical quality is high, with correct HTML markup and professional language. To achieve absolute perfection, consider adding a brief mention of the specific sleep tracking device in the voiceover to tie it more closely to the image prompt.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen image showing two contrasting bedroom scenes. On the left, a serene bedroom at night with a perfectly made comfortable bed, soft lighting, and calming blue tones. On the right, a bright daytime scene showing an energetic person starting their day, looking refreshed and happy. The bedroom side includes a sleep tracking device and a glass of water on the bedside table. The daytime side shows the person engaged in a healthy activity like yoga or reading, emphasizing the improved quality of life. Use a clean, modern graphic style that connects good sleep habits with enhanced daily living.",
+            "image_url": "https://v3.fal.media/files/tiger/jz2nEIA2RNEr9e1VifakF.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A split-screen image showing two contrasting bedroom scenes. On the left, a serene bedroom at night with a perfectly made comfortable bed, soft lighting, and calming blue tones. On the right, a bright daytime scene showing an energetic person starting their day, looking refreshed and happy. The bedroom side includes a sleep tracking device and a glass of water on the bedside table. The daytime side shows the person engaged in a healthy activity like yoga or reading, emphasizing the improved quality of life. Use a clean, modern graphic style that connects good sleep habits with enhanced daily living.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>Erken Uyuman\u0131n Sa\u011fl\u0131k \u00dczerindeki Olumlu Etkileri</h2><ul><li>Daha \u0130yi Zihinsel Performans</li><li>G\u00fc\u00e7lendirilmi\u015f Ba\u011f\u0131\u015f\u0131kl\u0131k Sistemi</li><li>Duygusal Dengede \u0130yile\u015fme</li><li>Kronik Hastal\u0131k Riskinin Azalmas\u0131</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyuman\u0131n zararl\u0131 etkilerinden kurtularak, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131 benimsedi\u011fimizde sa\u011fl\u0131\u011f\u0131m\u0131zda devrim yaratabiliriz. D\u00fczenli ve zaman\u0131nda uyku, v\u00fccudumuzun yenilenmesine, zihinsel kapasitemizin artmas\u0131na ve genel ya\u015fam kalitemizin y\u00fckselmesine do\u011frudan katk\u0131 sa\u011flar.",
+            "slide_image_prompt": "A serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light and subtle visual representations of health benefits like brain waves, immune system symbols, and calm emotional energy. Use a soothing color palette with blues and soft greens, in a modern, minimalist watercolor style that conveys tranquility and wellness."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The onscreen text, voiceover, and image prompt are mostly aligned, but the voiceover could be more specific about the listed benefits.\n- The message is clear, but the voiceover could be more tightly connected to the onscreen points.\n\n2. Multimedia Design (28/30):\n- Good balance between onscreen and voiceover text.\n- Onscreen text is concise and well-organized.\n- The voiceover provides context but could elaborate more on the listed benefits.\n- The image prompt is relevant and enhances the message.\n\n3. Technical Quality (29/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific.\n- Language is consistent throughout.\n- The tone is professional and appropriate.\n\nTo improve:\n1. Align the voiceover more closely with the onscreen text by briefly explaining each listed benefit.\n2. Consider adding a brief mention of the importance of consistent sleep schedules in the onscreen text.\n3. Ensure the voiceover addresses all points listed in the onscreen text for complete coherence.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>Erken Uyuman\u0131n Sa\u011fl\u0131k \u00dczerindeki Olumlu Etkileri</h2><ul><li>Daha \u0130yi Zihinsel Performans</li><li>G\u00fc\u00e7lendirilmi\u015f Ba\u011f\u0131\u015f\u0131kl\u0131k Sistemi</li><li>Duygusal Dengede \u0130yile\u015fme</li><li>Kronik Hastal\u0131k Riskinin Azalmas\u0131</li><li>Tutarl\u0131 Uyku D\u00fczeninin \u00d6nemi</li></ul>",
+            "slide_voiceover_text": "Ge\u00e7 uyuman\u0131n zararl\u0131 etkilerinden kurtularak, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131 benimsedi\u011fimizde sa\u011fl\u0131\u011f\u0131m\u0131zda devrim yaratabiliriz. D\u00fczenli ve zaman\u0131nda uyku, zihinsel performans\u0131m\u0131z\u0131 art\u0131r\u0131r, haf\u0131zam\u0131z\u0131 g\u00fc\u00e7lendirir. Ba\u011f\u0131\u015f\u0131kl\u0131k sistemimizi destekleyerek hastal\u0131klara kar\u015f\u0131 direncimizi art\u0131r\u0131r. Duygusal dengemizi iyile\u015ftirir, stres ve anksiyeteyi azalt\u0131r. Kronik hastal\u0131k riskini d\u00fc\u015f\u00fcr\u00fcr, \u00f6zellikle kalp hastal\u0131klar\u0131 ve diyabet gibi rahats\u0131zl\u0131klara kar\u015f\u0131 koruma sa\u011flar. Ayr\u0131ca, tutarl\u0131 bir uyku d\u00fczeni benimsemek, bu faydalar\u0131n s\u00fcrd\u00fcr\u00fclebilir olmas\u0131n\u0131 sa\u011flar. Sonu\u00e7 olarak, erken ve d\u00fczenli uyku al\u0131\u015fkanl\u0131\u011f\u0131, genel ya\u015fam kalitemizin y\u00fckselmesine do\u011frudan katk\u0131 sa\u011flar.",
+            "slide_image_prompt": "A serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light and subtle visual representations of health benefits. Include icons or symbols for improved brain function, a strong immune system, emotional balance, and reduced chronic disease risk. Also, add a small clock or calendar symbol to represent consistent sleep schedules. Use a soothing color palette with blues and soft greens, in a modern, minimalist watercolor style that conveys tranquility and wellness."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and deliver a clear message about the benefits of early sleep. The content is detailed, logically structured, and maintains a professional tone. The onscreen text is concise, while the voiceover provides comprehensive information. The image prompt is specific and relevant, enhancing the overall message. To further improve, consider adding a brief mention of how to transition to an early sleep schedule in the voiceover for practical application.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "A serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light and subtle visual representations of health benefits. Include icons or symbols for improved brain function, a strong immune system, emotional balance, and reduced chronic disease risk. Also, add a small clock or calendar symbol to represent consistent sleep schedules. Use a soothing color palette with blues and soft greens, in a modern, minimalist watercolor style that conveys tranquility and wellness.",
+            "image_url": "https://v3.fal.media/files/monkey/2USVUMQHtSbnrbe9MhFYq.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "A serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light and subtle visual representations of health benefits. Include icons or symbols for improved brain function, a strong immune system, emotional balance, and reduced chronic disease risk. Also, add a small clock or calendar symbol to represent consistent sleep schedules. Use a soothing color palette with blues and soft greens, in a modern, minimalist watercolor style that conveys tranquility and wellness.",
+            "new_prompt": "Create a serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light. Use a soothing color palette with blues and soft greens in a modern, minimalist watercolor style. Include simple, icon-like visual representations floating around the sleeping figure: a stylized brain for improved brain function, a shield or body outline with a checkmark for a strong immune system, a balanced scale for emotional balance, and a heart with a downward arrow for reduced chronic disease risk. Add a small, simple clock symbol near the bed to represent consistent sleep schedules. Ensure all symbols are clear but without any text or numbers. Focus on conveying tranquility and wellness through clean lines, subtle gradients, and ample negative space. The overall composition should be uncluttered and easily comprehensible at a glance, suitable for a presentation slide background."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "Create a serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light. Use a soothing color palette with blues and soft greens in a modern, minimalist watercolor style. Include simple, icon-like visual representations floating around the sleeping figure: a stylized brain for improved brain function, a shield or body outline with a checkmark for a strong immune system, a balanced scale for emotional balance, and a heart with a downward arrow for reduced chronic disease risk. Add a small, simple clock symbol near the bed to represent consistent sleep schedules. Ensure all symbols are clear but without any text or numbers. Focus on conveying tranquility and wellness through clean lines, subtle gradients, and ample negative space. The overall composition should be uncluttered and easily comprehensible at a glance, suitable for a presentation slide background.",
+            "image_url": "https://v3.fal.media/files/monkey/xECurp1aOEnyoi6Qj2OWv.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "Create a serene, soft-lit illustration showing a peaceful human figure sleeping in a comfortable bed, surrounded by gentle healing light. Use a soothing color palette with blues and soft greens in a modern, minimalist watercolor style. Include simple, icon-like visual representations floating around the sleeping figure: a stylized brain for improved brain function, a shield or body outline with a checkmark for a strong immune system, a balanced scale for emotional balance, and a heart with a downward arrow for reduced chronic disease risk. Add a small, simple clock symbol near the bed to represent consistent sleep schedules. Ensure all symbols are clear but without any text or numbers. Focus on conveying tranquility and wellness through clean lines, subtle gradients, and ample negative space. The overall composition should be uncluttered and easily comprehensible at a glance, suitable for a presentation slide background.",
+            "new_prompt": null
+         }
+      }
+   ]
+}

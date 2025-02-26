@@ -1,0 +1,398 @@
+{
+   "timestamp": "20250210011806",
+   "process_steps": [
+      {
+         "step": "topic_count",
+         "data": {
+            "presentation_topic": "1980'ler T\u00fcrkiyesi",
+            "slide_count": 5
+         }
+      },
+      {
+         "step": "initial_outline",
+         "data": {
+            "presentation_title": "1980'ler T\u00fcrkiyesi: De\u011fi\u015fim ve D\u00f6n\u00fc\u015f\u00fcm D\u00f6nemi",
+            "slide_outlines": [
+               {
+                  "slide_title": "1980'ler T\u00fcrkiyesi: Bir D\u00f6n\u00fcm Noktas\u0131",
+                  "slide_focus": "1980'ler, T\u00fcrkiye'nin siyasi, ekonomik ve sosyal yap\u0131s\u0131nda k\u00f6kl\u00fc de\u011fi\u015fimlerin ya\u015fand\u0131\u011f\u0131 kritik bir on y\u0131l olmu\u015ftur.",
+                  "slide_number": 1
+               },
+               {
+                  "slide_title": "12 Eyl\u00fcl 1980 Darbesi ve Siyasi Sonu\u00e7lar\u0131",
+                  "slide_focus": "12 Eyl\u00fcl 1980 askeri darbesi, T\u00fcrkiye'nin siyasi yap\u0131s\u0131n\u0131 derinden etkileyerek yeni bir anayasa ve siyasi d\u00fczen getirmi\u015ftir.",
+                  "slide_number": 2
+               },
+               {
+                  "slide_title": "\u00d6zal D\u00f6nemi ve Ekonomik Liberalle\u015fme",
+                  "slide_focus": "Turgut \u00d6zal'\u0131n ba\u015fbakanl\u0131\u011f\u0131 d\u00f6neminde uygulanan liberal ekonomi politikalar\u0131, T\u00fcrkiye'nin d\u00fcnya ekonomisiyle entegrasyonunu h\u0131zland\u0131rm\u0131\u015ft\u0131r.",
+                  "slide_number": 3
+               },
+               {
+                  "slide_title": "K\u00fclt\u00fcrel ve Sosyal D\u00f6n\u00fc\u015f\u00fcm",
+                  "slide_focus": "1980'ler, T\u00fcrkiye'de pop\u00fcler k\u00fclt\u00fcr\u00fcn y\u00fckseli\u015fi, medyan\u0131n \u00e7e\u015fitlenmesi ve t\u00fcketim al\u0131\u015fkanl\u0131klar\u0131n\u0131n de\u011fi\u015fimiyle karakterize edilmi\u015ftir.",
+                  "slide_number": 4
+               },
+               {
+                  "slide_title": "1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri",
+                  "slide_focus": "1980'lerde ya\u015fanan de\u011fi\u015fimler, T\u00fcrkiye'nin siyasi, ekonomik ve sosyal yap\u0131s\u0131n\u0131 \u015fekillendirerek g\u00fcn\u00fcm\u00fcze kadar uzanan etkilere sahip olmu\u015ftur.",
+                  "slide_number": 5
+               }
+            ]
+         }
+      },
+      {
+         "step": "tester_result",
+         "data": {
+            "validation_feedback": {
+               "is_valid": true,
+               "feedback": "Outline has a clear introduction and conclusion, each slide covers a distinct concept, and there is a logical flow connecting political, economic, and cultural themes. The content is balanced with specific focuses, and the overall structure suggests good time management feasibility for the presentation.",
+               "score": 87
+            },
+            "tested_outline": {
+               "presentation_title": "1980'ler T\u00fcrkiyesi: De\u011fi\u015fim ve D\u00f6n\u00fc\u015f\u00fcm D\u00f6nemi",
+               "slide_outlines": [
+                  {
+                     "slide_title": "1980'ler T\u00fcrkiyesi: Bir D\u00f6n\u00fcm Noktas\u0131",
+                     "slide_focus": "1980'ler, T\u00fcrkiye'nin siyasi, ekonomik ve sosyal yap\u0131s\u0131nda k\u00f6kl\u00fc de\u011fi\u015fimlerin ya\u015fand\u0131\u011f\u0131 kritik bir on y\u0131l olmu\u015ftur.",
+                     "slide_number": 1
+                  },
+                  {
+                     "slide_title": "12 Eyl\u00fcl 1980 Darbesi ve Siyasi Sonu\u00e7lar\u0131",
+                     "slide_focus": "12 Eyl\u00fcl 1980 askeri darbesi, T\u00fcrkiye'nin siyasi yap\u0131s\u0131n\u0131 derinden etkileyerek yeni bir anayasa ve siyasi d\u00fczen getirmi\u015ftir.",
+                     "slide_number": 2
+                  },
+                  {
+                     "slide_title": "\u00d6zal D\u00f6nemi ve Ekonomik Liberalle\u015fme",
+                     "slide_focus": "Turgut \u00d6zal'\u0131n ba\u015fbakanl\u0131\u011f\u0131 d\u00f6neminde uygulanan liberal ekonomi politikalar\u0131, T\u00fcrkiye'nin d\u00fcnya ekonomisiyle entegrasyonunu h\u0131zland\u0131rm\u0131\u015ft\u0131r.",
+                     "slide_number": 3
+                  },
+                  {
+                     "slide_title": "K\u00fclt\u00fcrel ve Sosyal D\u00f6n\u00fc\u015f\u00fcm",
+                     "slide_focus": "1980'ler, T\u00fcrkiye'de pop\u00fcler k\u00fclt\u00fcr\u00fcn y\u00fckseli\u015fi, medyan\u0131n \u00e7e\u015fitlenmesi ve t\u00fcketim al\u0131\u015fkanl\u0131klar\u0131n\u0131n de\u011fi\u015fimiyle karakterize edilmi\u015ftir.",
+                     "slide_number": 4
+                  },
+                  {
+                     "slide_title": "1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri",
+                     "slide_focus": "1980'lerde ya\u015fanan de\u011fi\u015fimler, T\u00fcrkiye'nin siyasi, ekonomik ve sosyal yap\u0131s\u0131n\u0131 \u015fekillendirerek g\u00fcn\u00fcm\u00fcze kadar uzanan etkilere sahip olmu\u015ftur.",
+                     "slide_number": 5
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "step": "initial_content_slide_1",
+         "data": {
+            "slide_onscreen_text": "<h2>1980'ler T\u00fcrkiyesi: Bir D\u00f6n\u00fcm Noktas\u0131</h2><ul><li>Siyasal Yeniden Yap\u0131lanma</li><li>Ekonomik D\u00f6n\u00fc\u015f\u00fcm</li><li>Sosyal De\u011fi\u015fim Dinamikleri</li></ul>",
+            "slide_voiceover_text": "1980'ler T\u00fcrkiye'nin tarihinde kritik bir d\u00f6nemdir. Bu on y\u0131l, \u00fclkenin siyasal, ekonomik ve sosyal dokusunda k\u00f6kl\u00fc de\u011fi\u015fimlerin ya\u015fand\u0131\u011f\u0131 bir s\u00fcre\u00e7 olarak kar\u015f\u0131m\u0131za \u00e7\u0131kmaktad\u0131r. Askeri darbe sonras\u0131 ba\u015flayan yeniden yap\u0131lanma s\u00fcreci, T\u00fcrkiye'nin gelecek on y\u0131llar\u0131n\u0131 \u015fekillendiren \u00f6nemli bir d\u00f6n\u00fcm noktas\u0131 olmu\u015ftur.",
+            "slide_image_prompt": "A symbolic representation of 1980s Turkey, showing a split image with three distinct sections: on the left, a military parade representing political restructuring; in the center, an industrial landscape symbolizing economic transformation; on the right, a diverse group of people representing social change. Use a muted color palette of browns, grays, and deep blues. Employ a historical documentary photography style with a slightly desaturated look, capturing the essence of societal transition. The image should convey a sense of complexity and transformation, with sharp contrasts between different elements representing the multifaceted changes of the decade."
+         }
+      },
+      {
+         "step": "tester_content_slide_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and coherent, but there are areas for improvement to achieve full marks. The onscreen text, voiceover, and image prompt are aligned in their message about the transformative nature of 1980s Turkey. However, the onscreen text could be more specific to match the level of detail in the voiceover. Consider adding brief subpoints under each main point to provide more context. The voiceover text is informative but could benefit from a more explicit connection to the three main points listed on screen. The image prompt is detailed and relevant, but it could be enhanced by including elements that directly represent the 'd\u00f6n\u00fcm noktas\u0131' (turning point) mentioned in the title. To improve technical quality, ensure consistent use of Turkish characters (e.g., '\u0131' instead of 'i' in some words) in all text elements.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_1_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>1980'ler T\u00fcrkiyesi: Bir D\u00f6n\u00fcm Noktas\u0131</h2><ul><li>Siyasal Yeniden Yap\u0131lanma<ul><li>Askeri darbe ve yeni anayasa</li></ul></li><li>Ekonomik D\u00f6n\u00fc\u015f\u00fcm<ul><li>Serbest piyasa ekonomisine ge\u00e7i\u015f</li></ul></li><li>Sosyal De\u011fi\u015fim Dinamikleri<ul><li>K\u00fclt\u00fcrel \u00e7e\u015fitlilik ve kentle\u015fme</li></ul></li></ul>",
+            "slide_voiceover_text": "1980'ler, T\u00fcrkiye'nin tarihinde kritik bir d\u00f6n\u00fcm noktas\u0131d\u0131r. Bu on y\u0131l, \u00fclkenin siyasal, ekonomik ve sosyal dokusunda k\u00f6kl\u00fc de\u011fi\u015fimlerin ya\u015fand\u0131\u011f\u0131 bir s\u00fcre\u00e7 olarak kar\u015f\u0131m\u0131za \u00e7\u0131kar. Siyasal yeniden yap\u0131lanma, askeri darbe sonras\u0131 yeni anayasayla ba\u015flam\u0131\u015ft\u0131r. Ekonomik d\u00f6n\u00fc\u015f\u00fcm, serbest piyasa ekonomisine ge\u00e7i\u015fle kendini g\u00f6stermi\u015ftir. Sosyal de\u011fi\u015fim dinamikleri ise, artan k\u00fclt\u00fcrel \u00e7e\u015fitlilik ve h\u0131zlanan kentle\u015fmeyle \u015fekillenmi\u015ftir. Bu \u00fc\u00e7 ana eksendeki de\u011fi\u015fimler, T\u00fcrkiye'nin gelecek on y\u0131llar\u0131n\u0131 derinden etkilemi\u015ftir.",
+            "slide_image_prompt": "A symbolic representation of 1980s Turkey as a turning point, showing a triptych image with three interconnected sections: On the left, a scene of military presence transitioning into a civilian government, symbolizing political restructuring. In the center, an economic graph arrow breaking through traditional barriers, representing the shift to a free market economy. On the right, a cityscape evolving from traditional to modern, with diverse groups of people, symbolizing social and cultural change. At the center, place a large, stylized arrow or road forking into these three directions, emphasizing the 'turning point' concept. Use a color palette transitioning from muted browns and grays to more vibrant blues and greens, suggesting progress and change. Employ a mix of realistic and abstract elements in a historical documentary style, capturing the essence of societal transformation in 1980s Turkey."
+         }
+      },
+      {
+         "step": "tester_content_slide_1_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and meets all the criteria for a high-quality presentation. The onscreen text, voiceover, and image prompt are well-aligned and coherent. The message is clear, concise, and delivers appropriate detail. The content flows logically, presenting the three main aspects of change in 1980s Turkey. The multimedia design is well-balanced, with concise onscreen text and a comprehensive voiceover. The image prompt is detailed and relevant, enhancing the overall presentation. The technical quality is high, with correct HTML markup and consistent, professional language throughout. To achieve absolute perfection, consider adding a brief mention of specific examples or key figures in the voiceover to further illustrate each point of change.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_1",
+         "data": {
+            "image_prompt": "A symbolic representation of 1980s Turkey as a turning point, showing a triptych image with three interconnected sections: On the left, a scene of military presence transitioning into a civilian government, symbolizing political restructuring. In the center, an economic graph arrow breaking through traditional barriers, representing the shift to a free market economy. On the right, a cityscape evolving from traditional to modern, with diverse groups of people, symbolizing social and cultural change. At the center, place a large, stylized arrow or road forking into these three directions, emphasizing the 'turning point' concept. Use a color palette transitioning from muted browns and grays to more vibrant blues and greens, suggesting progress and change. Employ a mix of realistic and abstract elements in a historical documentary style, capturing the essence of societal transformation in 1980s Turkey.",
+            "image_url": "https://v3.fal.media/files/penguin/O87qnNhfoK4hqVqvgAPcG.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "A symbolic representation of 1980s Turkey as a turning point, showing a triptych image with three interconnected sections: On the left, a scene of military presence transitioning into a civilian government, symbolizing political restructuring. In the center, an economic graph arrow breaking through traditional barriers, representing the shift to a free market economy. On the right, a cityscape evolving from traditional to modern, with diverse groups of people, symbolizing social and cultural change. At the center, place a large, stylized arrow or road forking into these three directions, emphasizing the 'turning point' concept. Use a color palette transitioning from muted browns and grays to more vibrant blues and greens, suggesting progress and change. Employ a mix of realistic and abstract elements in a historical documentary style, capturing the essence of societal transformation in 1980s Turkey.",
+            "new_prompt": "A simplified triptych representation of 1980s Turkey's transformation. Left panel: A stylized silhouette of a military figure fading into a civilian silhouette, symbolizing political change. Center panel: A large, minimalist arrow pointing upward, with three branches extending from it. The left branch leads to the political panel, the right to the social panel, and the center branch transforms into a simple, rising line graph, representing economic growth. Right panel: A skyline evolving from traditional domed structures to modern skyscrapers, with small, diverse figure outlines below. Use a gradient color scheme from left to right: muted grays to vibrant blues and greens. Apply flat, vector-style graphics with clean lines and shapes. Ensure high contrast between elements for clarity. Maintain a balanced composition with equal emphasis on all three aspects of change. Lighting should be bright and even across the image, creating a positive, forward-looking mood."
+         }
+      },
+      {
+         "step": "image_generation_slide_1_attempt_2",
+         "data": {
+            "image_prompt": "A simplified triptych representation of 1980s Turkey's transformation. Left panel: A stylized silhouette of a military figure fading into a civilian silhouette, symbolizing political change. Center panel: A large, minimalist arrow pointing upward, with three branches extending from it. The left branch leads to the political panel, the right to the social panel, and the center branch transforms into a simple, rising line graph, representing economic growth. Right panel: A skyline evolving from traditional domed structures to modern skyscrapers, with small, diverse figure outlines below. Use a gradient color scheme from left to right: muted grays to vibrant blues and greens. Apply flat, vector-style graphics with clean lines and shapes. Ensure high contrast between elements for clarity. Maintain a balanced composition with equal emphasis on all three aspects of change. Lighting should be bright and even across the image, creating a positive, forward-looking mood.",
+            "image_url": "https://v3.fal.media/files/monkey/yF0CMdPzce_CJF0ayAM5p.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_1_attempt_2",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A simplified triptych representation of 1980s Turkey's transformation. Left panel: A stylized silhouette of a military figure fading into a civilian silhouette, symbolizing political change. Center panel: A large, minimalist arrow pointing upward, with three branches extending from it. The left branch leads to the political panel, the right to the social panel, and the center branch transforms into a simple, rising line graph, representing economic growth. Right panel: A skyline evolving from traditional domed structures to modern skyscrapers, with small, diverse figure outlines below. Use a gradient color scheme from left to right: muted grays to vibrant blues and greens. Apply flat, vector-style graphics with clean lines and shapes. Ensure high contrast between elements for clarity. Maintain a balanced composition with equal emphasis on all three aspects of change. Lighting should be bright and even across the image, creating a positive, forward-looking mood.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_2",
+         "data": {
+            "slide_onscreen_text": "<h2>12 Eyl\u00fcl 1980 Darbesi: T\u00fcrkiye'de Siyasal D\u00f6n\u00fc\u015f\u00fcm</h2><ul><li>Askeri M\u00fcdahale ve Anayasal De\u011fi\u015fim</li><li>Siyasi Yap\u0131da K\u00f6kl\u00fc D\u00f6n\u00fc\u015f\u00fcm</li><li>Demokratik Sistemin Yeniden Yap\u0131land\u0131r\u0131lmas\u0131</li></ul>",
+            "slide_voiceover_text": "12 Eyl\u00fcl 1980 askeri darbesi, T\u00fcrkiye'nin siyasi tarihinde d\u00f6n\u00fcm noktas\u0131 niteli\u011finde bir olayd\u0131r. Bu darbe, \u00fclkenin siyasi yap\u0131s\u0131n\u0131 tamamen de\u011fi\u015ftirerek yeni bir anayasal d\u00fczen getirmi\u015f, siyasi partilerin faaliyetlerini durdurmu\u015f ve toplumsal ya\u015fam\u0131 derinden etkilemi\u015ftir. Generaller taraf\u0131ndan ger\u00e7ekle\u015ftirilen bu m\u00fcdahale, T\u00fcrkiye'nin demokratik sistemini yeniden \u015fekillendirirken, ayn\u0131 zamanda siyasi kat\u0131l\u0131m\u0131 ve ifade \u00f6zg\u00fcrl\u00fc\u011f\u00fcn\u00fc \u00f6nemli \u00f6l\u00e7\u00fcde s\u0131n\u0131rland\u0131rm\u0131\u015ft\u0131r.",
+            "slide_image_prompt": "A dramatic historical illustration depicting the 12 September 1980 military coup in Turkey. Show military tanks rolling through the streets of Ankara, with soldiers in formal military uniforms standing nearby. Use a muted color palette of grays and browns to convey the serious historical moment. In the background, include symbolic elements representing the political transformation, such as a partially torn Turkish flag or broken governmental buildings. The image should have a documentary-style realism, capturing the tension and gravity of the military intervention. Composition should be wide-angle, showing the scale and impact of the military takeover on urban landscape."
+         }
+      },
+      {
+         "step": "tester_content_slide_2",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is well-structured and coherent, effectively conveying the key points about the 1980 military coup in Turkey. The onscreen text, voiceover, and image prompt are well-aligned and complement each other. However, to achieve perfection, consider the following minor improvements:\n\n1. Content Coherence: Add a brief mention of the 'new constitutional order' in the onscreen text to better align with the voiceover.\n\n2. Multimedia Design: The voiceover could briefly touch on the 'Democratic System Restructuring' mentioned in the onscreen text for complete alignment.\n\n3. Technical Quality: The image prompt is detailed and relevant, but consider adding a specific element to represent the 'new constitutional order' mentioned in the slide focus.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_1",
+         "data": {
+            "image_prompt": "A dramatic historical illustration depicting the 12 September 1980 military coup in Turkey. Show military tanks rolling through the streets of Ankara, with soldiers in formal military uniforms standing nearby. Use a muted color palette of grays and browns to convey the serious historical moment. In the background, include symbolic elements representing the political transformation, such as a partially torn Turkish flag or broken governmental buildings. The image should have a documentary-style realism, capturing the tension and gravity of the military intervention. Composition should be wide-angle, showing the scale and impact of the military takeover on urban landscape.",
+            "image_url": "https://v3.fal.media/files/penguin/BU4qbmPVVQKbFGmbEwhKV.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "A dramatic historical illustration depicting the 12 September 1980 military coup in Turkey. Show military tanks rolling through the streets of Ankara, with soldiers in formal military uniforms standing nearby. Use a muted color palette of grays and browns to convey the serious historical moment. In the background, include symbolic elements representing the political transformation, such as a partially torn Turkish flag or broken governmental buildings. The image should have a documentary-style realism, capturing the tension and gravity of the military intervention. Composition should be wide-angle, showing the scale and impact of the military takeover on urban landscape.",
+            "new_prompt": "A minimalist illustration depicting the 1980 military coup in Turkey. Show a single military tank in the foreground, symbolizing the military intervention. The tank should be simplified, with clean lines and minimal details. Behind the tank, include a stylized outline of Ankara's skyline. Use a muted color palette of cool grays and one accent color (dark red) for emphasis. The composition should be centered, with the tank occupying the bottom third of the image and the skyline above. The background should be a gradient from light to dark gray, creating a somber atmosphere. Ensure high contrast and clean edges for clarity in presentation. The overall style should be vector-like, avoiding complex textures or patterns. Do not include any text, labels, or human figures in the image."
+         }
+      },
+      {
+         "step": "image_generation_slide_2_attempt_2",
+         "data": {
+            "image_prompt": "A minimalist illustration depicting the 1980 military coup in Turkey. Show a single military tank in the foreground, symbolizing the military intervention. The tank should be simplified, with clean lines and minimal details. Behind the tank, include a stylized outline of Ankara's skyline. Use a muted color palette of cool grays and one accent color (dark red) for emphasis. The composition should be centered, with the tank occupying the bottom third of the image and the skyline above. The background should be a gradient from light to dark gray, creating a somber atmosphere. Ensure high contrast and clean edges for clarity in presentation. The overall style should be vector-like, avoiding complex textures or patterns. Do not include any text, labels, or human figures in the image.",
+            "image_url": "https://v3.fal.media/files/koala/-Tx4hTV5d3jQqVvHWBUk6.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_2_attempt_2",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A minimalist illustration depicting the 1980 military coup in Turkey. Show a single military tank in the foreground, symbolizing the military intervention. The tank should be simplified, with clean lines and minimal details. Behind the tank, include a stylized outline of Ankara's skyline. Use a muted color palette of cool grays and one accent color (dark red) for emphasis. The composition should be centered, with the tank occupying the bottom third of the image and the skyline above. The background should be a gradient from light to dark gray, creating a somber atmosphere. Ensure high contrast and clean edges for clarity in presentation. The overall style should be vector-like, avoiding complex textures or patterns. Do not include any text, labels, or human figures in the image.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_3",
+         "data": {
+            "slide_onscreen_text": "<h2>\u00d6zal D\u00f6nemi: Ekonomik Liberalle\u015fme D\u00f6n\u00fc\u015f\u00fcm\u00fc</h2><ul><li>D\u00fcnya Ekonomisiyle Entegrasyon</li><li>Serbest Piyasa Ekonomisi Reformlar\u0131</li><li>D\u0131\u015f Ticaretin Serbestle\u015fmesi</li><li>\u00d6zel Sekt\u00f6r\u00fcn G\u00fc\u00e7lendirilmesi</li></ul>",
+            "slide_voiceover_text": "Turgut \u00d6zal'\u0131n ba\u015fbakanl\u0131k d\u00f6neminde T\u00fcrkiye, k\u00f6kl\u00fc bir ekonomik d\u00f6n\u00fc\u015f\u00fcm ya\u015fad\u0131. Liberal politikalarla kapal\u0131 ekonomiden a\u00e7\u0131k ekonomiye ge\u00e7i\u015f sa\u011fland\u0131. \u00d6zal, ihracata dayal\u0131 b\u00fcy\u00fcme modelini benimseyerek \u00fclkeyi d\u00fcnya ekonomisiyle entegre etmeyi hedefledi. Serbest piyasa ekonomisi, \u00f6zelle\u015ftirmeler ve d\u0131\u015f ticaretin serbestle\u015fmesi bu d\u00f6nemin temel karakteristik \u00f6zellikleri oldu.",
+            "slide_image_prompt": "A split-screen vintage style illustration depicting Turkey's economic transformation in the 1980s. On one side, a traditional, closed economy scene with industrial buildings and restricted trade symbols. On the other side, a modern, open market scene with global trade routes, international business people, and dynamic economic growth indicators. Use a color palette of muted blues, browns, and yellows to represent the historical transition. Incorporate subtle 1980s graphic design elements and a slightly nostalgic, documentary-like visual aesthetic."
+         }
+      },
+      {
+         "step": "tester_content_slide_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. The onscreen text, voiceover, and image prompt are well-aligned and effectively convey the key points of the \u00d6zal era's economic liberalization. The content is informative, concise, and logically structured. The image prompt enhances the message by visually representing the economic transformation. To further improve, consider adding a specific date or year range for \u00d6zal's tenure as Prime Minister in the onscreen text for additional context.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_3_attempt_1",
+         "data": {
+            "image_prompt": "A split-screen vintage style illustration depicting Turkey's economic transformation in the 1980s. On one side, a traditional, closed economy scene with industrial buildings and restricted trade symbols. On the other side, a modern, open market scene with global trade routes, international business people, and dynamic economic growth indicators. Use a color palette of muted blues, browns, and yellows to represent the historical transition. Incorporate subtle 1980s graphic design elements and a slightly nostalgic, documentary-like visual aesthetic.",
+            "image_url": "https://v3.fal.media/files/kangaroo/fljL2pZc3asMIYAA535v7.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_3_attempt_1",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A split-screen vintage style illustration depicting Turkey's economic transformation in the 1980s. On one side, a traditional, closed economy scene with industrial buildings and restricted trade symbols. On the other side, a modern, open market scene with global trade routes, international business people, and dynamic economic growth indicators. Use a color palette of muted blues, browns, and yellows to represent the historical transition. Incorporate subtle 1980s graphic design elements and a slightly nostalgic, documentary-like visual aesthetic.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_4",
+         "data": {
+            "slide_onscreen_text": "<h2>1980'lerde K\u00fclt\u00fcrel ve Sosyal D\u00f6n\u00fc\u015f\u00fcm</h2><ul><li>Pop\u00fcler K\u00fclt\u00fcr\u00fcn Y\u00fckseli\u015fi</li><li>Medyada \u00c7e\u015fitlenme</li><li>T\u00fcketim Al\u0131\u015fkanl\u0131klar\u0131n\u0131n De\u011fi\u015fimi</li><li>Kentle\u015fme ve Toplumsal D\u00f6n\u00fc\u015f\u00fcm</li></ul>",
+            "slide_voiceover_text": "1980'ler T\u00fcrkiye'si, k\u00fclt\u00fcrel ve sosyal a\u00e7\u0131dan son derece dinamik bir d\u00f6nemdi. Bu y\u0131llar, geleneksel toplum yap\u0131s\u0131ndan modern t\u00fcketim toplumuna ge\u00e7i\u015fin h\u0131zland\u0131\u011f\u0131 bir s\u00fcre\u00e7 olarak kar\u015f\u0131m\u0131za \u00e7\u0131k\u0131yor. Pop\u00fcler k\u00fclt\u00fcr\u00fcn y\u00fckseli\u015fi, medyan\u0131n \u00e7e\u015fitlenmesi ve t\u00fcketim al\u0131\u015fkanl\u0131klar\u0131ndaki k\u00f6kl\u00fc de\u011fi\u015fimler, toplumun her kesimini derinden etkiledi. \u00d6zellikle kentlerde ya\u015fanan h\u0131zl\u0131 d\u00f6n\u00fc\u015f\u00fcm, sosyal ya\u015fam\u0131n t\u00fcm dinamiklerini yeniden \u015fekillendirdi.",
+            "slide_image_prompt": "A vibrant, collage-style illustration capturing the essence of 1980s Turkish social transformation. Combine iconic elements like a vintage television, colorful urban street scene, fashion magazines, and people representing different social classes. Use a color palette of bright, slightly faded 1980s colors - think bold blues, oranges, and yellows. Include split-screen or overlapping imagery to represent the cultural complexity of the era. The style should be a mix of realistic and pop art, reflecting the dynamic social changes of the period. Incorporate subtle visual references to urbanization, media proliferation, and emerging consumer culture."
+         }
+      },
+      {
+         "step": "tester_content_slide_4",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the onscreen text could be more closely aligned with the voiceover content.\n- Consider adding a bullet point about the transition from traditional to modern consumer society to match the voiceover.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The image prompt is detailed and relevant, but could benefit from more specific references to Turkish culture.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider using <li> tags for better semantics.\n- The language is consistent and professional.\n\nTo improve:\n- Add a bullet point about the transition from traditional to modern consumer society.\n- Include more specific Turkish cultural references in the image prompt.\n- Use <li> tags in the HTML markup for list items.\n- Consider mentioning the impact on different social classes in the onscreen text to better match the voiceover and image prompt.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_4_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<h2>1980'lerde K\u00fclt\u00fcrel ve Sosyal D\u00f6n\u00fc\u015f\u00fcm</h2><ul><li>Gelenekselden Modern T\u00fcketim Toplumuna Ge\u00e7i\u015f</li><li>Pop\u00fcler K\u00fclt\u00fcr\u00fcn Y\u00fckseli\u015fi</li><li>Medyada \u00c7e\u015fitlenme</li><li>T\u00fcketim Al\u0131\u015fkanl\u0131klar\u0131n\u0131n De\u011fi\u015fimi</li><li>Kentle\u015fme ve Farkl\u0131 Sosyal S\u0131n\u0131flar\u0131n D\u00f6n\u00fc\u015f\u00fcm\u00fc</li></ul>",
+            "slide_voiceover_text": "1980'ler T\u00fcrkiye'si, k\u00fclt\u00fcrel ve sosyal a\u00e7\u0131dan son derece dinamik bir d\u00f6nemdi. Bu y\u0131llar, geleneksel toplum yap\u0131s\u0131ndan modern t\u00fcketim toplumuna ge\u00e7i\u015fin h\u0131zland\u0131\u011f\u0131 bir s\u00fcre\u00e7 olarak kar\u015f\u0131m\u0131za \u00e7\u0131k\u0131yor. Pop\u00fcler k\u00fclt\u00fcr\u00fcn y\u00fckseli\u015fi, medyan\u0131n \u00e7e\u015fitlenmesi ve t\u00fcketim al\u0131\u015fkanl\u0131klar\u0131ndaki k\u00f6kl\u00fc de\u011fi\u015fimler, toplumun her kesimini derinden etkiledi. \u00d6zellikle kentlerde ya\u015fanan h\u0131zl\u0131 d\u00f6n\u00fc\u015f\u00fcm, farkl\u0131 sosyal s\u0131n\u0131flar\u0131 etkileyerek sosyal ya\u015fam\u0131n t\u00fcm dinamiklerini yeniden \u015fekillendirdi.",
+            "slide_image_prompt": "A vibrant, collage-style illustration capturing the essence of 1980s Turkish social transformation. Combine iconic elements like a vintage television showing popular Turkish shows, a colorful Istanbul street scene with both traditional and modern buildings, Turkish fashion magazines, and people representing different social classes in 80s Turkish attire. Use a color palette of bright, slightly faded 1980s colors - think bold blues, oranges, and yellows. Include split-screen or overlapping imagery to represent the cultural complexity of the era. The style should be a mix of realistic and pop art, reflecting the dynamic social changes of the period. Incorporate subtle visual references to urbanization, media proliferation, and emerging consumer culture, such as Turkish brand logos and advertisements from the 80s. Include elements that show the contrast between traditional Turkish lifestyle and the new modern consumer society, like a traditional tea set next to a newly introduced fast-food meal."
+         }
+      },
+      {
+         "step": "tester_content_slide_4_iteration_1",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is excellent and coherent. It effectively communicates the cultural and social transformation of 1980s Turkey. The onscreen text, voiceover, and image prompt are well-aligned and complement each other perfectly. The content is comprehensive, covering key aspects of the transformation such as the rise of popular culture, media diversification, changing consumption habits, and urbanization. The language is consistent and professional throughout. The image prompt is particularly strong, providing a vivid and detailed description that captures the essence of the era. To further enhance the content, consider adding a specific example or statistic in the voiceover to illustrate one of the points, such as the increase in TV ownership or a popular cultural icon of the time.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_1",
+         "data": {
+            "image_prompt": "A vibrant, collage-style illustration capturing the essence of 1980s Turkish social transformation. Combine iconic elements like a vintage television showing popular Turkish shows, a colorful Istanbul street scene with both traditional and modern buildings, Turkish fashion magazines, and people representing different social classes in 80s Turkish attire. Use a color palette of bright, slightly faded 1980s colors - think bold blues, oranges, and yellows. Include split-screen or overlapping imagery to represent the cultural complexity of the era. The style should be a mix of realistic and pop art, reflecting the dynamic social changes of the period. Incorporate subtle visual references to urbanization, media proliferation, and emerging consumer culture, such as Turkish brand logos and advertisements from the 80s. Include elements that show the contrast between traditional Turkish lifestyle and the new modern consumer society, like a traditional tea set next to a newly introduced fast-food meal.",
+            "image_url": "https://v3.fal.media/files/elephant/sb6zITDkz1RoQ-EuMaTM-.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "A vibrant, collage-style illustration capturing the essence of 1980s Turkish social transformation. Combine iconic elements like a vintage television showing popular Turkish shows, a colorful Istanbul street scene with both traditional and modern buildings, Turkish fashion magazines, and people representing different social classes in 80s Turkish attire. Use a color palette of bright, slightly faded 1980s colors - think bold blues, oranges, and yellows. Include split-screen or overlapping imagery to represent the cultural complexity of the era. The style should be a mix of realistic and pop art, reflecting the dynamic social changes of the period. Incorporate subtle visual references to urbanization, media proliferation, and emerging consumer culture, such as Turkish brand logos and advertisements from the 80s. Include elements that show the contrast between traditional Turkish lifestyle and the new modern consumer society, like a traditional tea set next to a newly introduced fast-food meal.",
+            "new_prompt": "A simplified, pop art-inspired collage representing 1980s Turkish social transformation. Center the image with a split composition: on one side, a stylized traditional Turkish tea set in bold, flat colors; on the other, a minimalist fast-food meal in contrasting hues. Above, include a simplified silhouette of Istanbul's skyline, mixing traditional minarets with modern skyscrapers. Use vibrant, slightly faded 1980s colors - primarily bright blues, oranges, and yellows. In the background, add abstract geometric shapes reminiscent of 1980s Turkish brand logos and advertisements, keeping them simple and non-textual. Incorporate a few small, iconic elements like a vintage TV outline and a fashion magazine cover silhouette. Employ thick, black outlines and halftone dot patterns to enhance the pop art style. Ensure high contrast and clean lines for clarity in presentation. The overall composition should be balanced and easily readable from a distance, with a clear focus on the cultural contrast between traditional and modern elements."
+         }
+      },
+      {
+         "step": "image_generation_slide_4_attempt_2",
+         "data": {
+            "image_prompt": "A simplified, pop art-inspired collage representing 1980s Turkish social transformation. Center the image with a split composition: on one side, a stylized traditional Turkish tea set in bold, flat colors; on the other, a minimalist fast-food meal in contrasting hues. Above, include a simplified silhouette of Istanbul's skyline, mixing traditional minarets with modern skyscrapers. Use vibrant, slightly faded 1980s colors - primarily bright blues, oranges, and yellows. In the background, add abstract geometric shapes reminiscent of 1980s Turkish brand logos and advertisements, keeping them simple and non-textual. Incorporate a few small, iconic elements like a vintage TV outline and a fashion magazine cover silhouette. Employ thick, black outlines and halftone dot patterns to enhance the pop art style. Ensure high contrast and clean lines for clarity in presentation. The overall composition should be balanced and easily readable from a distance, with a clear focus on the cultural contrast between traditional and modern elements.",
+            "image_url": "https://v3.fal.media/files/penguin/nJGbQPkkTKJAFfEYw-3cH.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_4_attempt_2",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "A simplified, pop art-inspired collage representing 1980s Turkish social transformation. Center the image with a split composition: on one side, a stylized traditional Turkish tea set in bold, flat colors; on the other, a minimalist fast-food meal in contrasting hues. Above, include a simplified silhouette of Istanbul's skyline, mixing traditional minarets with modern skyscrapers. Use vibrant, slightly faded 1980s colors - primarily bright blues, oranges, and yellows. In the background, add abstract geometric shapes reminiscent of 1980s Turkish brand logos and advertisements, keeping them simple and non-textual. Incorporate a few small, iconic elements like a vintage TV outline and a fashion magazine cover silhouette. Employ thick, black outlines and halftone dot patterns to enhance the pop art style. Ensure high contrast and clean lines for clarity in presentation. The overall composition should be balanced and easily readable from a distance, with a clear focus on the cultural contrast between traditional and modern elements.",
+            "new_prompt": null
+         }
+      },
+      {
+         "step": "initial_content_slide_5",
+         "data": {
+            "slide_onscreen_text": "<h2>1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri</h2><ul><li>Siyasi D\u00f6n\u00fc\u015f\u00fcm: Askeri Rejimin Kal\u0131c\u0131 \u0130zleri</li><li>Ekonomik Yap\u0131lanma: Liberalle\u015fme D\u00f6nemi</li><li>Sosyal De\u011fi\u015fim: Kimlik ve K\u00fclt\u00fcrel D\u00f6n\u00fc\u015f\u00fcm</li></ul>",
+            "slide_voiceover_text": "1980 d\u00f6nemi T\u00fcrkiye'nin siyasi, ekonomik ve sosyal dokusunda k\u00f6kl\u00fc de\u011fi\u015fimlere neden olmu\u015f kritik bir zaman dilimi. Askeri darbe sonras\u0131 ba\u015flayan s\u00fcre\u00e7, \u00fclkenin t\u00fcm kurumlar\u0131n\u0131 ve toplumsal yap\u0131s\u0131n\u0131 derinden etkilemi\u015ftir. Siyasette merkeziyet\u00e7i yakla\u015f\u0131mlar, ekonomide d\u0131\u015fa a\u00e7\u0131lma politikalar\u0131 ve sosyal ya\u015famda k\u00f6kl\u00fc d\u00f6n\u00fc\u015f\u00fcmler, bug\u00fcn\u00fcn T\u00fcrkiye'sinin temellerini olu\u015fturmu\u015ftur.",
+            "slide_image_prompt": "A split-screen historical illustration showing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On one side, military parade and economic charts from the 1980s, on the other side modern cityscape and technological symbols. Use a muted color palette of blues and grays, with a photorealistic style that emphasizes historical continuity and change. Include subtle transitional elements connecting both sides of the image to represent the lasting legacy of the 1980s."
+         }
+      },
+      {
+         "step": "tester_content_slide_5",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could more explicitly connect to the bullet points.\n- The message is clear, but the voiceover could be more specific about the lasting effects.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is appropriate.\n- The onscreen text is concise and well-structured.\n- The voiceover provides good context but could be more detailed on specific effects.\n- The image prompt is relevant and enhances the content effectively.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider adding more semantic elements for better structure.\n- The image prompt is clear and specific, but could include more modern elements to emphasize the 'lasting effects'.\n- Language is consistent and professional throughout.\n\nTo improve:\n1. Expand the voiceover to directly address each bullet point mentioned in the onscreen text.\n2. Include more specific examples of how the 1980s have influenced modern Turkey in the voiceover.\n3. Enhance the image prompt by including more contemporary elements to better illustrate the lasting impact.\n4. Consider using additional HTML elements like <section> or <article> to improve semantic structure.",
+            "score": 91
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_1",
+         "data": {
+            "slide_onscreen_text": "<section><h2>1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri</h2><ul><li>Siyasi D\u00f6n\u00fc\u015f\u00fcm: Askeri Rejimin Kal\u0131c\u0131 \u0130zleri</li><li>Ekonomik Yap\u0131lanma: Liberalle\u015fme D\u00f6nemi</li><li>Sosyal De\u011fi\u015fim: Kimlik ve K\u00fclt\u00fcrel D\u00f6n\u00fc\u015f\u00fcm</li></ul></section>",
+            "slide_voiceover_text": "1980 d\u00f6nemi, T\u00fcrkiye'nin siyasi, ekonomik ve sosyal dokusunda k\u00f6kl\u00fc de\u011fi\u015fimlere neden olmu\u015f kritik bir zaman dilimi. Askeri darbe sonras\u0131 ba\u015flayan s\u00fcre\u00e7, \u00fclkenin t\u00fcm kurumlar\u0131n\u0131 ve toplumsal yap\u0131s\u0131n\u0131 derinden etkilemi\u015ftir. Siyasi alanda, askeri rejimin kal\u0131c\u0131 izleri hala hissedilmekte; \u00f6rne\u011fin, g\u00fc\u00e7l\u00fc merkezi y\u00f6netim anlay\u0131\u015f\u0131 ve siyasi partiler yasas\u0131 gibi d\u00fczenlemeler g\u00fcn\u00fcm\u00fcz siyasetini \u015fekillendiriyor. Ekonomide, 1980'lerde ba\u015flayan liberalle\u015fme d\u00f6nemi, T\u00fcrkiye'yi k\u00fcresel pazarlara a\u00e7arak ihracat odakl\u0131 bir ekonomi haline getirdi ve bug\u00fcnk\u00fc ekonomik yap\u0131n\u0131n temellerini att\u0131. Sosyal alanda ise, kimlik politikalar\u0131 ve k\u00fclt\u00fcrel d\u00f6n\u00fc\u015f\u00fcm, modern T\u00fcrkiye'nin \u00e7okk\u00fclt\u00fcrl\u00fc yap\u0131s\u0131n\u0131 ve kent-k\u0131r ayr\u0131m\u0131ndaki de\u011fi\u015fimleri beraberinde getirdi. Bu d\u00f6nemin etkileri, g\u00fcn\u00fcm\u00fcz T\u00fcrkiye'sinin siyasi, ekonomik ve sosyal dinamiklerinde hala belirgin \u015fekilde g\u00f6zlemlenebilmektedir.",
+            "slide_image_prompt": "Create a split-screen historical illustration showing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On the left side, depict a military parade, economic charts, and traditional social scenes from the 1980s. On the right side, show a modern cityscape with skyscrapers, technological symbols like smartphones and computers, and diverse social groups representing modern Turkish society. Use a muted color palette of blues and grays for the 1980s side, transitioning to vibrant colors for the modern side. Include subtle transitional elements connecting both sides, such as a fading constitution document, evolving currency symbols, and changing fashion styles. Add specific elements like a modern parliament building, international trade symbols, and social media icons to emphasize the lasting impact of 1980s policies on contemporary Turkey. Use a photorealistic style that emphasizes historical continuity and change."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_1",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is well-structured and informative, but there are areas for improvement to achieve full marks:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is generally good, but the voiceover could be more tightly linked to the specific bullet points on screen.\n- The message is clear, but the voiceover provides more detail than necessary for a concise slide presentation.\n\n2. Multimedia Design (28/30):\n- The balance between onscreen and voiceover text is slightly off. The onscreen text is appropriately concise, but the voiceover is too detailed for a single slide.\n- The image prompt is relevant and enhances the content well.\n\n3. Technical Quality (29/30):\n- HTML markup is correctly used.\n- The image prompt is clear and specific, providing an excellent visualization of the content.\n- Language is consistent and professional throughout.\n- Minor improvement: Consider adding more specific dates or figures in the voiceover to anchor the information.\n\nOverall, the content is of high quality but needs minor refinements to achieve a perfect score. Focus on tightening the voiceover text to match the bullet points more closely and consider adding more specific data points to enhance the information's impact.",
+            "score": 92
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_2",
+         "data": {
+            "slide_onscreen_text": "<section><h2>1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri</h2><ul><li>Siyasi D\u00f6n\u00fc\u015f\u00fcm: Askeri Rejimin Kal\u0131c\u0131 \u0130zleri</li><li>Ekonomik Yap\u0131lanma: Liberalle\u015fme D\u00f6nemi</li><li>Sosyal De\u011fi\u015fim: Kimlik ve K\u00fclt\u00fcrel D\u00f6n\u00fc\u015f\u00fcm</li></ul></section>",
+            "slide_voiceover_text": "1980'ler, T\u00fcrkiye'nin gelece\u011fini \u015fekillendiren kritik bir d\u00f6nemdi. Siyasi alanda, 12 Eyl\u00fcl 1980 darbesi sonras\u0131 olu\u015fturulan 1982 Anayasas\u0131, g\u00fc\u00e7l\u00fc merkezi y\u00f6netim anlay\u0131\u015f\u0131n\u0131 peki\u015ftirdi. Ekonomide, 24 Ocak 1980 kararlar\u0131yla ba\u015flayan liberalle\u015fme s\u00fcreci, T\u00fcrkiye'yi ihracat odakl\u0131 bir ekonomiye d\u00f6n\u00fc\u015ft\u00fcrd\u00fc. 1983'te ihracat 5,7 milyar dolardan, 1989'da 11,6 milyar dolara y\u00fckseldi. Sosyal alanda ise, 1983'te \u00f6zel TV ve radyo yay\u0131nlar\u0131na izin verilmesi, k\u00fclt\u00fcrel \u00e7e\u015fitlili\u011fi art\u0131rd\u0131. Bu de\u011fi\u015fimler, g\u00fcn\u00fcm\u00fcz T\u00fcrkiye'sinin siyasi, ekonomik ve sosyal yap\u0131s\u0131n\u0131 hala etkilemektedir.",
+            "slide_image_prompt": "Create a split-screen historical illustration showing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On the left side, depict a military parade, economic charts showing rising exports, and traditional social scenes from the 1980s. On the right side, show a modern cityscape with skyscrapers, technological symbols like smartphones and computers, and diverse social groups representing modern Turkish society. Use a muted color palette of blues and grays for the 1980s side, transitioning to vibrant colors for the modern side. Include transitional elements connecting both sides, such as the 1982 Constitution fading into a modern parliament building, evolving currency symbols from the old Turkish Lira to the New Turkish Lira, and changing media landscape from traditional TV to social media platforms. Use a photorealistic style that emphasizes historical continuity and change, with clear labels for key years (1980, 1983, 1989) on the left and '2023' on the right to anchor the timeline."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_2",
+         "data": {
+            "is_valid": false,
+            "feedback": "The content is generally well-structured and informative, but there are a few areas for improvement:\n\n1. Content Coherence (35/40):\n- The alignment between onscreen text, voiceover, and image prompt is good, but the voiceover could be more closely tied to the specific bullet points on screen.\n- The message is clear, but the voiceover could be more concise to match the brevity of the onscreen text.\n\n2. Multimedia Design (27/30):\n- The balance between onscreen and voiceover text is good, with concise bullet points and a more detailed voiceover.\n- The image prompt is relevant and enhances the content well.\n- Consider adding a few more specific details to the onscreen text to better mirror the voiceover content.\n\n3. Technical Quality (28/30):\n- The HTML markup is correct, but consider adding classes for better styling control.\n- The image prompt is clear and specific, but could benefit from mentioning the split-screen concept in the onscreen text.\n- Ensure consistency in date formats (e.g., '1980'ler' vs '1980s').\n\nTo improve:\n1. Add brief explanations to each bullet point on screen to better match the voiceover content.\n2. Include a reference to the visual split-screen concept in the onscreen text.\n3. Standardize date formats throughout the presentation.\n4. Consider adding classes to HTML elements for improved styling options.",
+            "score": 90
+         }
+      },
+      {
+         "step": "fixed_content_slide_5_iteration_3",
+         "data": {
+            "slide_onscreen_text": "<section class='legacy-slide'><h2>1980'lerin Miras\u0131: T\u00fcrkiye'nin Bug\u00fcn\u00fcne Etkileri</h2><ul><li>Siyasi D\u00f6n\u00fc\u015f\u00fcm: Askeri Rejimin Kal\u0131c\u0131 \u0130zleri<br><small>1982 Anayasas\u0131 ve g\u00fc\u00e7l\u00fc merkezi y\u00f6netim</small></li><li>Ekonomik Yap\u0131lanma: Liberalle\u015fme D\u00f6nemi<br><small>\u0130hracat odakl\u0131 ekonomi, 1983-1989 aras\u0131 b\u00fcy\u00fcme</small></li><li>Sosyal De\u011fi\u015fim: Kimlik ve K\u00fclt\u00fcrel D\u00f6n\u00fc\u015f\u00fcm<br><small>\u00d6zel medya ve artan k\u00fclt\u00fcrel \u00e7e\u015fitlilik</small></li></ul><p class='visual-note'>Not: G\u00f6rsel, 1980'ler ve g\u00fcn\u00fcm\u00fcz T\u00fcrkiye'sini kar\u015f\u0131la\u015ft\u0131rmal\u0131 olarak g\u00f6stermektedir.</p></section>",
+            "slide_voiceover_text": "1980'ler, T\u00fcrkiye'nin gelece\u011fini \u015fekillendiren kritik bir d\u00f6nemdi. Siyasi alanda, 12 Eyl\u00fcl 1980 darbesi sonras\u0131 olu\u015fturulan 1982 Anayasas\u0131, g\u00fc\u00e7l\u00fc merkezi y\u00f6netim anlay\u0131\u015f\u0131n\u0131 peki\u015ftirdi. Ekonomide, 24 Ocak 1980 kararlar\u0131yla ba\u015flayan liberalle\u015fme s\u00fcreci, T\u00fcrkiye'yi ihracat odakl\u0131 bir ekonomiye d\u00f6n\u00fc\u015ft\u00fcrd\u00fc. \u0130hracat, 1983'te 5,7 milyar dolardan 1989'da 11,6 milyar dolara y\u00fckseldi. Sosyal alanda ise, 1983'te \u00f6zel TV ve radyo yay\u0131nlar\u0131na izin verilmesi, k\u00fclt\u00fcrel \u00e7e\u015fitlili\u011fi art\u0131rd\u0131. Bu de\u011fi\u015fimler, g\u00fcn\u00fcm\u00fcz T\u00fcrkiye'sinin siyasi, ekonomik ve sosyal yap\u0131s\u0131n\u0131 hala etkilemektedir.",
+            "slide_image_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On the left side, depict a military parade, economic charts showing rising exports, and traditional social scenes from the 1980s. On the right side, show a modern cityscape with skyscrapers, technological symbols like smartphones and computers, and diverse social groups representing modern Turkish society. Use a muted color palette of blues and grays for the 1980s side, transitioning to vibrant colors for the modern side. Include transitional elements connecting both sides, such as the 1982 Constitution fading into a modern parliament building, evolving currency symbols from the old Turkish Lira to the New Turkish Lira, and changing media landscape from traditional TV to social media platforms. Use a photorealistic style that emphasizes historical continuity and change, with clear labels for key years (1980, 1983, 1989) on the left and '2023' on the right to anchor the timeline."
+         }
+      },
+      {
+         "step": "tester_content_slide_5_iteration_3",
+         "data": {
+            "is_valid": true,
+            "feedback": "The slide content is exceptionally well-crafted and coherent. The onscreen text, voiceover, and image prompt are perfectly aligned, delivering a clear and comprehensive message about the legacy of 1980s Turkey and its impact on the present. The content demonstrates excellent balance between concise onscreen text and detailed voiceover information. The image prompt is highly specific and relevant, enhancing the overall presentation. The use of HTML markup is correct, and the language is consistent and professional throughout. The slide effectively covers political, economic, and social aspects, providing a logical flow of information with appropriate level of detail. No improvements are necessary as the content meets all criteria at the highest level.",
+            "score": 100
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_1",
+         "data": {
+            "image_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On the left side, depict a military parade, economic charts showing rising exports, and traditional social scenes from the 1980s. On the right side, show a modern cityscape with skyscrapers, technological symbols like smartphones and computers, and diverse social groups representing modern Turkish society. Use a muted color palette of blues and grays for the 1980s side, transitioning to vibrant colors for the modern side. Include transitional elements connecting both sides, such as the 1982 Constitution fading into a modern parliament building, evolving currency symbols from the old Turkish Lira to the New Turkish Lira, and changing media landscape from traditional TV to social media platforms. Use a photorealistic style that emphasizes historical continuity and change, with clear labels for key years (1980, 1983, 1989) on the left and '2023' on the right to anchor the timeline.",
+            "image_url": "https://v3.fal.media/files/monkey/bLwlq2qIdqyj_qcx4k3Fr.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 1
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_1",
+         "data": {
+            "is_valid": false,
+            "current_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, with symbolic elements representing political, economic, and social transformation. On the left side, depict a military parade, economic charts showing rising exports, and traditional social scenes from the 1980s. On the right side, show a modern cityscape with skyscrapers, technological symbols like smartphones and computers, and diverse social groups representing modern Turkish society. Use a muted color palette of blues and grays for the 1980s side, transitioning to vibrant colors for the modern side. Include transitional elements connecting both sides, such as the 1982 Constitution fading into a modern parliament building, evolving currency symbols from the old Turkish Lira to the New Turkish Lira, and changing media landscape from traditional TV to social media platforms. Use a photorealistic style that emphasizes historical continuity and change, with clear labels for key years (1980, 1983, 1989) on the left and '2023' on the right to anchor the timeline.",
+            "new_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, focusing on symbolic elements representing political, economic, and social transformation. Left side (1980s): Simplified silhouettes of a military parade, minimalist economic growth chart, and traditional family scene. Right side (Modern): Stylized modern cityscape with basic skyscraper outlines, simplified tech symbols (smartphone and computer icons), and diverse group outlines representing modern society. Use a gradient color scheme transitioning from muted blues and grays (left) to vibrant oranges and reds (right). Include abstract connecting elements: fading outline of a document representing constitutional change, simplified currency symbol evolution, and media transition depicted by TV antenna morphing into a Wi-Fi symbol. Employ a minimalist, vector-like style with clean lines and shapes. Ensure high contrast and bold colors for clear visibility in presentations. Avoid any text or detailed facial features. Composition should be balanced with clear division between past and present, emphasizing the transformation theme through visual elements only."
+         }
+      },
+      {
+         "step": "image_generation_slide_5_attempt_2",
+         "data": {
+            "image_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, focusing on symbolic elements representing political, economic, and social transformation. Left side (1980s): Simplified silhouettes of a military parade, minimalist economic growth chart, and traditional family scene. Right side (Modern): Stylized modern cityscape with basic skyscraper outlines, simplified tech symbols (smartphone and computer icons), and diverse group outlines representing modern society. Use a gradient color scheme transitioning from muted blues and grays (left) to vibrant oranges and reds (right). Include abstract connecting elements: fading outline of a document representing constitutional change, simplified currency symbol evolution, and media transition depicted by TV antenna morphing into a Wi-Fi symbol. Employ a minimalist, vector-like style with clean lines and shapes. Ensure high contrast and bold colors for clear visibility in presentations. Avoid any text or detailed facial features. Composition should be balanced with clear division between past and present, emphasizing the transformation theme through visual elements only.",
+            "image_url": "https://v3.fal.media/files/monkey/iOrVg4uaik0KUF1bWnFus.png",
+            "model": "fal-ai/flux/schnell",
+            "attempt": 2
+         }
+      },
+      {
+         "step": "image_analysis_slide_5_attempt_2",
+         "data": {
+            "is_valid": true,
+            "current_prompt": "Create a split-screen historical illustration comparing Turkey in the 1980s and modern Turkey, focusing on symbolic elements representing political, economic, and social transformation. Left side (1980s): Simplified silhouettes of a military parade, minimalist economic growth chart, and traditional family scene. Right side (Modern): Stylized modern cityscape with basic skyscraper outlines, simplified tech symbols (smartphone and computer icons), and diverse group outlines representing modern society. Use a gradient color scheme transitioning from muted blues and grays (left) to vibrant oranges and reds (right). Include abstract connecting elements: fading outline of a document representing constitutional change, simplified currency symbol evolution, and media transition depicted by TV antenna morphing into a Wi-Fi symbol. Employ a minimalist, vector-like style with clean lines and shapes. Ensure high contrast and bold colors for clear visibility in presentations. Avoid any text or detailed facial features. Composition should be balanced with clear division between past and present, emphasizing the transformation theme through visual elements only.",
+            "new_prompt": null
+         }
+      }
+   ]
+}
