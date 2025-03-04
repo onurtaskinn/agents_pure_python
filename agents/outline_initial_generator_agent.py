@@ -18,7 +18,6 @@ def call_outline_initial_generator_agent(topic_count: TopicCount) -> Presentatio
     
     AI_Response = client.chat.completions.create(
         model="claude-3-7-sonnet-20250219",
-        # model = "claude-3-haiku-20240307",
         messages=[
             {
                 "role": "system",

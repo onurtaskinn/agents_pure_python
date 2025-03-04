@@ -35,7 +35,8 @@ def call_outline_fixer_agent(test_result_with_outline : ValidationWithOutline) -
             },
             {
                 "role": "user",
-                "content": outline_fixer_user_message.format(previous_outline_title=previous_outline_title,
+                "content": outline_fixer_user_message.format( previous_outline_title=previous_outline_title,
+                                                              slide_count=len(previous_outline.slide_outlines),
                                                               previous_outline_text=previous_outline_text,
                                                               feedback=feedback,
                                                               score=score)

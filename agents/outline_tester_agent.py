@@ -3,7 +3,6 @@ from utils.datamodels import PresentationOutline, TopicCount, ValidationWithOutl
 from utils.prompts import outline_tester_system_message, outline_tester_user_message
 import os, instructor
 from anthropic import Anthropic
-from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -12,16 +11,17 @@ load_dotenv()
 def call_outline_tester_agent(topic_count: TopicCount, previous_outline: PresentationOutline) -> ValidationWithOutline:
     """Function to call the initial outline generator agent"""
 
-    openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    client = instructor.from_openai(client=openai_client, mode=instructor.Mode.JSON)
-
     previous_outline_text = '\n'.join(
         f"{i+1}. {slide.slide_title}\n   Focus: {slide.slide_focus}"
         for i, slide in enumerate(previous_outline.slide_outlines)
     )
 
+
+    anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+    client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
+
     AI_Response = client.chat.completions.create(
-        model = "o1-2024-12-17",
+        model="claude-3-7-sonnet-20250219",
         messages=[
             {
                 "role": "system",
@@ -36,6 +36,8 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
         ],
         response_model=OutlineValidationResult,
         top_p=1,
+        temperature=0.7,
+        max_tokens=8192        
     )
 
     return ValidationWithOutline(validation_feedback=AI_Response, tested_outline=previous_outline)
