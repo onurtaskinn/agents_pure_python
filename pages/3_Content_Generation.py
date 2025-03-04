@@ -10,8 +10,10 @@ from agents.speech_generator import call_speech_generator
 import json
 from datetime import datetime
 from utils.logging import save_logs, log_step
-CONTENT_THRESHOLD_SCORE = 10
-IMAGE_THRESHOLD_SCORE = 10
+from utils.datamodels import SlideContent
+
+CONTENT_THRESHOLD_SCORE = 15
+IMAGE_THRESHOLD_SCORE = 11
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -138,13 +140,18 @@ with slide_container:
                     
                     content_fix_iteration += 1
 
-        # Image generation
-        # Image generation
+            # Image generation
         with st.status(f"🖼️ Generating image...") as status:
             current_content = content  # Keep track of current slide content (including prompt)
             attempt_count = 1
             max_attempts = 5
             is_valid = False
+            
+            # Track the best image
+            best_score = -1
+            best_image_url = None
+            best_prompt = None
+            best_attempt = 0
             
             while not is_valid and attempt_count <= max_attempts:
                 # Generate image
@@ -166,11 +173,21 @@ with slide_container:
                 status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
                 image_test_result = call_image_tester_agent(image_url, current_content)
                 
+                # Get the current score
+                current_score = image_test_result.validation_feedback.score
+                
+                # Check if this is the best image so far
+                if current_score > best_score:
+                    best_score = current_score
+                    best_image_url = image_url
+                    best_prompt = current_content.slide_image_prompt
+                    best_attempt = attempt_count
+                
                 # Log image test results
                 st.session_state.results["process_steps"].append({
                     "step": f"image_analysis_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
                     "data": {
-                        "score": image_test_result.validation_feedback.score,
+                        "score": current_score,
                         "feedback": image_test_result.validation_feedback.feedback,
                         "suggestions": image_test_result.validation_feedback.suggestions,
                         "current_prompt": current_content.slide_image_prompt
@@ -183,31 +200,56 @@ with slide_container:
                 st.json(image_test_result.model_dump())
                 
                 # Determine if the image is valid (threshold check)
-                is_valid = image_test_result.validation_feedback.score >= IMAGE_THRESHOLD_SCORE  # Assuming 90 is your threshold
+                is_valid = current_score >= IMAGE_THRESHOLD_SCORE
                 
-                if is_valid or attempt_count >= max_attempts:
-                    if is_valid:
-                        status.update(label=f"Image generated successfully! (Attempt {attempt_count})", state="complete")
-                    else:
-                        status.update(label=f"Maximum attempts reached ({max_attempts})", state="error")
-                        st.warning("Warning: Could not generate an image meeting all quality criteria.")
+                if is_valid:
+                    status.update(label=f"Image generated successfully! (Attempt {attempt_count})", state="complete")
+                elif attempt_count >= max_attempts:
+                    # We've reached max attempts, use the best image found
+                    status.update(label=f"Maximum attempts reached. Using best image (Score: {best_score}) from attempt #{best_attempt}", state="complete")
+                    st.warning(f"Maximum attempts reached. Using best image with score {best_score} from attempt #{best_attempt}")
+                    
+                    # Show the best image again if it's not the current one
+                    if image_url != best_image_url:
+                        st.success(f"Selected best image with score {best_score}")
+                        st.image(best_image_url, use_container_width=True)
+                    
+                    # Create a new "attempt" that will be the last one, containing the best image
+                    # This ensures the Results Viewer will pick up this image
+                    st.session_state.results["process_steps"].append({
+                        "step": f"image_generation_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count + 1}",
+                        "data": {
+                            "image_prompt": best_prompt,
+                            "image_url": best_image_url,
+                            "model": selected_image_model,
+                            "attempt": attempt_count + 1,
+                            "note": "Best image selected after maximum attempts"
+                        }
+                    })
+                    
+                    # Update the current content with the best prompt
+                    current_content = SlideContent(
+                        slide_onscreen_text=current_content.slide_onscreen_text,
+                        slide_voiceover_text=current_content.slide_voiceover_text,
+                        slide_image_prompt=best_prompt
+                    )
                     break
-                
-                # Fix the prompt if needed
-                status.update(label=f"Improving image prompt (Attempt {attempt_count})...")
-                current_content = call_image_fixer_agent(image_test_result)
-                
-                # Log the improved prompt
-                st.session_state.results["process_steps"].append({
-                    "step": f"image_prompt_fix_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
-                    "data": {
-                        "new_prompt": current_content.slide_image_prompt
-                    }
-                })
+                else:
+                    # Fix the prompt if needed
+                    status.update(label=f"Improving image prompt (Attempt {attempt_count})...")
+                    current_content = call_image_fixer_agent(image_test_result)
+                    
+                    # Log the improved prompt
+                    st.session_state.results["process_steps"].append({
+                        "step": f"image_prompt_fix_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
+                        "data": {
+                            "new_prompt": current_content.slide_image_prompt
+                        }
+                    })
                 
                 attempt_count += 1
             
-            # Use the final content (with potentially improved image prompt)
+            # Use the final content
             content = current_content
 
         if voiceover_generation:

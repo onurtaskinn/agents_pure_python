@@ -324,7 +324,9 @@ image_tester_user_message = (
     9. Includes elements not directly supporting the slide's context
 
     
+    
     SCORING CRITERIA (Total 13 points):
+
     1. Slide Content Alignment (5 points):
     - Includes elements that align with slide content - (1 point)
     - Matches specified visual style in prompt - (1 point)
@@ -357,6 +359,7 @@ image_tester_user_message = (
     - Ensure every element serves a purpose
     - Prioritize clarity over artistic complexity
 
+    You have a critical role in ensuring the image aligns with the slide content and enhances the presentation. Therefore be VERY strict in your evaluation.
     Now take a deep breath and start evaluating the image.
     '''
 )
