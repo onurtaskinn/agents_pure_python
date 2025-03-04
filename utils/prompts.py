@@ -103,6 +103,7 @@ Previous Title: {previous_outline_title}
 Previous Outline: {previous_outline_text}
 Evaluation Score: {score}
 Evaluation Feedback: {feedback}
+Slide Count should be: {slide_count}
 
 Follow these revision guidelines:
 
@@ -324,7 +325,7 @@ image_tester_user_message = (
     9. Includes elements not directly supporting the slide's context
 
     
-    
+
     SCORING CRITERIA (Total 13 points):
 
     1. Slide Content Alignment (5 points):
