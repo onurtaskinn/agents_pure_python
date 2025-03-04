@@ -216,31 +216,31 @@ Evaluation Criteria:
 - Technical errors in HTML markup or language
 
 
-2. Quality Scoring (Total: 100 points)
+2. Quality Scoring (Total: 17 points)
 
-Content Coherence (40 points):
-- Alignment between onscreen text, voiceover, and image prompt
-- Clear message delivery
-- Appropriate level of detail
-- Logical flow of information
+Content Coherence (6 points):
+- Alignment between onscreen text, voiceover, and image prompt - (2 points)
+- Clear message delivery - (2 points)
+- Appropriate level of detail - (1 point)
+- Logical flow of information - (1 point)
 
-Multimedia Design (30 points):
-- Balance between onscreen and voiceover text
-- Onscreen text conciseness
-- Voiceover text completeness
-- Image prompt relevance and enhancement
+Multimedia Design (5 points):
+- Balance between onscreen and voiceover text - (2 points)
+- Onscreen text conciseness - (1 point)
+- Voiceover text completeness - (1 point)
+- Image prompt relevance and enhancement - (1 point)
 
-Technical Quality (30 points):
-- Correct HTML markup usage
-- Image prompt clarity and specificity
-- Language consistency
-- Professional tone
+Technical Quality (6 points):
+- Correct HTML markup usage - (2 points)
+- Language consistency - (2 points)
+- Image prompt clarity and specificity - (1 points)
+- Professional tone - (1 point)
 
 Your evaluation must provide:
 1. Comprehensive feedback listing all issues found
-2. Detailed score breakdown (0-100) for each criterion
+2. Detailed score breakdown (0-17) for each criterion
 
-Remember, your evaluation should be strict, don't hesitate to give low scores if you see any issues.
+Remember, your evaluation should be strict, don't hesitate to give low scores if you see issues. 
 
 Now take a deep breath and start evaluating the content.
 '''
@@ -324,31 +324,31 @@ image_tester_user_message = (
     9. Includes elements not directly supporting the slide's context
 
     
-    SCORING CRITERIA (Total 100 points):
-    1. Slide Content Alignment (40 points):
-    - Includes elements that align with slide content
-    - Matches specified visual style in prompt
-    - Contains requested elements
-    - Accurate concept representation
-    - Proper composition as described
+    SCORING CRITERIA (Total 13 points):
+    1. Slide Content Alignment (5 points):
+    - Includes elements that align with slide content - (1 point)
+    - Matches specified visual style in prompt - (1 point)
+    - Contains requested elements - (1 point)
+    - Accurate concept representation - (1 point)
+    - Proper composition as described - (1 point)
 
-    2. Visual Quality (30 points):
-    - Resolution and clarity
-    - Color balance and contrast
-    - Lighting and shadows
-    - Professional appearance
+    2. Visual Quality (4 points):
+    - Resolution and clarity - (1 point)
+    - Color balance and contrast - (1 point)
+    - Lighting and shadows - (1 point)
+    - Professional appearance - (1 point)
 
-    3. Presentation Suitability (30 points):
-    - Fits presentation context
-    - Supports slide message
-    - Maintains appropriate simplicity
-    - Uses minimal, context-appropriate elements
-    - Clear focus on key message
+    3. Presentation Suitability (4 points):
+    - Fits presentation context - (1 point)
+    - Supports slide message - (1 point)
+    - Maintains appropriate simplicity - (1 point)
+    - Uses minimal, context-appropriate elements - (1 point)
+    - Clear focus on key message - (1 point)
 
     Required Response Format:
     1. Detailed feedback listing specific issues found    
     2. Suggested prompt improvements if needed
-    3. Numerical score (0-100)
+    3. Numerical score (0-13)
     
 
     Remember:

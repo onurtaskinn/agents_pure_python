@@ -10,8 +10,8 @@ from agents.speech_generator import call_speech_generator
 import json
 from datetime import datetime
 from utils.logging import save_logs, log_step
-CONTENT_THRESHOLD_SCORE = 30
-IMAGE_THRESHOLD_SCORE = 30
+CONTENT_THRESHOLD_SCORE = 10
+IMAGE_THRESHOLD_SCORE = 10
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
