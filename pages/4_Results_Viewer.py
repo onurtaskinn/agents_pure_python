@@ -26,6 +26,7 @@ with overview_container:
     st.write(f"**Title:** {st.session_state.final_outline.presentation_title}")
     st.write(f"**Total Slides:** {len(st.session_state.final_outline.slide_outlines)}")
     st.write(f"**Generation Date:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    st.write(f"**Token Usage:** {st.session_state.input_tokens} input tokens, {st.session_state.output_tokens} output tokens")
 
 # Create tabs for different view modes
 tab_slides, tab_export, tab_logs = st.tabs(["🎯 Slide View", "📑 Export View", "📋 Process Logs"])

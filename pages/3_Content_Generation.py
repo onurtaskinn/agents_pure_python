@@ -12,11 +12,11 @@ from datetime import datetime
 from utils.logging import save_logs, log_step
 from utils.datamodels import SlideContent
 
-CONTENT_THRESHOLD_SCORE = 15
-IMAGE_THRESHOLD_SCORE = 11
+CONTENT_THRESHOLD_SCORE = 0
+IMAGE_THRESHOLD_SCORE = 0
 
-total_input_tokens = 0
-total_output_tokens = 0
+st.session_state.total_content_input_tokens = 0
+st.session_state.total_content_output_tokens = 0
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
@@ -64,8 +64,8 @@ with slide_container:
                 st.session_state.final_outline.presentation_title,
                 current_slide
             )
-            total_input_tokens += input_tokens
-            total_output_tokens += output_tokens
+            st.session_state.total_content_input_tokens += input_tokens
+            st.session_state.total_content_output_tokens += output_tokens
             st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
 
 
@@ -86,8 +86,8 @@ with slide_container:
                 current_slide,
                 initial_content
             )
-            total_input_tokens += input_tokens
-            total_output_tokens += output_tokens
+            st.session_state.total_content_input_tokens += input_tokens
+            st.session_state.total_content_output_tokens += output_tokens
             st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
 
             st.session_state.results["process_steps"].append({
@@ -121,8 +121,8 @@ with slide_container:
                         content,
                         content_test_result
                     )
-                    total_input_tokens += input_tokens
-                    total_output_tokens += output_tokens
+                    st.session_state.total_content_input_tokens += input_tokens
+                    st.session_state.total_content_output_tokens += output_tokens
                     st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
 
                     st.session_state.results["process_steps"].append({
@@ -137,8 +137,8 @@ with slide_container:
                         current_slide,
                         fixed_content
                     )
-                    total_input_tokens += input_tokens
-                    total_output_tokens += output_tokens
+                    st.session_state.total_content_input_tokens += input_tokens
+                    st.session_state.total_content_output_tokens += output_tokens
                     st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")   
 
                     st.session_state.results["process_steps"].append({
@@ -200,8 +200,8 @@ with slide_container:
                 # Test image
                 status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
                 image_test_result, input_tokens, output_tokens  = call_image_tester_agent(image_url, current_content)
-                total_input_tokens += input_tokens
-                total_output_tokens += output_tokens  
+                st.session_state.total_content_input_tokens += input_tokens
+                st.session_state.total_content_output_tokens += output_tokens  
                 st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")              
                 
                 # Get the current score
@@ -274,8 +274,8 @@ with slide_container:
                     # Fix the prompt if needed
                     status.update(label=f"Improving image prompt (Attempt {attempt_count})...")
                     current_content, input_tokens, output_tokens  = call_image_fixer_agent(image_test_result)
-                    total_input_tokens += input_tokens
-                    total_output_tokens += output_tokens 
+                    st.session_state.total_content_input_tokens += input_tokens
+                    st.session_state.total_content_output_tokens += output_tokens 
                     st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")                      
                     
                     # Log the improved prompt
@@ -319,8 +319,9 @@ with slide_container:
         st.session_state.completed_slides.add(st.session_state.current_slide_idx)
     
         st.info("The total token usage for this process is:")
-        st.write(f"🔢 **Token usage:** {total_input_tokens:,} input + {total_output_tokens:,} output = {total_input_tokens + total_output_tokens:,} tokens")   
-
+        st.write(f"🔢 **Token usage:** {st.session_state.total_content_input_tokens:,} input + {st.session_state.total_content_output_tokens:,} output = {st.session_state.total_content_input_tokens + st.session_state.total_content_output_tokens:,} tokens")   
+        st.session_state.input_tokens += st.session_state.total_content_input_tokens
+        st.session_state.output_tokens += st.session_state.total_content_output_tokens     
 
     # Navigation buttons
     col1, col2, col3 = st.columns(3)
@@ -343,9 +344,7 @@ with slide_container:
             if st.button("Next Slide ➡️"):
                 st.session_state.current_slide_idx += 1
                 st.rerun()
-        elif len(st.session_state.completed_slides) == len(st.session_state.final_outline.slide_outlines):
-            st.session_state.input_tokens += total_input_tokens
-            st.session_state.output_tokens += total_output_tokens            
+        elif len(st.session_state.completed_slides) == len(st.session_state.final_outline.slide_outlines):       
             if st.button("🎉 Finish Presentation"):
                 # Mark content generation as complete
                 st.session_state.results["metadata"]["completion_status"]["content_generation"] = True
@@ -356,7 +355,9 @@ with slide_container:
                 # Log completion
                 log_step("presentation_completion", {
                     "total_slides": len(st.session_state.final_outline.slide_outlines),
-                    "completion_time": st.session_state.results["metadata"]["completion_time"]
+                    "completion_time": st.session_state.results["metadata"]["completion_time"],
+                    "input_tokens": st.session_state.input_tokens,
+                    "output_tokens": st.session_state.output_tokens
                 })
                 
                 # Save final results

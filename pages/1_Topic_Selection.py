@@ -1,6 +1,5 @@
 import streamlit as st
-from datetime import datetime
-from utils.logging import initialize_logging, save_logs, log_step
+from utils.logging import initialize_logging, log_step
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Topic Selection", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Topic Selection ⚡", divider="orange")
