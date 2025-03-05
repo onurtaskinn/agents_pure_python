@@ -26,7 +26,7 @@ def call_outline_fixer_agent(test_result_with_outline : ValidationWithOutline) -
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
 
-    AI_Response = client.chat.completions.create(
+    AI_Response, completion = client.chat.completions.create_with_completion(
         model="claude-3-7-sonnet-20250219",
         messages=[
             {
@@ -48,4 +48,7 @@ def call_outline_fixer_agent(test_result_with_outline : ValidationWithOutline) -
         top_p=1,
     )
 
-    return AI_Response
+    input_tokens = completion.usage.input_tokens
+    output_tokens = completion.usage.output_tokens
+    
+    return AI_Response, input_tokens, output_tokens

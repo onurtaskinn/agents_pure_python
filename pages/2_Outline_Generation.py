@@ -7,6 +7,8 @@ import json
 from utils.logging import log_step
 
 OUTLINE_THRESHOLD_SCORE = 90
+total_input_tokens = 0
+total_output_tokens = 0
 
 st.set_page_config(page_title="AI CONTENT STUDIO - Outline Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Outline Generation ⚡", divider="orange")
@@ -38,21 +40,32 @@ if not st.session_state.outline_generated:
     # Outline generation section
     with st.status("📝 Creating initial outline...", expanded=True) as status:
         st.write("### Step 1: Generating Initial Outline")
-        initial_outline = call_outline_initial_generator_agent(topic_count)
+        initial_outline, input_tokens, output_tokens = call_outline_initial_generator_agent(topic_count)
+        total_input_tokens += input_tokens
+        total_output_tokens += output_tokens
         st.session_state.results["process_steps"].append({
             "step": "initial_outline",
-            "data": json.loads(initial_outline.model_dump_json())
+            "data": json.loads(initial_outline.model_dump_json()),
+            "tokens_in": input_tokens,
+            "tokens_out": output_tokens            
         })
         st.json(initial_outline.model_dump())
         status.update(label="Initial outline generated!", state="complete")
+        st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
+
     
     # Outline testing section
     with st.status("🧪 Testing initial outline...", expanded=True) as status:
         st.write("### Step 2: Testing Presentation Outline")
-        tester_result = call_outline_tester_agent(topic_count, initial_outline)
+        tester_result, input_tokens, output_tokens = call_outline_tester_agent(topic_count, initial_outline)
+        total_input_tokens += input_tokens
+        total_output_tokens += output_tokens
+
         st.session_state.results["process_steps"].append({
             "step": "tester_result",
-            "data": json.loads(tester_result.model_dump_json())
+            "data": json.loads(tester_result.model_dump_json()),
+            "tokens_in": input_tokens,
+            "tokens_out": output_tokens               
         })
         st.json(tester_result.model_dump())
         
@@ -63,6 +76,7 @@ if not st.session_state.outline_generated:
         else:
             status.update(label="Outline needs fixes!", state="error")
             st.error(f"Validation Failed: {tester_result.validation_feedback.feedback}")
+        st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
 
     # Outline fixing loop
     if not tester_result.validation_feedback.score >= OUTLINE_THRESHOLD_SCORE:
@@ -70,17 +84,29 @@ if not st.session_state.outline_generated:
         while not tester_result.validation_feedback.score >= OUTLINE_THRESHOLD_SCORE:
             with st.status(f"🔧 Fixing outline - Iteration {outline_fix_iteration}...", expanded=True) as status:
                 st.write(f"### Fixing Round {outline_fix_iteration}")
-                fixed_result = call_outline_fixer_agent(tester_result)
+                fixed_result, input_tokens, output_tokens = call_outline_fixer_agent(tester_result)
+                total_input_tokens += input_tokens
+                total_output_tokens += output_tokens          
+
                 st.session_state.results["process_steps"].append({
                     "step": f"fixed_result_iteration_{outline_fix_iteration}",
-                    "data": json.loads(fixed_result.model_dump_json())
+                    "data": json.loads(fixed_result.model_dump_json()),
+                    "tokens_in": input_tokens,
+                    "tokens_out": output_tokens                       
                 })
+                st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens for fixing")
 
-                tester_result = call_outline_tester_agent(topic_count, fixed_result)
+                tester_result, input_tokens, output_tokens = call_outline_tester_agent(topic_count, fixed_result)
+                total_input_tokens += input_tokens
+                total_output_tokens += output_tokens   
+
                 st.session_state.results["process_steps"].append({
                     "step": f"tester_result_iteration_{outline_fix_iteration}",
-                    "data": json.loads(tester_result.model_dump_json())
+                    "data": json.loads(tester_result.model_dump_json()),
+                    "tokens_in": input_tokens,
+                    "tokens_out": output_tokens                      
                 })
+                st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens for testing")
                 
                 st.write("**Fixed Outline:**")
                 st.json(fixed_result.model_dump())
@@ -99,5 +125,7 @@ if not st.session_state.outline_generated:
 
 if st.session_state.outline_generated:
     st.success("🎉 Outline generation completed successfully!")
+    st.info("The total token usage for this process is:")
+    st.write(f"🔢 **Token usage:** {total_input_tokens:,} input + {total_output_tokens:,} output = {total_input_tokens + total_output_tokens:,} tokens")
     if st.button("Proceed to Content Generation"):
         st.switch_page("pages/3_Content_Generation.py")

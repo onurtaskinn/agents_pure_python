@@ -20,7 +20,7 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode.ANTHROPIC_JSON)
 
-    AI_Response = client.chat.completions.create(
+    AI_Response, completion = client.chat.completions.create_with_completion(
         model="claude-3-7-sonnet-20250219",
         messages=[
             {
@@ -40,4 +40,7 @@ def call_outline_tester_agent(topic_count: TopicCount, previous_outline: Present
         max_tokens=8192        
     )
 
-    return ValidationWithOutline(validation_feedback=AI_Response, tested_outline=previous_outline)
+    input_tokens = completion.usage.input_tokens
+    output_tokens = completion.usage.output_tokens
+    
+    return ValidationWithOutline(validation_feedback=AI_Response, tested_outline=previous_outline), input_tokens, output_tokens
