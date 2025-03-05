@@ -17,7 +17,7 @@ client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode
 
 def call_image_fixer_agent(image_validation_result : ImageValidationWithSlideContent) -> SlideContent:
     
-    AI_Response = client.chat.completions.create(
+    AI_Response, completion = client.chat.completions.create_with_completion(
         model="claude-3-7-sonnet-20250219",
         messages=[
             {
@@ -49,7 +49,10 @@ def call_image_fixer_agent(image_validation_result : ImageValidationWithSlideCon
         slide_voiceover_text = image_validation_result.tested_slide_content.slide_voiceover_text,
         slide_image_prompt = AI_Response.prompt
     )
+
+    input_tokens = completion.usage.input_tokens
+    output_tokens = completion.usage.output_tokens    
     
-    return new_slide_content
+    return new_slide_content, input_tokens, output_tokens
 
 #%%

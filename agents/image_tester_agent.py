@@ -17,7 +17,7 @@ client = instructor.from_anthropic(client=anthropic_client, mode=instructor.Mode
 
 def call_image_tester_agent(image_url: str, slide_content : SlideContent) -> ImageValidationWithSlideContent:
 
-    tester_result = client.chat.completions.create(
+    AI_Response, completion = client.chat.completions.create_with_completion(
         model="claude-3-7-sonnet-20250219",        
         messages=[
             {
@@ -45,8 +45,8 @@ def call_image_tester_agent(image_url: str, slide_content : SlideContent) -> Ima
         max_tokens=8192,
     )
 
-    return ImageValidationWithSlideContent(
-        validation_feedback = tester_result,
-        tested_slide_content = slide_content
-    )
+    input_tokens = completion.usage.input_tokens
+    output_tokens = completion.usage.output_tokens
+
+    return ImageValidationWithSlideContent( validation_feedback = AI_Response, tested_slide_content = slide_content) , input_tokens, output_tokens
 #%%

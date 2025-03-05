@@ -127,5 +127,7 @@ if st.session_state.outline_generated:
     st.success("🎉 Outline generation completed successfully!")
     st.info("The total token usage for this process is:")
     st.write(f"🔢 **Token usage:** {total_input_tokens:,} input + {total_output_tokens:,} output = {total_input_tokens + total_output_tokens:,} tokens")
+    st.session_state.input_tokens += total_input_tokens
+    st.session_state.output_tokens += total_output_tokens
     if st.button("Proceed to Content Generation"):
         st.switch_page("pages/3_Content_Generation.py")

@@ -14,6 +14,8 @@ This application helps you create professional presentations with AI assistance.
 
 Click the button below to begin your presentation creation journey.
 """)
+st.session_state.input_tokens = 0
+st.session_state.output_tokens = 0
 
 if st.button("Start Creating"):
     st.switch_page("pages/1_Topic_Selection.py")

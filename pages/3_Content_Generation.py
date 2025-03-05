@@ -15,6 +15,9 @@ from utils.datamodels import SlideContent
 CONTENT_THRESHOLD_SCORE = 15
 IMAGE_THRESHOLD_SCORE = 11
 
+total_input_tokens = 0
+total_output_tokens = 0
+
 st.set_page_config(page_title="AI CONTENT STUDIO - Content Generation", page_icon=":card_file_box:", layout="wide")
 st.header(body=":card_file_box: AI CONTENT STUDIO - Content Generation ⚡", divider="orange")
 
@@ -57,13 +60,20 @@ with slide_container:
         # Content generation process for current slide
         # Initial content generation
         with st.status(f"📄 Generating content...") as status:
-            initial_content = call_content_initial_generator_agent(
+            initial_content, input_tokens, output_tokens = call_content_initial_generator_agent(
                 st.session_state.final_outline.presentation_title,
                 current_slide
             )
+            total_input_tokens += input_tokens
+            total_output_tokens += output_tokens
+            st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
+
+
             st.session_state.results["process_steps"].append({
                 "step": f"initial_content_slide_{st.session_state.current_slide_idx + 1}",
-                "data": json.loads(initial_content.model_dump_json())
+                "data": json.loads(initial_content.model_dump_json()),
+                "tokens_in": input_tokens,
+                "tokens_out": output_tokens   
             })
             st.write("### Initial Content")
             st.json(initial_content.model_dump())
@@ -71,14 +81,20 @@ with slide_container:
         
         # Content testing
         with st.status(f"🧪 Testing content...") as status:
-            content_test_result = call_content_tester_agent(
+            content_test_result, input_tokens, output_tokens  = call_content_tester_agent(
                 st.session_state.final_outline.presentation_title,
                 current_slide,
                 initial_content
             )
+            total_input_tokens += input_tokens
+            total_output_tokens += output_tokens
+            st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
+
             st.session_state.results["process_steps"].append({
                 "step": f"tester_content_slide_{st.session_state.current_slide_idx + 1}",
-                "data": json.loads(content_test_result.model_dump_json())
+                "data": json.loads(content_test_result.model_dump_json()),
+                "tokens_in": input_tokens,
+                "tokens_out": output_tokens 
             })
             st.write("### Content Test Results")
             st.json(content_test_result.model_dump())
@@ -99,25 +115,37 @@ with slide_container:
             while content_test_result.score < CONTENT_THRESHOLD_SCORE and content_fix_iteration <= max_iterations:
                 with st.status(f"🔧 Fixing content - Iteration {content_fix_iteration}...") as status:
                     st.write(f"### Fixing Round {content_fix_iteration}")
-                    fixed_content = call_content_fixer_agent(
+                    fixed_content, input_tokens, output_tokens  = call_content_fixer_agent(
                         st.session_state.final_outline.presentation_title,
                         current_slide,
                         content,
                         content_test_result
                     )
+                    total_input_tokens += input_tokens
+                    total_output_tokens += output_tokens
+                    st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")
+
                     st.session_state.results["process_steps"].append({
                         "step": f"fixed_content_slide_{st.session_state.current_slide_idx + 1}_iteration_{content_fix_iteration}",
-                        "data": json.loads(fixed_content.model_dump_json())
+                        "data": json.loads(fixed_content.model_dump_json()),
+                        "tokens_in": input_tokens,
+                        "tokens_out": output_tokens 
                     })
                     
-                    content_test_result = call_content_tester_agent(
+                    content_test_result, input_tokens, output_tokens  = call_content_tester_agent(
                         st.session_state.final_outline.presentation_title,
                         current_slide,
                         fixed_content
                     )
+                    total_input_tokens += input_tokens
+                    total_output_tokens += output_tokens
+                    st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")   
+
                     st.session_state.results["process_steps"].append({
                         "step": f"tester_content_slide_{st.session_state.current_slide_idx + 1}_iteration_{content_fix_iteration}",
-                        "data": json.loads(content_test_result.model_dump_json())
+                        "data": json.loads(content_test_result.model_dump_json()),
+                        "tokens_in": input_tokens,
+                        "tokens_out": output_tokens 
                     })
                     
                     st.write("**Fixed Content:**")
@@ -171,7 +199,10 @@ with slide_container:
                 
                 # Test image
                 status.update(label=f"Analyzing image quality (Attempt {attempt_count})...")
-                image_test_result = call_image_tester_agent(image_url, current_content)
+                image_test_result, input_tokens, output_tokens  = call_image_tester_agent(image_url, current_content)
+                total_input_tokens += input_tokens
+                total_output_tokens += output_tokens  
+                st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")              
                 
                 # Get the current score
                 current_score = image_test_result.validation_feedback.score
@@ -191,7 +222,9 @@ with slide_container:
                         "feedback": image_test_result.validation_feedback.feedback,
                         "suggestions": image_test_result.validation_feedback.suggestions,
                         "current_prompt": current_content.slide_image_prompt
-                    }
+                    },
+                    "tokens_in": input_tokens,
+                    "tokens_out": output_tokens 
                 })
                 
                 # Display image and test results
@@ -224,7 +257,10 @@ with slide_container:
                             "model": selected_image_model,
                             "attempt": attempt_count + 1,
                             "note": "Best image selected after maximum attempts"
-                        }
+                        },
+                        "tokens_in": input_tokens,
+                        "tokens_out": output_tokens 
+
                     })
                     
                     # Update the current content with the best prompt
@@ -237,14 +273,19 @@ with slide_container:
                 else:
                     # Fix the prompt if needed
                     status.update(label=f"Improving image prompt (Attempt {attempt_count})...")
-                    current_content = call_image_fixer_agent(image_test_result)
+                    current_content, input_tokens, output_tokens  = call_image_fixer_agent(image_test_result)
+                    total_input_tokens += input_tokens
+                    total_output_tokens += output_tokens 
+                    st.info(f"✓ API call used {input_tokens} input tokens and {output_tokens} output tokens")                      
                     
                     # Log the improved prompt
                     st.session_state.results["process_steps"].append({
                         "step": f"image_prompt_fix_slide_{st.session_state.current_slide_idx + 1}_attempt_{attempt_count}",
                         "data": {
                             "new_prompt": current_content.slide_image_prompt
-                        }
+                        },
+                        "tokens_in": input_tokens,
+                        "tokens_out": output_tokens 
                     })
                 
                 attempt_count += 1
@@ -276,6 +317,10 @@ with slide_container:
 
         # Mark slide as completed
         st.session_state.completed_slides.add(st.session_state.current_slide_idx)
+    
+        st.info("The total token usage for this process is:")
+        st.write(f"🔢 **Token usage:** {total_input_tokens:,} input + {total_output_tokens:,} output = {total_input_tokens + total_output_tokens:,} tokens")   
+
 
     # Navigation buttons
     col1, col2, col3 = st.columns(3)
@@ -299,6 +344,8 @@ with slide_container:
                 st.session_state.current_slide_idx += 1
                 st.rerun()
         elif len(st.session_state.completed_slides) == len(st.session_state.final_outline.slide_outlines):
+            st.session_state.input_tokens += total_input_tokens
+            st.session_state.output_tokens += total_output_tokens            
             if st.button("🎉 Finish Presentation"):
                 # Mark content generation as complete
                 st.session_state.results["metadata"]["completion_status"]["content_generation"] = True
@@ -316,7 +363,9 @@ with slide_container:
                 save_logs()
                 
                 st.balloons()
-                st.success("🎉 Presentation generation completed successfully!")
+                st.success("🎉 Presentation generation completed successfully! {st.session_state.input_tokens} input tokens and {st.session_state.output_tokens} output tokens are used.")
                 
                 # Proceed to results viewer
                 st.switch_page("pages/4_Results_Viewer.py")
+
+             
