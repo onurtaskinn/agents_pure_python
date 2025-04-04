@@ -1,406 +1,180 @@
-# main.py
-from fastapi import FastAPI, HTTPException
+import os
+import time
 from dotenv import load_dotenv
-import uvicorn
+from utils.datamodels import TopicCount, SlideContent, ValidationWithOutline, ImageValidationWithSlideContent
 
-# Import your existing agent functions
+# Import generator agents
 from agents.outline_initial_generator_agent import call_outline_initial_generator_agent
-from agents.outline_tester_agent import call_outline_tester_agent
-from agents.outline_fixer_agent import call_outline_fixer_agent
 from agents.content_initial_generator_agent import call_content_initial_generator_agent
-from agents.content_tester_agent import call_content_tester_agent
-from agents.content_fixer_agent import call_content_fixer_agent
-from agents.image_generator_agent import generate_image_with_flux
-from agents.image_tester_agent import analyze_image
+from agents.image_generator_agent import call_image_generator_agent
 
-# Import your existing data models
-from utils.datamodels import (
-    TopicCount,
-    PresentationOutline,
-    SlideOutline,
-    SlideContent,
-    ContentValidationResult
-)
+# Import tester agents
+from agents.outline_tester_agent import call_outline_tester_agent
+from agents.content_tester_agent import call_content_tester_agent
+from agents.image_tester_agent import call_image_tester_agent
+
+# Import fixer agents
+from agents.outline_fixer_agent import call_outline_fixer_agent
+from agents.content_fixer_agent import call_content_fixer_agent
+from agents.image_fixer_agent import call_image_fixer_agent
+
+# Quality thresholds
+OUTLINE_THRESHOLD_SCORE = 80 # out of 100
+CONTENT_THRESHOLD_SCORE = 14 # out of 17
+IMAGE_THRESHOLD_SCORE = 10 # out of 13
 
 # Load environment variables
 load_dotenv()
 
-# Initialize FastAPI app
-app = FastAPI(
-    title="Presentation Generation API",
-    description="API for generating presentation outlines, content, and images",
-    version="1.0.0"
-)
-
-
-# 1. Outline Agent Endpoints
-
-# {
-#     "presentation_topic": "Effective Communication",
-#     "slide_count": 5
-# }
-@app.post("/outline/generate", response_model=PresentationOutline)
-async def generate_outline(topic_count: TopicCount):
-    """Generate initial presentation outline"""
-    try:
-        initial_outline = call_outline_initial_generator_agent(topic_count)
-        return initial_outline
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+def generate_presentation(topic, slide_count, image_model="fal-ai/imagen3"):
+    """Generate a complete presentation with the specified topic and slide count"""
+    print(f"Generating presentation on: {topic} with {slide_count} slides")
+    total_tokens = 0
     
-
-
-# {
-#     "topic_count": {
-#         "presentation_topic": "Effective Communication",
-#         "slide_count": 5
-#     },
-#     "outline": {
-#         "presentation_title": "...",
-#         "slide_outlines": [...]
-#     }
-# }
-@app.post("/outline/test", response_model=dict)
-async def test_outline(request: dict):
-    """Test a presentation outline"""
-    try:
-        topic_count = TopicCount(**request["topic_count"])
-        outline = PresentationOutline(**request["outline"])
-        test_result = call_outline_tester_agent(topic_count, outline)
-        return test_result.model_dump()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
-
-# {
-#     "validation_feedback": {...},
-#     "tested_outline": {...}
-# }
-@app.post("/outline/fix", response_model=PresentationOutline)
-async def fix_outline(test_result: dict):
-    """Fix a presentation outline based on test results"""
-    try:
-        fixed_outline = call_outline_fixer_agent(test_result)
-        return fixed_outline
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
-
-
-
-
-# 2. Content Agent Endpoints
-
-
-# {
-#     "presentation_title": "Effective Communication",
-#     "slide_outline": {
-#         "slide_title": "Introduction",
-#         "slide_focus": "...",
-#         "slide_number": 1
-#     }
-# }
-@app.post("/content/generate", response_model=SlideContent)
-async def generate_content(request: dict):
-    """Generate initial slide content"""
-    try:
-        presentation_title = request["presentation_title"]
-        slide_outline = SlideOutline(**request["slide_outline"])
-        content = call_content_initial_generator_agent(presentation_title, slide_outline)
-        return content
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+    # Step 1: Generate and validate outline
+    print("Creating outline...")
+    topic_count = TopicCount(presentation_topic=topic, slide_count=slide_count)
+    outline, input_tokens, output_tokens = call_outline_initial_generator_agent(topic_count)
+    total_tokens += input_tokens + output_tokens
     
-
-
-
-# {
-#     "presentation_title": "Effective Communication",
-#     "slide_outline": {...},
-#     "content": {
-#         "slide_onscreen_text": "...",
-#         "slide_voiceover_text": "...",
-#         "slide_image_prompt": "..."
-#     }
-# }
-@app.post("/content/test", response_model=ContentValidationResult)
-async def test_content(request: dict):
-    """Test slide content"""
-    try:
-        presentation_title = request["presentation_title"]
-        slide_outline = SlideOutline(**request["slide_outline"])
-        content = SlideContent(**request["content"])
-        test_result = call_content_tester_agent(presentation_title, slide_outline, content)
-        return test_result
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
-
-# {
-#     "presentation_title": "Effective Communication",
-#     "slide_outline": {...},
-#     "previous_content": {...},
-#     "test_result": {
-#         "is_valid": false,
-#         "feedback": "...",
-#         "score": 80
-#     }
-# }
-@app.post("/content/fix", response_model=SlideContent)
-async def fix_content(request: dict):
-    """Fix slide content based on test results"""
-    try:
-        presentation_title = request["presentation_title"]
-        slide_outline = SlideOutline(**request["slide_outline"])
-        previous_content = SlideContent(**request["previous_content"])
-        test_result = ContentValidationResult(**request["test_result"])
-        fixed_content = call_content_fixer_agent(
-            presentation_title,
-            slide_outline,
-            previous_content,
-            test_result
+    # Test outline quality
+    print("Testing outline quality...")
+    test_result, input_tokens, output_tokens = call_outline_tester_agent(topic_count, outline)
+    total_tokens += input_tokens + output_tokens
+    
+    # Fix outline if needed
+    if test_result.validation_feedback.score < OUTLINE_THRESHOLD_SCORE:
+        print(f"Outline needs improvement (Score: {test_result.validation_feedback.score})")
+        print(f"Feedback: {test_result.validation_feedback.feedback}")
+        print("Fixing outline...")
+        fixed_outline, input_tokens, output_tokens = call_outline_fixer_agent(test_result)
+        outline = fixed_outline
+        total_tokens += input_tokens + output_tokens
+    
+    print(f"Final outline created: {outline.presentation_title}")
+    
+    # Step 2: Generate content and images for each slide
+    presentation = {
+        "title": outline.presentation_title,
+        "slides": []
+    }
+    
+    for i, slide in enumerate(outline.slide_outlines):
+        print(f"\nProcessing slide {i+1}/{slide_count}: {slide.slide_title}")
+        
+        # Generate initial content
+        print("Generating content...")
+        content, input_tokens, output_tokens = call_content_initial_generator_agent(
+            outline.presentation_title, slide
         )
-        return fixed_content
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
-
-# 3. Image Agent Endpoints
-
-# {
-#     "prompt": "A professional business meeting scene",
-#     "model": "fal-ai/flux-realism"
-# }
-@app.post("/image/generate", response_model=dict)
-async def generate_image(request: dict):
-    """Generate image based on prompt"""
-    try:
-        prompt = request["prompt"]
-        model = request["model"]
-        image_url = generate_image_with_flux(prompt, model)
-        return {"image_url": image_url}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-# {
-#     "image_url": "https://...",
-#     "prompt": "A professional business meeting scene"
-# }
-@app.post("/image/test", response_model=dict)
-async def test_image(request: dict):
-    """Test generated image"""
-    try:
-        image_url = request["image_url"]
-        prompt = request["prompt"]
-        analysis_result = analyze_image(image_url, prompt)
-        return analysis_result
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
-
-
-
-from typing import Optional
-from pydantic import BaseModel
-
-
-# New request/response models for complete cycles
-class OutlineCycleRequest(BaseModel):
-    presentation_topic: str
-    slide_count: int
-    max_iterations: Optional[int] = 3
-
-class OutlineCycleResponse(BaseModel):
-    final_outline: PresentationOutline
-    iterations: int
-    validation_score: int
-    is_valid: bool
-
-class ContentCycleRequest(BaseModel):
-    presentation_title: str
-    slide_outline: SlideOutline
-    max_iterations: Optional[int] = 3
-
-class ContentCycleResponse(BaseModel):
-    final_content: SlideContent
-    iterations: int
-    validation_score: int
-    is_valid: bool
-
-class ImageCycleRequest(BaseModel):
-    prompt: str
-    model: str = "fal-ai/flux-realism"
-    max_attempts: Optional[int] = 5
-
-class ImageCycleResponse(BaseModel):
-    image_url: str
-    final_prompt: str
-    attempts: int
-    validation_score: int
-    is_valid: bool
-
-
-
-
-# Complete cycle endpoints
-@app.post("/complete/outline", response_model=OutlineCycleResponse)
-async def complete_outline_cycle(request: OutlineCycleRequest):
-    """Complete outline generation cycle including generation, testing, and fixing"""
-    try:
-        # Initial outline generation
-        topic_count = TopicCount(
-            presentation_topic=request.presentation_topic,
-            slide_count=request.slide_count
+        total_tokens += input_tokens + output_tokens
+        
+        # Test content quality
+        print("Testing content quality...")
+        content_test, input_tokens, output_tokens = call_content_tester_agent(
+            outline.presentation_title, slide, content
         )
-        initial_outline = call_outline_initial_generator_agent(topic_count)
+        total_tokens += input_tokens + output_tokens
         
-        # Testing and fixing loop
-        current_outline = initial_outline
-        iterations = 1
-        
-        while iterations <= request.max_iterations:
-            # Test current outline
-            test_result = call_outline_tester_agent(topic_count, current_outline)
-            
-            # If valid, return success
-            if test_result.validation_feedback.is_valid:
-                return OutlineCycleResponse(
-                    final_outline=current_outline,
-                    iterations=iterations,
-                    validation_score=test_result.validation_feedback.score,
-                    is_valid=True
-                )
-            
-            # If not valid and still have iterations, fix and continue
-            if iterations < request.max_iterations:
-                current_outline = call_outline_fixer_agent(test_result)
-            
-            iterations += 1
-        
-        # Return last result if max iterations reached
-        return OutlineCycleResponse(
-            final_outline=current_outline,
-            iterations=iterations - 1,
-            validation_score=test_result.validation_feedback.score,
-            is_valid=test_result.validation_feedback.is_valid
-        )
-            
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-@app.post("/complete/content", response_model=ContentCycleResponse)
-async def complete_content_cycle(request: ContentCycleRequest):
-    """Complete content generation cycle including generation, testing, and fixing"""
-    try:
-        # Initial content generation
-        initial_content = call_content_initial_generator_agent(
-            request.presentation_title,
-            request.slide_outline
-        )
-        
-        # Testing and fixing loop
-        current_content = initial_content
-        iterations = 1
-        
-        while iterations <= request.max_iterations:
-            # Test current content
-            test_result = call_content_tester_agent(
-                request.presentation_title,
-                request.slide_outline,
-                current_content
+        # Fix content if needed
+        if content_test.score < CONTENT_THRESHOLD_SCORE:
+            print(f"Content needs improvement (Score: {content_test.score})")
+            print("Fixing content...")
+            fixed_content, input_tokens, output_tokens = call_content_fixer_agent(
+                outline.presentation_title, slide, content, content_test
             )
-            
-            # If valid, return success
-            if test_result.is_valid:
-                return ContentCycleResponse(
-                    final_content=current_content,
-                    iterations=iterations,
-                    validation_score=test_result.score,
-                    is_valid=True
-                )
-            
-            # If not valid and still have iterations, fix and continue
-            if iterations < request.max_iterations:
-                current_content = call_content_fixer_agent(
-                    request.presentation_title,
-                    request.slide_outline,
-                    current_content,
-                    test_result
-                )
-            
-            iterations += 1
+            content = fixed_content
+            total_tokens += input_tokens + output_tokens
         
-        # Return last result if max iterations reached
-        return ContentCycleResponse(
-            final_content=current_content,
-            iterations=iterations - 1,
-            validation_score=test_result.score,
-            is_valid=test_result.is_valid
-        )
+        # Generate image
+        print("Generating image...")
+        image_url = call_image_generator_agent(content.slide_image_prompt, image_model)
+        
+        # Test image quality
+        print("Testing image quality...")
+        image_test_result, input_tokens, output_tokens = call_image_tester_agent(image_url, content)
+        total_tokens += input_tokens + output_tokens
+        
+        # Fix image prompt if needed
+        if image_test_result.validation_feedback.score < IMAGE_THRESHOLD_SCORE:
+            print(f"Image needs improvement (Score: {image_test_result.validation_feedback.score})")
+            print("Fixing image prompt and regenerating...")
+            improved_content, input_tokens, output_tokens = call_image_fixer_agent(image_test_result)
+            total_tokens += input_tokens + output_tokens
             
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+            # Regenerate image with improved prompt
+            image_url = call_image_generator_agent(improved_content.slide_image_prompt, image_model)
+            content = improved_content  # Update content with improved image prompt
+        
+        # Store slide data
+        presentation["slides"].append({
+            "number": i+1,
+            "title": slide.slide_title,
+            "focus": slide.slide_focus,
+            "onscreen_text": content.slide_onscreen_text,
+            "voiceover_text": content.slide_voiceover_text,
+            "image_prompt": content.slide_image_prompt,
+            "image_url": image_url
+        })
+        
+        print(f"Slide {i+1} completed")
+    
+    print(f"\nPresentation generation complete! Total tokens used: {total_tokens}")
+    return presentation
 
-@app.post("/complete/image", response_model=ImageCycleResponse)
-async def complete_image_cycle(request: ImageCycleRequest):
-    """Complete image generation cycle including generation and testing"""
-    try:
-        current_prompt = request.prompt
-        attempts = 1
-        
-        while attempts <= request.max_attempts:
-            # Generate image
-            image_url = generate_image_with_flux(current_prompt, request.model)
-            
-            # Test image
-            analysis_result = analyze_image(image_url, current_prompt)
-            result = analysis_result["result"]
-            logs = analysis_result["log_elements"]
-            
-            # If valid, return success
-            if result["is_valid"]:
-                return ImageCycleResponse(
-                    image_url=image_url,
-                    final_prompt=current_prompt,
-                    attempts=attempts,
-                    validation_score=logs["score"],
-                    is_valid=True
-                )
-            
-            # If not valid and still have attempts, update prompt and continue
-            if attempts < request.max_attempts:
-                current_prompt = result["prompt"]
-            
-            attempts += 1
-        
-        # Return last result if max attempts reached
-        return ImageCycleResponse(
-            image_url=image_url,
-            final_prompt=current_prompt,
-            attempts=attempts - 1,
-            validation_score=logs["score"],
-            is_valid=result["is_valid"]
-        )
-            
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
 
+def save_presentation(presentation, filename=None):
+    """Save the presentation to a JSON file with optional custom filename"""
+    import json
+    from datetime import datetime
+    
+    # Generate default filename with timestamp if none provided
+    if filename is None:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"presentation_detailed_{timestamp}.json"
+    
+    os.makedirs("_outputs", exist_ok=True)
+    filepath = os.path.join("_outputs", filename)
+    
+    with open(filepath, "w") as f:
+        json.dump(presentation, f, indent=2)
+    
+    print(f"Presentation saved to {filepath}")
+    return filepath
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    # Simple command-line interface
+    topic = input("Enter presentation topic: ") or "Effective Communication in Business"
+    slide_count = int(input("Enter number of slides (2-15): ") or "5")
+    
+    # Image quality options
+    quality_options = {
+        "1": ("Low", "fal-ai/recraft-20b"),
+        "2": ("Medium", "fal-ai/imagen3"),
+        "3": ("High", "fal-ai/flux-pro/v1.1")
+    }
+    
+    print("\nImage Quality Options:")
+    for key, (name, _) in quality_options.items():
+        print(f"{key}: {name}")
+    
+    quality_choice = input("Select image quality (1-3): ") or "2"
+    quality_name, image_model = quality_options.get(quality_choice, quality_options["2"])
+    
+    print(f"\nSelected: {quality_name} quality")
+    
+    # Ensure valid slide count
+    slide_count = max(2, min(slide_count, 15))
+    
+    # Generate presentation
+    presentation = generate_presentation(topic, slide_count, image_model)
+    
+    # Save results
+    save_presentation(presentation)
+    
+    # Display summary
+    print("\nPresentation Summary:")
+    print(f"Title: {presentation['title']}")
+    print(f"Slides: {len(presentation['slides'])}")
+    for slide in presentation['slides']:
+        print(f"  - Slide {slide['number']}: {slide['title']}")
